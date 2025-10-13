@@ -1,5 +1,16 @@
-# 例子：把你关注的源放这里
-https://www.youtube.com/feeds/videos.xml?channel_id=UC_x5XG1OV2P6uZZ5FSM9Ttw
-https://rsshub.app/bilibili/user/dynamic/你的UID
-https://rsshub.app/zhihu/people/activities/某用户ID
-https://github.com/torvalds.atom
+# YouTube
+https://www.youtube.com/feeds/videos.xml?channel_id=在此替换UCxxxx
+# 例：3Blue1Brown
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw
+
+# Twitter/X（Nitter，任选稳定镜像）
+https://nitter.net/用户名/rss
+# 例：elonmusk（若 nitter.net 不稳，换下面镜像）
+# https://nitter.poast.org/elonmusk/rss
+# https://nitter.fdn.fr/elonmusk/rss
+
+# 微信公众号（为每个号加 1~2 个镜像路由作备份）
+# 先在镜像站搜索并进入账号主页，取最后那段 ID 替换
+https://rsshub.app/wechat/wemp/替换为账号ID
+https://rsshub.app/wechat/ershicimi/替换为账号ID
+https://rsshub.app/wechat/wxnmh/替换为账号ID
