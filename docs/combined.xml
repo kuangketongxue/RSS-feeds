@@ -4,7 +4,7 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Mon, 13 Oct 2025 10:11:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 13 Oct 2025 10:13:00 GMT</lastBuildDate>
 <item>
 <title>The dynamics of e^(πi)</title>
 <link>https://www.youtube.com/shorts/bnjKwiUg-kw</link>
@@ -61,6 +61,16 @@ Reddit: https://www.reddit.com/r/3blue1brown
 Facebook: https://www.facebook.com/3blue1brown
 Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
+</item>
+<item>
+<title>Jake Chudnow x Vsauce Rehappening</title>
+<link>https://www.youtube.com/shorts/kZAbaAfkluc</link>
+<guid isPermaLink='false'>06d27d497832f1f71f749da8d8dd07dd4313cfa9</guid>
+<pubDate>Sun, 12 Oct 2025 00:22:30 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[https://www.inqfactory.com/vinyl
+
+@jakechudnow]]></description>
 </item>
 <item>
 <title>torvalds pushed linux</title>
@@ -378,6 +388,14 @@ Website: https://www.3blue1brown.com]]></description>
 </div></div>]]></description>
 </item>
 <item>
+<title>Hot Water Balloon</title>
+<link>https://xkcd.com/3153/</link>
+<guid isPermaLink='false'>bc5f9ccd37a9e80333e6ed01040b971654fca359</guid>
+<pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+<author>xkcd.com</author>
+<description><![CDATA[<img alt="Despite a reputation for safety, the temperatures and surprisingly high pressures make them even more dangerous than the air kind, but the NTSB refuses to investigate accidents because they insist there is no 'transportation' involved." src="https://imgs.xkcd.com/comics/hot_water_balloon.png" title="Despite a reputation for safety, the temperatures and surprisingly high pressures make them even more dangerous than the air kind, but the NTSB refuses to investigate accidents because they insist there is no 'transportation' involved." />]]></description>
+</item>
+<item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/f76b1683d1...0739473694</link>
 <guid isPermaLink='false'>ad6a44e82cac05b2e439092e378c651e2d06280d</guid>
@@ -630,14 +648,6 @@ Website: https://www.3blue1brown.com]]></description>
 </div></div>]]></description>
 </item>
 <item>
-<title>Hot Water Balloon</title>
-<link>https://xkcd.com/3153/</link>
-<guid isPermaLink='false'>bc5f9ccd37a9e80333e6ed01040b971654fca359</guid>
-<pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
-<author>xkcd.com</author>
-<description><![CDATA[<img alt="Despite a reputation for safety, the temperatures and surprisingly high pressures make them even more dangerous than the air kind, but the NTSB refuses to investigate accidents because they insist there is no 'transportation' involved." src="https://imgs.xkcd.com/comics/hot_water_balloon.png" title="Despite a reputation for safety, the temperatures and surprisingly high pressures make them even more dangerous than the air kind, but the NTSB refuses to investigate accidents because they insist there is no 'transportation' involved." />]]></description>
-</item>
-<item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/18a7e218cf...5472d60c12</link>
 <guid isPermaLink='false'>ad5a8eb9f192e57d93891d0249781b2f46360a1d</guid>
@@ -827,6 +837,14 @@ Website: https://www.3blue1brown.com]]></description>
 </div></div>]]></description>
 </item>
 <item>
+<title>Skateboard</title>
+<link>https://xkcd.com/3152/</link>
+<guid isPermaLink='false'>59b94dd2f428c3d0bdd73c473b0f29921fe02d61</guid>
+<pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+<author>xkcd.com</author>
+<description><![CDATA[<img alt="I understand it's hard to do more than 300 feet on these 90-second rush jobs, but with a smaller ramp I'm worried the gee forces will be too high for me to do any tricks." src="https://imgs.xkcd.com/comics/skateboard.png" title="I understand it's hard to do more than 300 feet on these 90-second rush jobs, but with a smaller ramp I'm worried the gee forces will be too high for me to do any tricks." />]]></description>
+</item>
+<item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/0d97f2067c...cd5a0afbdf</link>
 <guid isPermaLink='false'>9d151506862ea533a12d9f139587412f0412c8d5</guid>
@@ -888,14 +906,6 @@ Website: https://www.3blue1brown.com]]></description>
   </div>
 </div>
 </div></div>]]></description>
-</item>
-<item>
-<title>Skateboard</title>
-<link>https://xkcd.com/3152/</link>
-<guid isPermaLink='false'>59b94dd2f428c3d0bdd73c473b0f29921fe02d61</guid>
-<pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
-<author>xkcd.com</author>
-<description><![CDATA[<img alt="I understand it's hard to do more than 300 feet on these 90-second rush jobs, but with a smaller ramp I'm worried the gee forces will be too high for me to do any tricks." src="https://imgs.xkcd.com/comics/skateboard.png" title="I understand it's hard to do more than 300 feet on these 90-second rush jobs, but with a smaller ramp I'm worried the gee forces will be too high for me to do any tricks." />]]></description>
 </item>
 <item>
 <title>torvalds pushed linux</title>
@@ -1213,6 +1223,14 @@ Website: https://www.3blue1brown.com]]></description>
 </div></div>]]></description>
 </item>
 <item>
+<title>Window Screen</title>
+<link>https://xkcd.com/3151/</link>
+<guid isPermaLink='false'>028656717463c15225089b44e5da79350660de3c</guid>
+<pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+<author>xkcd.com</author>
+<description><![CDATA[<img alt="The Nobel Prize in Physiology or Medicine or Home Improvement or DIY" src="https://imgs.xkcd.com/comics/window_screen.png" title="The Nobel Prize in Physiology or Medicine or Home Improvement or DIY" />]]></description>
+</item>
+<item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/ba9dac9873...c746c3b516</link>
 <guid isPermaLink='false'>51ea938127806a88703917f3eabfa184ad130dad</guid>
@@ -1400,14 +1418,6 @@ Website: https://www.3blue1brown.com]]></description>
   </div>
 </div>
 </div></div>]]></description>
-</item>
-<item>
-<title>Window Screen</title>
-<link>https://xkcd.com/3151/</link>
-<guid isPermaLink='false'>028656717463c15225089b44e5da79350660de3c</guid>
-<pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-<author>xkcd.com</author>
-<description><![CDATA[<img alt="The Nobel Prize in Physiology or Medicine or Home Improvement or DIY" src="https://imgs.xkcd.com/comics/window_screen.png" title="The Nobel Prize in Physiology or Medicine or Home Improvement or DIY" />]]></description>
 </item>
 <item>
 <title>The Physics of Euler's Formula | Laplace Transform Prelude</title>
@@ -2018,12 +2028,30 @@ Website: https://www.3blue1brown.com]]></description>
 </div></div>]]></description>
 </item>
 <item>
+<title>How Many Americans Have No Friends?</title>
+<link>https://www.youtube.com/shorts/C4-uK6OTR8g</link>
+<guid isPermaLink='false'>467a6ff1833c327b59b926a03576242dac277848</guid>
+<pubDate>Fri, 03 Oct 2025 23:30:13 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title>Ping</title>
 <link>https://xkcd.com/3150/</link>
 <guid isPermaLink='false'>9b15a436d8186971746d8f5c528d3832ee0c44f5</guid>
 <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
 <author>xkcd.com</author>
 <description><![CDATA[<img alt="Progress on getting shipwrecked sailors to adopt ICMPv6 has been slow." src="https://imgs.xkcd.com/comics/ping.png" title="Progress on getting shipwrecked sailors to adopt ICMPv6 has been slow." />]]></description>
+</item>
+<item>
+<title>Four-Dimensional Tape Measure</title>
+<link>https://www.youtube.com/shorts/1_Qsx71NL7w</link>
+<guid isPermaLink='false'>1363dfcc96b2c2f0c503ceaaebd807671c2757b8</guid>
+<pubDate>Thu, 02 Oct 2025 00:16:42 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[take up space in the x, y, z, AND t direction!
+All Curiosity Box subscribers are getting one :) 
+👉 https://www.curiositybox.com/]]></description>
 </item>
 <item>
 <title>What was Euclid really doing? | Guest video by Ben Syversen</title>
@@ -2322,6 +2350,224 @@ At 30:30, the unconditional t=1 vector field looks a bit different from what it 
 Premium Beat Music ID: EEDYZ3FP44YX8OWT]]></description>
 </item>
 <item>
+<title>All The Ghosts You Will Be</title>
+<link>https://www.youtube.com/watch?v=xHd4zsIbXJ0</link>
+<guid isPermaLink='false'>9c0cae73e00c79a36a0c5d5e94650a4fc68142c7</guid>
+<pubDate>Wed, 16 Jul 2025 01:00:01 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[MOX NOX. Pre-order the Death Clock here: http://www.InqFactory.com/DeathClock
+Special thanks to @CalebMarting  for his tireless work on the prototypes. Our entire team at the Curiosity Box and Inq Factory is incredible -- it's a gift to be able to make the world curiouser with you all! 
+
+"Curiouser" is a very curious word.
+
+LINKS TO LEARN MORE:
+
+flour particle size: https://www.researchgate.net/publication/335277332_Influence_of_milling_whole_wheat_grains_and_particle_size_on_thermo-mechanical_properties_of_flour_using_Mixolab
+
+solar corona:
+https://svs.gsfc.nasa.gov/14865
+
+eclipse footage: https://svs.gsfc.nasa.gov/14572/
+
+KUSHIM:
+https://en.wikipedia.org/wiki/Kushim_(Uruk_period)
+https://indroyc.com/2024/02/23/kushims-story-the-first-name-in-history/
+
+GAL-SAL:
+https://isac-idb.uchicago.edu/id/b6ace1f1-9701-4dc5-b366-8c15c7da00ca
+https://www.instagram.com/p/DLlP1d6zlPR/?img_index=2
+
+notable people globe: https://tjukanovt.github.io/notable-people
+
+Gudea: 
+https://en.wikipedia.org/wiki/Gudea
+https://en.wikipedia.org/wiki/Statues_of_Gudea
+https://www.sumerianshakespeare.com/face-of-gudea
+
+Other early human forms:
+https://en.wikipedia.org/wiki/Urfa_Man
+
+History of human figure in art: https://jesygilkesuca.home.blog/2020/09/14/history-and-depictions-of-the-human-figure/
+
+3D interactive DNA model: https://www.labxchange.org/library/items/lb:LabXchange:5c1562b9:lx_simulation:1
+
+How many genetic ancestors do you have? https://gcbias.org/2013/11/11/how-does-your-number-of-genetic-ancestors-grow-back-over-time/
+
+fossilization video: https://commons.wikimedia.org/wiki/File:Wie_entstehen_Fossilien_(CC_by_4.0)_redub_EO.webm
+
+How to become a fossil:
+https://www.newscientist.com/lastword/mg24632832-100-wheres-the-best-place-to-be-buried-to-preserve-your-body-as-a-fossil/
+https://www.bbc.com/future/article/20180215-how-does-fossilisation-happen
+
+Earth images: https://visibleearth.nasa.gov/
+
+Big Bertha: https://en.wikipedia.org/wiki/Big_Bertha_(lunar_sample)
+
+red giant sun: https://science.nasa.gov/resource/life-and-death-of-a-planetary-system/
+
+Interactive voyager viewer: https://science.nasa.gov/mission/voyager/
+
+Wifi signal in house: https://jasmcole.com/2014/07/12/wifi-strife/
+
+How we’ve found partners over time https://www.pnas.org/doi/full/10.1073/pnas.1908630116
+
+Screen time: https://explodingtopics.com/blog/screen-time-stats
+
+Mobile phones vs toothbrushes: https://bcp-advisors.com/wp-content/uploads/2024/05/Cell-Phones-and-Toothbrushes.pdf
+
+Old music outselling new: https://web.archive.org/web/20160222071723/http://www.chartattack.com/news/2016/01/20/old-music-is-outselling-new-music-for-the-first-time-in-history/
+
+“Soy Bomb” incident: https://www.youtube.com/watch?v=2OeNKBq63iM
+
+Steve Fossett: https://en.wikipedia.org/wiki/Steve_Fossett
+
+Gabby Petito: https://en.wikipedia.org/wiki/Killing_of_Gabby_Petito
+
+Unknown soldier:
+https://en.wikipedia.org/wiki/Tomb_of_the_Unknown_Soldier_(Arlington_National_Cemetery)
+https://www.defense.gov/Multimedia/Photos/igphoto/2002889128/
+
+Conrad Roy: https://en.wikipedia.org/wiki/Death_of_Conrad_Roy
+
+Frederick Douglass: https://www.nps.gov/articles/000/frederick-douglass-and-the-power-of-photography.htm
+
+Sojourner Truth: https://www.metmuseum.org/art/collection/search/301989
+
+Wallace Line:
+https://en.wikipedia.org/wiki/Wallace_Line
+https://commons.wikimedia.org/wiki/File:Map_of_Sunda_and_Sahul.svg
+
+Homo Erectus: https://commons.wikimedia.org/wiki/File:Homo_erectus,_The_Natural_History_Museum_Vienna,_20210730_1228_1282.jpg
+
+Roman aqueduct: https://en.wikipedia.org/wiki/Roman_aqueduct#/media/File:Pont_du_Gard_BLS.jpg
+
+Chicago from a dirigible: https://commons.wikimedia.org/wiki/File:Chicago_Photographed_from_Ray_Knabenshue%27s_Dirigible_Air_Ship.webm
+
+World pop density map: https://commons.wikimedia.org/wiki/File:World_Population_Density_Map_2020.png
+
+books:
+I Am A Strange Loop - Douglas_Hofstadter
+A Short History of Nearly Everything Book - Bill Bryson
+Reasons and Persons - Derek Parfit
+Documentality - Maurizio Ferraris
+Amusing Ourselves To Death - Neil Postman
+Everything Bad Is Good For You - Steven Johnson
+Soul Dust - Nicholas Humphrey
+The View From Nowhere - Thomas Nagel
+
+ALL MUSIC BY @jakechudnow 
+You can pick up Jake Chudnow’s Vsauce music on vinyl here: https://inqfactory.com/pages/vinyl
+
+SONGS:
+
+00ː00 - 00ː01 - J Wilde
+00ː03 - 00ː26 - Food
+00ː20 - 01ː14 - Rain, Dreams
+01ː12 - 01ː22 - Moon Men (Instrumental)
+01ː22 - 01ː33 - J Wilde
+01ː26 - 02ː27 - What My Nervous Stomach Sounds Like
+02ː01 - 02ː38 - For Leah
+02ː39 - 03ː39 - Moon Men (Instrumental)
+03ː40 - 04ː56 - Imaginary Sun
+04ː49 - 05ː50 - It’s Good To Be D
+05ː50 - 06ː37 - Thunder
+06ː37 - 08ː03 - For You
+08ː11 - 10ː08 - Rain, Dreams
+10ː02 - 11ː10 - Hydrogen
+11ː34 - 11ː50 - Prelude To Shona
+11ː50 - 13ː02 - For Leah
+13ː09 - 13ː56 - Shallow Anne
+13ː41 - 13ː56 - Monkey Morning
+13ː56 - 16ː10 - J Wilde
+15ː56 - 19ː04 - Olive
+19ː06 - 21ː54 - J Wilde
+
+https://www.instagram.com/electricpants
+https://www.tiktok.com/@corndogwilly]]></description>
+</item>
+<item>
+<title>The Bezold Effect</title>
+<link>https://www.youtube.com/shorts/3Yqu30QHkro</link>
+<guid isPermaLink='false'>6f94c9f2e8884f522ed81a976b32c79e4c49b501</guid>
+<pubDate>Mon, 30 Jun 2025 04:05:50 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[👁 https://www.CuriosityBox.com 👁
+There are a few other 'secret messages' on (and in) the box you'll have to use the prism to decipher. The shirt's Bezold effect is an optical illusion related to the famous "confetti illusion." To learn more about Bezold and other, similar, illusions, check out these links:
+
+https://journalofillusion.net/index.php/joi/article/view/6152/13749
+https://michaelbach.de/ot/col-assim/
+https://journals.sagepub.com/doi/10.1177/20416695241258748]]></description>
+</item>
+<item>
+<title>Does Hand-Fanning Actually Work?</title>
+<link>https://www.youtube.com/shorts/ufe55fG5zVA</link>
+<guid isPermaLink='false'>913f2e50047955b26fd0f50f44515b9c543d3b48</guid>
+<pubDate>Thu, 26 Jun 2025 02:30:07 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>The 13 Trick</title>
+<link>https://www.youtube.com/shorts/d4xzmMuJTWs</link>
+<guid isPermaLink='false'>cae313cc68b84f21d8a516ee33aa49732bb5caf0</guid>
+<pubDate>Tue, 24 Jun 2025 17:26:29 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[Thanks, mom ❤️
+This is a video I shared elsewhere a couple years ago before YouTube shorts could be more than a minute long. Today, they can't be more than 3 minutes, but with a few 'fast forwards' I was able to get it just under the limit and finally share it here!
+
+The "13 Trick" is a self-working mathematical card trick where aces = 1, jacks = 11, queens = 12, and kings = 13.]]></description>
+</item>
+<item>
+<title>Mnemonics</title>
+<link>https://www.youtube.com/shorts/d9PKYi0l1oo</link>
+<guid isPermaLink='false'>93663cdc8fe98cdfb490ba4ce9c24f7710eca9ea</guid>
+<pubDate>Sun, 22 Jun 2025 00:56:04 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>The Helix Puzzle</title>
+<link>https://www.youtube.com/shorts/I21BSP_LgRg</link>
+<guid isPermaLink='false'>20f2d2bff85966dab6ac43e3bc48472c70fd0f69</guid>
+<pubDate>Tue, 17 Jun 2025 01:46:03 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[🧬🌿 https://www.curiositybox.com 🐚🐒]]></description>
+</item>
+<item>
+<title>Craters Of Eternal Darkness</title>
+<link>https://www.youtube.com/shorts/m8KIGvOcEEo</link>
+<guid isPermaLink='false'>fc50c5b4529cda3eaa34349e8788ac7132ec6448</guid>
+<pubDate>Sat, 14 Jun 2025 01:20:36 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[🌕🌑]]></description>
+</item>
+<item>
+<title>Decadal Antimetabole</title>
+<link>https://www.youtube.com/shorts/SYIWvgxqdN8</link>
+<guid isPermaLink='false'>9efdc2e0859638ae32662eef60aa567e9cd17b0e</guid>
+<pubDate>Tue, 10 Jun 2025 22:49:42 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[Antimetabole vs. Chiasmus. What's the difference?
+
+Up until yesterday, I didn't know the distinction was marked by separate words. BUT I'm learning everyday 😎
+
+Antimetabole is the reversed repetition of words or phrases. For example: "Pleasure's a sin, and sometimes sin's a pleasure" - Lord Byron.
+
+In "chiasmus," similar concepts or grammatical structures are repeated and reversed, but not necessarily the same words. For example: "It's HARD to MAKE time, but to WASTE it is EASY"
+
+🎷]]></description>
+</item>
+<item>
+<title>Galinstan vs. Metal Alloy Bricks</title>
+<link>https://www.youtube.com/shorts/M-3qLdJT0ZM</link>
+<guid isPermaLink='false'>dad469904f24c87b1089dad65e7288a103431ccf</guid>
+<pubDate>Thu, 15 May 2025 22:53:42 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[SUS304, H59, Zamak 3, and Al 6061 OH MY!
+CuriosityBox.com
+we've only got a few of this season's box left so join soon!]]></description>
+</item>
+<item>
 <title>Where my explanation of Grover’s algorithm failed</title>
 <link>https://www.youtube.com/watch?v=Dlsa9EBKDGI</link>
 <guid isPermaLink='false'>26cc9c58ee3dc5daf398010ce84d237c6af722a4</guid>
@@ -2452,6 +2698,33 @@ Website: https://www.3blue1brown.com]]></description>
 <pubDate>Tue, 08 Apr 2025 13:45:00 GMT</pubDate>
 <author>3Blue1Brown</author>
 <description><![CDATA[From this video with Terry Tao: https://youtu.be/hFMaT9oRbs4]]></description>
+</item>
+<item>
+<title>The Fastest Way To Lose</title>
+<link>https://www.youtube.com/shorts/HdX6dNIlCQI</link>
+<guid isPermaLink='false'>ab6cfa78ca7bd58ba32cb6d0adeadf7da768dac6</guid>
+<pubDate>Wed, 26 Feb 2025 00:28:30 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[https://www.curiositybox.com/
+
+Peg solitaire variant images adapted from work by Júlio Reis: https://commons.m.wikimedia.org/wiki/File:Peg_Solitaire_game_board_shapes.svg]]></description>
+</item>
+<item>
+<title>POV we fell in love in 2003</title>
+<link>https://www.youtube.com/shorts/uyKhCeDoK4Q</link>
+<guid isPermaLink='false'>0c0f33d1975b1684b423764568545fd9e50b77a4</guid>
+<pubDate>Thu, 20 Feb 2025 17:03:35 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>Euler's Disk</title>
+<link>https://www.youtube.com/shorts/Q8M3Il0Zv68</link>
+<guid isPermaLink='false'>c24cd13c0f52dfd86403a6f182b3e9334ed4a2c4</guid>
+<pubDate>Sun, 12 Jan 2025 18:59:33 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[⚪️😶
+Learn more about Euler's Disk in my @dingsauce video! https://youtu.be/GjgImsVqPfg?si=-LjtLYB2hMN11ZF2]]></description>
 </item>
 </channel>
 </rss>
