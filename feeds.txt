@@ -1,28 +1,15 @@
-# ========= YouTube（官方RSS，最稳） =========
-# 频道：把 UCxxxx 换成真实 channel_id
-https://www.youtube.com/feeds/videos.xml?channel_id=UCxxxxxxxxxxxxxxxxxxxxxx
-# 例（注释示例，不会被抓取）：
-# https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw
+# 基础可用（验证链路）
+https://github.com/torvalds.atom
+https://xkcd.com/atom.xml
 
-# ========= Twitter/X（Nitter 镜像，不用API） =========
-# 选择一个可访问的 Nitter 实例，用户名就是 @ 后面的那串
-https://nitter.net/用户名/rss
-# 可替换镜像（择一使用，别同时多条）：
+# YouTube（示例频道，确认能出条目后换成你的）
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw
+
+# Nitter：任选1-2个镜像测通（把 用户名 替换掉）
+https://nitter.fdn.fr/用户名/rss
 # https://nitter.poast.org/用户名/rss
-# https://nitter.privacydev.net/用户名/rss
 
-# ========= 微信公众号（RSSHub，通过镜像站，无需TG） =========
-# 去镜像站搜索账号，进入主页取 URL 最后一段作为ID
-# WEMP：
-https://rsshub.app/wechat/wemp/镜像站账号ID
-# 二十次幂：
-https://rsshub.app/wechat/ershicimi/镜像站账号ID
-# wxnmh：
-https://rsshub.app/wechat/wxnmh/镜像站账号ID
-
-# ========= 哔哩哔哩（RSSHub） =========
-# 单个UP主-视频列表（更稳定）：
-https://rsshub.app/bilibili/user/video/UP主UID
-# 单个UP主-动态（含转发/图文等）：
-https://rsshub.app/bilibili/user/dynamic/UP主UID
-# （不建议用“关注列表更新”路由，公共实例常限流）
+# 公众号：同一账号放不同镜像路由（二选一或都用；把 <ID> 替换）
+https://rsshub.app/wechat/wemp/<ID>
+# https://rsshub.rssforever.com/wechat/wemp/<ID>
+# https://rsshub.app/wechat/ershicimi/<ID>
