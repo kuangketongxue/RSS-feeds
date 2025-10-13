@@ -1,15 +1,26 @@
-# 基础可用（验证链路）
-https://github.com/torvalds.atom
+# —— 保底可用（用于验证链路，建议先保留） ——
 https://xkcd.com/atom.xml
+https://github.com/torvalds.atom
 
-# YouTube（示例频道，确认能出条目后换成你的）
+# —— YouTube（官方RSS，最稳） ——
+# 3Blue1Brown
 https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw
+# Veritasium
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA
 
-# Nitter：任选1-2个镜像测通（把 用户名 替换掉）
-https://nitter.fdn.fr/用户名/rss
-# https://nitter.poast.org/用户名/rss
+# —— Twitter/X（Nitter，不用API） ——
+# 任选一个镜像保持“只有一条生效”，不通就换下面的镜像并注释这一条
+https://nitter.fdn.fr/NASA/rss
+# 备用镜像（需要时取消注释、并注释掉上面那条）
+# https://nitter.poast.org/NASA/rss
+# https://nitter.privacydev.net/NASA/rss
 
-# 公众号：同一账号放不同镜像路由（二选一或都用；把 <ID> 替换）
-https://rsshub.app/wechat/wemp/<ID>
-# https://rsshub.rssforever.com/wechat/wemp/<ID>
+# —— 微信公众号（RSSHub，通过镜像站，无需TG） ——
+# 需要你把 <ID> 换成镜像站里的账号ID，否则抓不到内容
+# 操作：在 wemp.app / ershicimi.com / wxnmh.com 搜索目标号→进入主页→复制URL最后一段替换 <ID>
+# WEMP：
+# https://rsshub.app/wechat/wemp/<ID>
+# 二十次幂：
 # https://rsshub.app/wechat/ershicimi/<ID>
+# wxnmh：
+# https://rsshub.app/wechat/wxnmh/<ID>
