@@ -24,3 +24,12 @@ https://nitter.fdn.fr/NASA/rss
 # https://rsshub.app/wechat/ershicimi/<ID>
 # wxnmh：
 # https://rsshub.app/wechat/wxnmh/<ID>
+
+# Bilibili - UP 上传视频
+https://rsshub.app/bilibili/user/video/123456
+https://rsshub.app/bilibili/user/video/234567
+
+# Bilibili - UP 动态
+https://rsshub.app/bilibili/user/dynamic/345678
+# 如需镜像备用（任选一个）
+# https://rsshub.rssforever.com/bilibili/user/dynamic/345678
