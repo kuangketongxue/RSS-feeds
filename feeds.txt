@@ -8,36 +8,26 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw
 # Veritasium
 https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA
 
-# —— Twitter/X（Nitter，不用API） ——
-# 任选一个镜像保持“只有一条生效”，不通就换下面的镜像并注释这一条
+# —— Twitter/X（Nitter，仅保留一个生效；打不开就换镜像） ——
 https://nitter.fdn.fr/NASA/rss
-# 备用镜像（需要时取消注释、并注释掉上面那条）
+# 备用镜像
 # https://nitter.poast.org/NASA/rss
 # https://nitter.privacydev.net/NASA/rss
 
-# —— Bilibili（按UP主订阅，优先“上传视频”路由；若 rsshub.app 不稳，可把域名替换为 rsshub.rssforever.com 或 rsshub.woodland.cafe） ——
+# —— Bilibili（UP 上传视频；如 rsshub.app 不稳，可换 rsshub.rssforever.com / rsshub.woodland.cafe） ——
 # UID: 385670211
 https://rsshub.app/bilibili/user/video/385670211
-# 可选动态（含转发等，流量更大，需时再启用）
-# https://rsshub.app/bilibili/user/dynamic/385670211
-
 # UID: 23947287
 https://rsshub.app/bilibili/user/video/23947287
-# https://rsshub.app/bilibili/user/dynamic/23947287
-
 # UID: 519872016
 https://rsshub.app/bilibili/user/video/519872016
-# https://rsshub.app/bilibili/user/dynamic/519872016
-
 # UID: 538596213
 https://rsshub.app/bilibili/user/video/538596213
-# https://rsshub.app/bilibili/user/dynamic/538596213
-
 # UID: 67079745
 https://rsshub.app/bilibili/user/video/67079745
-# https://rsshub.app/bilibili/user/dynamic/67079745
 
-# —— 微信公众号（需要时再补ID，默认先留空） ——
-# https://rsshub.app/wechat/wemp/<ID>
-# https://rsshub.app/wechat/ershicimi/<ID>
-# https://rsshub.app/wechat/wxnmh/<ID>
+# —— 微信公众号（二十次幂 ershicimi） ——
+# 数字生命卡兹克
+https://rsshub.app/wechat/ershicimi/l3wMXMVj
+# 备用镜像（若上面抓不到时，把上面那条注释掉、启用这一条）
+# https://rsshub.rssforever.com/wechat/ershicimi/l3wMXMVj
