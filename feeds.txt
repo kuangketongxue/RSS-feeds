@@ -14,20 +14,20 @@ https://nitter.fdn.fr/NASA/rss
 # https://nitter.poast.org/NASA/rss
 # https://nitter.privacydev.net/NASA/rss
 
-# —— Bilibili（UP 上传视频；如 rsshub.app 不稳，可换 rsshub.rssforever.com / rsshub.woodland.cafe） ——
+# —— Bilibili（改用镜像域名，通常比 rsshub.app 稳） ——
 # UID: 385670211
-https://rsshub.app/bilibili/user/video/385670211
+https://rsshub.rssforever.com/bilibili/user/video/385670211
 # UID: 23947287
-https://rsshub.app/bilibili/user/video/23947287
+https://rsshub.rssforever.com/bilibili/user/video/23947287
 # UID: 519872016
-https://rsshub.app/bilibili/user/video/519872016
+https://rsshub.rssforever.com/bilibili/user/video/519872016
 # UID: 538596213
-https://rsshub.app/bilibili/user/video/538596213
+https://rsshub.rssforever.com/bilibili/user/video/538596213
 # UID: 67079745
-https://rsshub.app/bilibili/user/video/67079745
+https://rsshub.rssforever.com/bilibili/user/video/67079745
 
-# —— 微信公众号（二十次幂 ershicimi） ——
+# —— 微信公众号（二十次幂；同样换镜像域名作保底） ——
 # 数字生命卡兹克
-https://rsshub.app/wechat/ershicimi/l3wMXMVj
-# 备用镜像（若上面抓不到时，把上面那条注释掉、启用这一条）
-# https://rsshub.rssforever.com/wechat/ershicimi/l3wMXMVj
+https://rsshub.rssforever.com/wechat/ershicimi/l3wMXMVj
+# 若仍无条目，可退回官方域名再试：
+# https://rsshub.app/wechat/ershicimi/l3wMXMVj
