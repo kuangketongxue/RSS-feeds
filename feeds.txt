@@ -1,0 +1,5 @@
+# 例子：把你关注的源放这里
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_x5XG1OV2P6uZZ5FSM9Ttw
+https://rsshub.app/bilibili/user/dynamic/你的UID
+https://rsshub.app/zhihu/people/activities/某用户ID
+https://github.com/torvalds.atom
