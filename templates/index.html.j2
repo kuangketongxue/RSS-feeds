@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>{{ site_title }}</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+  <h1>{{ site_title }}</h1>
+  <p>共 {{ total }} 条 · {{ feeds_count }} 个源 · 生成于 {{ generated_at }}</p>
+  <p><a href="combined.xml" target="_blank">订阅合并 RSS</a></p>
+</header>
+<main>
+  <ul class="list">
+    {% for it in items %}
+    <li>
+      <a class="title" href="{{ it.link }}" target="_blank" rel="noopener">{{ it.title }}</a>
+      <div class="meta">
+        <span class="src">{{ it.source }}</span>
+        <span class="dot">·</span>
+        <time>{{ it.dt.astimezone().strftime("%Y-%m-%d %H:%M") }}</time>
+      </div>
+      {% if it.summary %}
+      <div class="excerpt">{{ it.summary | safe }}</div>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</main>
+<footer>
+  <p>Powered by GitHub Actions · {{ site_url }}</p>
+</footer>
+</body>
+</html>
