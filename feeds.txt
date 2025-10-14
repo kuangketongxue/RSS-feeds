@@ -12,36 +12,44 @@ https://nitter.fdn.fr/NASA/rss
 # https://nitter.poast.org/NASA/rss
 # https://nitter.privacydev.net/NASA/rss
 
-# —— Bilibili（为每个 UID 放两条不同镜像；聚合器会按 link 去重）
+# —— Bilibili（为每个 UID 放 2~3 个镜像；聚合器会按 link 去重）
 # 385670211
-https://rsshub.app/bilibili/user/video/385670211
+https://rsshub.moeyy.cn/bilibili/user/video/385670211
 https://rsshub.woodland.cafe/bilibili/user/video/385670211
+https://rsshub.rssforever.com/bilibili/user/video/385670211
 
 # 23947287
-https://rsshub.app/bilibili/user/video/23947287
+https://rsshub.moeyy.cn/bilibili/user/video/23947287
 https://rsshub.woodland.cafe/bilibili/user/video/23947287
+https://rsshub.rssforever.com/bilibili/user/video/23947287
 
 # 519872016
-https://rsshub.app/bilibili/user/video/519872016
+https://rsshub.moeyy.cn/bilibili/user/video/519872016
 https://rsshub.woodland.cafe/bilibili/user/video/519872016
+https://rsshub.rssforever.com/bilibili/user/video/519872016
 
 # 538596213
-https://rsshub.app/bilibili/user/video/538596213
+https://rsshub.moeyy.cn/bilibili/user/video/538596213
 https://rsshub.woodland.cafe/bilibili/user/video/538596213
+https://rsshub.rssforever.com/bilibili/user/video/538596213
 
 # 67079745
-https://rsshub.app/bilibili/user/video/67079745
+https://rsshub.moeyy.cn/bilibili/user/video/67079745
 https://rsshub.woodland.cafe/bilibili/user/video/67079745
+https://rsshub.rssforever.com/bilibili/user/video/67079745
 
 # —— 微信公众号（ershicimi 二十次幂；主域 + 备用镜像）
 # 数字生命卡兹克
-https://rsshub.app/wechat/ershicimi/l3wMXMVj
+https://rsshub.moeyy.cn/wechat/ershicimi/l3wMXMVj
 https://rsshub.rssforever.com/wechat/ershicimi/l3wMXMVj
+https://rsshub.app/wechat/ershicimi/l3wMXMVj
 
 # 请辩
-https://rsshub.app/wechat/ershicimi/bO9l6153
+https://rsshub.moeyy.cn/wechat/ershicimi/bO9l6153
 https://rsshub.rssforever.com/wechat/ershicimi/bO9l6153
+https://rsshub.app/wechat/ershicimi/bO9l6153
 
 # 夕小瑶科技说
-https://rsshub.app/wechat/ershicimi/8382YNjx
+https://rsshub.moeyy.cn/wechat/ershicimi/8382YNjx
 https://rsshub.rssforever.com/wechat/ershicimi/8382YNjx
+https://rsshub.app/wechat/ershicimi/8382YNjx
