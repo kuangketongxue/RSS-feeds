@@ -4,7 +4,23 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Wed, 29 Oct 2025 03:27:26 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Oct 2025 03:13:56 GMT</lastBuildDate>
+<item>
+<title>The g-Effect</title>
+<link>https://www.youtube.com/shorts/tFvmwsQgvwc</link>
+<guid isPermaLink='false'>b6dc1a43daad9bce67154a2d9e86fdfeeefdbae1</guid>
+<pubDate>Wed, 29 Oct 2025 21:58:57 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>Airspeed</title>
+<link>https://xkcd.com/3161/</link>
+<guid isPermaLink='false'>16968a0e39db6a8c41b9e72fcb972211e8f8e7ba</guid>
+<pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
+<author>xkcd.com</author>
+<description><![CDATA[<img alt="Carefully maneuvering the balloon down a mineshaft in an effort to break the OTHER altitude record" src="https://imgs.xkcd.com/comics/airspeed.png" title="Carefully maneuvering the balloon down a mineshaft in an effort to break the OTHER altitude record" />]]></description>
+</item>
 <item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/8eefed8f65...e53642b87a</link>
@@ -1417,14 +1433,6 @@ part2: https://www.youtube.com/watch?v=545rqaOJQD8]]></description>
 </div></div>]]></description>
 </item>
 <item>
-<title>Emperor Palpatine</title>
-<link>https://xkcd.com/3157/</link>
-<guid isPermaLink='false'>4c1c0e8c2b4b38ee030c0863274f6a9ebc82109d</guid>
-<pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
-<author>xkcd.com</author>
-<description><![CDATA[<img alt="Many things about Star Wars were not well planned out, but having a 37-year-old in old-age makeup play the Emperor in Return of the Jedi was such an incredible call." src="https://imgs.xkcd.com/comics/emperor_palpatine.png" title="Many things about Star Wars were not well planned out, but having a 37-year-old in old-age makeup play the Emperor in Return of the Jedi was such an incredible call." />]]></description>
-</item>
-<item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/211ddde082...6548d364a3</link>
 <guid isPermaLink='false'>e18441f9762df476881baa5b69d6ed6c6e72e16c</guid>
@@ -2536,14 +2544,6 @@ The "13 Trick" is a self-working mathematical card trick where aces = 1, jacks =
 <pubDate>Tue, 17 Jun 2025 01:46:03 GMT</pubDate>
 <author>Vsauce</author>
 <description><![CDATA[🧬🌿 https://www.curiositybox.com 🐚🐒]]></description>
-</item>
-<item>
-<title>Craters Of Eternal Darkness</title>
-<link>https://www.youtube.com/shorts/m8KIGvOcEEo</link>
-<guid isPermaLink='false'>fc50c5b4529cda3eaa34349e8788ac7132ec6448</guid>
-<pubDate>Sat, 14 Jun 2025 01:20:36 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[🌕🌑]]></description>
 </item>
 <item>
 <title>Where my explanation of Grover’s algorithm failed</title>
