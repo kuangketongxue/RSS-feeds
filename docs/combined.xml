@@ -4,7 +4,275 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Fri, 07 Nov 2025 03:17:47 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Nov 2025 03:06:26 GMT</lastBuildDate>
+<item>
+<title>An "Anisosquaric" Rectangle</title>
+<link>https://www.youtube.com/shorts/M7hX6117E6E</link>
+<guid isPermaLink='false'>302e32255db1c21b3c9bd27c2cfedd2987dda7d9</guid>
+<pubDate>Fri, 07 Nov 2025 23:36:15 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>Earthquake Prediction Flowchart</title>
+<link>https://xkcd.com/3165/</link>
+<guid isPermaLink='false'>c06c14380e9ff6cd5447a87ec7dafeea1ed6c060</guid>
+<pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+<author>xkcd.com</author>
+<description><![CDATA[<img alt="At least people who make religious predictions of the apocalypse have an answer to the question 'Why didn't you predict any of the other ones that happened recently?'" src="https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png" title="At least people who make religious predictions of the apocalypse have an answer to the question 'Why didn't you predict any of the other ones that happened recently?'" />]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/38a2c275c3...e811c33b1f</link>
+<guid isPermaLink='false'>37d32bd1dbe3717582d25626b75719ad053bbf1a</guid>
+<pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · November 7, 2025 22:56
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/adalessandro" rel="noreferrer"><img alt="@adalessandro" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/5384934?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/9882a40640036d5bbc590426a78981526d4f2345" rel="noreferrer">9882a40</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      drm/mediatek: Disable AFBC support on Mediatek DRM driver
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/1008c7c8bcaa140641620721b5cb896519b8c723770d8403704067d2b8e0e4bc/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f32343563333564623264343030633165383232306361376161326439353666313f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/afcfb6c8474d9e750880aaa77952cc588f859613" rel="noreferrer">afcfb6c</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      drm/mediatek: Add pm_runtime support for GCE power control
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/38a2c275c3...e811c33b1f" rel="noreferrer">30 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/da32d155f4...38a2c275c3</link>
+<guid isPermaLink='false'>58a889b670636c5652d5b6b9db0fa133ce931a5c</guid>
+<pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · November 7, 2025 21:21
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/jgunthorpe" rel="noreferrer"><img alt="@jgunthorpe" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/665037?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/cb30dfa75d55eced379a42fd67bd5fb7ec38555e" rel="noreferrer">cb30dfa</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      iommufd: Don't overflow during division for dirty tracking
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/nicolinc" rel="noreferrer"><img alt="@nicolinc" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/89113456?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/b09ed52db1e688eb8205b1939ca1345179ecd515" rel="noreferrer">b09ed52</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      iommufd/selftest: Fix ioctl return value in _test_cmd_trigger_vevents()
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/da32d155f4...38a2c275c3" rel="noreferrer">4 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/a80abfbb10...da32d155f4</link>
+<guid isPermaLink='false'>b68067a7b2dbf793c86b58935a42851cf361d464</guid>
+<pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · November 7, 2025 16:14
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/JihedChaibi" rel="noreferrer"><img alt="@JihedChaibi" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/17393938?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/4a372798e12cc777918db90c06e11c80e90bd001" rel="noreferrer">4a37279</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      dt-bindings: gpio: ti,twl4030: Correct the schema $id path
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/c59b590f26ac7cd78fd141d603dff061b396cb6da4bf1bae57e7e899f70fe80c/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f34623362323835353832333364616431383635643961663465666232393235383f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/e5d527be7e6984882306b49c067f1fec18920735" rel="noreferrer">e5d527b</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      gpio: swnode: don't use the swnode's name as the key for GPIO lookup
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/a80abfbb10...da32d155f4" rel="noreferrer">8 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/4a0c9b3391...a80abfbb10</link>
+<guid isPermaLink='false'>faa74e3024d8d2085fdc628d1bab2448c65d7969</guid>
+<pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · November 7, 2025 16:05
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/nitinrawat123" rel="noreferrer"><img alt="@nitinrawat123" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/208614221?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/5127be409c6c3815c4a7d8f6d88043e44f9b9543" rel="noreferrer">5127be4</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      scsi: ufs: ufs-qcom: Fix UFS OCP issue during UFS power down (PC=3)
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/bvanassche" rel="noreferrer"><img alt="@bvanassche" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/520901?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/c74dc8ab47c1ec3927f63ca83b542c363249b3d8" rel="noreferrer">c74dc8a</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      scsi: ufs: core: Fix a race condition related to the "hid" attribute …
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/4a0c9b3391...a80abfbb10" rel="noreferrer">15 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
 <item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/a1388fcb52...4a0c9b3391</link>
@@ -252,6 +520,22 @@ Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
 </item>
 <item>
+<title>一个视频讲清楚，为什么叫净烟机不叫油烟机。</title>
+<link>https://www.bilibili.com/video/BV1Yv17BHEUi</link>
+<guid isPermaLink='false'>3c5d617c2c39485adbe0903016521dcb52adb94b</guid>
+<pubDate>Wed, 05 Nov 2025 05:00:00 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/55564de4062f126511b220f00c95211272505fce.jpg" /><br />]]></description>
+</item>
+<item>
+<title>究竟是什么新玩意，解决了我想吃口热锅现炒的难题？</title>
+<link>https://www.bilibili.com/video/BV1sY1EBkE9U</link>
+<guid isPermaLink='false'>86d1327dbeb4fbda5f95e1d54e0612e00a0fbe8d</guid>
+<pubDate>Wed, 05 Nov 2025 04:00:00 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/e7c733ff42a8541564f25777d3d13b72595793eb.jpg" /><br />]]></description>
+</item>
+<item>
 <title>Metric Tip</title>
 <link>https://xkcd.com/3164/</link>
 <guid isPermaLink='false'>c2d7bfd771e92470a37018fa6a4e704ae0685035</guid>
@@ -441,6 +725,14 @@ Website: https://www.3blue1brown.com]]></description>
 <pubDate>Tue, 04 Nov 2025 03:48:48 GMT</pubDate>
 <author>Vsauce</author>
 <description><![CDATA[🥤 https://www.curiositybox.com 🥤]]></description>
+</item>
+<item>
+<title>左右横跳式外交之我的国家只有0.1%T【小约翰】</title>
+<link>https://www.bilibili.com/video/BV1L11vBBEsW</link>
+<guid isPermaLink='false'>15d735509990de66c6fb1d5c4b22f7a2a4c219de</guid>
+<pubDate>Tue, 04 Nov 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/85b2e462123850b59c216cbb4d3bb4012ff73d5c.jpg" /><br />  本篇为小约翰系列之圣马力诺共和国。]]></description>
 </item>
 <item>
 <title>torvalds pushed linux</title>
@@ -875,6 +1167,24 @@ Website: https://www.3blue1brown.com]]></description>
 </div></div>]]></description>
 </item>
 <item>
+<title>绩效人如何种棉花？【神奇组织42】</title>
+<link>https://www.bilibili.com/video/BV1Diy8BLEvG</link>
+<guid isPermaLink='false'>f7709e82bf0a29c909b74fbe6f4eb36d4a55925a</guid>
+<pubDate>Fri, 31 Oct 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/5bb1759abc4e723c1289e4f89c5f4d57661bc6ef.jpg" /><br />  本篇为神奇组织特别篇之苏联大案调查：乌兹别克棉花案（二）。
+
+参考资料：
+格德良和尼古拉·伊万诺夫2001年出版《克里姆林宫案》
+卡利尼琴科2002年出版《1400亿案，或者是调查员的7060天》
+列昂尼德·米哈伊洛维奇·姆列钦2009年出版《戈尔巴乔夫和叶利钦：革命、改革和反革命》
+《政治局腐败：红色乌兹别克斯坦案》
+1988年苏联《农村青年》杂志文章《聋人的阴谋》
+费多尔·拉扎科夫2019年出版《拯救拉希多夫：克格勃踢足球》
+谢尔盖·霍罗多夫2021年出版《20世纪俄罗斯国家犯罪和经济犯罪史》
+谢尔盖]]></description>
+</item>
+<item>
 <title>Heart Mountain</title>
 <link>https://xkcd.com/3162/</link>
 <guid isPermaLink='false'>abb6322f76fd09353b8efe987435acb5024d06bb</guid>
@@ -1206,12 +1516,14 @@ Website: https://www.3blue1brown.com]]></description>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title>Airspeed</title>
-<link>https://xkcd.com/3161/</link>
-<guid isPermaLink='false'>16968a0e39db6a8c41b9e72fcb972211e8f8e7ba</guid>
-<pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
-<author>xkcd.com</author>
-<description><![CDATA[<img alt="Carefully maneuvering the balloon down a mineshaft in an effort to break the OTHER altitude record" src="https://imgs.xkcd.com/comics/airspeed.png" title="Carefully maneuvering the balloon down a mineshaft in an effort to break the OTHER altitude record" />]]></description>
+<title>【正片】贾樟柯×罗永浩！成为贾樟柯（上）</title>
+<link>https://www.bilibili.com/video/BV1tWyyBDEmE</link>
+<guid isPermaLink='false'>fe47771eeed3a7dd4cd6f0d6128a79e81ad142c8</guid>
+<pubDate>Wed, 29 Oct 2025 04:00:00 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/3b25bd1b9fd68ec7233ff46a0641165fb6c12c41.jpg" /><br />  在多数镜头都在追逐都市霓虹和英雄传奇时，贾樟柯的摄像机却始终对准他脚下的土地。他的电影画面中鲜少出现激烈的冲突，有的只是山西小城里随处可见的煤矿、摩托车、县城歌舞团、终日无所事事的少年，以及巨变的大时代背景下，一些踉踉跄跄，不知所措的身影。这些被宏大叙事忽略的人与事，在他的取景框里发出了低沉有力的轰鸣，让山西县城的天空和威尼斯的夜晚一起震颤。
+
+《罗永浩的十字路口》第九期，我们的嘉宾是导演贾樟柯。和贾樟柯对谈，就好像在看贾樟柯的电影。他的讲述如同他的镜头语言，真实，质朴，平静，偶尔有些跳跃，一如既往蕴藏着]]></description>
 </item>
 <item>
 <title>torvalds pushed linux</title>
@@ -1275,6 +1587,30 @@ Website: https://www.3blue1brown.com]]></description>
   </div>
 </div>
 </div></div>]]></description>
+</item>
+<item>
+<title>什么事让大导演贾樟柯当年跟路人起了冲突？10 月 29 日中午 12 点，听听功成名就却仍然满腔热血的贾导是如何路见不平挺身而出的。</title>
+<link>https://www.bilibili.com/video/BV14vyqBFEz6</link>
+<guid isPermaLink='false'>d326006ab83babffce6344a5b7869fe27a55754a</guid>
+<pubDate>Tue, 28 Oct 2025 05:00:00 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/131fcd60a69a8a53e3f9a4f043b3289c54e56c96.jpg" /><br />]]></description>
+</item>
+<item>
+<title>为什么贾樟柯导演小时候“差点变成个混蛋”？10 月 29 日中午 12 点，听贾导讲述他荷尔蒙爆棚的青少年时代。</title>
+<link>https://www.bilibili.com/video/BV14vyqBFEP4</link>
+<guid isPermaLink='false'>5a1f16d00d24f6a95e5369f8a026522ad2ce5324</guid>
+<pubDate>Tue, 28 Oct 2025 04:31:39 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/f6abde807680a9ce069b73df05e6c08db0b64f65.jpg" /><br />]]></description>
+</item>
+<item>
+<title>小时候的汾阳太多奇人异士，贾樟柯导演至今回想起来还会感慨“真是卧虎藏龙”。10 月 29 日中午 12 点，听贾导带我们回到当年那个充满魔幻气息的汾阳县城。</title>
+<link>https://www.bilibili.com/video/BV14vyqBFE2q</link>
+<guid isPermaLink='false'>07e041b9e0f5ac0cc9f16baeea119b6c8bda9614</guid>
+<pubDate>Tue, 28 Oct 2025 04:02:41 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/57a7ca629f3e5c64ebeee0112dd52d8fe29f3270.jpg" /><br />]]></description>
 </item>
 <item>
 <title>torvalds pushed linux</title>
@@ -1712,69 +2048,6 @@ Website: https://www.3blue1brown.com]]></description>
 </div></div>]]></description>
 </item>
 <item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/53abe3e1c1...566771afc7</link>
-<guid isPermaLink='false'>3081bafe7a8298d7c2fb77e113c7b805c436bbf9</guid>
-<pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · October 25, 2025 02:02
-      </span>
-
-        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/metze-samba" rel="noreferrer"><img alt="@metze-samba" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/17027612?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/0bd73ae09ba1b73137d0830b21820d24700e09b1" rel="noreferrer">0bd73ae</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      smb: server: allocate enough space for RW WRs and ib_drain_qp()
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/metze-samba" rel="noreferrer"><img alt="@metze-samba" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/17027612?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/68335cbcddcd586b59820e6d484652ad62343112" rel="noreferrer">68335cb</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      smb: smbdirect: introduce smbdirect_socket.send_io.lcredits.*
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/53abe3e1c1...566771afc7" rel="noreferrer">6 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
 <title>I Made A Slap Bracelet For Time Travelers</title>
 <link>https://www.youtube.com/shorts/tgyZwxPHdgY</link>
 <guid isPermaLink='false'>24912f3a0500b7292ceb2efb9ba577bebe968cde</guid>
@@ -1789,193 +2062,32 @@ ALL SONGS BY JAKE CHUDNOW:
 1:00 - end "It's Good To Be D"]]></description>
 </item>
 <item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/31009296f8...53abe3e1c1</link>
-<guid isPermaLink='false'>cf44f45070a169f5f1f69a75db7dcd365b1e89cb</guid>
-<pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · October 24, 2025 23:56
-      </span>
+<title>谁是乌兹别克的可汗？【神奇组织41】</title>
+<link>https://www.bilibili.com/video/BV1fps7zoE8c</link>
+<guid isPermaLink='false'>5e03fdda1c806f318f3925237fa5bdd2d391967d</guid>
+<pubDate>Fri, 24 Oct 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/a8293f05df19ca51e385094d1edea82caf282747.jpg" /><br />  本篇为神奇组织特别篇之苏联大案调查：乌兹别克棉花案（一）。
 
-        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/aloktiwa" rel="noreferrer"><img alt="@aloktiwa" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/70896917?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/c700e7279b29948f5d2aee30df2dbd3124df3b9c" rel="noreferrer">c700e72</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      drm/rockchip: dw_hdmi: use correct SCLIN mask for RK3228
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/akagoe01" rel="noreferrer"><img alt="@akagoe01" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/184288565?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/4eabd0d8791eaf9a7b114ccbf56eb488aefe7b1f" rel="noreferrer">4eabd0d</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      drm/panthor: Fix kernel panic on partial unmap of a GPU VA region
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/31009296f8...53abe3e1c1" rel="noreferrer">19 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
+参考资料：
+格德良和尼古拉·伊万诺夫2001年出版《克里姆林宫案》
+卡利尼琴科2002年出版《1400亿案，或者是调查员的7060天》
+列昂尼德·米哈伊洛维奇·姆列钦2009年出版《戈尔巴乔夫和叶利钦：革命、改革和反革命》
+《政治局腐败：红色乌兹别克斯坦案》
+1988年苏联《农村青年》杂志文章《聋人的阴谋》
+费多尔·拉扎科夫2019年出版《拯救拉希多夫：克格勃踢足球》
+谢尔盖·霍罗多夫2021年出版《20世纪俄罗斯国家犯罪和经济犯罪史》
+谢尔盖]]></description>
 </item>
 <item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/d2818517e3...31009296f8</link>
-<guid isPermaLink='false'>c9b7e97cf304d69a8cdd54c3de76fb4a14014b39</guid>
-<pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · October 24, 2025 23:47
-      </span>
+<title>【正片】名创优品叶国富×罗永浩！重塑线下购物，让人们重新爱上逛街！</title>
+<link>https://www.bilibili.com/video/BV1xCWXzTE1U</link>
+<guid isPermaLink='false'>434e0eebd766964b03270966c44ff019d7d2c84d</guid>
+<pubDate>Wed, 22 Oct 2025 04:00:00 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/6125dcdf31c4ff78ac6bfe5153e7f7b3d2c3d4cc.jpg" /><br />  一年 1000 家店，从 0 到 100 亿，为了 IP 业务转型要求做事的人一年至少浪费 1 个亿……这些数字既是一个狂飙突进商业奇迹的见证，也是一连串坐标，带我们了解这个奇迹是如何具体而微地被构建出来的。
 
-        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/metze-samba" rel="noreferrer"><img alt="@metze-samba" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/17027612?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/e607ef686ab95fbcb0dfd16f49aea7918be626e1" rel="noreferrer">e607ef6</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      smb: client: allocate enough space for MR WRs and ib_drain_qp()
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/krishnachaitanya-linux" rel="noreferrer"><img alt="@krishnachaitanya-linux" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/207834678?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/a1978b692a3953241842a89eaa0026158f306cf1" rel="noreferrer">a1978b6</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      PCI: dwc: Use custom pci_ops for root bus DBI vs ECAM config access
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/d2818517e3...31009296f8" rel="noreferrer">14 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/2e590d67c2...d2818517e3</link>
-<guid isPermaLink='false'>790d72519879f85205ec40f6f63d8bede50bda2a</guid>
-<pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · October 24, 2025 20:32
-      </span>
-
-        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/aloktiwa" rel="noreferrer"><img alt="@aloktiwa" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/70896917?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/4ec703ec0c384a2199808c4eb2e9037236285a8d" rel="noreferrer">4ec703e</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      io_uring: fix incorrect unlikely() usage in io_waitid_prep()
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/WOnder93" rel="noreferrer"><img alt="@WOnder93" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/3041388?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/81ccca31214e11ea2b537fd35d4f66d7cf46268e" rel="noreferrer">81ccca3</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      nbd: override creds to kernel when calling sock_{send,recv}msg()
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/2e590d67c2...d2818517e3" rel="noreferrer">13 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
+对于任何一个想要探求商业运作背后机制和原理的人，这场访谈都是一次令人兴奋的旅程。过去这些年，中国企业家创造了太多激动人心，光彩夺目的商业故事，叶国富和他的名创优品无疑是其中异常璀璨的一个。将近三个小时的篇幅里，听他讲述如何从“卖杂货”起始，到加盟店开遍全球，随即成为中国最会玩 IP 的企业之一，继]]></description>
 </item>
 <item>
 <title>ARE Leaves Green?</title>
@@ -1988,12 +2100,64 @@ part 1: https://www.youtube.com/watch?v=aAQYpra4aUs
 part2: https://www.youtube.com/watch?v=545rqaOJQD8]]></description>
 </item>
 <item>
+<title>叶国富感慨：于东来是大爱。</title>
+<link>https://www.bilibili.com/video/BV19tWXz7EFZ</link>
+<guid isPermaLink='false'>a28acf4bf981d8afbae12e9d100956119667a742</guid>
+<pubDate>Tue, 21 Oct 2025 05:30:45 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/9bdfc58f3f9d4b1ef3795e627e71c9b2b7727779.jpg" /><br />  10 月 22 日中午 12 点，听名创优品叶国富聊聊“胖改店”的故事。]]></description>
+</item>
+<item>
+<title>“富养”原来是这个意思！</title>
+<link>https://www.bilibili.com/video/BV1fVWXzoEQi</link>
+<guid isPermaLink='false'>78efa2d5b33d2382b7834d437cc50a7d3b3da825</guid>
+<pubDate>Tue, 21 Oct 2025 05:01:12 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/5139ae0738b23fffc85539b1dbc475b38493c53b.jpg" /><br />  10 月 22 日中午 12 点，听听一向务实的叶国富为何放言要“浪费一个亿”？]]></description>
+</item>
+<item>
+<title>我的潮玩消费需求终于有着落了！因为叶国富说了“他来管”。</title>
+<link>https://www.bilibili.com/video/BV1xCWXzTEzX</link>
+<guid isPermaLink='false'>1753d6ee00de7dcdc1922b2da4d5e4a494251b91</guid>
+<pubDate>Tue, 21 Oct 2025 04:31:22 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/4a7efb3f64b3e15f2e22b9a1273ea16784d5d75a.jpg" /><br />  10 月 22 日中午 12 点，听名创优品叶国富讲述他正在打造的潮玩帝国。]]></description>
+</item>
+<item>
+<title>是继续这个访谈，还是去开一家店？</title>
+<link>https://www.bilibili.com/video/BV1abWXz2Evh</link>
+<guid isPermaLink='false'>6898cdb33dfe9d5cb8f3674546f3c0f2af00ff9f</guid>
+<pubDate>Tue, 21 Oct 2025 04:01:38 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/bf02c38c71a64da5f2c02b0e0c437df9eaa5fbd7.jpg" /><br />  10 月 22 日中午 12 点，听名创优品叶国富讲述线下开店的魅力。]]></description>
+</item>
+<item>
 <title>Michael, this is how you use this thing!</title>
 <link>https://www.youtube.com/shorts/RzJb-oo8D9k</link>
 <guid isPermaLink='false'>f1142abffb84ef6f1e9271731f60d92716055419</guid>
 <pubDate>Sun, 19 Oct 2025 12:58:58 GMT</pubDate>
 <author>Vsauce</author>
 <description><![CDATA[]]></description>
+</item>
+<item>
+<title>【正片】宋方金×罗永浩！故事必须有人讲下去</title>
+<link>https://www.bilibili.com/video/BV1ogWqzCEQu</link>
+<guid isPermaLink='false'>bc68febd406698c5e88b8dfef74dfa675716d026</guid>
+<pubDate>Fri, 17 Oct 2025 04:00:00 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/0712e147fc081f65f0003405a2528608b7c05ac0.jpg" /><br />  编剧宋方金讲故事的能力似乎是与生俱来的，他能把严肃的话题讲得引人入胜，同时把好玩的话题讲得意味深长。我们聊了近七个小时，他始终保持了相同的信息密度、节奏以及语言包袱，甚至都没怎么喝水。
+
+他聊创作，聊电影，聊影视行业，聊他看不惯的种种，百无禁忌。别人缄口不提的，他侃侃而谈；别人舍不得讲出来的，他知无不言。
+
+他是讲述者、斗争者，也是捍卫者、坚持者，捍卫编剧的权利，坚持编剧的职责。在他看来，有些话必须要说，有些架必须要吵，有些故事必须要讲。正因如此，面对这个时代，他才能问心无愧地说出，“我没有守口如瓶”。]]></description>
+</item>
+<item>
+<title>关于微短剧，宋方金提到了一个扎心的现状...今天中午 12 点，来听编剧宋方金对于微短剧都有哪些独到见解。</title>
+<link>https://www.bilibili.com/video/BV1hdWYz4EZf</link>
+<guid isPermaLink='false'>a1932c5a5094cd44bc74343e054930bdd0022658</guid>
+<pubDate>Fri, 17 Oct 2025 02:00:00 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/b4ce04d5c94853580aa16e4330b1e8fdfe3571f5.jpg" /><br />]]></description>
 </item>
 <item>
 <title>Eunoia</title>
@@ -2003,6 +2167,38 @@ part2: https://www.youtube.com/watch?v=545rqaOJQD8]]></description>
 <author>Vsauce</author>
 <description><![CDATA["Eunoia" by Christian Bök
 A book of constrained poetry where each poem can use as many vowels as it wants so long as it's always the same vowel: A, E, I, O, U, or (sometimes) Y. #poetry  #language #art #book #writing #yokoono]]></description>
+</item>
+<item>
+<title>面对汹涌而来的人工智能时代，作为编剧的宋方金有些迷茫，但他担心的并非机器人取代人类编剧，而是害怕人类编剧太像机器人......</title>
+<link>https://www.bilibili.com/video/BV16f48zBEgD</link>
+<guid isPermaLink='false'>ed013e290dd50c57b2b590d3bd7e2831bb8ae18e</guid>
+<pubDate>Thu, 16 Oct 2025 05:00:00 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/33dcff7294318d7c6bfbf2b5c793a6d0632544fb.jpg" /><br />  明天中午 12 点，听宋方金谈谈人工智能对影视行业的影响。]]></description>
+</item>
+<item>
+<title>这次的谈话，宋方金知无不言，甚至就连压箱底的创作秘密都说出来了...</title>
+<link>https://www.bilibili.com/video/BV1zc4hzTEnr</link>
+<guid isPermaLink='false'>b37e2b0752270d86aa1a67f71902c5cb6c52a4c0</guid>
+<pubDate>Thu, 16 Oct 2025 04:00:00 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/22a062621894f17970dd789e9fde11ac355c9625.jpg" /><br />  明天中午 12 点，来听听宋方金都有哪些创作秘诀。]]></description>
+</item>
+<item>
+<title>宋方金对于微短剧的总结既精辟又有趣，这也是微短剧自流行以来，我个人第一次听到专业人士关于微短剧的系统性分析和讲解。</title>
+<link>https://www.bilibili.com/video/BV14Z44zkESq</link>
+<guid isPermaLink='false'>dace17e899f101f18f56faaa7e8793e13d6b4992</guid>
+<pubDate>Wed, 15 Oct 2025 04:00:00 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/a09db038e7a795a0d736cfe793bf8f0e92096be9.jpg" /><br />  10 月 17 号中午 12 点，来听听宋方金对于微短剧的看法。]]></description>
+</item>
+<item>
+<title>关于为了波多黎各独立去刺杀总统这件事【神奇组织40】</title>
+<link>https://www.bilibili.com/video/BV1L84XzoE2a</link>
+<guid isPermaLink='false'>4ecb63cc7ed5db304950e90cae26eae8b6b219e7</guid>
+<pubDate>Wed, 15 Oct 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/0c7a60a0d5fc0db234e92f9b05f01121e49fff0c.jpg" /><br />  本篇为神奇组织之波多黎各民族党。]]></description>
 </item>
 <item>
 <title>The dynamics of e^(πi)</title>
@@ -2072,6 +2268,56 @@ Website: https://www.3blue1brown.com]]></description>
 @jakechudnow]]></description>
 </item>
 <item>
+<title>【正片】影视飓风TIM×罗永浩！用影像打开世界的梦想家</title>
+<link>https://www.bilibili.com/video/BV1B5xkzPEhx</link>
+<guid isPermaLink='false'>a24f4b105a4f84824470a7873483d7f01bbd9764</guid>
+<pubDate>Fri, 10 Oct 2025 04:00:00 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/b821cd2c7c1409847557c26f944e8483a95366c4.jpg" /><br />  因为一次偶然，他拿起了摄像机，扭动变焦镜头的时候，命运的齿轮也随之转动起来。影视创作成了他的生活，用想法和镜头打开世界成了他的使命。他痴迷器材，痴迷影像，也痴迷创业。这些年，他的公司像公司的名字一样，越走越快，越走越远，越走越势不可挡。
+
+在毛里求斯的海中和抹香鲸共舞，在冰岛近距离拍摄喷发中的火山，在中国用肉身体验最凶悍的匪徒都害怕的电击枪......他举重若轻地完成了这些在过去通常被认为是“欧美人才会喜欢的冒险”。接下来，去蛇岛过夜，去雪原探险，去大海追逐最凶猛的鲨鱼..… 更多新奇的冒险计划在他的任务]]></description>
+</item>
+<item>
+<title>在播客录制现场，Tim 突然送了我一台 iPhone 17 Pro Max 2TB，非常感谢这个礼物，在现场收到非常惊喜。</title>
+<link>https://www.bilibili.com/video/BV15pxkzZEG9</link>
+<guid isPermaLink='false'>f142c837744be4ba65395e9cc927b86bdd183816</guid>
+<pubDate>Thu, 09 Oct 2025 09:03:30 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/9c3b5f4bc155adde31d340d2cff7a9216b10c5b8.jpg" /><br />  至于手机本身，我只想说......😊 明天中午 12 点，来看@影视飓风  的 Tim 带来的这个惊喜的礼物。]]></description>
+</item>
+<item>
+<title>和带劲的年轻人，来了一场带劲的对话，这个下午，真的太带劲了。</title>
+<link>https://www.bilibili.com/video/BV1sZxzzTEoW</link>
+<guid isPermaLink='false'>c41982606b57f168c0c5e2b671ac65e9c768e99a</guid>
+<pubDate>Thu, 09 Oct 2025 07:00:00 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/1ae8d2ce61b928383e33855bf1697f8c2618305d.jpg" /><br />  明天中午 12 点，看看和@影视飓风   的 Tim 聊天有多带劲。]]></description>
+</item>
+<item>
+<title>这一期我们的播客邀请到了影视飓风的 Tim，他来演播室的第一件事，就是详细查看每个设备，他的专业性真的“很 Pro”^_^</title>
+<link>https://www.bilibili.com/video/BV1JTx6zcEza</link>
+<guid isPermaLink='false'>5e7b248f6dd7769e79d0ade8135306c6cfa6b915</guid>
+<pubDate>Thu, 09 Oct 2025 04:02:17 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/17efd1bef1ed4844dc301177566213e568774e92.jpg" /><br />  明天中午 12 点，来看@影视飓风  的 Tim 和我的长谈，对了，内容也“很 Pro”^_^]]></description>
+</item>
+<item>
+<title>做媒体真的能站着挣钱吗？这个问题很难回答，但是 Tim 正努力给出他的答案。</title>
+<link>https://www.bilibili.com/video/BV1VuxezvEWP</link>
+<guid isPermaLink='false'>86dc47972375fbe4362e4637ffbaa7d2964856db</guid>
+<pubDate>Wed, 08 Oct 2025 09:03:47 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/c9a2cecef4f35993b0f956b3c4dc74800065bb4e.jpg" /><br />  10 月 10 号中午 12 点，来看@影视飓风  的 Tim 关于这个问题的独家答案。]]></description>
+</item>
+<item>
+<title>年轻人喜欢冒险，喜欢上天下地入海，我这个老胳膊老腿儿可能是跟不上了…… 但有一些听得确实让我也有些心潮澎湃。</title>
+<link>https://www.bilibili.com/video/BV14txfzbELW</link>
+<guid isPermaLink='false'>a2088e6436c69056b18cfeea22303e2ac95a15c5</guid>
+<pubDate>Wed, 08 Oct 2025 04:01:03 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/61d7d64bda5492bdb7b9424e420eb4166b096955.jpg" /><br />  10 月 10 号中午 12 点，来看@影视飓风  的 Tim 未来都有哪些冒险计划。]]></description>
+</item>
+<item>
 <title>The Physics of Euler's Formula | Laplace Transform Prelude</title>
 <link>https://www.youtube.com/watch?v=-j8PzkZ70Lg</link>
 <guid isPermaLink='false'>09e22945d512e15775a91c00dd29ab307e38af7d</guid>
@@ -2129,6 +2375,54 @@ Website: https://www.3blue1brown.com]]></description>
 <description><![CDATA[take up space in the x, y, z, AND t direction!
 All Curiosity Box subscribers are getting one :) 
 👉 https://www.curiositybox.com/]]></description>
+</item>
+<item>
+<title>因为近期的事情，有人翻出来 at 给我，我重看了一遍……感动，那时候精力真旺盛啊，时间也够用，而且那时候我远比今天更热爱人类😊</title>
+<link>https://www.bilibili.com/video/BV1ttntz8E2j</link>
+<guid isPermaLink='false'>81ffb0954418f6ff568c22e4106c2a5b33eea3d6</guid>
+<pubDate>Thu, 25 Sep 2025 10:32:34 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/d871dfbb8450ab90efee3d52f9e90ab910309317.jpg" /><br />]]></description>
+</item>
+<item>
+<title>【正片】周鸿祎×罗永浩！近四小时高密度输出！周鸿祎深度谈 AI</title>
+<link>https://www.bilibili.com/video/BV1hNJ1zLEb8</link>
+<guid isPermaLink='false'>5423b1f5e25ccc58b5c1a94a2f0c7e12aebbbfe2</guid>
+<pubDate>Wed, 24 Sep 2025 04:00:00 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/70539e7d4a8e0223c444c0d3a785c7f84d6becfa.jpg" /><br />  走过二十多年的腥风血雨，周鸿祎说他迎来了最伟大的科技革命，并且他已经为这场变革准备好了，无论是精神上还是体能上。只要聊起 AI，他就会马上全情投入，把他的观察、思考和发现，源源不断地，密不透风地讲下去。这是我说话最少的一期博客节目，好像只要给他输入一点简短合适的提示词，他就能持续地生成高质量的谈话内容。这个版本的周鸿祎，依旧敏锐、兴奋和坚决，但他已经不再将“对手”视作“敌人”。《罗永浩的十字路口》第五期，我们和@周鸿祎  集中谈谈 AI。]]></description>
+</item>
+<item>
+<title>这可能是我的名字被提到最多的一期播客了......明天中午 12 点，一起看看周鸿祎为了深入浅出解释 AI，都拿我举了哪些例子。</title>
+<link>https://www.bilibili.com/video/BV1t2nPzFE5u</link>
+<guid isPermaLink='false'>2d00dbfc2f0ec13b9276a3bac9ea56f8dd9303b5</guid>
+<pubDate>Tue, 23 Sep 2025 05:00:47 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/6016e1784818b6caa633f89174e636ec885df998.jpg" /><br />  这可能是我的名字被提到最多的一期播客了......明天中午 12 点，一起看看@周鸿祎  为了深入浅出解释 AI，都拿我举了哪些例子。]]></description>
+</item>
+<item>
+<title>周鸿祎聊 AI 的过程中，密集输出了很多干货，尤其是在谈到对业界主流看法的反对意见时。明天中午 12 点，让我们一起听周鸿祎的免费 AI 公开课。</title>
+<link>https://www.bilibili.com/video/BV1TwnwzpEm2</link>
+<guid isPermaLink='false'>09134a33f34b0ece6de64e44496020d9d1731153</guid>
+<pubDate>Tue, 23 Sep 2025 04:00:00 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/bc44f2669b447602269f09846a832cbcf5e3d01e.jpg" /><br />  周鸿祎聊 AI 的过程中，密集输出了很多干货，尤其是在谈到对业界主流看法的反对意见时。明天中午 12 点，让我们一起听@周鸿祎  的免费 AI 公开课。]]></description>
+</item>
+<item>
+<title>对话周鸿祎。我认真准备了很多问题，没想到他也准备了很多......9 月 24 号中午 12 点，让我们一起感受一下被周鸿祎密集提问的压迫感。</title>
+<link>https://www.bilibili.com/video/BV14aJdzqEPM</link>
+<guid isPermaLink='false'>2c04dbb03b180fbb036126fc8cebb9c3aa205a7a</guid>
+<pubDate>Mon, 22 Sep 2025 04:00:00 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/b0836fde91c6202b046c52206efc27ce40531577.jpg" /><br />  对话周鸿祎。我认真准备了很多问题，没想到他也准备了很多......9 月 24 号中午 12 点，让我们一起感受一下被@周鸿祎   密集提问的压迫感。]]></description>
+</item>
+<item>
+<title>苏联第一主理人下场如何？【神奇组织39】</title>
+<link>https://www.bilibili.com/video/BV1yDWuzkEsv</link>
+<guid isPermaLink='false'>21f7ab72816c0410ec0b8c852452e16e6427b644</guid>
+<pubDate>Sat, 20 Sep 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/b814d455b68f76985682025f9c9e4c77603e460a.jpg" /><br />  本篇为神奇组织特别篇之苏联大案调查。]]></description>
 </item>
 <item>
 <title>What was Euclid really doing? | Guest video by Ben Syversen</title>
@@ -2196,6 +2490,38 @@ Reddit: https://www.reddit.com/r/3blue1brown
 Facebook: https://www.facebook.com/3blue1brown
 Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
+</item>
+<item>
+<title>希望大家像 xxx 一样，做预制菜透明化的推动者</title>
+<link>https://www.bilibili.com/video/BV1a7p7z5EiU</link>
+<guid isPermaLink='false'>bfd4978ca683cd4a90cdfa732893c94bc6da07e4</guid>
+<pubDate>Sat, 13 Sep 2025 08:41:50 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/3a3625e7081e7f56fd1ca7080b95a3fe114d0f44.jpg" /><br />]]></description>
+</item>
+<item>
+<title>这么多年来，我第一次受到这么压倒性的支持，感谢大家。我的目的是为了推动中国预制菜产业透明化，维护消费者的知情权。</title>
+<link>https://www.bilibili.com/video/BV1tsp7zzEyR</link>
+<guid isPermaLink='false'>aa903c6b5d331eced6930fc623914a9f47675588</guid>
+<pubDate>Sat, 13 Sep 2025 08:31:58 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/0a240550cb003b2cd841deba14d70779d4b23bf8.jpg" /><br />]]></description>
+</item>
+<item>
+<title>【正片】五条人之仁科 × 罗永浩！近五个小时的变态超长对谈！</title>
+<link>https://www.bilibili.com/video/BV1Lha9zCEJ4</link>
+<guid isPermaLink='false'>59efbd21713d09814956efdad652631d0a367591</guid>
+<pubDate>Wed, 10 Sep 2025 04:00:00 GMT</pubDate>
+<author>罗永浩的十字路口 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/b430efeea53a590070469796d0e72c4fb5432cf4.jpg" /><br />  和仁科面对面长谈是一件异常奇妙的事。在“土”与酷、流行与小众、无厘头与严肃、装疯卖傻与坦率真诚之间，他随心所欲，肆意往复摆荡。这些貌似严格对立的两极，完美和谐地统一在他一个人身上。那个周末，我们聊了一个整天，或者说是几十年。从海丰的穷街发廊到广州的陋巷碟店，从地摊的三无拖鞋到奢侈品牌的裤衩，从烟雾和汗臭缭绕的摇滚酒吧到音乐和呐喊刺破长空的万人体育场，从城中村逼仄的合租屋到阿那亚辽阔的海边。在这场漫长但其实并没有“终点”的对谈中，仁科用他特有的天马行空和略带神经质的方式，让整个过程充满了难以割舍的灵光与奇趣]]></description>
+</item>
+<item>
+<title>苏联最好的商店是哪？【神奇组织38】</title>
+<link>https://www.bilibili.com/video/BV1pcY7zHE8L</link>
+<guid isPermaLink='false'>8eb69adf8c54afa3544d638c9a6bbf5de555f123</guid>
+<pubDate>Mon, 08 Sep 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/f02dfc2968ae61dbe7dd20ab5f2c17fce088763a.jpg" /><br />  本篇为神奇组织特别篇之苏联大案调查。]]></description>
 </item>
 <item>
 <title>Incomplete open cubes</title>
@@ -2310,6 +2636,14 @@ https://commons.m.wikimedia.org/wiki/File:7_Tesla_MRI_of_the_ex_vivo_human_brain
 https://commons.m.wikimedia.org/wiki/File:Axonal_nerve_fibers_in_a_brain_-_the_neural_network_that_is_us.webm]]></description>
 </item>
 <item>
+<title>如何把北极的冰块运到赤道？【神奇组织37】</title>
+<link>https://www.bilibili.com/video/BV17WvwzMETQ</link>
+<guid isPermaLink='false'>4333fd6b0a2882d70fa4ab53a7582a5a77395bfb</guid>
+<pubDate>Tue, 26 Aug 2025 03:03:21 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/d0e867e617ea7beb8c8917deece08c58167840aa.jpg" /><br />  本篇为神奇组织之格拉斯瓦特公司。]]></description>
+</item>
+<item>
 <title>How AI connects text and images</title>
 <link>https://www.youtube.com/shorts/j5h9dBtWZXM</link>
 <guid isPermaLink='false'>735b1d68a1c534e8625efa32c1606f33fec3a553</guid>
@@ -2357,6 +2691,42 @@ Reddit: https://www.reddit.com/r/3blue1brown
 Facebook: https://www.facebook.com/3blue1brown
 Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
+</item>
+<item>
+<title>决战“库班之王”【神奇组织36】</title>
+<link>https://www.bilibili.com/video/BV19ztQzRESM</link>
+<guid isPermaLink='false'>1dcff8289b6e3e97cd319f9c82707fcd380af853</guid>
+<pubDate>Tue, 12 Aug 2025 03:50:46 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/0fb1651c7514c21b6bdf4c523136dd97c9a681f0.jpg" /><br />  本篇为神奇组织特别篇之苏联大案调查。
+
+参考资料：
+卡利尼琴科1998年出版《1400亿的案件，或调查员的7060天》
+亚历山大·萨金采夫2018年出版《网与剑之下》
+尤里·索洛维特斯基2019年出版《矛盾的正义》
+戈尔巴乔夫回忆录《孤独相伴》]]></description>
+</item>
+<item>
+<title>在苏联出差有多危险？【神奇组织35】</title>
+<link>https://www.bilibili.com/video/BV1ng8yzJE43</link>
+<guid isPermaLink='false'>5d4d482f63fb8037f54148f41c5024a4968ab1bf</guid>
+<pubDate>Thu, 31 Jul 2025 10:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/5acdf1ef21e38176df841e10237c0cc68d6bc5b0.jpg" /><br />  本篇为神奇组织特别篇之苏联大案调查。
+
+参考资料：
+卡利尼琴科1998年出版《1400亿的案件，或调查员的7060天》
+亚历山大·萨金采夫2018年出版《网与剑之下》
+尤里·索洛维特斯基2019年出版《矛盾的正义》
+戈尔巴乔夫回忆录《孤独相伴》]]></description>
+</item>
+<item>
+<title>全球最环保电池——但是欧洲版【神奇组织34】</title>
+<link>https://www.bilibili.com/video/BV1NV8DzrENU</link>
+<guid isPermaLink='false'>7a7a10c6459c69a9cff19fadf349c6c84a04db2d</guid>
+<pubDate>Tue, 29 Jul 2025 02:59:12 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/438cd20898205d1e1acdf003eb8d7fbfca65d097.jpg" /><br />  本篇为神奇组织之北伏公司。]]></description>
 </item>
 <item>
 <title>But how do AI images and videos actually work? | Guest video by Welch Labs</title>
@@ -2425,6 +2795,23 @@ At 30:30, the unconditional t=1 vector field looks a bit different from what it 
 
 
 Premium Beat Music ID: EEDYZ3FP44YX8OWT]]></description>
+</item>
+<item>
+<title>在苏联吃罐头有什么后果？【神奇组织33】</title>
+<link>https://www.bilibili.com/video/BV1cbghzcETw</link>
+<guid isPermaLink='false'>a5d5c03c5fe5255a5fc3b7cb3b3828b8e0e25fdd</guid>
+<pubDate>Mon, 21 Jul 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/5dfbe183c692136a2b4a2932a1333ec79f9d178f.jpg" /><br />  片头曲《Far from any Road》，版权正在申请中。
+本篇为神奇组织特别篇之苏联大案调查。
+
+参考资料：
+卡利尼琴科2005年出版《一个调查员的7060天》
+亚历山大·兹维亚金采夫2016年出版《在网与剑之下》
+康斯坦丁·加博年科2002年《雷托夫案》
+鲍里斯·谢连诺夫等人1987年合著《调查员生活中的几天》
+卡利尼琴科1995年《调查并未结束》
+格里高利·卡拉科佐夫2013年出版《调查与权利》]]></description>
 </item>
 <item>
 <title>All The Ghosts You Will Be</title>
@@ -2563,6 +2950,14 @@ https://www.instagram.com/electricpants
 https://www.tiktok.com/@corndogwilly]]></description>
 </item>
 <item>
+<title>归义军最大谜案是什么？【小约翰】</title>
+<link>https://www.bilibili.com/video/BV14x3CzyEzz</link>
+<guid isPermaLink='false'>11040ca2f3edc40f02f75d3fbc494f8fbdecdfd3</guid>
+<pubDate>Tue, 08 Jul 2025 04:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/7a99e33ffd4f528613e92f5fbe6cb3307ad8f98f.jpg" /><br />  本篇为小约翰系列之归义军。]]></description>
+</item>
+<item>
 <title>The Bezold Effect</title>
 <link>https://www.youtube.com/shorts/3Yqu30QHkro</link>
 <guid isPermaLink='false'>6f94c9f2e8884f522ed81a976b32c79e4c49b501</guid>
@@ -2584,15 +2979,99 @@ https://journals.sagepub.com/doi/10.1177/20416695241258748]]></description>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title>The 13 Trick</title>
-<link>https://www.youtube.com/shorts/d4xzmMuJTWs</link>
-<guid isPermaLink='false'>cae313cc68b84f21d8a516ee33aa49732bb5caf0</guid>
-<pubDate>Tue, 24 Jun 2025 17:26:29 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[Thanks, mom ❤️
-This is a video I shared elsewhere a couple years ago before YouTube shorts could be more than a minute long. Today, they can't be more than 3 minutes, but with a few 'fast forwards' I was able to get it just under the limit and finally share it here!
+<title>神经病枪手——但是黑道版【硬核狠人87】</title>
+<link>https://www.bilibili.com/video/BV1HfK3zPEHE</link>
+<guid isPermaLink='false'>c19b60ce11a973de5d8430261206127fc389436c</guid>
+<pubDate>Wed, 25 Jun 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/19055e883fd2ecfd04fff0f8f188aeca4ebf275c.jpg" /><br />  本篇为硬核狠人之约瑟夫·加洛。]]></description>
+</item>
+<item>
+<title>20世纪最离谱的绑架案是哪起？【神奇组织32】</title>
+<link>https://www.bilibili.com/video/BV1gqMczxEtc</link>
+<guid isPermaLink='false'>f1860b926b13318c8f9c54b07980db5d8d5e7e6b</guid>
+<pubDate>Fri, 13 Jun 2025 03:07:47 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/a8408c8822c06aeb5ea15eb41038c29c5ed6eef8.jpg" /><br />  本篇为神奇组织之意大利光荣会。
 
-The "13 Trick" is a self-working mathematical card trick where aces = 1, jacks = 11, queens = 12, and kings = 13.]]></description>
+参考资料：
+约翰·皮尔森1995年出版《财富之痛：让·保罗·盖蒂和他的继承人》
+拉塞尔·米勒1987年出版《让·保罗·盖蒂：令人难以置信》
+老盖蒂的自传《如我所见》
+老盖蒂秘书罗宾娜回忆录《我所知道的盖蒂》]]></description>
+</item>
+<item>
+<title>我 在 苏 联 当 翻 译【硬核狠人86】</title>
+<link>https://www.bilibili.com/video/BV1FBTtz2Eas</link>
+<guid isPermaLink='false'>f373579e1333f02e7427178087be10943c7fef06</guid>
+<pubDate>Fri, 06 Jun 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/71a8f8ca76ee6854bb3740f16d24f1f57aaffd02.jpg" /><br />  本篇为硬核狠人之苏霍德列夫。]]></description>
+</item>
+<item>
+<title>谁是莫洛迪的大弟子？【硬核狠人85】</title>
+<link>https://www.bilibili.com/video/BV1ex7VzREZ8</link>
+<guid isPermaLink='false'>5c91a1048c4650a2a0e06bce9f64eb59161e1c03</guid>
+<pubDate>Fri, 30 May 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/a06c1370b61b006fa6ca242c12ac9957b21e48f8.jpg" /><br />  本篇为硬核狠人之努伊金。]]></description>
+</item>
+<item>
+<title>谁能给墨索里尼刨坟？【神奇组织31】</title>
+<link>https://www.bilibili.com/video/BV1WAjUzYEHh</link>
+<guid isPermaLink='false'>7d5c0009a474d2f365796bb434f3ead1b28935c5</guid>
+<pubDate>Tue, 27 May 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/027e596b11268dd4b9ee04cb6fcf0b30928a9ed7.jpg" /><br />  本篇为神奇组织之法西斯民主党。
+
+参考资料：
+塞尔吉奥·卢扎托1998年出版《领袖之躯》
+莫斯利·雷2006年出版《墨索里尼的最后几天》
+安东尼奥·卡里奥蒂2006年出版《萨罗的孤儿》
+法比奥·博纳奇纳2004年出版《隐藏的身体：墨索里尼在洛雷托广场到马焦雷山》
+尼克莱·里奥2014年出版《凯尔特三部曲》
+库梅尔·维蕾娜2007年《与死去的独裁者打交道》]]></description>
+</item>
+<item>
+<title>吹牛皮能惹多大祸？【硬核狠人84】</title>
+<link>https://www.bilibili.com/video/BV1MHJbz8EdL</link>
+<guid isPermaLink='false'>3862d8e7b17f01f6526b23a1332776024b121edd</guid>
+<pubDate>Wed, 21 May 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/d71637f39294cec22d3c460f2d2490336992bd88.jpg" /><br />  本篇为硬核狠人之恩博姆。
+
+参考资料：
+爱德华·弗朗西斯1954年出版《间谍网：共产主义间谍活动的研究》
+库尔特·辛格1953年出版《特洛伊木马般的男人》
+古斯塔夫·约翰森1968年出版《谣言的威力：传播如何变异》
+马提亚斯·艾伯格2008年《恩博姆案》
+阿莱塔·卡特松2001年《空中红色恐怖》
+伊本·比昂松2012年出版《北欧兄弟会：社会民主党1945年-1962年的反共产主义运动》]]></description>
+</item>
+<item>
+<title>什么特工能爆破环保组织？【神奇组织30】</title>
+<link>https://www.bilibili.com/video/BV12Y53z8ECD</link>
+<guid isPermaLink='false'>bbc7bbb790a358247a8168e38115b6deb33b1ce0</guid>
+<pubDate>Fri, 09 May 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/d1891e517ee9849c5cd236ace7b55ccb6d70111b.jpg" /><br />  本篇为神奇组织之DGSE。]]></description>
+</item>
+<item>
+<title>谁是对苏联破坏力最大的特工？【硬核狠人83】</title>
+<link>https://www.bilibili.com/video/BV11tVczFExN</link>
+<guid isPermaLink='false'>9f5a820321e0c061ab20933f55ac9a1c1ac3231c</guid>
+<pubDate>Mon, 05 May 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/b14cb5c30f035de7e49e6e42c106e2a9b7982d13.jpg" /><br />  本篇为硬核狠人之维特罗夫。
+
+参考资料：
+谢尔盖·克斯汀2009年出版《你好，告别：关于改变历史进程卧底的真相》
+欧内斯特·沃尔克曼2005年出版《间谍：改变历史进程的秘密特工》
+桑德拉·格里姆斯2012年出版《叛国圈》
+沃尔顿·蒂尔里1986年出版《克格勃在法国》
+法利戈特·德·罗杰1999年出版《DST：秘密警察》
+阿列克谢·法兰西2001年出版《冷战秘密策划的历史》
+詹姆斯·布雷登2004年出版《主要对手：中情局和克格勃最后摊牌的内部故事》]]></description>
 </item>
 <item>
 <title>Where my explanation of Grover’s algorithm failed</title>
@@ -2711,12 +3190,122 @@ Website: https://www.3blue1brown.com]]></description>
 <description><![CDATA[Full video: https://youtu.be/RQWpF2Gb-gU]]></description>
 </item>
 <item>
+<title>德国最硬核的劫狱方法是什么？【硬核狠人82】</title>
+<link>https://www.bilibili.com/video/BV1obGrzoEmM</link>
+<guid isPermaLink='false'>8a5dbf8faaa5b66d83ca4176f554b885e502344f</guid>
+<pubDate>Tue, 29 Apr 2025 03:02:17 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/c817ab414130f817a20e2071c8af4208cc99ed16.jpg" /><br />  本篇为硬核狠人之霍恩。]]></description>
+</item>
+<item>
+<title>如何刺杀尼克松？【硬核狠人81】</title>
+<link>https://www.bilibili.com/video/BV1vVL4zpEAV</link>
+<guid isPermaLink='false'>e8d4e7ce98c00a21160bafd344003d2aaa1a0793</guid>
+<pubDate>Thu, 24 Apr 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/8a77e281942e65a41d864802e778840ec4568179.jpg" /><br />  本篇为硬核狠人之布雷默。
+
+参考资料：
+布雷默1973年出版《刺客日记》
+托马斯·海利1996年出版《乔治·华莱士的两次死亡：宽恕问题》
+艾米·陶宾2000年出版《出租车司机》
+詹姆斯·克拉克1982年出版《美国刺客：政治的黑暗面》
+杰弗里·麦克纳布2006年出版《出租车司机的制作》
+杰弗里·史密斯2009年《战斗小法官：乔治·华莱士的生活和时代》]]></description>
+</item>
+<item>
 <title>How to measure nearby galaxies</title>
 <link>https://www.youtube.com/shorts/aQwEJKWATlE</link>
 <guid isPermaLink='false'>80006a45cc8f28e0e789c75e4dc0082e7470afa2</guid>
 <pubDate>Sun, 20 Apr 2025 19:36:10 GMT</pubDate>
 <author>3Blue1Brown</author>
 <description><![CDATA[From this video: https://youtu.be/hFMaT9oRbs4]]></description>
+</item>
+<item>
+<title>工程师如何在海上建国？【神奇组织29】</title>
+<link>https://www.bilibili.com/video/BV1LL5ez3EzG</link>
+<guid isPermaLink='false'>62814d72a08adafe788b979dff1ebc6850ab5fa4</guid>
+<pubDate>Fri, 18 Apr 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/ddf950cbb2b80dbe1d0ab094b7f76365be729dc1.jpg" /><br />  本篇为神奇组织之玫瑰岛共和国。]]></description>
+</item>
+<item>
+<title>谁是国际情报界的“拼好谍”？【硬核狠人80】</title>
+<link>https://www.bilibili.com/video/BV1W9dAYfENh</link>
+<guid isPermaLink='false'>e2531e8303fbe3f1ee0e9ba769e00a0866359ca5</guid>
+<pubDate>Thu, 10 Apr 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/a6bb9a7fee9ed37c860e828ace53b27457fd6ba2.jpg" /><br />  本篇为硬核狠人之费尔夫。]]></description>
+</item>
+<item>
+<title>阿勃维尔能秀到啥程度？【神奇组织28】</title>
+<link>https://www.bilibili.com/video/BV15TZ5YmE7C</link>
+<guid isPermaLink='false'>468751a596381578b00c3a59d734a3cb6d68f278</guid>
+<pubDate>Fri, 28 Mar 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/38156e8e572d98fa47b8fe2befb7463235fb37ed.jpg" /><br />  本篇为神奇组织之土星情报中心。
+
+参考资料：
+乔治·佐巴赫2009年出版《土星、信使、修道院和别列津诺》
+苏多普拉托夫1994年出版《情报和克里姆林宫：一个不受欢迎的证人的笔记》
+爱德华·沙拉波夫2009年出版《苏多普拉托夫VS卡纳里斯》
+爱德华·沙拉波夫2013年出版《斯大林的惩罚之剑》
+库里诺克·瓦伦丁诺维奇2018年发表于《俄罗斯和东欧历史研究杂志》上的长文《土星的真相》]]></description>
+</item>
+<item>
+<title>谁是德国最强刺客？【硬核狠人79】</title>
+<link>https://www.bilibili.com/video/BV1mzXAYtEjS</link>
+<guid isPermaLink='false'>0d3070e7e5dc136df6fa1506a050654fb6000888</guid>
+<pubDate>Fri, 21 Mar 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/784658c260c7efa567573c3593f0d1c9cf4a0cfb.jpg" /><br />  本篇为硬核狠人之埃尔塞。]]></description>
+</item>
+<item>
+<title>纯爱战士能惹多大祸？【硬核狠人78】</title>
+<link>https://www.bilibili.com/video/BV1DA94YPEBa</link>
+<guid isPermaLink='false'>ebb28470f6d706d738e5945d895fa329175ce0cf</guid>
+<pubDate>Thu, 06 Mar 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/cda1681c68a7045b70ab0282ba021eb1da88f15c.jpg" /><br />  本篇为硬核狠人之戈东诺夫。]]></description>
+</item>
+<item>
+<title>117岁的贝当为啥有一劫？【神奇组织27】</title>
+<link>https://www.bilibili.com/video/BV1cBPHewEqi</link>
+<guid isPermaLink='false'>95d6a7e1434985ca047a1c9ec909e6a023a8db85</guid>
+<pubDate>Fri, 28 Feb 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/70769fcd08230555386f2c7aa02c990aaa9c7cb1.jpg" /><br />  本篇为神奇组织之贝当盗墓小队。]]></description>
+</item>
+<item>
+<title>逛公园能闯多大祸？【硬核狠人77】</title>
+<link>https://www.bilibili.com/video/BV1dkApeWEi3</link>
+<guid isPermaLink='false'>db590695e0666aff7a3d5ee759e7e4b76f0b88fe</guid>
+<pubDate>Fri, 21 Feb 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/13e1d60613a22ed7684696505f61a52cbd8fb59a.jpg" /><br />  本篇为硬核狠人之卡森金娜。
+
+参考资料：
+埃利斯·撒迦利亚1950年出版《闭门之后：冷战秘史》
+理查德·赫里斯1949年出版《震惊世界的罪行》
+FBI1955年《苏联叛逃者报告》
+苏珊·卡拉瑟斯2009年出版《冷战俘虏：监禁、越狱和洗脑》
+卡森金娜回忆录《飞跃自由》]]></description>
+</item>
+<item>
+<title>谁能替元首写日记？【硬核狠人76】</title>
+<link>https://www.bilibili.com/video/BV1EZNVegENC</link>
+<guid isPermaLink='false'>cce9045640b59e4498e2fca5f4cca76dfd4cc3e7</guid>
+<pubDate>Sun, 09 Feb 2025 03:00:00 GMT</pubDate>
+<author>小约翰可汗 的 bilibili 空间</author>
+<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/692b623b19e99803f37c7b637f224ccafe5bfec3.jpg" /><br />  本篇为硬核狠人之库贾乌。
+
+参考资料：
+罗伯特·哈里森1996年出版《出售希特勒》
+小爱德华·斯蒂尔斯2013年出版《骗局：希特勒日记、林肯刺杀者和其他》
+皮克·冈瑟1992年出版《库贾乌案：伪造丑闻编年史》
+布莱恩·英尼斯2005年出版《赝品与假货：历史上最大骗局的真实故事》
+安德烈亚斯·施罗德1996年出版《诈骗、丑闻和伪造：世界上最令人发指的欺诈》
+沃纳·马瑟2004年出版《关于希特勒和斯大林的伪造、虚构和真相》]]></description>
 </item>
 </channel>
 </rss>
