@@ -4,7 +4,88 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Mon, 17 Nov 2025 03:26:13 GMT</lastBuildDate>
+<lastBuildDate>Tue, 18 Nov 2025 03:19:13 GMT</lastBuildDate>
+<item>
+<title>Lashyknobongymofsilliatshelf</title>
+<link>https://www.youtube.com/shorts/Qpv89g-861M</link>
+<guid isPermaLink='false'>e3005621029749ed6d9cbb8c5be3d90089609b08</guid>
+<pubDate>Mon, 17 Nov 2025 23:17:47 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[kangaroo words 🦘
+
+#langauge #words #synonyms #antonyms #reading #meaning #writing]]></description>
+</item>
+<item>
+<title>EPIRBs</title>
+<link>https://xkcd.com/3169/</link>
+<guid isPermaLink='false'>2559e30102a99281e8e364bafc707d10553646f0</guid>
+<pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+<author>xkcd.com</author>
+<description><![CDATA[<img alt="'Oh no, the box is drifting out into the harbor!' 'Yeah, I wouldn't worry about losing it.'" src="https://imgs.xkcd.com/comics/epirbs.png" title="'Oh no, the box is drifting out into the harbor!' 'Yeah, I wouldn't worry about losing it.'" />]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/6a23ae0a96...e7c375b181</link>
+<guid isPermaLink='false'>ad3075eebcd2d3c9b5348cac2079d0c60368ff0a</guid>
+<pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · November 17, 2025 17:51
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/nizhen-t" rel="noreferrer"><img alt="@nizhen-t" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/125340189?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/0778ac7df5137d5041783fadfc201f8fd55a1d9b" rel="noreferrer">0778ac7</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      fs: Fix uninitialized 'offp' in statmount_string()
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/a86671ff5f1e491e6a4c4a57e081c2e0eb919ba086d6a144b652f7c6d52ad265/68747470733a2f2f312e67726176617461722e636f6d2f6176617461722f35306666313638306262376266633436393361393239646562316630376330623f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/2c2b67af5f5f77fc68261a137ad65dcfb8e52506" rel="noreferrer">2c2b67a</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      hostfs: Fix only passing host root in boot stage with new mount
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/6a23ae0a96...e7c375b181" rel="noreferrer">32 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
 <item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/998ccc327b...6a23ae0a96</link>
@@ -969,16 +1050,6 @@
 <description><![CDATA[songs (in order) all by @jakechudnow : Moon Men, Bad Lands and Buffalo Trails, Moan]]></description>
 </item>
 <item>
-<title>【正片】魔术大师刘谦×罗永浩！你所不知道的刘谦</title>
-<link>https://www.bilibili.com/video/BV1dqkZBhEz3</link>
-<guid isPermaLink='false'>c0f0bf3b6feabe3749c575befeebb5a527c4171c</guid>
-<pubDate>Tue, 11 Nov 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/91bf3dd408530d41382aa2c9cbca6d47cf1e8dfc.jpg" /><br />  魔术大师刘谦把魔术分为两种，一种是观众看了会说“哇，好厉害，你怎么做到的？”还有一种是观众会觉得，“天呐！这不可能！刚刚发生了什么？！” 他说，后一种，会给在场的人留下回味终生的绝妙体验。
-
-刘谦是彻底的唯物主义魔术师，可他一直致力于给观众的心里留下魔法的踪迹。在这个超长的访谈中，他通过一连串让人拍案叫绝的故事和令人头皮发麻的演绎，完成了对魔术的正本清源和深度揭秘，阐述了他对这个行业的深刻理解和终极追求。也给我们心中所谓魔术的价值和意义，赋予了一层前所未有的认知。]]></description>
-</item>
-<item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/4427259cc7...24172e0d79</link>
 <guid isPermaLink='false'>0c9ccf8ffd8b8ea36d4ae281b9aae9320fe7743e</guid>
@@ -1485,14 +1556,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title>Earthquake Prediction Flowchart</title>
-<link>https://xkcd.com/3165/</link>
-<guid isPermaLink='false'>c06c14380e9ff6cd5447a87ec7dafeea1ed6c060</guid>
-<pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
-<author>xkcd.com</author>
-<description><![CDATA[<img alt="At least people who make religious predictions of the apocalypse have an answer to the question 'Why didn't you predict any of the other ones that happened recently?'" src="https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png" title="At least people who make religious predictions of the apocalypse have an answer to the question 'Why didn't you predict any of the other ones that happened recently?'" />]]></description>
-</item>
-<item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/38a2c275c3...e811c33b1f</link>
 <guid isPermaLink='false'>37d32bd1dbe3717582d25626b75719ad053bbf1a</guid>
@@ -1871,69 +1934,6 @@
 </div></div>]]></description>
 </item>
 <item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/dc77806cf3...c2c2ccfd4b</link>
-<guid isPermaLink='false'>f29af03a1f3411eb9c010c1debe2f8427cadf4c4</guid>
-<pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · November 6, 2025 17:13
-      </span>
-
-        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/dc8347e67cc5b87f45c30a68986d484bd79fd7b9416670eb3b346fd9fa8c3727/68747470733a2f2f322e67726176617461722e636f6d2f6176617461722f61616633313834643666373633313765633162633735626538306231373039303f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/2469bb6a6af944755a7d7daf66be90f3b8decbf9" rel="noreferrer">2469bb6</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Revert "wifi: ath10k: avoid unnecessary wait for service ready message"
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/jmberg-intel" rel="noreferrer"><img alt="@jmberg-intel" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/96500427?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/3b8694e56f6b69aaba1cffdf0c0760cd76712422" rel="noreferrer">3b8694e</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Merge tag 'ath-current-20251027' of git://git.kernel.org/pub/scm/linu…
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/dc77806cf3...c2c2ccfd4b" rel="noreferrer">75 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
 <title>How Bright Is Earthshine?</title>
 <link>https://www.youtube.com/shorts/u11hmGy-eP8</link>
 <guid isPermaLink='false'>d8cf333bd82232caaa00d7b7e55b2b6c6da94c13</guid>
@@ -1991,22 +1991,6 @@ Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
 </item>
 <item>
-<title>一个视频讲清楚，为什么叫净烟机不叫油烟机。</title>
-<link>https://www.bilibili.com/video/BV1Yv17BHEUi</link>
-<guid isPermaLink='false'>3c5d617c2c39485adbe0903016521dcb52adb94b</guid>
-<pubDate>Wed, 05 Nov 2025 05:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/55564de4062f126511b220f00c95211272505fce.jpg" /><br />]]></description>
-</item>
-<item>
-<title>究竟是什么新玩意，解决了我想吃口热锅现炒的难题？</title>
-<link>https://www.bilibili.com/video/BV1sY1EBkE9U</link>
-<guid isPermaLink='false'>86d1327dbeb4fbda5f95e1d54e0612e00a0fbe8d</guid>
-<pubDate>Wed, 05 Nov 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/e7c733ff42a8541564f25777d3d13b72595793eb.jpg" /><br />]]></description>
-</item>
-<item>
 <title>The Straw That Sucks Itself</title>
 <link>https://www.youtube.com/shorts/fLmdtn8w7fk</link>
 <guid isPermaLink='false'>269d88be19cf8209eb713bc469acd1649d4d9d06</guid>
@@ -2021,16 +2005,6 @@ Website: https://www.3blue1brown.com]]></description>
 <pubDate>Wed, 29 Oct 2025 21:58:57 GMT</pubDate>
 <author>Vsauce</author>
 <description><![CDATA[]]></description>
-</item>
-<item>
-<title>【正片】贾樟柯×罗永浩！成为贾樟柯（上）</title>
-<link>https://www.bilibili.com/video/BV1tWyyBDEmE</link>
-<guid isPermaLink='false'>fe47771eeed3a7dd4cd6f0d6128a79e81ad142c8</guid>
-<pubDate>Wed, 29 Oct 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/3b25bd1b9fd68ec7233ff46a0641165fb6c12c41.jpg" /><br />  在多数镜头都在追逐都市霓虹和英雄传奇时，贾樟柯的摄像机却始终对准他脚下的土地。他的电影画面中鲜少出现激烈的冲突，有的只是山西小城里随处可见的煤矿、摩托车、县城歌舞团、终日无所事事的少年，以及巨变的大时代背景下，一些踉踉跄跄，不知所措的身影。这些被宏大叙事忽略的人与事，在他的取景框里发出了低沉有力的轰鸣，让山西县城的天空和威尼斯的夜晚一起震颤。
-
-《罗永浩的十字路口》第九期，我们的嘉宾是导演贾樟柯。和贾樟柯对谈，就好像在看贾樟柯的电影。他的讲述如同他的镜头语言，真实，质朴，平静，偶尔有些跳跃，一如既往蕴藏着]]></description>
 </item>
 <item>
 <title>Children's Books THAT ARE NOT For Kids</title>
@@ -2055,16 +2029,6 @@ ALL SONGS BY JAKE CHUDNOW:
 1:00 - end "It's Good To Be D"]]></description>
 </item>
 <item>
-<title>【正片】名创优品叶国富×罗永浩！重塑线下购物，让人们重新爱上逛街！</title>
-<link>https://www.bilibili.com/video/BV1xCWXzTE1U</link>
-<guid isPermaLink='false'>434e0eebd766964b03270966c44ff019d7d2c84d</guid>
-<pubDate>Wed, 22 Oct 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/6125dcdf31c4ff78ac6bfe5153e7f7b3d2c3d4cc.jpg" /><br />  一年 1000 家店，从 0 到 100 亿，为了 IP 业务转型要求做事的人一年至少浪费 1 个亿……这些数字既是一个狂飙突进商业奇迹的见证，也是一连串坐标，带我们了解这个奇迹是如何具体而微地被构建出来的。
-
-对于任何一个想要探求商业运作背后机制和原理的人，这场访谈都是一次令人兴奋的旅程。过去这些年，中国企业家创造了太多激动人心，光彩夺目的商业故事，叶国富和他的名创优品无疑是其中异常璀璨的一个。将近三个小时的篇幅里，听他讲述如何从“卖杂货”起始，到加盟店开遍全球，随即成为中国最会玩 IP 的企业之一，继]]></description>
-</item>
-<item>
 <title>ARE Leaves Green?</title>
 <link>https://www.youtube.com/shorts/loFzNec3kS8</link>
 <guid isPermaLink='false'>31157495680c01790b4e1090a16060601ee5d9d5</guid>
@@ -2081,18 +2045,6 @@ part2: https://www.youtube.com/watch?v=545rqaOJQD8]]></description>
 <pubDate>Sun, 19 Oct 2025 12:58:58 GMT</pubDate>
 <author>Vsauce</author>
 <description><![CDATA[]]></description>
-</item>
-<item>
-<title>【正片】宋方金×罗永浩！故事必须有人讲下去</title>
-<link>https://www.bilibili.com/video/BV1ogWqzCEQu</link>
-<guid isPermaLink='false'>bc68febd406698c5e88b8dfef74dfa675716d026</guid>
-<pubDate>Fri, 17 Oct 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/0712e147fc081f65f0003405a2528608b7c05ac0.jpg" /><br />  编剧宋方金讲故事的能力似乎是与生俱来的，他能把严肃的话题讲得引人入胜，同时把好玩的话题讲得意味深长。我们聊了近七个小时，他始终保持了相同的信息密度、节奏以及语言包袱，甚至都没怎么喝水。
-
-他聊创作，聊电影，聊影视行业，聊他看不惯的种种，百无禁忌。别人缄口不提的，他侃侃而谈；别人舍不得讲出来的，他知无不言。
-
-他是讲述者、斗争者，也是捍卫者、坚持者，捍卫编剧的权利，坚持编剧的职责。在他看来，有些话必须要说，有些架必须要吵，有些故事必须要讲。正因如此，面对这个时代，他才能问心无愧地说出，“我没有守口如瓶”。]]></description>
 </item>
 <item>
 <title>Eunoia</title>
@@ -2171,16 +2123,6 @@ Website: https://www.3blue1brown.com]]></description>
 @jakechudnow]]></description>
 </item>
 <item>
-<title>【正片】影视飓风TIM×罗永浩！用影像打开世界的梦想家</title>
-<link>https://www.bilibili.com/video/BV1B5xkzPEhx</link>
-<guid isPermaLink='false'>a24f4b105a4f84824470a7873483d7f01bbd9764</guid>
-<pubDate>Fri, 10 Oct 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/b821cd2c7c1409847557c26f944e8483a95366c4.jpg" /><br />  因为一次偶然，他拿起了摄像机，扭动变焦镜头的时候，命运的齿轮也随之转动起来。影视创作成了他的生活，用想法和镜头打开世界成了他的使命。他痴迷器材，痴迷影像，也痴迷创业。这些年，他的公司像公司的名字一样，越走越快，越走越远，越走越势不可挡。
-
-在毛里求斯的海中和抹香鲸共舞，在冰岛近距离拍摄喷发中的火山，在中国用肉身体验最凶悍的匪徒都害怕的电击枪......他举重若轻地完成了这些在过去通常被认为是“欧美人才会喜欢的冒险”。接下来，去蛇岛过夜，去雪原探险，去大海追逐最凶猛的鲨鱼..… 更多新奇的冒险计划在他的任务]]></description>
-</item>
-<item>
 <title>The Physics of Euler's Formula | Laplace Transform Prelude</title>
 <link>https://www.youtube.com/watch?v=-j8PzkZ70Lg</link>
 <guid isPermaLink='false'>09e22945d512e15775a91c00dd29ab307e38af7d</guid>
@@ -2238,22 +2180,6 @@ Website: https://www.3blue1brown.com]]></description>
 <description><![CDATA[take up space in the x, y, z, AND t direction!
 All Curiosity Box subscribers are getting one :) 
 👉 https://www.curiositybox.com/]]></description>
-</item>
-<item>
-<title>因为近期的事情，有人翻出来 at 给我，我重看了一遍……感动，那时候精力真旺盛啊，时间也够用，而且那时候我远比今天更热爱人类😊</title>
-<link>https://www.bilibili.com/video/BV1ttntz8E2j</link>
-<guid isPermaLink='false'>81ffb0954418f6ff568c22e4106c2a5b33eea3d6</guid>
-<pubDate>Thu, 25 Sep 2025 10:32:34 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/d871dfbb8450ab90efee3d52f9e90ab910309317.jpg" /><br />]]></description>
-</item>
-<item>
-<title>【正片】周鸿祎×罗永浩！近四小时高密度输出！周鸿祎深度谈 AI</title>
-<link>https://www.bilibili.com/video/BV1hNJ1zLEb8</link>
-<guid isPermaLink='false'>5423b1f5e25ccc58b5c1a94a2f0c7e12aebbbfe2</guid>
-<pubDate>Wed, 24 Sep 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/70539e7d4a8e0223c444c0d3a785c7f84d6becfa.jpg" /><br />  走过二十多年的腥风血雨，周鸿祎说他迎来了最伟大的科技革命，并且他已经为这场变革准备好了，无论是精神上还是体能上。只要聊起 AI，他就会马上全情投入，把他的观察、思考和发现，源源不断地，密不透风地讲下去。这是我说话最少的一期博客节目，好像只要给他输入一点简短合适的提示词，他就能持续地生成高质量的谈话内容。这个版本的周鸿祎，依旧敏锐、兴奋和坚决，但他已经不再将“对手”视作“敌人”。《罗永浩的十字路口》第五期，我们和@周鸿祎  集中谈谈 AI。]]></description>
 </item>
 <item>
 <title>What was Euclid really doing? | Guest video by Ben Syversen</title>
@@ -2323,30 +2249,6 @@ Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
 </item>
 <item>
-<title>希望大家像 xxx 一样，做预制菜透明化的推动者</title>
-<link>https://www.bilibili.com/video/BV1a7p7z5EiU</link>
-<guid isPermaLink='false'>bfd4978ca683cd4a90cdfa732893c94bc6da07e4</guid>
-<pubDate>Sat, 13 Sep 2025 08:41:50 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/3a3625e7081e7f56fd1ca7080b95a3fe114d0f44.jpg" /><br />]]></description>
-</item>
-<item>
-<title>这么多年来，我第一次受到这么压倒性的支持，感谢大家。我的目的是为了推动中国预制菜产业透明化，维护消费者的知情权。</title>
-<link>https://www.bilibili.com/video/BV1tsp7zzEyR</link>
-<guid isPermaLink='false'>aa903c6b5d331eced6930fc623914a9f47675588</guid>
-<pubDate>Sat, 13 Sep 2025 08:31:58 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/0a240550cb003b2cd841deba14d70779d4b23bf8.jpg" /><br />]]></description>
-</item>
-<item>
-<title>【正片】五条人之仁科 × 罗永浩！近五个小时的变态超长对谈！</title>
-<link>https://www.bilibili.com/video/BV1Lha9zCEJ4</link>
-<guid isPermaLink='false'>59efbd21713d09814956efdad652631d0a367591</guid>
-<pubDate>Wed, 10 Sep 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/b430efeea53a590070469796d0e72c4fb5432cf4.jpg" /><br />  和仁科面对面长谈是一件异常奇妙的事。在“土”与酷、流行与小众、无厘头与严肃、装疯卖傻与坦率真诚之间，他随心所欲，肆意往复摆荡。这些貌似严格对立的两极，完美和谐地统一在他一个人身上。那个周末，我们聊了一个整天，或者说是几十年。从海丰的穷街发廊到广州的陋巷碟店，从地摊的三无拖鞋到奢侈品牌的裤衩，从烟雾和汗臭缭绕的摇滚酒吧到音乐和呐喊刺破长空的万人体育场，从城中村逼仄的合租屋到阿那亚辽阔的海边。在这场漫长但其实并没有“终点”的对谈中，仁科用他特有的天马行空和略带神经质的方式，让整个过程充满了难以割舍的灵光与奇趣]]></description>
-</item>
-<item>
 <title>Incomplete open cubes</title>
 <link>https://www.youtube.com/shorts/1lZpowy21Gc</link>
 <guid isPermaLink='false'>85b3ece90e3ea0e4b09a36701b96584823b5f1dc</guid>
@@ -2412,22 +2314,6 @@ Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
 </item>
 <item>
-<title>【正片】何广智×罗永浩！何广智：我到长安了</title>
-<link>https://www.bilibili.com/video/BV1Jih9zjEEc</link>
-<guid isPermaLink='false'>28516e4287985edb06bfcc8a7a39114269f76f2b</guid>
-<pubDate>Mon, 01 Sep 2025 04:11:58 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/062231be9a6202bc74a436e65125792095f25633.jpg" /><br />  他是脱口秀舞台的大明星，他是穷门的初代掌门人，他屡次打入脱口秀节目的决赛，他是很多人心中的无冕之王。又是一年决赛，这一次，脱口秀大王的奖杯只为他的捧起而等待了整整一个夏天，而他也等来了自己的人生段子。历时七年，带刺的玫瑰从苏北以北三百多公里走到了上海，又从上海走到了他的长安。他是 2025 年《脱口秀和Ta的朋友们》的冠军@何广智-  ，欢迎收看《罗永浩的十字路口》第三期，让我们和他一起回顾这一路笑声不断的汗水和忧伤，光荣与梦想。]]></description>
-</item>
-<item>
-<title>新王登基的烟花秀</title>
-<link>https://www.bilibili.com/video/BV1Jih9zjEJq</link>
-<guid isPermaLink='false'>e9cb8f68c9e23f5b728e0c5dfc4fad3e637ac649</guid>
-<pubDate>Sat, 30 Aug 2025 06:24:30 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/3fc2f458134826b49463b1221abf77c0c2780f4d.jpg" /><br />  为庆祝脱口秀新王登基，我们后期配上了三百多块钱的豪华烟花特效，可是，他老人家最担心的情况到底还是发生了……9月1日 中午12点，让我们一起地迎接新一届脱口秀大王何广智。]]></description>
-</item>
-<item>
 <title>Simulating and understanding phase change | Guest video by Vilas Winstein</title>
 <link>https://www.youtube.com/watch?v=itRV2jEtV8Q</link>
 <guid isPermaLink='false'>ef2bd7d44963cadbb0f9ac71b3e297751684feb4</guid>
@@ -2475,37 +2361,12 @@ https://commons.m.wikimedia.org/wiki/File:7_Tesla_MRI_of_the_ex_vivo_human_brain
 https://commons.m.wikimedia.org/wiki/File:Axonal_nerve_fibers_in_a_brain_-_the_neural_network_that_is_us.webm]]></description>
 </item>
 <item>
-<title>【正片】何小鹏×罗永浩！何小鹏讲述从财富自由奔赴无尽地狱模式的创业故事</title>
-<link>https://www.bilibili.com/video/BV1jTedzREds</link>
-<guid isPermaLink='false'>ee1ef0bf7e5f7ad42d5c8c679fb7ef09cd60aa41</guid>
-<pubDate>Tue, 26 Aug 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/3e307ce6c22d6fca0ee1273fe1a14b5a551906b8.jpg" /><br />  他早年创立UC浏览器，早早就实现了年少时的宏愿，而这很快又变成了他开启下一局游戏的筹码。他马上投入到更大更具风险性的事业，从陆地到天空，他渴望挑战更高的难度。他说，已经习惯了在深渊里行走，他的人生只能被梦想支配。他是本期嘉宾小鹏汽车的何小鹏。]]></description>
-</item>
-<item>
-<title>当年何小鹏干了什么，收到了资方的严厉诘问，甚至牵扯到是否要卖掉小鹏汽车？明天中午12点，凶险的创业经历等你来听。</title>
-<link>https://www.bilibili.com/video/BV1X9e9zyEfn</link>
-<guid isPermaLink='false'>4a82abae004cc93b9a20fe83498172357eee67e8</guid>
-<pubDate>Mon, 25 Aug 2025 10:47:53 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/83df03a8effce2ce994acd663650016e6652db3c.jpg" /><br />]]></description>
-</item>
-<item>
 <title>How AI connects text and images</title>
 <link>https://www.youtube.com/shorts/j5h9dBtWZXM</link>
 <guid isPermaLink='false'>735b1d68a1c534e8625efa32c1606f33fec3a553</guid>
 <pubDate>Thu, 21 Aug 2025 18:24:11 GMT</pubDate>
 <author>3Blue1Brown</author>
 <description><![CDATA[From this guest video by @WelchLabsVideo on how diffusion models work: https://youtu.be/iv-5mZ_9CPY]]></description>
-</item>
-<item>
-<title>【正片】李想×罗永浩！四小时马拉松访谈！李想首度公开讲述25年创业之路</title>
-<link>https://www.bilibili.com/video/BV1FwY4zkEef</link>
-<guid isPermaLink='false'>07e35e436d6c909532ab6860e4899a3874e04828</guid>
-<pubDate>Tue, 19 Aug 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/467664cd3c23a3065aab2e8a06ef463a3f07a29d.jpg" /><br />  他经历了少年得志，高中创业，24岁身价过亿，公司九成员工一夜离职，差点被创始团队驱逐，企业上市前夜股东叛变；他押上全部身家再次创业，打造了“500万以内最好的 SUV”，成为唯一一家持续盈利的造车新势力企业；但过程中也遭遇了资金链断裂、产能地狱、铺天盖地的污蔑、诽谤和泼脏水。如今回望四分之一世纪的创业之路，他依然充满了理性作为基础的热情与梦想。
-视频播客《罗永浩的十字路口》第一期，我们与李想谈谈。]]></description>
 </item>
 <item>
 <title>The AI that solved IMO Geometry Problems | Guest video by @Aleph0</title>
@@ -2547,14 +2408,6 @@ Reddit: https://www.reddit.com/r/3blue1brown
 Facebook: https://www.facebook.com/3blue1brown
 Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
-</item>
-<item>
-<title>大家好！今天我是新人UP主了！</title>
-<link>https://www.bilibili.com/video/BV16kbwzYEyz</link>
-<guid isPermaLink='false'>9999bd1d6dd6ef8b804c4add9c3d83ab434806bd</guid>
-<pubDate>Mon, 11 Aug 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/8278991f0f7b03e6f13c1b0dc4f682223af1b648.jpg" /><br />  B站的朋友们大家好，今天我正式入驻B站。8月19号中午12点，我的视频播客节目《罗永浩的十字路口》会准时上线，欢迎大家收看，也欢迎一键三连，还欢迎随时发送弹幕评论和我互动^_^]]></description>
 </item>
 <item>
 <title>But how do AI images and videos actually work? | Guest video by Welch Labs</title>
@@ -2623,142 +2476,6 @@ At 30:30, the unconditional t=1 vector field looks a bit different from what it 
 
 
 Premium Beat Music ID: EEDYZ3FP44YX8OWT]]></description>
-</item>
-<item>
-<title>All The Ghosts You Will Be</title>
-<link>https://www.youtube.com/watch?v=xHd4zsIbXJ0</link>
-<guid isPermaLink='false'>9c0cae73e00c79a36a0c5d5e94650a4fc68142c7</guid>
-<pubDate>Wed, 16 Jul 2025 01:00:01 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[MOX NOX. Pre-order the Death Clock here: http://www.InqFactory.com/DeathClock
-Special thanks to @CalebMarting  for his tireless work on the prototypes. Our entire team at the Curiosity Box and Inq Factory is incredible -- it's a gift to be able to make the world curiouser with you all! 
-
-"Curiouser" is a very curious word.
-
-LINKS TO LEARN MORE:
-
-flour particle size: https://www.researchgate.net/publication/335277332_Influence_of_milling_whole_wheat_grains_and_particle_size_on_thermo-mechanical_properties_of_flour_using_Mixolab
-
-solar corona:
-https://svs.gsfc.nasa.gov/14865
-
-eclipse footage: https://svs.gsfc.nasa.gov/14572/
-
-KUSHIM:
-https://en.wikipedia.org/wiki/Kushim_(Uruk_period)
-https://indroyc.com/2024/02/23/kushims-story-the-first-name-in-history/
-
-GAL-SAL:
-https://isac-idb.uchicago.edu/id/b6ace1f1-9701-4dc5-b366-8c15c7da00ca
-https://www.instagram.com/p/DLlP1d6zlPR/?img_index=2
-
-notable people globe: https://tjukanovt.github.io/notable-people
-
-Gudea: 
-https://en.wikipedia.org/wiki/Gudea
-https://en.wikipedia.org/wiki/Statues_of_Gudea
-https://www.sumerianshakespeare.com/face-of-gudea
-
-Other early human forms:
-https://en.wikipedia.org/wiki/Urfa_Man
-
-History of human figure in art: https://jesygilkesuca.home.blog/2020/09/14/history-and-depictions-of-the-human-figure/
-
-3D interactive DNA model: https://www.labxchange.org/library/items/lb:LabXchange:5c1562b9:lx_simulation:1
-
-How many genetic ancestors do you have? https://gcbias.org/2013/11/11/how-does-your-number-of-genetic-ancestors-grow-back-over-time/
-
-fossilization video: https://commons.wikimedia.org/wiki/File:Wie_entstehen_Fossilien_(CC_by_4.0)_redub_EO.webm
-
-How to become a fossil:
-https://www.newscientist.com/lastword/mg24632832-100-wheres-the-best-place-to-be-buried-to-preserve-your-body-as-a-fossil/
-https://www.bbc.com/future/article/20180215-how-does-fossilisation-happen
-
-Earth images: https://visibleearth.nasa.gov/
-
-Big Bertha: https://en.wikipedia.org/wiki/Big_Bertha_(lunar_sample)
-
-red giant sun: https://science.nasa.gov/resource/life-and-death-of-a-planetary-system/
-
-Interactive voyager viewer: https://science.nasa.gov/mission/voyager/
-
-Wifi signal in house: https://jasmcole.com/2014/07/12/wifi-strife/
-
-How we’ve found partners over time https://www.pnas.org/doi/full/10.1073/pnas.1908630116
-
-Screen time: https://explodingtopics.com/blog/screen-time-stats
-
-Mobile phones vs toothbrushes: https://bcp-advisors.com/wp-content/uploads/2024/05/Cell-Phones-and-Toothbrushes.pdf
-
-Old music outselling new: https://web.archive.org/web/20160222071723/http://www.chartattack.com/news/2016/01/20/old-music-is-outselling-new-music-for-the-first-time-in-history/
-
-“Soy Bomb” incident: https://www.youtube.com/watch?v=2OeNKBq63iM
-
-Steve Fossett: https://en.wikipedia.org/wiki/Steve_Fossett
-
-Gabby Petito: https://en.wikipedia.org/wiki/Killing_of_Gabby_Petito
-
-Unknown soldier:
-https://en.wikipedia.org/wiki/Tomb_of_the_Unknown_Soldier_(Arlington_National_Cemetery)
-https://www.defense.gov/Multimedia/Photos/igphoto/2002889128/
-
-Conrad Roy: https://en.wikipedia.org/wiki/Death_of_Conrad_Roy
-
-Frederick Douglass: https://www.nps.gov/articles/000/frederick-douglass-and-the-power-of-photography.htm
-
-Sojourner Truth: https://www.metmuseum.org/art/collection/search/301989
-
-Wallace Line:
-https://en.wikipedia.org/wiki/Wallace_Line
-https://commons.wikimedia.org/wiki/File:Map_of_Sunda_and_Sahul.svg
-
-Homo Erectus: https://commons.wikimedia.org/wiki/File:Homo_erectus,_The_Natural_History_Museum_Vienna,_20210730_1228_1282.jpg
-
-Roman aqueduct: https://en.wikipedia.org/wiki/Roman_aqueduct#/media/File:Pont_du_Gard_BLS.jpg
-
-Chicago from a dirigible: https://commons.wikimedia.org/wiki/File:Chicago_Photographed_from_Ray_Knabenshue%27s_Dirigible_Air_Ship.webm
-
-World pop density map: https://commons.wikimedia.org/wiki/File:World_Population_Density_Map_2020.png
-
-books:
-I Am A Strange Loop - Douglas_Hofstadter
-A Short History of Nearly Everything Book - Bill Bryson
-Reasons and Persons - Derek Parfit
-Documentality - Maurizio Ferraris
-Amusing Ourselves To Death - Neil Postman
-Everything Bad Is Good For You - Steven Johnson
-Soul Dust - Nicholas Humphrey
-The View From Nowhere - Thomas Nagel
-
-ALL MUSIC BY @jakechudnow 
-You can pick up Jake Chudnow’s Vsauce music on vinyl here: https://inqfactory.com/pages/vinyl
-
-SONGS:
-
-00ː00 - 00ː01 - J Wilde
-00ː03 - 00ː26 - Food
-00ː20 - 01ː14 - Rain, Dreams
-01ː12 - 01ː22 - Moon Men (Instrumental)
-01ː22 - 01ː33 - J Wilde
-01ː26 - 02ː27 - What My Nervous Stomach Sounds Like
-02ː01 - 02ː38 - For Leah
-02ː39 - 03ː39 - Moon Men (Instrumental)
-03ː40 - 04ː56 - Imaginary Sun
-04ː49 - 05ː50 - It’s Good To Be D
-05ː50 - 06ː37 - Thunder
-06ː37 - 08ː03 - For You
-08ː11 - 10ː08 - Rain, Dreams
-10ː02 - 11ː10 - Hydrogen
-11ː34 - 11ː50 - Prelude To Shona
-11ː50 - 13ː02 - For Leah
-13ː09 - 13ː56 - Shallow Anne
-13ː41 - 13ː56 - Monkey Morning
-13ː56 - 16ː10 - J Wilde
-15ː56 - 19ː04 - Olive
-19ː06 - 21ː54 - J Wilde
-
-https://www.instagram.com/electricpants
-https://www.tiktok.com/@corndogwilly]]></description>
 </item>
 <item>
 <title>Where my explanation of Grover’s algorithm failed</title>
