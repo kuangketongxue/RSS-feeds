@@ -4,27 +4,87 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Fri, 21 Nov 2025 03:20:40 GMT</lastBuildDate>
+<lastBuildDate>Sat, 22 Nov 2025 03:14:29 GMT</lastBuildDate>
 <item>
-<title>强到离谱？Gemini 3深度实测【玩法合集】</title>
-<link>https://www.bilibili.com/video/BV1HdynBrEes</link>
-<guid isPermaLink='false'>c205df26063226531f58c33b951d9fae3b368151</guid>
-<pubDate>Thu, 20 Nov 2025 08:57:44 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/983ec6d8b0c8fc5ea1e1e792f11ddbc81540e24e.jpg" /><br />  Gemini 3终于来了！
-这次真的是全方位断层式碾压！
-连夜爆肝测试，一起来看看效果如何吧～
-感谢朋友们的三连+关注呀～]]></description>
+<title>A 2D Shadow Of A 3D Shadow Of A 4D Hypercube</title>
+<link>https://www.youtube.com/shorts/QaFTwJPKLuo</link>
+<guid isPermaLink='false'>5b4d6822c3e3d30d32094b6897cebe0403d76c39</guid>
+<pubDate>Fri, 21 Nov 2025 22:16:41 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[song: "Transition 2" by Jake Chudnow
+
+#geometry #hypercube #fourthdimension #Shadow #zometool #math #2D #3D #4D #model]]></description>
 </item>
 <item>
-<title>【正片】何同学×罗永浩！青年何同学的骄傲与烦恼</title>
-<link>https://www.bilibili.com/video/BV1G7yGBvEqs</link>
-<guid isPermaLink='false'>7014608251c9c411a554770356c018dfc25cf527</guid>
-<pubDate>Thu, 20 Nov 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/42ffdf095641708fda659f7ccb99ffe0cd80120f.jpg" /><br />  何同学有着精干而稍显瘦小的身躯，可他面对的一切似乎都是巨大的。巨大的流量、赞赏和争议，他像一个被选中的年轻人，时代的浪潮向他疯狂涌来。在滔天的风浪中，他总是能够沉住气精心策划出好内容，用对内容的执着构筑起一道防线，那是他的堡垒、他的骄傲，也是他漂洋过海的小船。他总是说自己很幸运，尽管他并不知道迎接他的会是什么。船在继续往前走着，他有时候也茫然，但他知道他要去到哪里。
+<title>Geologic Core Sample</title>
+<link>https://xkcd.com/3171/</link>
+<guid isPermaLink='false'>d3f96814b87ef46efc7b304234f9c163b716baef</guid>
+<pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+<author>xkcd.com</author>
+<description><![CDATA[<img alt="If you drill at the right angle and time things perfectly, your core sample can include a section of a rival team's coring equipment." src="https://imgs.xkcd.com/comics/geologic_core_sample.png" title="If you drill at the right angle and time things perfectly, your core sample can include a section of a rival team's coring equipment." />]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/fd95357fd8...2eba5e05d9</link>
+<guid isPermaLink='false'>d2627671db4a0591637b30ae16e0fcbcf93f3ed4</guid>
+<pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · November 21, 2025 19:19
+      </span>
 
-《罗永浩的十字路口》第十一期，我们和何同学聊聊他的视频和一些刻骨铭心的成长。]]></description>
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/laeyraud" rel="noreferrer"><img alt="@laeyraud" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/16318107?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/404ee89b4008cf2130554dac2c64cd8412601356" rel="noreferrer">404ee89</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      pinctrl: mediatek: mt8196: align register base names to dt-bindings ones
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/laeyraud" rel="noreferrer"><img alt="@laeyraud" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/16318107?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/518919276c4119e34e24334003af70ab12477f00" rel="noreferrer">5189192</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      pinctrl: mediatek: mt8189: align register base names to dt-bindings ones
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/fd95357fd8...2eba5e05d9" rel="noreferrer">67 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
 </item>
 <item>
 <title>torvalds pushed linux</title>
@@ -225,38 +285,6 @@ song: "yo" by @jakechudnow
 Island footage by WalkingKooka on wikicommons]]></description>
 </item>
 <item>
-<title>录制时我一直在由衷夸赞何同学，因为他确实是个很好的年轻人。11 月 20 日中午 12 点，看看他身上有哪些闪光点。</title>
-<link>https://www.bilibili.com/video/BV1YHy5B6EFS</link>
-<guid isPermaLink='false'>1adcc1005a6f842e149408262f1516fd9b34bf03</guid>
-<pubDate>Wed, 19 Nov 2025 05:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/489ac5e37f09b78ff41aea1c2138088d6a80aa3f.jpg" /><br />]]></description>
-</item>
-<item>
-<title>和很多人记忆里的场面不同，这次是坐在我对面的那个人，掏出了一摞PPT......11 月 20 日中午 12 点，看看何同学的 PPT 里到底写了什么。</title>
-<link>https://www.bilibili.com/video/BV1VHy5B6ENm</link>
-<guid isPermaLink='false'>2e91d602ff421ea3cf8985a57b3d1adc2f5e9517</guid>
-<pubDate>Wed, 19 Nov 2025 04:30:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/1093b461fcab2897e661c575f634e9e1991353e8.jpg" /><br />]]></description>
-</item>
-<item>
-<title>原来何同学真的是“有备而来”。11 月 20 日中午 12 点，看看他给我带来什么样让人意外的“小礼物”。</title>
-<link>https://www.bilibili.com/video/BV157y5BVEf1</link>
-<guid isPermaLink='false'>a5d74da6a9f329c53d5c803567037c310b5218d6</guid>
-<pubDate>Wed, 19 Nov 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/80f59f9c5f62b0cf73d4592ee03202bd9a14acf3.jpg" /><br />]]></description>
-</item>
-<item>
-<title>汉祚何绝——王莽和他的超自然帝国【小约翰】</title>
-<link>https://www.bilibili.com/video/BV14myuB7EPv</link>
-<guid isPermaLink='false'>a231097b53feacdcba0b59462ef06037de0c52a7</guid>
-<pubDate>Wed, 19 Nov 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/cb5d029a22cc7d60fae6bfa46acc237d220309a8.jpg" /><br />  本篇为小约翰系列之王莽。]]></description>
-</item>
-<item>
 <title>Service Outage</title>
 <link>https://xkcd.com/3170/</link>
 <guid isPermaLink='false'>8c5d122d71f96a143f6c3627c7c9fac079fd8ba5</guid>
@@ -449,17 +477,6 @@ Island footage by WalkingKooka on wikicommons]]></description>
   </div>
 </div>
 </div></div>]]></description>
-</item>
-<item>
-<title>全新千问携国产AI应用，对战ChatGPT！</title>
-<link>https://www.bilibili.com/video/BV1ejyGBKENz</link>
-<guid isPermaLink='false'>237d6ebb5eaab1d58eb24e6d32452ce42fe3fdc8</guid>
-<pubDate>Tue, 18 Nov 2025 11:17:26 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/2abef4780411062f94ae5dd282f4ffd2c6500de7.jpg" /><br />  OpenAI又发布5.1了！
-千问、豆包、DeepSeek正面硬刚！
-GPT5.1 VS 国产三巨头！谁更强？
-感谢朋友们的三连+关注～]]></description>
 </item>
 <item>
 <title>torvalds pushed linux</title>
@@ -1602,30 +1619,12 @@ GPT5.1 VS 国产三巨头！谁更强？
 </div></div>]]></description>
 </item>
 <item>
-<title>Car Size</title>
-<link>https://xkcd.com/3167/</link>
-<guid isPermaLink='false'>f4f6b791b65c9924fcfbada5918e14c2554a5417</guid>
-<pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
-<author>xkcd.com</author>
-<description><![CDATA[<img alt="'They really shouldn't let those small cars drive in traffic. I worry I'm going to kill someone if I hit one! They should have to drive on the sidewalk, safely out of the way.'" src="https://imgs.xkcd.com/comics/car_size.png" title="'They really shouldn't let those small cars drive in traffic. I worry I'm going to kill someone if I hit one! They should have to drive on the sidewalk, safely out of the way.'" />]]></description>
-</item>
-<item>
 <title>What's Inside My Spherical Die?</title>
 <link>https://www.youtube.com/shorts/PspOovsehhM</link>
 <guid isPermaLink='false'>32ad5d48348373be599e0c45b4293667019e20e0</guid>
 <pubDate>Tue, 11 Nov 2025 21:35:35 GMT</pubDate>
 <author>Vsauce</author>
 <description><![CDATA[songs (in order) all by @jakechudnow : Moon Men, Bad Lands and Buffalo Trails, Moan]]></description>
-</item>
-<item>
-<title>【正片】魔术大师刘谦×罗永浩！你所不知道的刘谦</title>
-<link>https://www.bilibili.com/video/BV1dqkZBhEz3</link>
-<guid isPermaLink='false'>c0f0bf3b6feabe3749c575befeebb5a527c4171c</guid>
-<pubDate>Tue, 11 Nov 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/91bf3dd408530d41382aa2c9cbca6d47cf1e8dfc.jpg" /><br />  魔术大师刘谦把魔术分为两种，一种是观众看了会说“哇，好厉害，你怎么做到的？”还有一种是观众会觉得，“天呐！这不可能！刚刚发生了什么？！” 他说，后一种，会给在场的人留下回味终生的绝妙体验。
-
-刘谦是彻底的唯物主义魔术师，可他一直致力于给观众的心里留下魔法的踪迹。在这个超长的访谈中，他通过一连串让人拍案叫绝的故事和令人头皮发麻的演绎，完成了对魔术的正本清源和深度揭秘，阐述了他对这个行业的深刻理解和终极追求。也给我们心中所谓魔术的价值和意义，赋予了一层前所未有的认知。]]></description>
 </item>
 <item>
 <title>torvalds pushed linux</title>
@@ -1929,69 +1928,6 @@ GPT5.1 VS 国产三巨头！谁更强？
 </div></div>]]></description>
 </item>
 <item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/7bb4d65125...439fc29dfd</link>
-<guid isPermaLink='false'>91558d0bc976c73edee7cc0272ae29250e17477d</guid>
-<pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · November 9, 2025 00:06
-      </span>
-
-        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/jonhunter" rel="noreferrer"><img alt="@jonhunter" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/2153046?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/b1c9390f0a44566f7cbd2db979e2ca5393767d49" rel="noreferrer">b1c9390</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Revert "rtc: tps6586x: Fix initial enable_irq/disable_irq balance"
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/jonhunter" rel="noreferrer"><img alt="@jonhunter" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/2153046?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/0d510778c2f4913b5ca062b8a538929bff94e0be" rel="noreferrer">0d51077</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Revert "rtc: cpcap: Fix initial enable_irq/disable_irq balance"
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/7bb4d65125...439fc29dfd" rel="noreferrer">4 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
 <title>An "Anisosquaric" Rectangle</title>
 <link>https://www.youtube.com/shorts/M7hX6117E6E</link>
 <guid isPermaLink='false'>302e32255db1c21b3c9bd27c2cfedd2987dda7d9</guid>
@@ -2057,54 +1993,12 @@ Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
 </item>
 <item>
-<title>一个视频讲清楚，为什么叫净烟机不叫油烟机。</title>
-<link>https://www.bilibili.com/video/BV1Yv17BHEUi</link>
-<guid isPermaLink='false'>3c5d617c2c39485adbe0903016521dcb52adb94b</guid>
-<pubDate>Wed, 05 Nov 2025 05:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/55564de4062f126511b220f00c95211272505fce.jpg" /><br />]]></description>
-</item>
-<item>
-<title>究竟是什么新玩意，解决了我想吃口热锅现炒的难题？</title>
-<link>https://www.bilibili.com/video/BV1sY1EBkE9U</link>
-<guid isPermaLink='false'>86d1327dbeb4fbda5f95e1d54e0612e00a0fbe8d</guid>
-<pubDate>Wed, 05 Nov 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/e7c733ff42a8541564f25777d3d13b72595793eb.jpg" /><br />]]></description>
-</item>
-<item>
 <title>The Straw That Sucks Itself</title>
 <link>https://www.youtube.com/shorts/fLmdtn8w7fk</link>
 <guid isPermaLink='false'>269d88be19cf8209eb713bc469acd1649d4d9d06</guid>
 <pubDate>Tue, 04 Nov 2025 03:48:48 GMT</pubDate>
 <author>Vsauce</author>
 <description><![CDATA[🥤 https://www.curiositybox.com 🥤]]></description>
-</item>
-<item>
-<title>左右横跳式外交之我的国家只有0.1%T【小约翰】</title>
-<link>https://www.bilibili.com/video/BV1L11vBBEsW</link>
-<guid isPermaLink='false'>15d735509990de66c6fb1d5c4b22f7a2a4c219de</guid>
-<pubDate>Tue, 04 Nov 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/85b2e462123850b59c216cbb4d3bb4012ff73d5c.jpg" /><br />  本篇为小约翰系列之圣马力诺共和国。]]></description>
-</item>
-<item>
-<title>绩效人如何种棉花？【神奇组织42】</title>
-<link>https://www.bilibili.com/video/BV1Diy8BLEvG</link>
-<guid isPermaLink='false'>f7709e82bf0a29c909b74fbe6f4eb36d4a55925a</guid>
-<pubDate>Fri, 31 Oct 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/5bb1759abc4e723c1289e4f89c5f4d57661bc6ef.jpg" /><br />  本篇为神奇组织特别篇之苏联大案调查：乌兹别克棉花案（二）。
-
-参考资料：
-格德良和尼古拉·伊万诺夫2001年出版《克里姆林宫案》
-卡利尼琴科2002年出版《1400亿案，或者是调查员的7060天》
-列昂尼德·米哈伊洛维奇·姆列钦2009年出版《戈尔巴乔夫和叶利钦：革命、改革和反革命》
-《政治局腐败：红色乌兹别克斯坦案》
-1988年苏联《农村青年》杂志文章《聋人的阴谋》
-费多尔·拉扎科夫2019年出版《拯救拉希多夫：克格勃踢足球》
-谢尔盖·霍罗多夫2021年出版《20世纪俄罗斯国家犯罪和经济犯罪史》
-谢尔盖]]></description>
 </item>
 <item>
 <title>The g-Effect</title>
@@ -2115,32 +2009,12 @@ Website: https://www.3blue1brown.com]]></description>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title>【正片】贾樟柯×罗永浩！成为贾樟柯（上）</title>
-<link>https://www.bilibili.com/video/BV1tWyyBDEmE</link>
-<guid isPermaLink='false'>fe47771eeed3a7dd4cd6f0d6128a79e81ad142c8</guid>
-<pubDate>Wed, 29 Oct 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/3b25bd1b9fd68ec7233ff46a0641165fb6c12c41.jpg" /><br />  在多数镜头都在追逐都市霓虹和英雄传奇时，贾樟柯的摄像机却始终对准他脚下的土地。他的电影画面中鲜少出现激烈的冲突，有的只是山西小城里随处可见的煤矿、摩托车、县城歌舞团、终日无所事事的少年，以及巨变的大时代背景下，一些踉踉跄跄，不知所措的身影。这些被宏大叙事忽略的人与事，在他的取景框里发出了低沉有力的轰鸣，让山西县城的天空和威尼斯的夜晚一起震颤。
-
-《罗永浩的十字路口》第九期，我们的嘉宾是导演贾樟柯。和贾樟柯对谈，就好像在看贾樟柯的电影。他的讲述如同他的镜头语言，真实，质朴，平静，偶尔有些跳跃，一如既往蕴藏着]]></description>
-</item>
-<item>
 <title>Children's Books THAT ARE NOT For Kids</title>
 <link>https://www.youtube.com/shorts/vDtqOjpknSU</link>
 <guid isPermaLink='false'>02b66552e740007deaa63396787fa3ca3109f0be</guid>
 <pubDate>Mon, 27 Oct 2025 22:54:38 GMT</pubDate>
 <author>Vsauce</author>
 <description><![CDATA[]]></description>
-</item>
-<item>
-<title>OpenAI原生AI浏览器！值得拥有的N个理由～</title>
-<link>https://www.bilibili.com/video/BV12is1zQELH</link>
-<guid isPermaLink='false'>797ea6e911c2e5b64df6f1acea84a5bfd7a25fe9</guid>
-<pubDate>Mon, 27 Oct 2025 09:05:24 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/c0fe481ddc409fa4301c18291f1c040fe6656756.jpg" /><br />  所有人免费可用的AI浏览器！
-一起深入ChatGPT Atlas的每个功能！
-感谢朋友们的三连+关注～]]></description>
 </item>
 <item>
 <title>I Made A Slap Bracelet For Time Travelers</title>
@@ -2155,43 +2029,6 @@ ALL SONGS BY JAKE CHUDNOW:
 0:15 - 0:47 "Towers and Tourists"
 0:40 - 1:00 "Sunday July 20th (Instrumental)
 1:00 - end "It's Good To Be D"]]></description>
-</item>
-<item>
-<title>谁是乌兹别克的可汗？【神奇组织41】</title>
-<link>https://www.bilibili.com/video/BV1fps7zoE8c</link>
-<guid isPermaLink='false'>5e03fdda1c806f318f3925237fa5bdd2d391967d</guid>
-<pubDate>Fri, 24 Oct 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/a8293f05df19ca51e385094d1edea82caf282747.jpg" /><br />  本篇为神奇组织特别篇之苏联大案调查：乌兹别克棉花案（一）。
-
-参考资料：
-格德良和尼古拉·伊万诺夫2001年出版《克里姆林宫案》
-卡利尼琴科2002年出版《1400亿案，或者是调查员的7060天》
-列昂尼德·米哈伊洛维奇·姆列钦2009年出版《戈尔巴乔夫和叶利钦：革命、改革和反革命》
-《政治局腐败：红色乌兹别克斯坦案》
-1988年苏联《农村青年》杂志文章《聋人的阴谋》
-费多尔·拉扎科夫2019年出版《拯救拉希多夫：克格勃踢足球》
-谢尔盖·霍罗多夫2021年出版《20世纪俄罗斯国家犯罪和经济犯罪史》
-谢尔盖]]></description>
-</item>
-<item>
-<title>【正片】名创优品叶国富×罗永浩！重塑线下购物，让人们重新爱上逛街！</title>
-<link>https://www.bilibili.com/video/BV1xCWXzTE1U</link>
-<guid isPermaLink='false'>434e0eebd766964b03270966c44ff019d7d2c84d</guid>
-<pubDate>Wed, 22 Oct 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/6125dcdf31c4ff78ac6bfe5153e7f7b3d2c3d4cc.jpg" /><br />  一年 1000 家店，从 0 到 100 亿，为了 IP 业务转型要求做事的人一年至少浪费 1 个亿……这些数字既是一个狂飙突进商业奇迹的见证，也是一连串坐标，带我们了解这个奇迹是如何具体而微地被构建出来的。
-
-对于任何一个想要探求商业运作背后机制和原理的人，这场访谈都是一次令人兴奋的旅程。过去这些年，中国企业家创造了太多激动人心，光彩夺目的商业故事，叶国富和他的名创优品无疑是其中异常璀璨的一个。将近三个小时的篇幅里，听他讲述如何从“卖杂货”起始，到加盟店开遍全球，随即成为中国最会玩 IP 的企业之一，继]]></description>
-</item>
-<item>
-<title>假如AI消灭了全人类，只剩下你一个人…【脑洞大开】</title>
-<link>https://www.bilibili.com/video/BV1kMWXzcER2</link>
-<guid isPermaLink='false'>b5154baa79523a7633a5b94a887a94f3e4f287de</guid>
-<pubDate>Wed, 22 Oct 2025 02:00:00 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/4fdeff7d39e8ce958bd314d7786059648afbc6d5.jpg" /><br />  跟AI开会，真的比跟人开会还痛苦…
-感谢铁铁们的三连+关注～]]></description>
 </item>
 <item>
 <title>ARE Leaves Green?</title>
@@ -2212,18 +2049,6 @@ part2: https://www.youtube.com/watch?v=545rqaOJQD8]]></description>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title>【正片】宋方金×罗永浩！故事必须有人讲下去</title>
-<link>https://www.bilibili.com/video/BV1ogWqzCEQu</link>
-<guid isPermaLink='false'>bc68febd406698c5e88b8dfef74dfa675716d026</guid>
-<pubDate>Fri, 17 Oct 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/0712e147fc081f65f0003405a2528608b7c05ac0.jpg" /><br />  编剧宋方金讲故事的能力似乎是与生俱来的，他能把严肃的话题讲得引人入胜，同时把好玩的话题讲得意味深长。我们聊了近七个小时，他始终保持了相同的信息密度、节奏以及语言包袱，甚至都没怎么喝水。
-
-他聊创作，聊电影，聊影视行业，聊他看不惯的种种，百无禁忌。别人缄口不提的，他侃侃而谈；别人舍不得讲出来的，他知无不言。
-
-他是讲述者、斗争者，也是捍卫者、坚持者，捍卫编剧的权利，坚持编剧的职责。在他看来，有些话必须要说，有些架必须要吵，有些故事必须要讲。正因如此，面对这个时代，他才能问心无愧地说出，“我没有守口如瓶”。]]></description>
-</item>
-<item>
 <title>Eunoia</title>
 <link>https://www.youtube.com/shorts/iYwufaWCZbQ</link>
 <guid isPermaLink='false'>dc260f263d38d3f9e99d05bf550ad8d2cde48e77</guid>
@@ -2231,24 +2056,6 @@ part2: https://www.youtube.com/watch?v=545rqaOJQD8]]></description>
 <author>Vsauce</author>
 <description><![CDATA["Eunoia" by Christian Bök
 A book of constrained poetry where each poem can use as many vowels as it wants so long as it's always the same vowel: A, E, I, O, U, or (sometimes) Y. #poetry  #language #art #book #writing #yokoono]]></description>
-</item>
-<item>
-<title>Agent Infra到底是什么？【AI基建】</title>
-<link>https://www.bilibili.com/video/BV1Rz4iz1Exz</link>
-<guid isPermaLink='false'>72240f682f87dcbb72ffe355a08d29c05a006e86</guid>
-<pubDate>Wed, 15 Oct 2025 09:40:35 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/9fdcd57430c5841ed97d4871764ece2021b8a637.jpg" /><br />  是时候重新认识Agent了！
-一个框架看透Agent的“财富密码”-Agent Infra！
-感谢铁铁们的三连+关注呀～]]></description>
-</item>
-<item>
-<title>关于为了波多黎各独立去刺杀总统这件事【神奇组织40】</title>
-<link>https://www.bilibili.com/video/BV1L84XzoE2a</link>
-<guid isPermaLink='false'>4ecb63cc7ed5db304950e90cae26eae8b6b219e7</guid>
-<pubDate>Wed, 15 Oct 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/0c7a60a0d5fc0db234e92f9b05f01121e49fff0c.jpg" /><br />  本篇为神奇组织之波多黎各民族党。]]></description>
 </item>
 <item>
 <title>The dynamics of e^(πi)</title>
@@ -2318,16 +2125,6 @@ Website: https://www.3blue1brown.com]]></description>
 @jakechudnow]]></description>
 </item>
 <item>
-<title>【正片】影视飓风TIM×罗永浩！用影像打开世界的梦想家</title>
-<link>https://www.bilibili.com/video/BV1B5xkzPEhx</link>
-<guid isPermaLink='false'>a24f4b105a4f84824470a7873483d7f01bbd9764</guid>
-<pubDate>Fri, 10 Oct 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/b821cd2c7c1409847557c26f944e8483a95366c4.jpg" /><br />  因为一次偶然，他拿起了摄像机，扭动变焦镜头的时候，命运的齿轮也随之转动起来。影视创作成了他的生活，用想法和镜头打开世界成了他的使命。他痴迷器材，痴迷影像，也痴迷创业。这些年，他的公司像公司的名字一样，越走越快，越走越远，越走越势不可挡。
-
-在毛里求斯的海中和抹香鲸共舞，在冰岛近距离拍摄喷发中的火山，在中国用肉身体验最凶悍的匪徒都害怕的电击枪......他举重若轻地完成了这些在过去通常被认为是“欧美人才会喜欢的冒险”。接下来，去蛇岛过夜，去雪原探险，去大海追逐最凶猛的鲨鱼..… 更多新奇的冒险计划在他的任务]]></description>
-</item>
-<item>
 <title>The Physics of Euler's Formula | Laplace Transform Prelude</title>
 <link>https://www.youtube.com/watch?v=-j8PzkZ70Lg</link>
 <guid isPermaLink='false'>09e22945d512e15775a91c00dd29ab307e38af7d</guid>
@@ -2367,60 +2164,6 @@ Reddit: https://www.reddit.com/r/3blue1brown
 Facebook: https://www.facebook.com/3blue1brown
 Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
-</item>
-<item>
-<title>太真了！现在的AI视频已经卷成这样了？！</title>
-<link>https://www.bilibili.com/video/BV16cx4zoErH</link>
-<guid isPermaLink='false'>2350bfc1b9b81022873a318a6a532d093354871c</guid>
-<pubDate>Sat, 04 Oct 2025 14:47:36 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/16a477f039f04ca393e9863b5ba256271003cad4.jpg" /><br />  太卷了！强到离谱！
-最新AI视频工具一篇全看懂！
-感谢朋友们的三连+关注～]]></description>
-</item>
-<item>
-<title>How Many Americans Have No Friends?</title>
-<link>https://www.youtube.com/shorts/C4-uK6OTR8g</link>
-<guid isPermaLink='false'>467a6ff1833c327b59b926a03576242dac277848</guid>
-<pubDate>Fri, 03 Oct 2025 23:30:13 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title>因为近期的事情，有人翻出来 at 给我，我重看了一遍……感动，那时候精力真旺盛啊，时间也够用，而且那时候我远比今天更热爱人类😊</title>
-<link>https://www.bilibili.com/video/BV1ttntz8E2j</link>
-<guid isPermaLink='false'>81ffb0954418f6ff568c22e4106c2a5b33eea3d6</guid>
-<pubDate>Thu, 25 Sep 2025 10:32:34 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/d871dfbb8450ab90efee3d52f9e90ab910309317.jpg" /><br />]]></description>
-</item>
-<item>
-<title>更猛了！B站开源AI语音天花板【附本地安装包】</title>
-<link>https://www.bilibili.com/video/BV1HeJQzSEHW</link>
-<guid isPermaLink='false'>886c8e6520750aae1d9c9a6eb2cec9fd8a85fb21</guid>
-<pubDate>Thu, 25 Sep 2025 07:37:24 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/679991dbfb4d276554910eacfeb99e445f56eac9.jpg" /><br />  AI声音克隆卷出新高度了！
-完美复刻任何人的音色、情绪！
-后台回复“克隆”获取本地安装包～
-一键安装B站开源超强语音模型IndexTTS2～
-感谢朋友们的三连+关注～]]></description>
-</item>
-<item>
-<title>【正片】周鸿祎×罗永浩！近四小时高密度输出！周鸿祎深度谈 AI</title>
-<link>https://www.bilibili.com/video/BV1hNJ1zLEb8</link>
-<guid isPermaLink='false'>5423b1f5e25ccc58b5c1a94a2f0c7e12aebbbfe2</guid>
-<pubDate>Wed, 24 Sep 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/70539e7d4a8e0223c444c0d3a785c7f84d6becfa.jpg" /><br />  走过二十多年的腥风血雨，周鸿祎说他迎来了最伟大的科技革命，并且他已经为这场变革准备好了，无论是精神上还是体能上。只要聊起 AI，他就会马上全情投入，把他的观察、思考和发现，源源不断地，密不透风地讲下去。这是我说话最少的一期博客节目，好像只要给他输入一点简短合适的提示词，他就能持续地生成高质量的谈话内容。这个版本的周鸿祎，依旧敏锐、兴奋和坚决，但他已经不再将“对手”视作“敌人”。《罗永浩的十字路口》第五期，我们和@周鸿祎  集中谈谈 AI。]]></description>
-</item>
-<item>
-<title>苏联第一主理人下场如何？【神奇组织39】</title>
-<link>https://www.bilibili.com/video/BV1yDWuzkEsv</link>
-<guid isPermaLink='false'>21f7ab72816c0410ec0b8c852452e16e6427b644</guid>
-<pubDate>Sat, 20 Sep 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/b814d455b68f76985682025f9c9e4c77603e460a.jpg" /><br />  本篇为神奇组织特别篇之苏联大案调查。]]></description>
 </item>
 <item>
 <title>What was Euclid really doing? | Guest video by Ben Syversen</title>
@@ -2490,38 +2233,6 @@ Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
 </item>
 <item>
-<title>希望大家像 xxx 一样，做预制菜透明化的推动者</title>
-<link>https://www.bilibili.com/video/BV1a7p7z5EiU</link>
-<guid isPermaLink='false'>bfd4978ca683cd4a90cdfa732893c94bc6da07e4</guid>
-<pubDate>Sat, 13 Sep 2025 08:41:50 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/3a3625e7081e7f56fd1ca7080b95a3fe114d0f44.jpg" /><br />]]></description>
-</item>
-<item>
-<title>这么多年来，我第一次受到这么压倒性的支持，感谢大家。我的目的是为了推动中国预制菜产业透明化，维护消费者的知情权。</title>
-<link>https://www.bilibili.com/video/BV1tsp7zzEyR</link>
-<guid isPermaLink='false'>aa903c6b5d331eced6930fc623914a9f47675588</guid>
-<pubDate>Sat, 13 Sep 2025 08:31:58 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/0a240550cb003b2cd841deba14d70779d4b23bf8.jpg" /><br />]]></description>
-</item>
-<item>
-<title>【正片】五条人之仁科 × 罗永浩！近五个小时的变态超长对谈！</title>
-<link>https://www.bilibili.com/video/BV1Lha9zCEJ4</link>
-<guid isPermaLink='false'>59efbd21713d09814956efdad652631d0a367591</guid>
-<pubDate>Wed, 10 Sep 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/b430efeea53a590070469796d0e72c4fb5432cf4.jpg" /><br />  和仁科面对面长谈是一件异常奇妙的事。在“土”与酷、流行与小众、无厘头与严肃、装疯卖傻与坦率真诚之间，他随心所欲，肆意往复摆荡。这些貌似严格对立的两极，完美和谐地统一在他一个人身上。那个周末，我们聊了一个整天，或者说是几十年。从海丰的穷街发廊到广州的陋巷碟店，从地摊的三无拖鞋到奢侈品牌的裤衩，从烟雾和汗臭缭绕的摇滚酒吧到音乐和呐喊刺破长空的万人体育场，从城中村逼仄的合租屋到阿那亚辽阔的海边。在这场漫长但其实并没有“终点”的对谈中，仁科用他特有的天马行空和略带神经质的方式，让整个过程充满了难以割舍的灵光与奇趣]]></description>
-</item>
-<item>
-<title>苏联最好的商店是哪？【神奇组织38】</title>
-<link>https://www.bilibili.com/video/BV1pcY7zHE8L</link>
-<guid isPermaLink='false'>8eb69adf8c54afa3544d638c9a6bbf5de555f123</guid>
-<pubDate>Mon, 08 Sep 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/f02dfc2968ae61dbe7dd20ab5f2c17fce088763a.jpg" /><br />  本篇为神奇组织特别篇之苏联大案调查。]]></description>
-</item>
-<item>
 <title>Incomplete open cubes</title>
 <link>https://www.youtube.com/shorts/1lZpowy21Gc</link>
 <guid isPermaLink='false'>85b3ece90e3ea0e4b09a36701b96584823b5f1dc</guid>
@@ -2587,33 +2298,6 @@ Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
 </item>
 <item>
-<title>【正片】何广智×罗永浩！何广智：我到长安了</title>
-<link>https://www.bilibili.com/video/BV1Jih9zjEEc</link>
-<guid isPermaLink='false'>28516e4287985edb06bfcc8a7a39114269f76f2b</guid>
-<pubDate>Mon, 01 Sep 2025 04:11:58 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/062231be9a6202bc74a436e65125792095f25633.jpg" /><br />  他是脱口秀舞台的大明星，他是穷门的初代掌门人，他屡次打入脱口秀节目的决赛，他是很多人心中的无冕之王。又是一年决赛，这一次，脱口秀大王的奖杯只为他的捧起而等待了整整一个夏天，而他也等来了自己的人生段子。历时七年，带刺的玫瑰从苏北以北三百多公里走到了上海，又从上海走到了他的长安。他是 2025 年《脱口秀和Ta的朋友们》的冠军@何广智-  ，欢迎收看《罗永浩的十字路口》第三期，让我们和他一起回顾这一路笑声不断的汗水和忧伤，光荣与梦想。]]></description>
-</item>
-<item>
-<title>掌管P图的神！Nano Banana究极玩法全公开！建议收藏～</title>
-<link>https://www.bilibili.com/video/BV1CHaGzBEMc</link>
-<guid isPermaLink='false'>23a12b42fb77956f80525959524651323d4c736c</guid>
-<pubDate>Sun, 31 Aug 2025 11:04:32 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/4bfc0d9e14edc4fe62b72cc322233589e4a169e6.jpg" /><br />  P图之神降临！
-让你掌握谷歌Nano Banana所有神仙玩法！
-还能做秋总的“微商宇宙”～
-感谢朋友们的三连+关注哦～]]></description>
-</item>
-<item>
-<title>新王登基的烟花秀</title>
-<link>https://www.bilibili.com/video/BV1Jih9zjEJq</link>
-<guid isPermaLink='false'>e9cb8f68c9e23f5b728e0c5dfc4fad3e637ac649</guid>
-<pubDate>Sat, 30 Aug 2025 06:24:30 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/3fc2f458134826b49463b1221abf77c0c2780f4d.jpg" /><br />  为庆祝脱口秀新王登基，我们后期配上了三百多块钱的豪华烟花特效，可是，他老人家最担心的情况到底还是发生了……9月1日 中午12点，让我们一起地迎接新一届脱口秀大王何广智。]]></description>
-</item>
-<item>
 <title>Simulating and understanding phase change | Guest video by Vilas Winstein</title>
 <link>https://www.youtube.com/watch?v=itRV2jEtV8Q</link>
 <guid isPermaLink='false'>ef2bd7d44963cadbb0f9ac71b3e297751684feb4</guid>
@@ -2661,68 +2345,12 @@ https://commons.m.wikimedia.org/wiki/File:7_Tesla_MRI_of_the_ex_vivo_human_brain
 https://commons.m.wikimedia.org/wiki/File:Axonal_nerve_fibers_in_a_brain_-_the_neural_network_that_is_us.webm]]></description>
 </item>
 <item>
-<title>【正片】何小鹏×罗永浩！何小鹏讲述从财富自由奔赴无尽地狱模式的创业故事</title>
-<link>https://www.bilibili.com/video/BV1jTedzREds</link>
-<guid isPermaLink='false'>ee1ef0bf7e5f7ad42d5c8c679fb7ef09cd60aa41</guid>
-<pubDate>Tue, 26 Aug 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/3e307ce6c22d6fca0ee1273fe1a14b5a551906b8.jpg" /><br />  他早年创立UC浏览器，早早就实现了年少时的宏愿，而这很快又变成了他开启下一局游戏的筹码。他马上投入到更大更具风险性的事业，从陆地到天空，他渴望挑战更高的难度。他说，已经习惯了在深渊里行走，他的人生只能被梦想支配。他是本期嘉宾小鹏汽车的何小鹏。]]></description>
-</item>
-<item>
-<title>如何把北极的冰块运到赤道？【神奇组织37】</title>
-<link>https://www.bilibili.com/video/BV17WvwzMETQ</link>
-<guid isPermaLink='false'>4333fd6b0a2882d70fa4ab53a7582a5a77395bfb</guid>
-<pubDate>Tue, 26 Aug 2025 03:03:21 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/d0e867e617ea7beb8c8917deece08c58167840aa.jpg" /><br />  本篇为神奇组织之格拉斯瓦特公司。]]></description>
-</item>
-<item>
-<title>当年何小鹏干了什么，收到了资方的严厉诘问，甚至牵扯到是否要卖掉小鹏汽车？明天中午12点，凶险的创业经历等你来听。</title>
-<link>https://www.bilibili.com/video/BV1X9e9zyEfn</link>
-<guid isPermaLink='false'>4a82abae004cc93b9a20fe83498172357eee67e8</guid>
-<pubDate>Mon, 25 Aug 2025 10:47:53 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/83df03a8effce2ce994acd663650016e6652db3c.jpg" /><br />]]></description>
-</item>
-<item>
-<title>随意P视频？现在的AI太离谱了！【Runway Aleph】</title>
-<link>https://www.bilibili.com/video/BV1xseJzqEBv</link>
-<guid isPermaLink='false'>474c9dbff153cd1b6649b7160945023a8dd13495</guid>
-<pubDate>Sun, 24 Aug 2025 09:25:45 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/bdca7b49638d6a9fc7c06cd1b15c19dac628d24e.jpg" /><br />  视频可以轻松P了！
-实测Runway新出的Aleph模式～
-一句简单的提示词就可以编辑视频了！
-一起来看看效果咋样～
-感谢铁铁们三连+关注呀～]]></description>
-</item>
-<item>
 <title>How AI connects text and images</title>
 <link>https://www.youtube.com/shorts/j5h9dBtWZXM</link>
 <guid isPermaLink='false'>735b1d68a1c534e8625efa32c1606f33fec3a553</guid>
 <pubDate>Thu, 21 Aug 2025 18:24:11 GMT</pubDate>
 <author>3Blue1Brown</author>
 <description><![CDATA[From this guest video by @WelchLabsVideo on how diffusion models work: https://youtu.be/iv-5mZ_9CPY]]></description>
-</item>
-<item>
-<title>用神器Claude Code！打造贴身AI秘书团【小白教程】</title>
-<link>https://www.bilibili.com/video/BV1zqeMzfEiQ</link>
-<guid isPermaLink='false'>ad9e328f34c7adf2fc6c85d1ea1aecd500171ae6</guid>
-<pubDate>Wed, 20 Aug 2025 07:06:32 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/ca945e114643ef360486e86c7ec051f862445128.jpg" /><br />  神器Claude Code超绝用法！
-给你的生活配个AI秘书团！
-全程保姆级教学，小白也能轻松上手！
-感谢朋友们三连+关注～]]></description>
-</item>
-<item>
-<title>【正片】李想×罗永浩！四小时马拉松访谈！李想首度公开讲述25年创业之路</title>
-<link>https://www.bilibili.com/video/BV1FwY4zkEef</link>
-<guid isPermaLink='false'>07e35e436d6c909532ab6860e4899a3874e04828</guid>
-<pubDate>Tue, 19 Aug 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/467664cd3c23a3065aab2e8a06ef463a3f07a29d.jpg" /><br />  他经历了少年得志，高中创业，24岁身价过亿，公司九成员工一夜离职，差点被创始团队驱逐，企业上市前夜股东叛变；他押上全部身家再次创业，打造了“500万以内最好的 SUV”，成为唯一一家持续盈利的造车新势力企业；但过程中也遭遇了资金链断裂、产能地狱、铺天盖地的污蔑、诽谤和泼脏水。如今回望四分之一世纪的创业之路，他依然充满了理性作为基础的热情与梦想。
-视频播客《罗永浩的十字路口》第一期，我们与李想谈谈。]]></description>
 </item>
 <item>
 <title>The AI that solved IMO Geometry Problems | Guest video by @Aleph0</title>
@@ -2764,93 +2392,6 @@ Reddit: https://www.reddit.com/r/3blue1brown
 Facebook: https://www.facebook.com/3blue1brown
 Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
-</item>
-<item>
-<title>300回合狂测GPT5，有点真东西！【做了个三体】</title>
-<link>https://www.bilibili.com/video/BV11xbazdE9M</link>
-<guid isPermaLink='false'>234713fd9ef7080e444df5416e3db89134f9af63</guid>
-<pubDate>Wed, 13 Aug 2025 09:44:19 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/910cd5ae312b3c8deaa62a4f6aaecc607a5f1aed.jpg" /><br />  全面实测GPT-5！
-100多道题直接拉满～
-一起来看看GPT-5的真实水平到底如何～
-你会续费ChatGPT吗？
-感谢朋友们三连+关注～]]></description>
-</item>
-<item>
-<title>决战“库班之王”【神奇组织36】</title>
-<link>https://www.bilibili.com/video/BV19ztQzRESM</link>
-<guid isPermaLink='false'>1dcff8289b6e3e97cd319f9c82707fcd380af853</guid>
-<pubDate>Tue, 12 Aug 2025 03:50:46 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/0fb1651c7514c21b6bdf4c523136dd97c9a681f0.jpg" /><br />  本篇为神奇组织特别篇之苏联大案调查。
-
-参考资料：
-卡利尼琴科1998年出版《1400亿的案件，或调查员的7060天》
-亚历山大·萨金采夫2018年出版《网与剑之下》
-尤里·索洛维特斯基2019年出版《矛盾的正义》
-戈尔巴乔夫回忆录《孤独相伴》]]></description>
-</item>
-<item>
-<title>大家好！今天我是新人UP主了！</title>
-<link>https://www.bilibili.com/video/BV16kbwzYEyz</link>
-<guid isPermaLink='false'>9999bd1d6dd6ef8b804c4add9c3d83ab434806bd</guid>
-<pubDate>Mon, 11 Aug 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/8278991f0f7b03e6f13c1b0dc4f682223af1b648.jpg" /><br />  B站的朋友们大家好，今天我正式入驻B站。8月19号中午12点，我的视频播客节目《罗永浩的十字路口》会准时上线，欢迎大家收看，也欢迎一键三连，还欢迎随时发送弹幕评论和我互动^_^]]></description>
-</item>
-<item>
-<title>全员免费的GPT5来了，4分钟全了解【实测GPT5】</title>
-<link>https://www.bilibili.com/video/BV1Hgt1zHE9J</link>
-<guid isPermaLink='false'>835d29205dab3aaf731e170bb44c0810c512bdd4</guid>
-<pubDate>Fri, 08 Aug 2025 08:20:55 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/2ac02cc6d4bdc6e314b8c86b1276e9f883df07ea.jpg" /><br />  GPT-5终于发布了！带你一口气速通发布会～
-实测在路上啦，明天见铁们！
-感谢朋友们三连+关注～]]></description>
-</item>
-<item>
-<title>1天节省3小时，用AI给“信息降噪”！</title>
-<link>https://www.bilibili.com/video/BV1HatvzxELB</link>
-<guid isPermaLink='false'>21264efdec08dbc790fc44f26d6af333af5e8aae</guid>
-<pubDate>Thu, 07 Aug 2025 09:30:00 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/922fa70044f06e11868be750d5449655060a7692.jpg" /><br />  铁铁们，信息降噪没做好，难进步难升职啊～
-一起来看看怎么用AI去除你生活中90%的噪音！
-超简单哦～
-感谢朋友们三连+关注～]]></description>
-</item>
-<item>
-<title>在苏联出差有多危险？【神奇组织35】</title>
-<link>https://www.bilibili.com/video/BV1ng8yzJE43</link>
-<guid isPermaLink='false'>5d4d482f63fb8037f54148f41c5024a4968ab1bf</guid>
-<pubDate>Thu, 31 Jul 2025 10:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/5acdf1ef21e38176df841e10237c0cc68d6bc5b0.jpg" /><br />  本篇为神奇组织特别篇之苏联大案调查。
-
-参考资料：
-卡利尼琴科1998年出版《1400亿的案件，或调查员的7060天》
-亚历山大·萨金采夫2018年出版《网与剑之下》
-尤里·索洛维特斯基2019年出版《矛盾的正义》
-戈尔巴乔夫回忆录《孤独相伴》]]></description>
-</item>
-<item>
-<title>带你速逛WAIC2025！这些机器人什么时候进你家？</title>
-<link>https://www.bilibili.com/video/BV12i8yzhEhC</link>
-<guid isPermaLink='false'>aac4f87a3066f244f097cd19575bb3ef09708f0c</guid>
-<pubDate>Thu, 31 Jul 2025 07:48:29 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/ba26d51a1e1f910ba74ac56c96b4661544e802ca.jpg" /><br />  今年WAIC，人是真多！机器“人”也真多！
-一起带你看看，机器人离真正走进我们家，到底近了多少～
-感谢铁铁们的三连+关注～]]></description>
-</item>
-<item>
-<title>全球最环保电池——但是欧洲版【神奇组织34】</title>
-<link>https://www.bilibili.com/video/BV1NV8DzrENU</link>
-<guid isPermaLink='false'>7a7a10c6459c69a9cff19fadf349c6c84a04db2d</guid>
-<pubDate>Tue, 29 Jul 2025 02:59:12 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/438cd20898205d1e1acdf003eb8d7fbfca65d097.jpg" /><br />  本篇为神奇组织之北伏公司。]]></description>
 </item>
 <item>
 <title>But how do AI images and videos actually work? | Guest video by Welch Labs</title>
@@ -2919,239 +2460,6 @@ At 30:30, the unconditional t=1 vector field looks a bit different from what it 
 
 
 Premium Beat Music ID: EEDYZ3FP44YX8OWT]]></description>
-</item>
-<item>
-<title>在苏联吃罐头有什么后果？【神奇组织33】</title>
-<link>https://www.bilibili.com/video/BV1cbghzcETw</link>
-<guid isPermaLink='false'>a5d5c03c5fe5255a5fc3b7cb3b3828b8e0e25fdd</guid>
-<pubDate>Mon, 21 Jul 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/5dfbe183c692136a2b4a2932a1333ec79f9d178f.jpg" /><br />  片头曲《Far from any Road》，版权正在申请中。
-本篇为神奇组织特别篇之苏联大案调查。
-
-参考资料：
-卡利尼琴科2005年出版《一个调查员的7060天》
-亚历山大·兹维亚金采夫2016年出版《在网与剑之下》
-康斯坦丁·加博年科2002年《雷托夫案》
-鲍里斯·谢连诺夫等人1987年合著《调查员生活中的几天》
-卡利尼琴科1995年《调查并未结束》
-格里高利·卡拉科佐夫2013年出版《调查与权利》]]></description>
-</item>
-<item>
-<title>AI财神杯：哪个AI能带你发财？【Grok4 300刀实测】</title>
-<link>https://www.bilibili.com/video/BV1gvuEzyEHB</link>
-<guid isPermaLink='false'>02186ded9dffa6a50e57628ae1fe74e6ce841d27</guid>
-<pubDate>Tue, 15 Jul 2025 10:05:09 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/cc36a6516fc44d7fb584bbe7cd9a698beb1bc06b.jpg" /><br />  Grok4在模型赚钱榜上排名第一？这我就坐不住了！
-一起来看看，各家顶尖模型，有多会搞钱？
-首届AI财神杯，正式开赛！
-细节真的惊呆我…快来看看～
-朋友们三连+关注呀～]]></description>
-</item>
-<item>
-<title>太好玩啦！一句话P图的免费AI！【Flux Kontext小白本地教程】</title>
-<link>https://www.bilibili.com/video/BV1c1GHzLE7x</link>
-<guid isPermaLink='false'>0134e399c5aace656703fab8beb5168bf87bcc8f</guid>
-<pubDate>Tue, 08 Jul 2025 12:36:30 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/8b8eb834e4a0bea3e113b6b4ad43e237620f5d93.jpg" /><br />  一句话P图效果又上台阶！！
-简单！好用！免费！人人都能用上的AI改图新王Flux.1 Kontext~
-一起带你速通日常修图、赛博商拍，还有各种创意玩法～
-感谢铁铁们的三连+关注～]]></description>
-</item>
-<item>
-<title>归义军最大谜案是什么？【小约翰】</title>
-<link>https://www.bilibili.com/video/BV14x3CzyEzz</link>
-<guid isPermaLink='false'>11040ca2f3edc40f02f75d3fbc494f8fbdecdfd3</guid>
-<pubDate>Tue, 08 Jul 2025 04:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/7a99e33ffd4f528613e92f5fbe6cb3307ad8f98f.jpg" /><br />  本篇为小约翰系列之归义军。]]></description>
-</item>
-<item>
-<title>我做了个AI道士给人算命...日进斗金？【Agent小白教程】</title>
-<link>https://www.bilibili.com/video/BV1VP3EzXE2o</link>
-<guid isPermaLink='false'>2b250a62ae984a39eeb2607c2490bb9817eb33e3</guid>
-<pubDate>Fri, 04 Jul 2025 09:00:00 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/ff99791458d2e948792282036db7b62984bfa808.jpg" /><br />  一起做个能帮你收钱的Agent吧！
-接入知识库、MCP、各类插件，一键超简单～]]></description>
-</item>
-<item>
-<title>神经病枪手——但是黑道版【硬核狠人87】</title>
-<link>https://www.bilibili.com/video/BV1HfK3zPEHE</link>
-<guid isPermaLink='false'>c19b60ce11a973de5d8430261206127fc389436c</guid>
-<pubDate>Wed, 25 Jun 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/19055e883fd2ecfd04fff0f8f188aeca4ebf275c.jpg" /><br />  本篇为硬核狠人之约瑟夫·加洛。]]></description>
-</item>
-<item>
-<title>从0开始“做”一个Agent！【n8n草履虫教程】</title>
-<link>https://www.bilibili.com/video/BV1KSKwzJEEV</link>
-<guid isPermaLink='false'>3999780021efdd6d669d5dbaa3637982bbc522e7</guid>
-<pubDate>Fri, 20 Jun 2025 09:23:43 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/251026ec22514609faa7f0c9f8193da021b9c5b1.jpg" /><br />  这期视频带你“从零开始” ～&nbsp;
-搞懂Agent是啥、跟工作流的区别、三大组件，再一路实操搭建一个能看新闻排日程的专属Agent！还学会了n8n～&nbsp;
-记得三连+关注呦～]]></description>
-</item>
-<item>
-<title>国产AI视频模型全球登顶！不用买Veo3啦～</title>
-<link>https://www.bilibili.com/video/BV1BrMizzEvj</link>
-<guid isPermaLink='false'>28660faa08b9380158e5bef2eddb5210a15728c8</guid>
-<pubDate>Mon, 16 Jun 2025 09:57:40 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/45a050fde2e56ae40c5d66ba61bf1c6c6d70b95d.jpg" /><br />  终于等来了！
-全球登顶的国产视频模型！能力和性价比都超过Veo3！
-还有All in one的豆包大模型1.6～全能还便宜～]]></description>
-</item>
-<item>
-<title>AI时代，我们该如何选择就业？【高考AI专业指南】</title>
-<link>https://www.bilibili.com/video/BV1FFMmzMEKj</link>
-<guid isPermaLink='false'>00129c4c4bfa9816c811f42d30e3a5ef770c1e73</guid>
-<pubDate>Sun, 15 Jun 2025 03:28:33 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/3c5df88db9f8cd97b8aa469fd8409d296b2aba08.jpg" /><br />  朋友们，AI时代！
-哪些专业是“坑”，哪些是“版本答案”？
-快一起看看～
-感谢三连+关注哟～]]></description>
-</item>
-<item>
-<title>20世纪最离谱的绑架案是哪起？【神奇组织32】</title>
-<link>https://www.bilibili.com/video/BV1gqMczxEtc</link>
-<guid isPermaLink='false'>f1860b926b13318c8f9c54b07980db5d8d5e7e6b</guid>
-<pubDate>Fri, 13 Jun 2025 03:07:47 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/a8408c8822c06aeb5ea15eb41038c29c5ed6eef8.jpg" /><br />  本篇为神奇组织之意大利光荣会。
-
-参考资料：
-约翰·皮尔森1995年出版《财富之痛：让·保罗·盖蒂和他的继承人》
-拉塞尔·米勒1987年出版《让·保罗·盖蒂：令人难以置信》
-老盖蒂的自传《如我所见》
-老盖蒂秘书罗宾娜回忆录《我所知道的盖蒂》]]></description>
-</item>
-<item>
-<title>写作鬼才！中美六大AI决战高考作文，结果…</title>
-<link>https://www.bilibili.com/video/BV1rmTizrETR</link>
-<guid isPermaLink='false'>262f10d608cdf118d1e9605e95e393d20faf458b</guid>
-<pubDate>Mon, 09 Jun 2025 13:15:18 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/ea9dfb28eaa35e6da8dbe00e797f8f9290196c18.jpg" /><br />  首届AI高考作文大赛正式开赛！
-当顶尖AI遇上高考作文题，火花咔咔冒～
-也愿考生们！皆为黑马！！
-朋友们三连+关注哟～]]></description>
-</item>
-<item>
-<title>我 在 苏 联 当 翻 译【硬核狠人86】</title>
-<link>https://www.bilibili.com/video/BV1FBTtz2Eas</link>
-<guid isPermaLink='false'>f373579e1333f02e7427178087be10943c7fef06</guid>
-<pubDate>Fri, 06 Jun 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/71a8f8ca76ee6854bb3740f16d24f1f57aaffd02.jpg" /><br />  本篇为硬核狠人之苏霍德列夫。]]></description>
-</item>
-<item>
-<title>谁是莫洛迪的大弟子？【硬核狠人85】</title>
-<link>https://www.bilibili.com/video/BV1ex7VzREZ8</link>
-<guid isPermaLink='false'>5c91a1048c4650a2a0e06bce9f64eb59161e1c03</guid>
-<pubDate>Fri, 30 May 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/a06c1370b61b006fa6ca242c12ac9957b21e48f8.jpg" /><br />  本篇为硬核狠人之努伊金。]]></description>
-</item>
-<item>
-<title>AI视频超神了？花1800实测谷歌Veo3到底有多强！</title>
-<link>https://www.bilibili.com/video/BV1JCjdzJEBY</link>
-<guid isPermaLink='false'>8cabd8c36d3bfe6cd6aaf614c0c35b72be8f6caa</guid>
-<pubDate>Tue, 27 May 2025 10:40:26 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/3e49950553439e124ac485a3f4dfbb3ea373916a.jpg" /><br />  Veo 3真的太狂野了！
-铁子们快来看！我刷爆信用卡实测它是有道理的～
-别忘了三连+关注～]]></description>
-</item>
-<item>
-<title>谁能给墨索里尼刨坟？【神奇组织31】</title>
-<link>https://www.bilibili.com/video/BV1WAjUzYEHh</link>
-<guid isPermaLink='false'>7d5c0009a474d2f365796bb434f3ead1b28935c5</guid>
-<pubDate>Tue, 27 May 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/027e596b11268dd4b9ee04cb6fcf0b30928a9ed7.jpg" /><br />  本篇为神奇组织之法西斯民主党。
-
-参考资料：
-塞尔吉奥·卢扎托1998年出版《领袖之躯》
-莫斯利·雷2006年出版《墨索里尼的最后几天》
-安东尼奥·卡里奥蒂2006年出版《萨罗的孤儿》
-法比奥·博纳奇纳2004年出版《隐藏的身体：墨索里尼在洛雷托广场到马焦雷山》
-尼克莱·里奥2014年出版《凯尔特三部曲》
-库梅尔·维蕾娜2007年《与死去的独裁者打交道》]]></description>
-</item>
-<item>
-<title>Ollama幼儿园级教程，玩转免费开源大模型！【小白教程】</title>
-<link>https://www.bilibili.com/video/BV1pFjxzTEd5</link>
-<guid isPermaLink='false'>e0b10c54beb207d96b3902041f9013cf58ef0d71</guid>
-<pubDate>Sat, 24 May 2025 02:25:06 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/ce102f2c53ee9e17cb0f27bb7f5d01821402089b.jpg" /><br />  一篇让你玩转Ollama！小白晋级！
-看完你就本地模型自由～
-我们会掌握Ollama，学会看懂选择模型、管理模型、自定义模型，用上全家人手机共享的本地AI服务器！
-感谢铁铁们三连+关注哟～]]></description>
-</item>
-<item>
-<title>吹牛皮能惹多大祸？【硬核狠人84】</title>
-<link>https://www.bilibili.com/video/BV1MHJbz8EdL</link>
-<guid isPermaLink='false'>3862d8e7b17f01f6526b23a1332776024b121edd</guid>
-<pubDate>Wed, 21 May 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/d71637f39294cec22d3c460f2d2490336992bd88.jpg" /><br />  本篇为硬核狠人之恩博姆。
-
-参考资料：
-爱德华·弗朗西斯1954年出版《间谍网：共产主义间谍活动的研究》
-库尔特·辛格1953年出版《特洛伊木马般的男人》
-古斯塔夫·约翰森1968年出版《谣言的威力：传播如何变异》
-马提亚斯·艾伯格2008年《恩博姆案》
-阿莱塔·卡特松2001年《空中红色恐怖》
-伊本·比昂松2012年出版《北欧兄弟会：社会民主党1945年-1962年的反共产主义运动》]]></description>
-</item>
-<item>
-<title>【AI失业潮】我们离大规模失业有多远？</title>
-<link>https://www.bilibili.com/video/BV1WzJcz5Eij</link>
-<guid isPermaLink='false'>566efc39e75cc2444736b2469d0702dc94af0433</guid>
-<pubDate>Sat, 17 May 2025 06:40:15 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/5272c88adea5e8365a05d402027ce51509637bc4.jpg" /><br />  我们正在走向AI失业潮吗？
-一起看看从过去到现在，技术的进步会带来什么？而这一次，我们又该怎么做？
-欢迎在评论区分享你大胆的看法😏
-感谢朋友们三连+关注～
-
-本视频部分参考资料：
-Daron Acemoglu &amp; Pascual Restrepo: 《Automation and New Tasks》
-达雷尔·M·韦斯特：《未来的工作：技术、就业和社会的未来》
-埃里克·布莱恩约弗森、安德鲁·麦卡菲：《第二次机器革命》
-菲利普·范·帕雷斯、扬·范德尔·斯塔普特：《基本收入：自由与平等的未来》
-卡尔·贝内迪克]]></description>
-</item>
-<item>
-<title>什么特工能爆破环保组织？【神奇组织30】</title>
-<link>https://www.bilibili.com/video/BV12Y53z8ECD</link>
-<guid isPermaLink='false'>bbc7bbb790a358247a8168e38115b6deb33b1ce0</guid>
-<pubDate>Fri, 09 May 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/d1891e517ee9849c5cd236ace7b55ccb6d70111b.jpg" /><br />  本篇为神奇组织之DGSE。]]></description>
-</item>
-<item>
-<title>谁是对苏联破坏力最大的特工？【硬核狠人83】</title>
-<link>https://www.bilibili.com/video/BV11tVczFExN</link>
-<guid isPermaLink='false'>9f5a820321e0c061ab20933f55ac9a1c1ac3231c</guid>
-<pubDate>Mon, 05 May 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/b14cb5c30f035de7e49e6e42c106e2a9b7982d13.jpg" /><br />  本篇为硬核狠人之维特罗夫。
-
-参考资料：
-谢尔盖·克斯汀2009年出版《你好，告别：关于改变历史进程卧底的真相》
-欧内斯特·沃尔克曼2005年出版《间谍：改变历史进程的秘密特工》
-桑德拉·格里姆斯2012年出版《叛国圈》
-沃尔顿·蒂尔里1986年出版《克格勃在法国》
-法利戈特·德·罗杰1999年出版《DST：秘密警察》
-阿列克谢·法兰西2001年出版《冷战秘密策划的历史》
-詹姆斯·布雷登2004年出版《主要对手：中情局和克格勃最后摊牌的内部故事》]]></description>
 </item>
 <item>
 <title>Where my explanation of Grover’s algorithm failed</title>
@@ -3270,180 +2578,12 @@ Website: https://www.3blue1brown.com]]></description>
 <description><![CDATA[Full video: https://youtu.be/RQWpF2Gb-gU]]></description>
 </item>
 <item>
-<title>德国最硬核的劫狱方法是什么？【硬核狠人82】</title>
-<link>https://www.bilibili.com/video/BV1obGrzoEmM</link>
-<guid isPermaLink='false'>8a5dbf8faaa5b66d83ca4176f554b885e502344f</guid>
-<pubDate>Tue, 29 Apr 2025 03:02:17 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/c817ab414130f817a20e2071c8af4208cc99ed16.jpg" /><br />  本篇为硬核狠人之霍恩。]]></description>
-</item>
-<item>
-<title>再见了谷歌插件！AI原生浏览器超级好用！【Dia实测】</title>
-<link>https://www.bilibili.com/video/BV186LqzyEEZ</link>
-<guid isPermaLink='false'>8af3243a22d3d83568017bc08b3768d09e1d58bb</guid>
-<pubDate>Sun, 27 Apr 2025 13:30:26 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/a8a943244c7de8321df9f3f265eeabd981215acd.jpg" /><br />  Arc团队重磅推出了一个“AI原生浏览器”Dia
-“AI原生”跟AI插件能有什么不一样呢？
-一起看看吧～
-感谢朋友们三连+关注～]]></description>
-</item>
-<item>
-<title>如何刺杀尼克松？【硬核狠人81】</title>
-<link>https://www.bilibili.com/video/BV1vVL4zpEAV</link>
-<guid isPermaLink='false'>e8d4e7ce98c00a21160bafd344003d2aaa1a0793</guid>
-<pubDate>Thu, 24 Apr 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/8a77e281942e65a41d864802e778840ec4568179.jpg" /><br />  本篇为硬核狠人之布雷默。
-
-参考资料：
-布雷默1973年出版《刺客日记》
-托马斯·海利1996年出版《乔治·华莱士的两次死亡：宽恕问题》
-艾米·陶宾2000年出版《出租车司机》
-詹姆斯·克拉克1982年出版《美国刺客：政治的黑暗面》
-杰弗里·麦克纳布2006年出版《出租车司机的制作》
-杰弗里·史密斯2009年《战斗小法官：乔治·华莱士的生活和时代》]]></description>
-</item>
-<item>
-<title>梯度，伪装，想要活下去的AI</title>
-<link>https://www.bilibili.com/video/BV1Hh5DzNEQF</link>
-<guid isPermaLink='false'>4d6b8ad49edcb50191497f8c50855ce3e593a448</guid>
-<pubDate>Tue, 22 Apr 2025 05:29:02 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/71cbcadbe670e6c9e570f3e1b5d87eeba863bca3.jpg" /><br />  不开玩笑，你每天聊天的AI，正在撒谎！
-而ta只是想活下去...
-铁们，欢迎聊聊你和AI的对话中的“意识瞬间”！
-
-本次视频解读来源为以下3篇Anthropic重磅论文：
-【大语言模型中的对齐欺诈】https://arxiv.org/pdf/2412.14093
-【关于大语言模型的生物学】https://transformer-circuits.pub/2025/attribution-graphs/biology.html
-【语言模型并不总说出他们所想】https://arxiv.org/pdf/230]]></description>
-</item>
-<item>
 <title>How to measure nearby galaxies</title>
 <link>https://www.youtube.com/shorts/aQwEJKWATlE</link>
 <guid isPermaLink='false'>80006a45cc8f28e0e789c75e4dc0082e7470afa2</guid>
 <pubDate>Sun, 20 Apr 2025 19:36:10 GMT</pubDate>
 <author>3Blue1Brown</author>
 <description><![CDATA[From this video: https://youtu.be/hFMaT9oRbs4]]></description>
-</item>
-<item>
-<title>工程师如何在海上建国？【神奇组织29】</title>
-<link>https://www.bilibili.com/video/BV1LL5ez3EzG</link>
-<guid isPermaLink='false'>62814d72a08adafe788b979dff1ebc6850ab5fa4</guid>
-<pubDate>Fri, 18 Apr 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/ddf950cbb2b80dbe1d0ab094b7f76365be729dc1.jpg" /><br />  本篇为神奇组织之玫瑰岛共和国。]]></description>
-</item>
-<item>
-<title>MCP幼儿园级教程，让你的AI自己干活！【小白教程】</title>
-<link>https://www.bilibili.com/video/BV1HFd6YhErb</link>
-<guid isPermaLink='false'>4b8ad31c0190ee817d02c07dc3ec00e994c08e5b</guid>
-<pubDate>Sun, 13 Apr 2025 13:36:57 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/1f41551130838c55ba0d4d28e166cf90739259a1.jpg" /><br />  草履虫都能上手的MCP入门教程来了！
-简单三步，尝试让AI帮你干活！
-记得一键三连+关注！感谢铁铁们呀～
-
-Cursor：https://www.cursor.com/
-官方GitHub servers列表：https://github.com/modelcontextprotocol/servers
-MCP工具聚合网站：https://smithery.ai/]]></description>
-</item>
-<item>
-<title>谁是国际情报界的“拼好谍”？【硬核狠人80】</title>
-<link>https://www.bilibili.com/video/BV1W9dAYfENh</link>
-<guid isPermaLink='false'>e2531e8303fbe3f1ee0e9ba769e00a0866359ca5</guid>
-<pubDate>Thu, 10 Apr 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/a6bb9a7fee9ed37c860e828ace53b27457fd6ba2.jpg" /><br />  本篇为硬核狠人之费尔夫。]]></description>
-</item>
-<item>
-<title>摄影师危！AI视频开启百万运镜时代～</title>
-<link>https://www.bilibili.com/video/BV1x5R2YHEeF</link>
-<guid isPermaLink='false'>3854c879887683ff9fe7784cddcc905ce14f3712</guid>
-<pubDate>Mon, 07 Apr 2025 10:40:37 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/1f07ee13854aeaaa837c19c9d423fe2458278a95.jpg" /><br />  AI视频百万运镜时代来了！
-最新的 Higgsfield 发布，一张图就能生成好莱坞级别的高难度运镜，AI视频又强了～
-堪比赛博摄影组！快去试试
-记得三连+关注哟～
-
-Higgsfield 使用链接：https://higgsfield.ai/]]></description>
-</item>
-<item>
-<title>史上最聪明AI，大战马科长难题！【Gemini 2.5 Pro实测】</title>
-<link>https://www.bilibili.com/video/BV1S6R9Y2EtP</link>
-<guid isPermaLink='false'>804c03e01c52361183d4c1ca7628e6f3e4122cfd</guid>
-<pubDate>Sat, 05 Apr 2025 09:30:05 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/b312be7e8df2e86976d304dca8aa07ac071b3c86.jpg" /><br />  实名吹爆！地表最强还免费的 Gemini 2.5 Pro！用了就回不去了～
-写作、马科长难题、伦理难题、复杂决策、超长视频总结、3D打印图...全方位秀翻！
-感谢朋友们三连+关注～]]></description>
-</item>
-<item>
-<title>GPT4o最强更新！人均设计师【小白神器】</title>
-<link>https://www.bilibili.com/video/BV1yto9YkEtL</link>
-<guid isPermaLink='false'>6cabd7e9ecc4187ac03c45acdd93631f7d00ccff</guid>
-<pubDate>Fri, 28 Mar 2025 06:29:20 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/7e13cdfcdc7492179ee705d6ccb8e5fd6c02d53a.jpg" /><br />  GPT4o图像功能大更新，这次真的强的可怕！
-一起来实测GPT4o逆天图像能力：
-中文图解、多人物照片生成、自制表情包、商品图、3D logo、海报...居然还能画漫画？
-铁铁们别忘了三连+关注哦～]]></description>
-</item>
-<item>
-<title>阿勃维尔能秀到啥程度？【神奇组织28】</title>
-<link>https://www.bilibili.com/video/BV15TZ5YmE7C</link>
-<guid isPermaLink='false'>468751a596381578b00c3a59d734a3cb6d68f278</guid>
-<pubDate>Fri, 28 Mar 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/38156e8e572d98fa47b8fe2befb7463235fb37ed.jpg" /><br />  本篇为神奇组织之土星情报中心。
-
-参考资料：
-乔治·佐巴赫2009年出版《土星、信使、修道院和别列津诺》
-苏多普拉托夫1994年出版《情报和克里姆林宫：一个不受欢迎的证人的笔记》
-爱德华·沙拉波夫2009年出版《苏多普拉托夫VS卡纳里斯》
-爱德华·沙拉波夫2013年出版《斯大林的惩罚之剑》
-库里诺克·瓦伦丁诺维奇2018年发表于《俄罗斯和东欧历史研究杂志》上的长文《土星的真相》]]></description>
-</item>
-<item>
-<title>谁是德国最强刺客？【硬核狠人79】</title>
-<link>https://www.bilibili.com/video/BV1mzXAYtEjS</link>
-<guid isPermaLink='false'>0d3070e7e5dc136df6fa1506a050654fb6000888</guid>
-<pubDate>Fri, 21 Mar 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/784658c260c7efa567573c3593f0d1c9cf4a0cfb.jpg" /><br />  本篇为硬核狠人之埃尔塞。]]></description>
-</item>
-<item>
-<title>纯爱战士能惹多大祸？【硬核狠人78】</title>
-<link>https://www.bilibili.com/video/BV1DA94YPEBa</link>
-<guid isPermaLink='false'>ebb28470f6d706d738e5945d895fa329175ce0cf</guid>
-<pubDate>Thu, 06 Mar 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/cda1681c68a7045b70ab0282ba021eb1da88f15c.jpg" /><br />  本篇为硬核狠人之戈东诺夫。]]></description>
-</item>
-<item>
-<title>117岁的贝当为啥有一劫？【神奇组织27】</title>
-<link>https://www.bilibili.com/video/BV1cBPHewEqi</link>
-<guid isPermaLink='false'>95d6a7e1434985ca047a1c9ec909e6a023a8db85</guid>
-<pubDate>Fri, 28 Feb 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/70769fcd08230555386f2c7aa02c990aaa9c7cb1.jpg" /><br />  本篇为神奇组织之贝当盗墓小队。]]></description>
-</item>
-<item>
-<title>逛公园能闯多大祸？【硬核狠人77】</title>
-<link>https://www.bilibili.com/video/BV1dkApeWEi3</link>
-<guid isPermaLink='false'>db590695e0666aff7a3d5ee759e7e4b76f0b88fe</guid>
-<pubDate>Fri, 21 Feb 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/13e1d60613a22ed7684696505f61a52cbd8fb59a.jpg" /><br />  本篇为硬核狠人之卡森金娜。
-
-参考资料：
-埃利斯·撒迦利亚1950年出版《闭门之后：冷战秘史》
-理查德·赫里斯1949年出版《震惊世界的罪行》
-FBI1955年《苏联叛逃者报告》
-苏珊·卡拉瑟斯2009年出版《冷战俘虏：监禁、越狱和洗脑》
-卡森金娜回忆录《飞跃自由》]]></description>
 </item>
 </channel>
 </rss>
