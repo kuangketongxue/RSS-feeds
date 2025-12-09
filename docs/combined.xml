@@ -4,7 +4,149 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Mon, 08 Dec 2025 03:31:48 GMT</lastBuildDate>
+<lastBuildDate>Tue, 09 Dec 2025 03:23:59 GMT</lastBuildDate>
+<item>
+<title>The 852655 Mystery</title>
+<link>https://www.youtube.com/shorts/ti8ZdImveB0</link>
+<guid isPermaLink='false'>d9ae6b0db5832a4a68be54f20609982db3d1f365</guid>
+<pubDate>Tue, 09 Dec 2025 00:09:28 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[https://inqfactory.com/poison]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/a110f94267...cfd4039213</link>
+<guid isPermaLink='false'>de40b85ad6a4593f8390ef40532b98d10f825a35</guid>
+<pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · December 9, 2025 00:13
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/57c023b1dece5b2842af11f49e65a2dcd341556e058681a75beb0c0593437cdd/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f34333762653366613731393563633038313365646666633334626166343962643f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/e35770610730af372659ef8d41199b556411c756" rel="noreferrer">e357706</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      ubifs: Remove unnecessary parameters '*c'
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/57c023b1dece5b2842af11f49e65a2dcd341556e058681a75beb0c0593437cdd/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f34333762653366613731393563633038313365646666633334626166343962643f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/0288d5fe25a286641f0fc259d5de32d0e319db6d" rel="noreferrer">0288d5f</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      ubifs: Simplify the code using ubifs_crc_node
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/a110f94267...cfd4039213" rel="noreferrer">50 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>Hyperacute Interdynamics</title>
+<link>https://xkcd.com/3178/</link>
+<guid isPermaLink='false'>cdd10dc71935cf8aefc9c447d8c7ab8f204f7141</guid>
+<pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
+<author>xkcd.com</author>
+<description><![CDATA[<img alt="Our models fall apart where the three theories overlap; we're unable to predict what happens when a nanometer-sized squirrel eats a grapefruit with the mass of the sun." src="https://imgs.xkcd.com/comics/hyperacute_interdynamics.png" title="Our models fall apart where the three theories overlap; we're unable to predict what happens when a nanometer-sized squirrel eats a grapefruit with the mass of the sun." />]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/c2f2b01b74...a110f94267</link>
+<guid isPermaLink='false'>b803105732d9cd09ed4ac9135b0a7ca461b8e291</guid>
+<pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · December 8, 2025 21:54
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/ivoszbg" rel="noreferrer"><img alt="@ivoszbg" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/43310844?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/9be3b7bb7ddd4e8ed466f41c6f43de34424aeb8c" rel="noreferrer">9be3b7b</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      dt-bindings: pinctrl: samsung: add exynos8890 compatible
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/ivoszbg" rel="noreferrer"><img alt="@ivoszbg" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/43310844?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/f416d35e6522f0c08d4e866e5d6930bfd504e645" rel="noreferrer">f416d35</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      dt-bindings: pinctrl: samsung: add exynos8890-wakeup-eint compatible
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/c2f2b01b74...a110f94267" rel="noreferrer">242 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
 <item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/ba65a4e712...c2f2b01b74</link>
@@ -1746,132 +1888,6 @@
 </div></div>]]></description>
 </item>
 <item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/2aa680df68...fa5ef10561</link>
-<guid isPermaLink='false'>383930a89263070fbd4b2d498ae5aa87177794f5</guid>
-<pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · December 4, 2025 19:27
-      </span>
-
-        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/jthiesatgoogle" rel="noreferrer"><img alt="@jthiesatgoogle" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/97930888?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/e4ee0bb077cd7d70207647a0106f6ea6a74c2636" rel="noreferrer">e4ee0bb</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      platform/chrome: cros_usbpd_notify: defer probe when parent EC driver…
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/broonie" rel="noreferrer"><img alt="@broonie" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/2903?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/3d66d3dbd514c8b6018d65bb413c5e92af6516f6" rel="noreferrer">3d66d3d</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Merge existing fixes from spi/for-6.18 into new branch
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/2aa680df68...fa5ef10561" rel="noreferrer">244 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/6dfafbd029...2aa680df68</link>
-<guid isPermaLink='false'>45e99ee48e3e2e7bf4a052cad95a3d0ed8f960e9</guid>
-<pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · December 4, 2025 18:30
-      </span>
-
-        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/bardliao" rel="noreferrer"><img alt="@bardliao" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/8856808?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/2b92b98cc4765fbb0748742e7e0dd94d15d6f178" rel="noreferrer">2b92b98</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      ASoC: SOF: Don't print the monolithic topology name if function topol…
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/bardliao" rel="noreferrer"><img alt="@bardliao" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/8856808?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/d25de16477657f9eddd4be9abd409515edcc3b9e" rel="noreferrer">d25de16</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      ASoC: soc-acpi: make some variables of acpi adr and link adr non-const
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/6dfafbd029...2aa680df68" rel="noreferrer">777 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
 <title>Inverted Catenaries</title>
 <link>https://xkcd.com/3176/</link>
 <guid isPermaLink='false'>2026a60c9cfd6fbfd266d57e36347aadae4d7575</guid>
@@ -1894,23 +1910,6 @@
 <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
 <author>xkcd.com</author>
 <description><![CDATA[<img alt="Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!" src="https://imgs.xkcd.com/comics/website_task_flowchart.png" title="Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!" />]]></description>
-</item>
-<item>
-<title>是罪人，还是功臣？撒切尔究竟有几分功，几分过？【历史调研室87】</title>
-<link>https://www.bilibili.com/video/BV1NZSvBNExC</link>
-<guid isPermaLink='false'>274309822edb626cd39834b750ff842d93e3ee72</guid>
-<pubDate>Sun, 30 Nov 2025 10:48:08 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/13ea5a064676104975c00a67bd1f89a186605047.jpg" /><br />  求关注、求三连~
-参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>Bridge Clearance</title>
-<link>https://xkcd.com/3174/</link>
-<guid isPermaLink='false'>13b505a75e5fcffcdb883c36170109f6d0d781f9</guid>
-<pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
-<author>xkcd.com</author>
-<description><![CDATA[<img alt="A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead." src="https://imgs.xkcd.com/comics/bridge_clearance.png" title="A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead." />]]></description>
 </item>
 <item>
 <title>The Kennedy Coincidences</title>
@@ -1977,14 +1976,6 @@ Island footage by WalkingKooka on wikicommons]]></description>
 <pubDate>Tue, 11 Nov 2025 21:35:35 GMT</pubDate>
 <author>Vsauce</author>
 <description><![CDATA[songs (in order) all by @jakechudnow : Moon Men, Bad Lands and Buffalo Trails, Moan]]></description>
-</item>
-<item>
-<title>最会讲段子的美国总统，从一贫如洗到入主白宫【历史调研室86】</title>
-<link>https://www.bilibili.com/video/BV1AokkBeE2b</link>
-<guid isPermaLink='false'>cb0015dcf98259c9515a2be55a2c6f0a6ec0b139</guid>
-<pubDate>Tue, 11 Nov 2025 09:49:04 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/be2ffb7882ce56b439666801253c6f824fd0fdbd.jpg" /><br />]]></description>
 </item>
 <item>
 <title>An "Anisosquaric" Rectangle</title>
@@ -2060,15 +2051,6 @@ Website: https://www.3blue1brown.com]]></description>
 <description><![CDATA[🥤 https://www.curiositybox.com 🥤]]></description>
 </item>
 <item>
-<title>一个被憎恨的女人，最初为何能成为英国首相？【历史调研室85】</title>
-<link>https://www.bilibili.com/video/BV1xV1MB1Exb</link>
-<guid isPermaLink='false'>d65d0c4db57a1bcdac19bf6f1e29a6f7fd30892d</guid>
-<pubDate>Fri, 31 Oct 2025 10:59:41 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/37c1c1a5dc5519e26a178e01028ac4341b92f8e6.jpg" /><br />  参考资料、视频素材、BGM在视频结尾
-求关注求三连～]]></description>
-</item>
-<item>
 <title>The g-Effect</title>
 <link>https://www.youtube.com/shorts/tFvmwsQgvwc</link>
 <guid isPermaLink='false'>b6dc1a43daad9bce67154a2d9e86fdfeeefdbae1</guid>
@@ -2083,20 +2065,6 @@ Website: https://www.3blue1brown.com]]></description>
 <pubDate>Mon, 27 Oct 2025 22:54:38 GMT</pubDate>
 <author>Vsauce</author>
 <description><![CDATA[]]></description>
-</item>
-<item>
-<title>I Made A Slap Bracelet For Time Travelers</title>
-<link>https://www.youtube.com/shorts/tgyZwxPHdgY</link>
-<guid isPermaLink='false'>24912f3a0500b7292ceb2efb9ba577bebe968cde</guid>
-<pubDate>Fri, 24 Oct 2025 20:27:43 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[(you also get two other slap bracelets in this season's box: one's a ruler and the other is a π tape). https://www.curiositybox.com/
-
-ALL SONGS BY JAKE CHUDNOW:
-0:00 - 0:13 "Half A Dozen Bullets"
-0:15 - 0:47 "Towers and Tourists"
-0:40 - 1:00 "Sunday July 20th (Instrumental)
-1:00 - end "It's Good To Be D"]]></description>
 </item>
 <item>
 <title>The dynamics of e^(πi)</title>
@@ -2156,14 +2124,6 @@ Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
 </item>
 <item>
-<title>二十年壮志，终陷雪与火。拿破仑的英雄末路【历史调研室84】</title>
-<link>https://www.bilibili.com/video/BV1RL4czLEXz</link>
-<guid isPermaLink='false'>24b29f484c6809fc3ce3eb63e405e7ba20e39c6b</guid>
-<pubDate>Sat, 11 Oct 2025 10:24:47 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/6b4f1ca1c0a071251fdbb3eaa96c85e8fc2fe9d1.jpg" /><br />]]></description>
-</item>
-<item>
 <title>The Physics of Euler's Formula | Laplace Transform Prelude</title>
 <link>https://www.youtube.com/watch?v=-j8PzkZ70Lg</link>
 <guid isPermaLink='false'>09e22945d512e15775a91c00dd29ab307e38af7d</guid>
@@ -2203,15 +2163,6 @@ Reddit: https://www.reddit.com/r/3blue1brown
 Facebook: https://www.facebook.com/3blue1brown
 Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
-</item>
-<item>
-<title>“他背叛了所有人，但唯独没有背叛法兰西”【历史调研室83】</title>
-<link>https://www.bilibili.com/video/BV17En1z8EyB</link>
-<guid isPermaLink='false'>ed011400dbaee3704880d37432058e6c2fd8678d</guid>
-<pubDate>Tue, 30 Sep 2025 10:53:58 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/a392838b81378443f671057bc481c16f595052dd.jpg" /><br />  求关注、求三连～
-参考资料、视频素材、BGM在视频结尾]]></description>
 </item>
 <item>
 <title>What was Euclid really doing? | Guest video by Ben Syversen</title>
@@ -2281,14 +2232,6 @@ Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
 </item>
 <item>
-<title>17天！拿破仑攻占柏林，粉碎普鲁士神话【历史调研室82】</title>
-<link>https://www.bilibili.com/video/BV1XiHYzpEMN</link>
-<guid isPermaLink='false'>f28f79ece4587046312adb22d78d078d0668a466</guid>
-<pubDate>Thu, 11 Sep 2025 10:43:51 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/ef5f6ea5a7987bcf59cde77b1a0d5c4077ad0a57.jpg" /><br />]]></description>
-</item>
-<item>
 <title>Incomplete open cubes</title>
 <link>https://www.youtube.com/shorts/1lZpowy21Gc</link>
 <guid isPermaLink='false'>85b3ece90e3ea0e4b09a36701b96584823b5f1dc</guid>
@@ -2352,15 +2295,6 @@ Reddit: https://www.reddit.com/r/3blue1brown
 Facebook: https://www.facebook.com/3blue1brown
 Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
-</item>
-<item>
-<title>国王被砍头，冤不冤？路易十六与法国大革命【历史调研室81】</title>
-<link>https://www.bilibili.com/video/BV1WHaGzzEuN</link>
-<guid isPermaLink='false'>d827e7b304ba292c8e8fc14fc9b2c7aebb1ccc4a</guid>
-<pubDate>Sun, 31 Aug 2025 11:05:08 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/44e8d0e5ce5b5ab27d39f2de79442be4ee389a06.jpg" /><br />  求关注求三连~
-参考资料、视频素材、BGM在视频结尾]]></description>
 </item>
 <item>
 <title>Simulating and understanding phase change | Guest video by Vilas Winstein</title>
@@ -2459,23 +2393,6 @@ Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
 </item>
 <item>
-<title>拿破仑的封神之战！三皇聚首，然后：一打二【历史调研室80】</title>
-<link>https://www.bilibili.com/video/BV1g2b5zJEes</link>
-<guid isPermaLink='false'>471132112200d8d433c3fc44c194dc6078c26c9b</guid>
-<pubDate>Mon, 11 Aug 2025 11:30:51 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/0f8c5ab1e9857e26e0a06f4fa555141cd1914d91.jpg" /><br />]]></description>
-</item>
-<item>
-<title>课本里的化学之父，为什么被送上断头台？【历史调研室79】</title>
-<link>https://www.bilibili.com/video/BV1CN82zhERE</link>
-<guid isPermaLink='false'>bdd29930e645fc4fa58a3c3c08f04eb65b2ecaba</guid>
-<pubDate>Thu, 31 Jul 2025 11:24:51 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/f6928b191fc70c654763e226a35e0d6428893630.jpg" /><br />  求关注求三连～
-参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
 <title>But how do AI images and videos actually work? | Guest video by Welch Labs</title>
 <link>https://www.youtube.com/watch?v=iv-5mZ_9CPY</link>
 <guid isPermaLink='false'>460984bbb4781b33dc4cb494a7ef445bbe69d6c2</guid>
@@ -2542,48 +2459,6 @@ At 30:30, the unconditional t=1 vector field looks a bit different from what it 
 
 
 Premium Beat Music ID: EEDYZ3FP44YX8OWT]]></description>
-</item>
-<item>
-<title>凭什么称帝？拿破仑对法国的贡献有多大【历史调研室78】</title>
-<link>https://www.bilibili.com/video/BV1AvGJz5E9k</link>
-<guid isPermaLink='false'>61cd072f443e2302c0863d4cb935cbee0e7e6265</guid>
-<pubDate>Tue, 08 Jul 2025 09:39:43 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/834f9ab0a91b6123b7d62bf4ee7a5bc9b6c4d90d.jpg" /><br />]]></description>
-</item>
-<item>
-<title>最可悲的皇帝，从雄心万丈到耻辱被俘【历史调研室77】</title>
-<link>https://www.bilibili.com/video/BV1AngkzKEvX</link>
-<guid isPermaLink='false'>5c1ecfeb2f6ca962d2772afb19a00481ea87205e</guid>
-<pubDate>Mon, 30 Jun 2025 09:46:54 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/c7406ae594cf7b9a257932a500b8e74ee7f100ba.jpg" /><br />  求关注、求三连～
-参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>孤军远征的史诗！拿破仑千里突进，剑指敌国首都【历史调研室76】</title>
-<link>https://www.bilibili.com/video/BV1LuTXzkExw</link>
-<guid isPermaLink='false'>a2e22709806e0e5ca5f23fff5208475430085dc3</guid>
-<pubDate>Sun, 08 Jun 2025 10:47:51 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/6c553ca4150af58ec5545600923bd515cc829304.jpg" /><br />]]></description>
-</item>
-<item>
-<title>政变总统，民选皇帝，法国工业革命的推动者：拿破仑三世【历史调研室75】</title>
-<link>https://www.bilibili.com/video/BV1a57NzFEn4</link>
-<guid isPermaLink='false'>73b933dd84ff3d75eaebe5e94c08dacd07181d97</guid>
-<pubDate>Sat, 31 May 2025 09:10:09 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/f69e5d8c051f3a68737f1379bb9172770d994f59.jpg" /><br />  求关注求三连~
-参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>16岁少尉,26岁方面军总司令,青年拿破仑有多逆天？【历史调研室74】</title>
-<link>https://www.bilibili.com/video/BV1YD5TzaEHN</link>
-<guid isPermaLink='false'>56651f265616b9830d0de837b63cb95f0d23330a</guid>
-<pubDate>Thu, 08 May 2025 10:53:24 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/9ee17d1e79af50ebf7a6f557d22f930b3e914420.jpg" /><br />]]></description>
 </item>
 <item>
 <title>Where my explanation of Grover’s algorithm failed</title>
@@ -2700,137 +2575,6 @@ Website: https://www.3blue1brown.com]]></description>
 <pubDate>Wed, 30 Apr 2025 12:32:13 GMT</pubDate>
 <author>3Blue1Brown</author>
 <description><![CDATA[Full video: https://youtu.be/RQWpF2Gb-gU]]></description>
-</item>
-<item>
-<title>从囚徒到总统！拿破仑死后,他的侄子如何问鼎法国？【历史调研室73】</title>
-<link>https://www.bilibili.com/video/BV1nAG9zPEGk</link>
-<guid isPermaLink='false'>0b33e4fc9c1fa0e7b2371473c4dbb90943672467</guid>
-<pubDate>Wed, 30 Apr 2025 10:05:39 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/6e2746d0940fc6503da66aa381601e1dce23abd8.jpg" /><br />  求关注求三连~
-参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>打完天下后，如何守天下？俾斯麦的二十年外交棋局【历史调研室72】</title>
-<link>https://www.bilibili.com/video/BV15HdHYeExE</link>
-<guid isPermaLink='false'>8dc32971bc3921f447b65ac6bc067baa88f85183</guid>
-<pubDate>Tue, 08 Apr 2025 08:58:30 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/13927e137fb2026fb2a066060b791a821f53d515.jpg" /><br />]]></description>
-</item>
-<item>
-<title>震撼世界的72天：巴黎公社为何爆发？又为何失败？【历史调研室71】</title>
-<link>https://www.bilibili.com/video/BV1BtZJYBE4G</link>
-<guid isPermaLink='false'>bf93684d75cecad6d30b5b4c7a2a48068fa0e1a5</guid>
-<pubDate>Mon, 31 Mar 2025 11:04:18 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/4a760f3323a516690bc1a37a6d8b6e85bfc781b0.jpg" /><br />  参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>击败法兰西雄狮，在凡尔赛宫加冕。俾斯麦的战争艺术【历史调研室70】</title>
-<link>https://www.bilibili.com/video/BV13ARWYhEGA</link>
-<guid isPermaLink='false'>7f5b20e64cda5ea1b55da8241e56afefa165539b</guid>
-<pubDate>Sat, 08 Mar 2025 09:51:59 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/3cad75aa609d55eef039fb3ef4987ce392cebacd.jpg" /><br />]]></description>
-</item>
-<item>
-<title>亲手葬送德意志帝国的末代皇帝，一战元凶之一：威廉二世【历史调研室69】</title>
-<link>https://www.bilibili.com/video/BV1Yg9GYAExg</link>
-<guid isPermaLink='false'>f1a6a341af8d2c23d1a12b0f63070a7ab9d5a39e</guid>
-<pubDate>Fri, 28 Feb 2025 09:34:28 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/922111cc6701b7a6bc45c631c3fd7f92ca3da95a.jpg" /><br />  求关注求三连~
-参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>重构欧洲版图的外交天才，用铁与血铸就德国统一之路【历史调研室68】</title>
-<link>https://www.bilibili.com/video/BV1NoNgeVEhx</link>
-<guid isPermaLink='false'>9f50293ffeb7d7d438e90c681165c0e598bf876c</guid>
-<pubDate>Sat, 08 Feb 2025 10:55:12 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/12625341f633bd339224b0e4ee2f28c4d60a770d.jpg" /><br />  参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>从帝国巅峰到战败深渊，他的致命抉择改变了德国【历史调研室67】</title>
-<link>https://www.bilibili.com/video/BV14WFQeEEjb</link>
-<guid isPermaLink='false'>8882310cfe366c305053b1cd4610f5455b7b2433</guid>
-<pubDate>Fri, 31 Jan 2025 08:58:59 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/97455bb1a134fa3b809054098903c22474571a66.jpg" /><br />  求关注求三连~参考资料、视频素材、BGM在视频结尾。]]></description>
-</item>
-<item>
-<title>尼赫鲁为何要挑衅中国？一场改变印度国运的战争【历史调研室66】</title>
-<link>https://www.bilibili.com/video/BV1GprQY5EVs</link>
-<guid isPermaLink='false'>04d8971427b7a3f244db1382297ac4fde19b458c</guid>
-<pubDate>Tue, 07 Jan 2025 12:35:06 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/1da38c138f99607d84b4ee3f7b774af9ff06e970.jpg" /><br />  参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>要想在印度发起一场武装革命有多难？【历史调研室65】</title>
-<link>https://www.bilibili.com/video/BV1Gj6EYjETS</link>
-<guid isPermaLink='false'>60e072751fcea56ad4b9292c9798c09002ee1af6</guid>
-<pubDate>Tue, 31 Dec 2024 03:04:11 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/a890c4b9565609a9096967155736c3fe3eade0e4.jpg" /><br />  求关注求三连~
-参考资料、视频素材、BGM在视频结尾。]]></description>
-</item>
-<item>
-<title>在挑衅中国之前,他的确算个大人物。尼赫鲁的前半生【历史调研室64】</title>
-<link>https://www.bilibili.com/video/BV1gGiyYgEhL</link>
-<guid isPermaLink='false'>7bbb6ea3d3b69d74885dca48c15da8ee86c89df9</guid>
-<pubDate>Sat, 07 Dec 2024 07:11:28 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/5c7409a1a98a2e5887ef791116a506c55e642df0.jpg" /><br />]]></description>
-</item>
-<item>
-<title>是蠢货还是天才？甘地和他的非暴力抵抗运动【历史调研室63】</title>
-<link>https://www.bilibili.com/video/BV1KBzEYMEmo</link>
-<guid isPermaLink='false'>2ae686ee9359c1a834a136761a7e0eb35ac1f85c</guid>
-<pubDate>Sat, 30 Nov 2024 06:27:53 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/c4dfea9450338ccc779e808bbc548240fed52dfb.jpg" /><br />  参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>他煽动了无数人走向战争，最后又杀死了自己的孩子：戈培尔（下）历史调研室【62】</title>
-<link>https://www.bilibili.com/video/BV1AXDSYEEbm</link>
-<guid isPermaLink='false'>03395a4f2890f13adc0497b7c1710e8fc886934e</guid>
-<pubDate>Thu, 07 Nov 2024 10:03:42 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/2519ea615b8144378f43a41cfb059d5c52bfe57e.jpg" /><br />  参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>从巅峰到毁灭，二战中德国空军都经历了什么？戈林（下）【历史调研室61】</title>
-<link>https://www.bilibili.com/video/BV1L1SJYmEg9</link>
-<guid isPermaLink='false'>588987d0244554e39bdbd65b28c58fcb03f75269</guid>
-<pubDate>Thu, 31 Oct 2024 10:41:09 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/eebc0c42c8cd448f1cc2c6edb165eb30b5637028.jpg" /><br />  求关注求三连！参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>一个人，怎么才能控制千万人的思想？戈培尔（中）【历史调研室60】</title>
-<link>https://www.bilibili.com/video/BV1gu11YeEPC</link>
-<guid isPermaLink='false'>c30169c1ebd2b58a666fbdd9cae6fa1876b41671</guid>
-<pubDate>Mon, 07 Oct 2024 08:32:23 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/8a0049eff2129a2f5498914c05b4abe4f0f387a7.jpg" /><br />  参考资料、视频素材、BGM在视频结尾。]]></description>
-</item>
-<item>
-<title>纽伦堡审判的头号战犯，抓经济、建空军、搞外交：戈林（中）【历史调研室59】</title>
-<link>https://www.bilibili.com/video/BV1kuxpexEw5</link>
-<guid isPermaLink='false'>e5548779d3891fa1aafb2508e3e8e117a009ce69</guid>
-<pubDate>Mon, 30 Sep 2024 09:30:00 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/1bfcfb6439b5760fd96086fa9f2f522bb62cad99.jpg" /><br />  参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>最可怕的宣传家，他蛊惑了整个德国：戈培尔（上）【历史调研室58】</title>
-<link>https://www.bilibili.com/video/BV1QYp4eyEyK</link>
-<guid isPermaLink='false'>8578b58e07b6bdb9e00dd5f19988dbc7883d3256</guid>
-<pubDate>Sat, 07 Sep 2024 09:52:36 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/835dedbb9cad4d9ebb0323f9b9ecb5f0487823d9.jpg" /><br />]]></description>
 </item>
 </channel>
 </rss>
