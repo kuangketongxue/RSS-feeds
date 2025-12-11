@@ -4,7 +4,398 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Wed, 10 Dec 2025 03:27:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 Dec 2025 03:29:28 GMT</lastBuildDate>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/1de741159b...8c8081cc59</link>
+<guid isPermaLink='false'>61e73ab2c8629b3ea5597f2b6011ca85f4cab84d</guid>
+<pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · December 11, 2025 01:00
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/5a470c0b76336355414c7aea179a343e96f8d8af6c632b7b250deaaf77a78aa6/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f35343264653139613662646630386564383339643234656434383532626262393f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/e1f2e77624dbc35f317efd7e092aa91f7136f3f9" rel="noreferrer">e1f2e77</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      spi: cadence-qspi: Fix runtime PM imbalance in probe
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/674789e7025743854c913f495845cc6e3813f77a486e44714bf813d50c9375eb/68747470733a2f2f322e67726176617461722e636f6d2f6176617461722f36313361616231306664353933393931343266343661633138363633653034303f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/84c8097e677478b64e10b6e44e3857eb0f02ba68" rel="noreferrer">84c8097</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      regulator: check the return value of gpiod_set_value_cansleep()
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/1de741159b...8c8081cc59" rel="noreferrer">5 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/0723a166d1...1de741159b</link>
+<guid isPermaLink='false'>f1451e473556681555ddb8576761f9d1c75a3fd8</guid>
+<pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · December 11, 2025 00:11
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/hygoni" rel="noreferrer"><img alt="@hygoni" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/50040414?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/0f35040de59371ad542b915d7b91176c9910dadc" rel="noreferrer">0f35040</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      mm/slab: introduce kvfree_rcu_barrier_on_cache() for cache destruction
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/1de741159bbb187c8018c4c779acde4ea0188478" rel="noreferrer">1de7411</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      Merge tag 'slab-for-6.19-rc1' of git://git.kernel.org/pub/scm/linux/k…
+                    </blockquote>
+                  </div>
+                </li>
+
+
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>Would You Like A TRIPLE Entendre?</title>
+<link>https://www.youtube.com/shorts/UrM6ugyzeC8</link>
+<guid isPermaLink='false'>154cd85c2a15588f1a704aa83735c9a9981d16e6</guid>
+<pubDate>Wed, 10 Dec 2025 21:32:46 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>Fishing</title>
+<link>https://xkcd.com/3179/</link>
+<guid isPermaLink='false'>f7119cceb3c6b883ffdbabbd9fbd2f911f14ece1</guid>
+<pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+<author>xkcd.com</author>
+<description><![CDATA[<img alt="'That's definitely above the catch-and-release size minimum for planetesimals.' 'I'm going to throw it back anyway.'" src="https://imgs.xkcd.com/comics/fishing.png" title="'That's definitely above the catch-and-release size minimum for planetesimals.' 'I'm going to throw it back anyway.'" />]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/5c179cac05...0723a166d1</link>
+<guid isPermaLink='false'>d0b0d849acaee1f6c432d15687244b26cec51cf1</guid>
+<pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · December 10, 2025 23:53
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/hcahca" rel="noreferrer"><img alt="@hcahca" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/105453353?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/d9f59178011265344a4864757cf21523668a2a75" rel="noreferrer">d9f5917</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      s390/vmur: Use scnprintf() instead of sprintf()
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/3d1957c769dc0dc8ef40459d5f8c3dcccc594739af9d4d8564445599a4d0bfe9/68747470733a2f2f312e67726176617461722e636f6d2f6176617461722f62643864353030383839353439653161303938613165303162656531636161313f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/1442bb87b878f889442c7e8e83d9125e31ef5072" rel="noreferrer">1442bb8</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      s390/boot: Use entire page for PTEs
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/5c179cac05...0723a166d1" rel="noreferrer">12 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/0048fbb401...5c179cac05</link>
+<guid isPermaLink='false'>8956340e8b9b4cb0e64e6b7598543e7c9c0f1836</guid>
+<pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · December 10, 2025 23:09
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/KAGA-KOKO" rel="noreferrer"><img alt="@KAGA-KOKO" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/171241280?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/256d97d3587b441630c345ab3d773a9e7dcd964b" rel="noreferrer">256d97d</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      ARM: 9459/1: Disable jump-label on PREEMPT_RT
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/1ae145885789893a23607ddc3c5d822334d1a18dfe60667996cb07b0e053971b/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f36346138393639383238623965636334356139323731393331363165356136373f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/fedadc4137234c3d00c4785eeed3e747fe9036ae" rel="noreferrer">fedadc4</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      ARM: 9461/1: Disable HIGHPTE on PREEMPT_RT kernels
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/0048fbb401...5c179cac05" rel="noreferrer">10 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/2137cb863b...0048fbb401</link>
+<guid isPermaLink='false'>c408df9e05887b24ec70fc7c3dd820fb5fad7948</guid>
+<pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · December 10, 2025 08:45
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/andrealmeid" rel="noreferrer"><img alt="@andrealmeid" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/11445613?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/2d98144440f0101e6e432a748ec9f14a0f8be9e5" rel="noreferrer">2d98144</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      selftests/futex: Remove unused test_futex_mpol()
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/d9559b7ad14b033ecffb526c2ccf5164d6fe90a92712242b4195dbb32a3f8f96/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f66346130373430366462373737316439643939303666393961346234333038333f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/9407d138b8d5eff1cabceb4b3176f03191871479" rel="noreferrer">9407d13</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      selftests/futex: Add newline to ksft_exit_fail_msg()
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/2137cb863b...0048fbb401" rel="noreferrer">4 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/c9b47175e9...2137cb863b</link>
+<guid isPermaLink='false'>fc67304ac3d5394293e9d8a42da367017cf68bba</guid>
+<pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · December 10, 2025 08:03
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/ribalda" rel="noreferrer"><img alt="@ribalda" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/562331?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/295e3beead10e96c1feda7ed145113bb9191e296" rel="noreferrer">295e3be</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      Input: cyttsp5 - use %pe format specifier
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/30187654b9d465cd97683bb9f36fc8f4917269a8a099f54e35cfb4561beb51b4/68747470733a2f2f312e67726176617461722e636f6d2f6176617461722f34653761303661643562613832343336633034643439373930613330313965363f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/5455d21d2e2d449467a0786b6c76ba2294562a33" rel="noreferrer">5455d21</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      dt-bindings: touchscreen: rename maxim,max11801.yaml to trivial-touch…
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/c9b47175e9...2137cb863b" rel="noreferrer">20 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
 <item>
 <title>The 852655 Mystery</title>
 <link>https://www.youtube.com/shorts/ti8ZdImveB0</link>
@@ -390,24 +781,6 @@
   </div>
 </div>
 </div></div>]]></description>
-</item>
-<item>
-<title>乌兹别克棉花案是如何结束的？【神奇组织44】</title>
-<link>https://www.bilibili.com/video/BV1ne2rBPEYi</link>
-<guid isPermaLink='false'>e03d5156119c41e370e2065a55bde5cf61c792c4</guid>
-<pubDate>Mon, 08 Dec 2025 09:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/d4147fe7898512968c1487a85f55d08811f6626f.jpg" /><br />  本篇为神奇组织特别篇之苏联大案调查：乌兹别克棉花案（四）。
-
-参考资料：
-格德良和尼古拉·伊万诺夫2001年出版《克里姆林宫案》
-卡利尼琴科2002年出版《1400亿案，或者是调查员的7060天》
-列昂尼德·米哈伊洛维奇·姆列钦2009年出版《戈尔巴乔夫和叶利钦：革命、改革和反革命》
-《政治局腐败：红色乌兹别克斯坦案》
-1988年苏联《农村青年》杂志文章《聋人的阴谋》
-费多尔·拉扎科夫2019年出版《拯救拉希多夫：克格勃踢足球》
-谢尔盖·霍罗多夫2021年出版《20世纪俄罗斯国家犯罪和经济犯罪史》
-谢尔盖]]></description>
 </item>
 <item>
 <title>Hyperacute Interdynamics</title>
@@ -968,14 +1341,6 @@
 </div></div>]]></description>
 </item>
 <item>
-<title>【科技补全79】腾讯QQ发现严重安全漏洞；豆包推出豆包手机助手；DeepSeek发布DeepSeek-V3.2；</title>
-<link>https://www.bilibili.com/video/BV1xS2WBFEBC</link>
-<guid isPermaLink='false'>9e79073068e3dd76596568f75eb8ab100078759a</guid>
-<pubDate>Sat, 06 Dec 2025 10:40:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/8a8b25c65f5538dbdd18becb3d4d5cf2b493250b.jpg" /><br />]]></description>
-</item>
-<item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/cc3ee4ba57...c06c303832</link>
 <guid isPermaLink='false'>31c849d7582eb6c384f687a9318a1b299edc95ff</guid>
@@ -1529,69 +1894,6 @@
 </div></div>]]></description>
 </item>
 <item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/7203ca412f...87c9e88ac4</link>
-<guid isPermaLink='false'>cb80a9c552be22ef884138f3bb757d47bd9dfc64</guid>
-<pubDate>Sat, 06 Dec 2025 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · December 6, 2025 00:17
-      </span>
-
-        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/joannekoong" rel="noreferrer"><img alt="@joannekoong" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/13632558?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/bd5603eaae0aabf527bfb3ce1bb07e979ce5bd50" rel="noreferrer">bd5603e</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      fuse: fix readahead reclaim deadlock
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/cding-ddn" rel="noreferrer"><img alt="@cding-ddn" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/218039541?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/6e0d7f7f4a43ac8868e98c87ecf48805aa8c24dd" rel="noreferrer">6e0d7f7</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      fuse: missing copy_finish in fuse-over-io-uring argument copies
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/7203ca412f...87c9e88ac4" rel="noreferrer">83 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
 <title>2 Inertia Tricks</title>
 <link>https://www.youtube.com/shorts/4HbYUB1J1io</link>
 <guid isPermaLink='false'>cae9676244915f52d405217353585c11987bc6d4</guid>
@@ -1600,342 +1902,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title>如何扳倒勋宗大驸马？【神奇组织43】</title>
-<link>https://www.bilibili.com/video/BV1gd28BnETG</link>
-<guid isPermaLink='false'>bfecc22d7608de1d65b10178aeec68651de00ef1</guid>
-<pubDate>Fri, 05 Dec 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/ff53a6a6584ea02695fa69cf222b58cf78911ae2.jpg" /><br />  本篇为神奇组织特别篇之苏联大案调查：乌兹别克棉花案（三）。
-
-参考资料：
-格德良和尼古拉·伊万诺夫2001年出版《克里姆林宫案》
-卡利尼琴科2002年出版《1400亿案，或者是调查员的7060天》
-列昂尼德·米哈伊洛维奇·姆列钦2009年出版《戈尔巴乔夫和叶利钦：革命、改革和反革命》
-《政治局腐败：红色乌兹别克斯坦案》
-1988年苏联《农村青年》杂志文章《聋人的阴谋》
-费多尔·拉扎科夫2019年出版《拯救拉希多夫：克格勃踢足球》
-谢尔盖·霍罗多夫2021年出版《20世纪俄罗斯国家犯罪和经济犯罪史》
-谢尔盖]]></description>
-</item>
-<item>
 <title>Chessboard Alignment</title>
 <link>https://xkcd.com/3177/</link>
 <guid isPermaLink='false'>79b1a419a923e458e4c130cf6cb99708a37665ae</guid>
 <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
 <author>xkcd.com</author>
 <description><![CDATA[<img alt="Luckily, the range is limited by the fact that the square boundary lines follow great circles." src="https://imgs.xkcd.com/comics/chessboard_alignment.png" title="Luckily, the range is limited by the fact that the square boundary lines follow great circles." />]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/d1d36025a6...7203ca412f</link>
-<guid isPermaLink='false'>a2b293d8bc37c2ecafd8db24693e17a8d87ccf59</guid>
-<pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · December 5, 2025 22:14
-      </span>
-
-        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/Joelgranados" rel="noreferrer"><img alt="@Joelgranados" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/356364?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/18c4e028847092003c11f824796d1309bc01cd69" rel="noreferrer">18c4e02</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      watchdog: move nmi_watchdog sysctl into .rodata
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/rddunlap" rel="noreferrer"><img alt="@rddunlap" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/6256363?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/74a7b4f18396f07e87c7fda5c19d1fcfb8c1dd44" rel="noreferrer">74a7b4f</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      sysctl: fix kernel-doc format warning
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/d1d36025a6...7203ca412f" rel="noreferrer">344 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/2061f18ad7...d1d36025a6</link>
-<guid isPermaLink='false'>c4cf59590fe8e6801829ec43e6f8cf1f05ec8a38</guid>
-<pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · December 5, 2025 19:00
-      </span>
-
-        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/b692ea306c8389edaad19df4862d03d179b6369d1e76736717fb6d6473e5b140/68747470733a2f2f312e67726176617461722e636f6d2f6176617461722f34343665663763663439646530643832643638656466376136343932343161343f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/b692553573683b9e4ebab40c2782a3163f984cfd" rel="noreferrer">b692553</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      pstore/ram: Update module parameters from platform data
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/rostedt" rel="noreferrer"><img alt="@rostedt" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1039303?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/b055f4c431e3d0e0508b7541d7c3fa2f9cd2e0ab" rel="noreferrer">b055f4c</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      sorttable: Move ELF parsing into scripts/elf-parse.[ch]
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/2061f18ad7...d1d36025a6" rel="noreferrer">108 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/deb879faa9...2061f18ad7</link>
-<guid isPermaLink='false'>fbd57f90d983980e3d75e1605586d120788f03e0</guid>
-<pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · December 5, 2025 04:17
-      </span>
-
-        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/hallyn" rel="noreferrer"><img alt="@hallyn" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1359441?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/9891d2f79a9fe9b77ad290f950eb8fa3e375330e" rel="noreferrer">9891d2f</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Clarify the rootid_owns_currentns
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/2061f18ad76ecaddf8ed17df81b8611ea88dbddd" rel="noreferrer">2061f18</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Merge tag 'caps-pr-20251204' of git://git.kernel.org/pub/scm/linux/ke…
-                    </blockquote>
-                  </div>
-                </li>
-
-
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/bc69ed9752...deb879faa9</link>
-<guid isPermaLink='false'>4a3c25a674310d7f772db6d31630a5f58d200398</guid>
-<pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · December 5, 2025 03:47
-      </span>
-
-        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/luyunlineswincomputing" rel="noreferrer"><img alt="@luyunlineswincomputing" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/208442186?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/c9d869fb29d3844ec6a48b1255d6ad582309011f" rel="noreferrer">c9d869f</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      dt-bindings: ata: eswin: Document for EIC7700 SoC ahci
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/toblux" rel="noreferrer"><img alt="@toblux" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/308689?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/4ea303d9e9862ff8bd3707f67b267646b8ffd3ec" rel="noreferrer">4ea303d</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      ata: pata_it821x: Replace deprecated strcpy with strscpy in it821x_di…
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/bc69ed9752...deb879faa9" rel="noreferrer">45 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/43dfc13ca9...bc69ed9752</link>
-<guid isPermaLink='false'>23f86b3e83b0036775d078c70318da31b0b8c783</guid>
-<pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · December 5, 2025 03:02
-      </span>
-
-        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/aloktiwa" rel="noreferrer"><img alt="@aloktiwa" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/70896917?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/cfd51fcf117157df8fb1ff0552d2fac909bdfc3d" rel="noreferrer">cfd51fc</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      RDMA/cxgb4: fix typo in write_pbl() debug message
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/metze-samba" rel="noreferrer"><img alt="@metze-samba" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/17027612?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/879424832d241001e288cc741ed8a9253387a34a" rel="noreferrer">8794248</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      RDMA/core: let rdma_connect_locked() call lockdep_assert_held(&amp;id_pri…
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/43dfc13ca9...bc69ed9752" rel="noreferrer">279 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
 </item>
 <item>
 <title>We Recreated The Oldest Surviving Globe</title>
@@ -1960,22 +1932,6 @@
 <pubDate>Mon, 01 Dec 2025 20:11:44 GMT</pubDate>
 <author>Vsauce</author>
 <description><![CDATA[]]></description>
-</item>
-<item>
-<title>Website Task Flowchart</title>
-<link>https://xkcd.com/3175/</link>
-<guid isPermaLink='false'>e6a333922e9781b3993f071b79dbf6d8b6af82e0</guid>
-<pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-<author>xkcd.com</author>
-<description><![CDATA[<img alt="Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!" src="https://imgs.xkcd.com/comics/website_task_flowchart.png" title="Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!" />]]></description>
-</item>
-<item>
-<title>看完暗网中的数据泄露清单，我发现保护数据安全太难了...</title>
-<link>https://www.bilibili.com/video/BV1NpUYB4ERg</link>
-<guid isPermaLink='false'>b51baee2c4ec56f4cc7e2d47d1c6631d59bbf4ff</guid>
-<pubDate>Wed, 26 Nov 2025 11:01:09 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/6a78a52d526d5e6e25bb88e321dcf8ec8a65e2a6.jpg" /><br />  ~]]></description>
 </item>
 <item>
 <title>The Kennedy Coincidences</title>
@@ -2006,14 +1962,6 @@ Available at 3b1b.co/store]]></description>
 #geometry #hypercube #fourthdimension #Shadow #zometool #math #2D #3D #4D #model]]></description>
 </item>
 <item>
-<title>我好像回到了十几年前偷偷上网的日子...</title>
-<link>https://www.bilibili.com/video/BV1PQyuB1EwU</link>
-<guid isPermaLink='false'>9295650cc09c82257405ee7dc915a2f61f876fa6</guid>
-<pubDate>Thu, 20 Nov 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/02012aab03b989bdda2866d1529e71834cd8e085.jpg" /><br />  你终于醒啦，现在是2009年]]></description>
-</item>
-<item>
 <title>The Ultimate Desert Island Book 🔥</title>
 <link>https://www.youtube.com/shorts/543gNct7rXc</link>
 <guid isPermaLink='false'>599d752d0e4fc9fa502cb51df49daf7303c53124</guid>
@@ -2024,22 +1972,6 @@ Available at 3b1b.co/store]]></description>
 song: "yo" by @jakechudnow 
 
 Island footage by WalkingKooka on wikicommons]]></description>
-</item>
-<item>
-<title>汉祚何绝——王莽和他的超自然帝国【小约翰】</title>
-<link>https://www.bilibili.com/video/BV14myuB7EPv</link>
-<guid isPermaLink='false'>a231097b53feacdcba0b59462ef06037de0c52a7</guid>
-<pubDate>Wed, 19 Nov 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/cb5d029a22cc7d60fae6bfa46acc237d220309a8.jpg" /><br />  本篇为小约翰系列之王莽。]]></description>
-</item>
-<item>
-<title>天哪，这就是传说中的cmd命令行吗？</title>
-<link>https://www.bilibili.com/video/BV1pjy3B7EG2</link>
-<guid isPermaLink='false'>8867a612755b447df0e4969dd8c4a05af6b382ef</guid>
-<pubDate>Tue, 18 Nov 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/ac7e6264b6baaeacdabcf6b9a36f3d7cbee61ae3.jpg" /><br />  用了iFlow，我也是命令行高手啦！]]></description>
 </item>
 <item>
 <title>Lashyknobongymofsilliatshelf</title>
@@ -2058,16 +1990,6 @@ Island footage by WalkingKooka on wikicommons]]></description>
 <pubDate>Thu, 13 Nov 2025 23:13:12 GMT</pubDate>
 <author>Vsauce</author>
 <description><![CDATA[]]></description>
-</item>
-<item>
-<title>ARM和x86的大战，已经蔓延到了各个领域...</title>
-<link>https://www.bilibili.com/video/BV17tCjBnE1N</link>
-<guid isPermaLink='false'>9ac64b6f8d2961088cd9e3e7de328b58bc4946a1</guid>
-<pubDate>Wed, 12 Nov 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/f59898b5eac4da3b96c806ed930aa206ffdb57a1.jpg" /><br />  性价比超过、性能表现亮眼的亚马逊云 Graviton 处理器服务器，现在新注册的用户，可以获取到亚马逊云提供的精美礼品一份，和服务抵扣金，赶快去试试吧：https://aws.amazon.com/cn/ec2/graviton/?trk=eca6e8a1-f714-43e3-a265-e9aecb4619a7&amp;sc_channel=psm
-
-*前述特定亚马逊云科技生成式人工智能相关的服务目前在亚马逊云科技海外区域可用。亚马逊云科技中国区域相关云服务由西云数据和光环新网运营，具体信息以中国区域官网为准。]]></description>
 </item>
 <item>
 <title>What's Inside My Spherical Die?</title>
@@ -2151,80 +2073,12 @@ Website: https://www.3blue1brown.com]]></description>
 <description><![CDATA[🥤 https://www.curiositybox.com 🥤]]></description>
 </item>
 <item>
-<title>左右横跳式外交之我的国家只有0.1%T【小约翰】</title>
-<link>https://www.bilibili.com/video/BV1L11vBBEsW</link>
-<guid isPermaLink='false'>15d735509990de66c6fb1d5c4b22f7a2a4c219de</guid>
-<pubDate>Tue, 04 Nov 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/85b2e462123850b59c216cbb4d3bb4012ff73d5c.jpg" /><br />  本篇为小约翰系列之圣马力诺共和国。]]></description>
-</item>
-<item>
-<title>绩效人如何种棉花？【神奇组织42】</title>
-<link>https://www.bilibili.com/video/BV1Diy8BLEvG</link>
-<guid isPermaLink='false'>f7709e82bf0a29c909b74fbe6f4eb36d4a55925a</guid>
-<pubDate>Fri, 31 Oct 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/5bb1759abc4e723c1289e4f89c5f4d57661bc6ef.jpg" /><br />  本篇为神奇组织特别篇之苏联大案调查：乌兹别克棉花案（二）。
-
-参考资料：
-格德良和尼古拉·伊万诺夫2001年出版《克里姆林宫案》
-卡利尼琴科2002年出版《1400亿案，或者是调查员的7060天》
-列昂尼德·米哈伊洛维奇·姆列钦2009年出版《戈尔巴乔夫和叶利钦：革命、改革和反革命》
-《政治局腐败：红色乌兹别克斯坦案》
-1988年苏联《农村青年》杂志文章《聋人的阴谋》
-费多尔·拉扎科夫2019年出版《拯救拉希多夫：克格勃踢足球》
-谢尔盖·霍罗多夫2021年出版《20世纪俄罗斯国家犯罪和经济犯罪史》
-谢尔盖]]></description>
-</item>
-<item>
 <title>The g-Effect</title>
 <link>https://www.youtube.com/shorts/tFvmwsQgvwc</link>
 <guid isPermaLink='false'>b6dc1a43daad9bce67154a2d9e86fdfeeefdbae1</guid>
 <pubDate>Wed, 29 Oct 2025 21:58:57 GMT</pubDate>
 <author>Vsauce</author>
 <description><![CDATA[]]></description>
-</item>
-<item>
-<title>Children's Books THAT ARE NOT For Kids</title>
-<link>https://www.youtube.com/shorts/vDtqOjpknSU</link>
-<guid isPermaLink='false'>02b66552e740007deaa63396787fa3ca3109f0be</guid>
-<pubDate>Mon, 27 Oct 2025 22:54:38 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title>工作为什么永远在开会开会开会……怎么能让开会从从容容游刃有余？</title>
-<link>https://www.bilibili.com/video/BV1KcsmzsEPU</link>
-<guid isPermaLink='false'>bfa51a55402a28bd4c8e2228bb74fd7cc2ac0140</guid>
-<pubDate>Mon, 27 Oct 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/92573a106beffae853e7a024f5d5140954debc97.jpg" /><br />  我爱开会我爱开会我爱开会我爱开会我爱开会我爱开会我爱开会我爱开会]]></description>
-</item>
-<item>
-<title>谁是乌兹别克的可汗？【神奇组织41】</title>
-<link>https://www.bilibili.com/video/BV1fps7zoE8c</link>
-<guid isPermaLink='false'>5e03fdda1c806f318f3925237fa5bdd2d391967d</guid>
-<pubDate>Fri, 24 Oct 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/a8293f05df19ca51e385094d1edea82caf282747.jpg" /><br />  本篇为神奇组织特别篇之苏联大案调查：乌兹别克棉花案（一）。
-
-参考资料：
-格德良和尼古拉·伊万诺夫2001年出版《克里姆林宫案》
-卡利尼琴科2002年出版《1400亿案，或者是调查员的7060天》
-列昂尼德·米哈伊洛维奇·姆列钦2009年出版《戈尔巴乔夫和叶利钦：革命、改革和反革命》
-《政治局腐败：红色乌兹别克斯坦案》
-1988年苏联《农村青年》杂志文章《聋人的阴谋》
-费多尔·拉扎科夫2019年出版《拯救拉希多夫：克格勃踢足球》
-谢尔盖·霍罗多夫2021年出版《20世纪俄罗斯国家犯罪和经济犯罪史》
-谢尔盖]]></description>
-</item>
-<item>
-<title>关于为了波多黎各独立去刺杀总统这件事【神奇组织40】</title>
-<link>https://www.bilibili.com/video/BV1L84XzoE2a</link>
-<guid isPermaLink='false'>4ecb63cc7ed5db304950e90cae26eae8b6b219e7</guid>
-<pubDate>Wed, 15 Oct 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/0c7a60a0d5fc0db234e92f9b05f01121e49fff0c.jpg" /><br />  本篇为神奇组织之波多黎各民族党。]]></description>
 </item>
 <item>
 <title>The dynamics of e^(πi)</title>
@@ -2284,22 +2138,6 @@ Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
 </item>
 <item>
-<title>我把互联网破梗上传给AI，结果它当场教我模仿吴京和跳只因舞</title>
-<link>https://www.bilibili.com/video/BV1xT4nzpEXh</link>
-<guid isPermaLink='false'>095b5d260a784f7abd19ac7b33ca3b3bfba2d14a</guid>
-<pubDate>Fri, 10 Oct 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/a32e00cc79544651d29a9d45e489d1da24205125.jpg" /><br />  upup，你的封面怎么这么抽象？]]></description>
-</item>
-<item>
-<title>我一直以为，高端人体工学椅就是智商税，直到...</title>
-<link>https://www.bilibili.com/video/BV177xkzwEca</link>
-<guid isPermaLink='false'>921d501e565ce88749efbd6cba74e0094bf964e4</guid>
-<pubDate>Thu, 09 Oct 2025 10:20:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/acce009ce70a6e564cceec538b82d73089b46361.jpg" /><br />  有的东西，贵确实有贵的道理...]]></description>
-</item>
-<item>
 <title>The Physics of Euler's Formula | Laplace Transform Prelude</title>
 <link>https://www.youtube.com/watch?v=-j8PzkZ70Lg</link>
 <guid isPermaLink='false'>09e22945d512e15775a91c00dd29ab307e38af7d</guid>
@@ -2339,30 +2177,6 @@ Reddit: https://www.reddit.com/r/3blue1brown
 Facebook: https://www.facebook.com/3blue1brown
 Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
-</item>
-<item>
-<title>看了这些软件，才知道现在的大学生有多幸福...</title>
-<link>https://www.bilibili.com/video/BV1XQnGzZEPM</link>
-<guid isPermaLink='false'>f31c32242d5a2e08639bbc2ae9264d98ba3a086c</guid>
-<pubDate>Fri, 26 Sep 2025 12:41:06 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/ce72f46d133d8e86b6e6ca6662828b42fd69ee89.jpg" /><br />  AI 只能起到辅助的作用，论文还是要自己来写，不能直接用 AI 生成的结果！！！]]></description>
-</item>
-<item>
-<title>我复刻了童年最恐怖的迷宫游戏， 还设计了一个好玩的摸鱼工具</title>
-<link>https://www.bilibili.com/video/BV1QhnFz9EsC</link>
-<guid isPermaLink='false'>a11d5c367b319a6fa7c723db2ad2ef7fb7f6a7e8</guid>
-<pubDate>Mon, 22 Sep 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/da3bdc5bced12302f43f5a27d82bec745a8070ef.jpg" /><br />  最近用豆包电脑版的AI编程做了很多小网页，最大的感觉就是太方便了！门槛低，效率高]]></description>
-</item>
-<item>
-<title>苏联第一主理人下场如何？【神奇组织39】</title>
-<link>https://www.bilibili.com/video/BV1yDWuzkEsv</link>
-<guid isPermaLink='false'>21f7ab72816c0410ec0b8c852452e16e6427b644</guid>
-<pubDate>Sat, 20 Sep 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/b814d455b68f76985682025f9c9e4c77603e460a.jpg" /><br />  本篇为神奇组织特别篇之苏联大案调查。]]></description>
 </item>
 <item>
 <title>What was Euclid really doing? | Guest video by Ben Syversen</title>
@@ -2430,38 +2244,6 @@ Reddit: https://www.reddit.com/r/3blue1brown
 Facebook: https://www.facebook.com/3blue1brown
 Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
-</item>
-<item>
-<title>国产模型霸榜Hugging Face，但却有严重算力问题，中国AI产业将走向何方？</title>
-<link>https://www.bilibili.com/video/BV1pVptzoEkz</link>
-<guid isPermaLink='false'>706dd406408c3cb290b640e85e46558233517494</guid>
-<pubDate>Wed, 17 Sep 2025 12:42:33 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/8826f2af81ae3d1c757b4535eb4cb77ec87054e0.jpg" /><br />  -]]></description>
-</item>
-<item>
-<title>当黑心甲方是什么感觉？体验了一下发现有点上瘾</title>
-<link>https://www.bilibili.com/video/BV1cSHSzUEyd</link>
-<guid isPermaLink='false'>12f5795d410e46b5d6d137125b9714abe2c4e4b6</guid>
-<pubDate>Thu, 11 Sep 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/7f3e6294c7212995f1e9379498a4bf11903849c3.jpg" /><br />  -]]></description>
-</item>
-<item>
-<title>我精心设计了一个流氓软件，结果看到的人都想打死我</title>
-<link>https://www.bilibili.com/video/BV1Gza9zMEW9</link>
-<guid isPermaLink='false'>9d190a0e8811860d1f760be3eded47d2cf00e44d</guid>
-<pubDate>Mon, 08 Sep 2025 10:43:16 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/8cabd5a471f5b7d724366f765793909b8380b5f5.jpg" /><br />  UXbot官网：https://www.uxbot.cn/]]></description>
-</item>
-<item>
-<title>苏联最好的商店是哪？【神奇组织38】</title>
-<link>https://www.bilibili.com/video/BV1pcY7zHE8L</link>
-<guid isPermaLink='false'>8eb69adf8c54afa3544d638c9a6bbf5de555f123</guid>
-<pubDate>Mon, 08 Sep 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/f02dfc2968ae61dbe7dd20ab5f2c17fce088763a.jpg" /><br />  本篇为神奇组织特别篇之苏联大案调查。]]></description>
 </item>
 <item>
 <title>Incomplete open cubes</title>
@@ -2576,14 +2358,6 @@ https://commons.m.wikimedia.org/wiki/File:7_Tesla_MRI_of_the_ex_vivo_human_brain
 https://commons.m.wikimedia.org/wiki/File:Axonal_nerve_fibers_in_a_brain_-_the_neural_network_that_is_us.webm]]></description>
 </item>
 <item>
-<title>如何把北极的冰块运到赤道？【神奇组织37】</title>
-<link>https://www.bilibili.com/video/BV17WvwzMETQ</link>
-<guid isPermaLink='false'>4333fd6b0a2882d70fa4ab53a7582a5a77395bfb</guid>
-<pubDate>Tue, 26 Aug 2025 03:03:21 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/d0e867e617ea7beb8c8917deece08c58167840aa.jpg" /><br />  本篇为神奇组织之格拉斯瓦特公司。]]></description>
-</item>
-<item>
 <title>How AI connects text and images</title>
 <link>https://www.youtube.com/shorts/j5h9dBtWZXM</link>
 <guid isPermaLink='false'>735b1d68a1c534e8625efa32c1606f33fec3a553</guid>
@@ -2631,42 +2405,6 @@ Reddit: https://www.reddit.com/r/3blue1brown
 Facebook: https://www.facebook.com/3blue1brown
 Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
-</item>
-<item>
-<title>决战“库班之王”【神奇组织36】</title>
-<link>https://www.bilibili.com/video/BV19ztQzRESM</link>
-<guid isPermaLink='false'>1dcff8289b6e3e97cd319f9c82707fcd380af853</guid>
-<pubDate>Tue, 12 Aug 2025 03:50:46 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/0fb1651c7514c21b6bdf4c523136dd97c9a681f0.jpg" /><br />  本篇为神奇组织特别篇之苏联大案调查。
-
-参考资料：
-卡利尼琴科1998年出版《1400亿的案件，或调查员的7060天》
-亚历山大·萨金采夫2018年出版《网与剑之下》
-尤里·索洛维特斯基2019年出版《矛盾的正义》
-戈尔巴乔夫回忆录《孤独相伴》]]></description>
-</item>
-<item>
-<title>在苏联出差有多危险？【神奇组织35】</title>
-<link>https://www.bilibili.com/video/BV1ng8yzJE43</link>
-<guid isPermaLink='false'>5d4d482f63fb8037f54148f41c5024a4968ab1bf</guid>
-<pubDate>Thu, 31 Jul 2025 10:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/5acdf1ef21e38176df841e10237c0cc68d6bc5b0.jpg" /><br />  本篇为神奇组织特别篇之苏联大案调查。
-
-参考资料：
-卡利尼琴科1998年出版《1400亿的案件，或调查员的7060天》
-亚历山大·萨金采夫2018年出版《网与剑之下》
-尤里·索洛维特斯基2019年出版《矛盾的正义》
-戈尔巴乔夫回忆录《孤独相伴》]]></description>
-</item>
-<item>
-<title>全球最环保电池——但是欧洲版【神奇组织34】</title>
-<link>https://www.bilibili.com/video/BV1NV8DzrENU</link>
-<guid isPermaLink='false'>7a7a10c6459c69a9cff19fadf349c6c84a04db2d</guid>
-<pubDate>Tue, 29 Jul 2025 02:59:12 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/438cd20898205d1e1acdf003eb8d7fbfca65d097.jpg" /><br />  本篇为神奇组织之北伏公司。]]></description>
 </item>
 <item>
 <title>But how do AI images and videos actually work? | Guest video by Welch Labs</title>
@@ -2735,271 +2473,6 @@ At 30:30, the unconditional t=1 vector field looks a bit different from what it 
 
 
 Premium Beat Music ID: EEDYZ3FP44YX8OWT]]></description>
-</item>
-<item>
-<title>当AI能时刻盯着我的电脑屏幕、读取我的软件数据...</title>
-<link>https://www.bilibili.com/video/BV1asbSznEav</link>
-<guid isPermaLink='false'>a536ca30748003d92461b6fd277e4a20a871dabe</guid>
-<pubDate>Fri, 25 Jul 2025 10:05:39 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/b3475c4f8cce3b33d78aa3532799cce2488db379.jpg" /><br />  豆包电脑版能看见东西了！随时可以查看你的屏幕，还能一边共享屏幕一边语音通话，写作、视频分析功能也更进一步]]></description>
-</item>
-<item>
-<title>在苏联吃罐头有什么后果？【神奇组织33】</title>
-<link>https://www.bilibili.com/video/BV1cbghzcETw</link>
-<guid isPermaLink='false'>a5d5c03c5fe5255a5fc3b7cb3b3828b8e0e25fdd</guid>
-<pubDate>Mon, 21 Jul 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/5dfbe183c692136a2b4a2932a1333ec79f9d178f.jpg" /><br />  片头曲《Far from any Road》，版权正在申请中。
-本篇为神奇组织特别篇之苏联大案调查。
-
-参考资料：
-卡利尼琴科2005年出版《一个调查员的7060天》
-亚历山大·兹维亚金采夫2016年出版《在网与剑之下》
-康斯坦丁·加博年科2002年《雷托夫案》
-鲍里斯·谢连诺夫等人1987年合著《调查员生活中的几天》
-卡利尼琴科1995年《调查并未结束》
-格里高利·卡拉科佐夫2013年出版《调查与权利》]]></description>
-</item>
-<item>
-<title>独家：微信bug坑人喊爸爸？我们找到了背后原因！</title>
-<link>https://www.bilibili.com/video/BV1XFuezXETm</link>
-<guid isPermaLink='false'>c8179380d0cbfee23079144fbd24460a1c94acc0</guid>
-<pubDate>Mon, 14 Jul 2025 03:06:08 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/9e3e666eb743e795bf5d56a58358f801263e96a3.jpg" /><br />  BGM:
-Anthem of the Savannah
-Jump Rope Game - Squid Game 3
-Time Flows Ever Onward]]></description>
-</item>
-<item>
-<title>我花三小时开发了一个AI，但却因为它得罪了全站up？</title>
-<link>https://www.bilibili.com/video/BV1gyGuztEKf</link>
-<guid isPermaLink='false'>89898bfdabe0e6e5a7f33e3d3b6810fac4bbeb26</guid>
-<pubDate>Thu, 10 Jul 2025 10:33:32 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/c11700175cda7e744dc0862198f106c3b09b5e4b.jpg" /><br />  MCPPPPPPPPPPPPPPPPPPPPPPPPPPPPP]]></description>
-</item>
-<item>
-<title>归义军最大谜案是什么？【小约翰】</title>
-<link>https://www.bilibili.com/video/BV14x3CzyEzz</link>
-<guid isPermaLink='false'>11040ca2f3edc40f02f75d3fbc494f8fbdecdfd3</guid>
-<pubDate>Tue, 08 Jul 2025 04:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/7a99e33ffd4f528613e92f5fbe6cb3307ad8f98f.jpg" /><br />  本篇为小约翰系列之归义军。]]></description>
-</item>
-<item>
-<title>为什么打开文件夹会那么卡？我们找到了真相！</title>
-<link>https://www.bilibili.com/video/BV1HD37zaE7p</link>
-<guid isPermaLink='false'>058c7770a1353e2f2cd8ce5e9a16c594baaff9ff</guid>
-<pubDate>Fri, 04 Jul 2025 09:14:01 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/9c8de0a584b0521458fab388c06f334a09b7ee6c.jpg" /><br />  BGM：
-Pokemon Scarlet and Violet BGM Cover Medley
-Korok Forest - Zelda TEARS OF THE KINGDOM (Violin Percussion)
-Mipha's Theme - Violin Marimba Cover (Zelda Breath of the Wild)
-Stables - Violin Percussion Cover (Zelda Tears of the Kingdom)
-Tarrey Town - Zel]]></description>
-</item>
-<item>
-<title>当手机软件拥有电脑性能。。。。。。</title>
-<link>https://www.bilibili.com/video/BV1WA3bzPEMS</link>
-<guid isPermaLink='false'>05767ec1e2610e3f282c8c578899f3c649a60ad0</guid>
-<pubDate>Wed, 02 Jul 2025 11:01:49 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/1316a377029c78d77e5ea80db14ace2d6bb26277.jpg" /><br />  安卓16上线了桌面模式，Windows有了手机模式，可以说是互相奔赴了]]></description>
-</item>
-<item>
-<title>全网爆火的动物运动会是怎么做的？一个视频告诉你！</title>
-<link>https://www.bilibili.com/video/BV1JUKzzyEMk</link>
-<guid isPermaLink='false'>0ea6d09e731befb9c5dee508b2b309ca58a48d43</guid>
-<pubDate>Sun, 29 Jun 2025 03:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/5e86108b6fbaa142f9bd241b3441cbb3040c3e17.jpg" /><br />]]></description>
-</item>
-<item>
-<title>把多个大模型强行合并到一起，会发生什么？</title>
-<link>https://www.bilibili.com/video/BV1o4KizwEZ6</link>
-<guid isPermaLink='false'>2bc1cf78b091de99af5fe7659741189b0bf28add</guid>
-<pubDate>Fri, 27 Jun 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/985820ec1a5b8f449920af3981c53bd5a6098b98.jpg" /><br />  在GitHub找mergekit项目，就可以使用啦~]]></description>
-</item>
-<item>
-<title>神经病枪手——但是黑道版【硬核狠人87】</title>
-<link>https://www.bilibili.com/video/BV1HfK3zPEHE</link>
-<guid isPermaLink='false'>c19b60ce11a973de5d8430261206127fc389436c</guid>
-<pubDate>Wed, 25 Jun 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/19055e883fd2ecfd04fff0f8f188aeca4ebf275c.jpg" /><br />  本篇为硬核狠人之约瑟夫·加洛。]]></description>
-</item>
-<item>
-<title>你必须学会的电脑AI使用技巧！体验提升200%</title>
-<link>https://www.bilibili.com/video/BV1E6N4zBEHe</link>
-<guid isPermaLink='false'>95439c655e60997c79ad369abeb5f9dbedfb571e</guid>
-<pubDate>Fri, 20 Jun 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/1457819a4b553ecce3b8f36ac0a8d477b9c1b5e4.jpg" /><br />  ~]]></description>
-</item>
-<item>
-<title>20世纪最离谱的绑架案是哪起？【神奇组织32】</title>
-<link>https://www.bilibili.com/video/BV1gqMczxEtc</link>
-<guid isPermaLink='false'>f1860b926b13318c8f9c54b07980db5d8d5e7e6b</guid>
-<pubDate>Fri, 13 Jun 2025 03:07:47 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/a8408c8822c06aeb5ea15eb41038c29c5ed6eef8.jpg" /><br />  本篇为神奇组织之意大利光荣会。
-
-参考资料：
-约翰·皮尔森1995年出版《财富之痛：让·保罗·盖蒂和他的继承人》
-拉塞尔·米勒1987年出版《让·保罗·盖蒂：令人难以置信》
-老盖蒂的自传《如我所见》
-老盖蒂秘书罗宾娜回忆录《我所知道的盖蒂》]]></description>
-</item>
-<item>
-<title>个人建议，千万不要随便用AI填报志愿！有权威数据的才靠谱...</title>
-<link>https://www.bilibili.com/video/BV1heMcztEH8</link>
-<guid isPermaLink='false'>6d3856670a79b2bf933b326e5771844945ac60b9</guid>
-<pubDate>Thu, 12 Jun 2025 11:00:57 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/e4e0c980274302470bd11eb01f19375a31d0d812.jpg" /><br />  注意，软件选志愿只能当做辅助参考结果，请综合考虑各种情况后，谨慎做出最后决定]]></description>
-</item>
-<item>
-<title>我 在 苏 联 当 翻 译【硬核狠人86】</title>
-<link>https://www.bilibili.com/video/BV1FBTtz2Eas</link>
-<guid isPermaLink='false'>f373579e1333f02e7427178087be10943c7fef06</guid>
-<pubDate>Fri, 06 Jun 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/71a8f8ca76ee6854bb3740f16d24f1f57aaffd02.jpg" /><br />  本篇为硬核狠人之苏霍德列夫。]]></description>
-</item>
-<item>
-<title>AI编程竟然是真人假扮？有时间搞抽象，不如花十分钟接入真正的AI</title>
-<link>https://www.bilibili.com/video/BV1Mh7azPEby</link>
-<guid isPermaLink='false'>3f2dbf4d0bc6f62afa73759a504a5000cf2965be</guid>
-<pubDate>Tue, 03 Jun 2025 11:23:53 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/f9c8637f6b36e6cc7e81065a0555c266a52038b3.jpg" /><br />  *前述特定亚马逊云科技生成式人工智能相关的服务目前在亚马逊云科技海外区域可用。亚马逊云科技中国区域相关云服务由西云数据和光环新网运营，具体信息以中国区域官网为准。]]></description>
-</item>
-<item>
-<title>AI编程最大的问题，很多人都不会给你说...</title>
-<link>https://www.bilibili.com/video/BV1ED7nzDEAw</link>
-<guid isPermaLink='false'>967eefeccfa08b5fa0d56ee3b31d0d7546bb519a</guid>
-<pubDate>Fri, 30 May 2025 10:10:59 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/8bbf2fde906112a9649e21711e0b347582bc6a53.jpg" /><br />  现在除了一键写代码，还能一键上线了~]]></description>
-</item>
-<item>
-<title>谁是莫洛迪的大弟子？【硬核狠人85】</title>
-<link>https://www.bilibili.com/video/BV1ex7VzREZ8</link>
-<guid isPermaLink='false'>5c91a1048c4650a2a0e06bce9f64eb59161e1c03</guid>
-<pubDate>Fri, 30 May 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/a06c1370b61b006fa6ca242c12ac9957b21e48f8.jpg" /><br />  本篇为硬核狠人之努伊金。]]></description>
-</item>
-<item>
-<title>手机本地运行PC游戏！目前的手机性能可以到什么程度？</title>
-<link>https://www.bilibili.com/video/BV1Mnj9z4Ego</link>
-<guid isPermaLink='false'>4c9596dd7f1e5a1fbc1577c4b24617608f288b1f</guid>
-<pubDate>Tue, 27 May 2025 10:40:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/7c027af0c8df3ca06e99dcf3344052f86ed28bc2.jpg" /><br />  手机一键变电脑，还能玩3A？]]></description>
-</item>
-<item>
-<title>谁能给墨索里尼刨坟？【神奇组织31】</title>
-<link>https://www.bilibili.com/video/BV1WAjUzYEHh</link>
-<guid isPermaLink='false'>7d5c0009a474d2f365796bb434f3ead1b28935c5</guid>
-<pubDate>Tue, 27 May 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/027e596b11268dd4b9ee04cb6fcf0b30928a9ed7.jpg" /><br />  本篇为神奇组织之法西斯民主党。
-
-参考资料：
-塞尔吉奥·卢扎托1998年出版《领袖之躯》
-莫斯利·雷2006年出版《墨索里尼的最后几天》
-安东尼奥·卡里奥蒂2006年出版《萨罗的孤儿》
-法比奥·博纳奇纳2004年出版《隐藏的身体：墨索里尼在洛雷托广场到马焦雷山》
-尼克莱·里奥2014年出版《凯尔特三部曲》
-库梅尔·维蕾娜2007年《与死去的独裁者打交道》]]></description>
-</item>
-<item>
-<title>想象：用AI降本增效，现实：降本增笑🤣，怎么避免AI落地的天坑？</title>
-<link>https://www.bilibili.com/video/BV18Cj1zBEEx</link>
-<guid isPermaLink='false'>f0a9701e24459dc7cf7aeabb86c90e973cb04c99</guid>
-<pubDate>Mon, 26 May 2025 09:13:06 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/64b95a90d45360b676979451e52832666e00a402.jpg" /><br />  ~]]></description>
-</item>
-<item>
-<title>用上MCP之后，我快把各家大厂薅秃了</title>
-<link>https://www.bilibili.com/video/BV1vtJzzKE7v</link>
-<guid isPermaLink='false'>98fa830bdfa857af843563246f7505eebe2e8a3f</guid>
-<pubDate>Wed, 21 May 2025 10:07:28 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/d71a123d325d8b4c42e03ce55ab5ab0ee2f14db5.jpg" /><br />  未来科技❌
-羊毛利器✅]]></description>
-</item>
-<item>
-<title>吹牛皮能惹多大祸？【硬核狠人84】</title>
-<link>https://www.bilibili.com/video/BV1MHJbz8EdL</link>
-<guid isPermaLink='false'>3862d8e7b17f01f6526b23a1332776024b121edd</guid>
-<pubDate>Wed, 21 May 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/d71637f39294cec22d3c460f2d2490336992bd88.jpg" /><br />  本篇为硬核狠人之恩博姆。
-
-参考资料：
-爱德华·弗朗西斯1954年出版《间谍网：共产主义间谍活动的研究》
-库尔特·辛格1953年出版《特洛伊木马般的男人》
-古斯塔夫·约翰森1968年出版《谣言的威力：传播如何变异》
-马提亚斯·艾伯格2008年《恩博姆案》
-阿莱塔·卡特松2001年《空中红色恐怖》
-伊本·比昂松2012年出版《北欧兄弟会：社会民主党1945年-1962年的反共产主义运动》]]></description>
-</item>
-<item>
-<title>为啥博主吹上天的AI，自己实测却啥也不是？</title>
-<link>https://www.bilibili.com/video/BV1YqExzZEMN</link>
-<guid isPermaLink='false'>f96d43cbee8d5eb6dcfc406f843ab9f9e54d464c</guid>
-<pubDate>Fri, 16 May 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/0aa061d9d6e47f4fcf444727f344372de2796dab.jpg" /><br />  别人手里改变世界的AI，到自己手里却连数字母都做不到？]]></description>
-</item>
-<item>
-<title>AI已经进入下一阶段，单独的大模型将被淘汰，无所不能的工具正在上线！</title>
-<link>https://www.bilibili.com/video/BV13EEizQEHQ</link>
-<guid isPermaLink='false'>4e8bfb84f7abbd83e99312ac4fbcc6547f146e2c</guid>
-<pubDate>Wed, 14 May 2025 10:20:24 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/14a7f5cda9b41e048d1adb8a4224581cd2ad1b10.jpg" /><br />  AI正在会用越来越多的工具]]></description>
-</item>
-<item>
-<title>【玄离199】做读评论太难了...</title>
-<link>https://www.bilibili.com/video/BV1EVEMzHEmR</link>
-<guid isPermaLink='false'>0655ed3fd80593d609a47c7b2e4e37d97ff7b863</guid>
-<pubDate>Sun, 11 May 2025 10:50:57 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/d2a1269861567a4a58f9a1b803d2c82e9d086bdd.jpg" /><br />  读读读读读读读评论]]></description>
-</item>
-<item>
-<title>什么特工能爆破环保组织？【神奇组织30】</title>
-<link>https://www.bilibili.com/video/BV12Y53z8ECD</link>
-<guid isPermaLink='false'>bbc7bbb790a358247a8168e38115b6deb33b1ce0</guid>
-<pubDate>Fri, 09 May 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/d1891e517ee9849c5cd236ace7b55ccb6d70111b.jpg" /><br />  本篇为神奇组织之DGSE。]]></description>
-</item>
-<item>
-<title>谁是对苏联破坏力最大的特工？【硬核狠人83】</title>
-<link>https://www.bilibili.com/video/BV11tVczFExN</link>
-<guid isPermaLink='false'>9f5a820321e0c061ab20933f55ac9a1c1ac3231c</guid>
-<pubDate>Mon, 05 May 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/b14cb5c30f035de7e49e6e42c106e2a9b7982d13.jpg" /><br />  本篇为硬核狠人之维特罗夫。
-
-参考资料：
-谢尔盖·克斯汀2009年出版《你好，告别：关于改变历史进程卧底的真相》
-欧内斯特·沃尔克曼2005年出版《间谍：改变历史进程的秘密特工》
-桑德拉·格里姆斯2012年出版《叛国圈》
-沃尔顿·蒂尔里1986年出版《克格勃在法国》
-法利戈特·德·罗杰1999年出版《DST：秘密警察》
-阿列克谢·法兰西2001年出版《冷战秘密策划的历史》
-詹姆斯·布雷登2004年出版《主要对手：中情局和克格勃最后摊牌的内部故事》]]></description>
 </item>
 <item>
 <title>Where my explanation of Grover’s algorithm failed</title>
@@ -3116,77 +2589,6 @@ Website: https://www.3blue1brown.com]]></description>
 <pubDate>Wed, 30 Apr 2025 12:32:13 GMT</pubDate>
 <author>3Blue1Brown</author>
 <description><![CDATA[Full video: https://youtu.be/RQWpF2Gb-gU]]></description>
-</item>
-<item>
-<title>德国最硬核的劫狱方法是什么？【硬核狠人82】</title>
-<link>https://www.bilibili.com/video/BV1obGrzoEmM</link>
-<guid isPermaLink='false'>8a5dbf8faaa5b66d83ca4176f554b885e502344f</guid>
-<pubDate>Tue, 29 Apr 2025 03:02:17 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/c817ab414130f817a20e2071c8af4208cc99ed16.jpg" /><br />  本篇为硬核狠人之霍恩。]]></description>
-</item>
-<item>
-<title>如何刺杀尼克松？【硬核狠人81】</title>
-<link>https://www.bilibili.com/video/BV1vVL4zpEAV</link>
-<guid isPermaLink='false'>e8d4e7ce98c00a21160bafd344003d2aaa1a0793</guid>
-<pubDate>Thu, 24 Apr 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/8a77e281942e65a41d864802e778840ec4568179.jpg" /><br />  本篇为硬核狠人之布雷默。
-
-参考资料：
-布雷默1973年出版《刺客日记》
-托马斯·海利1996年出版《乔治·华莱士的两次死亡：宽恕问题》
-艾米·陶宾2000年出版《出租车司机》
-詹姆斯·克拉克1982年出版《美国刺客：政治的黑暗面》
-杰弗里·麦克纳布2006年出版《出租车司机的制作》
-杰弗里·史密斯2009年《战斗小法官：乔治·华莱士的生活和时代》]]></description>
-</item>
-<item>
-<title>工程师如何在海上建国？【神奇组织29】</title>
-<link>https://www.bilibili.com/video/BV1LL5ez3EzG</link>
-<guid isPermaLink='false'>62814d72a08adafe788b979dff1ebc6850ab5fa4</guid>
-<pubDate>Fri, 18 Apr 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/ddf950cbb2b80dbe1d0ab094b7f76365be729dc1.jpg" /><br />  本篇为神奇组织之玫瑰岛共和国。]]></description>
-</item>
-<item>
-<title>谁是国际情报界的“拼好谍”？【硬核狠人80】</title>
-<link>https://www.bilibili.com/video/BV1W9dAYfENh</link>
-<guid isPermaLink='false'>e2531e8303fbe3f1ee0e9ba769e00a0866359ca5</guid>
-<pubDate>Thu, 10 Apr 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/a6bb9a7fee9ed37c860e828ace53b27457fd6ba2.jpg" /><br />  本篇为硬核狠人之费尔夫。]]></description>
-</item>
-<item>
-<title>阿勃维尔能秀到啥程度？【神奇组织28】</title>
-<link>https://www.bilibili.com/video/BV15TZ5YmE7C</link>
-<guid isPermaLink='false'>468751a596381578b00c3a59d734a3cb6d68f278</guid>
-<pubDate>Fri, 28 Mar 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i0.hdslb.com/bfs/archive/38156e8e572d98fa47b8fe2befb7463235fb37ed.jpg" /><br />  本篇为神奇组织之土星情报中心。
-
-参考资料：
-乔治·佐巴赫2009年出版《土星、信使、修道院和别列津诺》
-苏多普拉托夫1994年出版《情报和克里姆林宫：一个不受欢迎的证人的笔记》
-爱德华·沙拉波夫2009年出版《苏多普拉托夫VS卡纳里斯》
-爱德华·沙拉波夫2013年出版《斯大林的惩罚之剑》
-库里诺克·瓦伦丁诺维奇2018年发表于《俄罗斯和东欧历史研究杂志》上的长文《土星的真相》]]></description>
-</item>
-<item>
-<title>谁是德国最强刺客？【硬核狠人79】</title>
-<link>https://www.bilibili.com/video/BV1mzXAYtEjS</link>
-<guid isPermaLink='false'>0d3070e7e5dc136df6fa1506a050654fb6000888</guid>
-<pubDate>Fri, 21 Mar 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i2.hdslb.com/bfs/archive/784658c260c7efa567573c3593f0d1c9cf4a0cfb.jpg" /><br />  本篇为硬核狠人之埃尔塞。]]></description>
-</item>
-<item>
-<title>纯爱战士能惹多大祸？【硬核狠人78】</title>
-<link>https://www.bilibili.com/video/BV1DA94YPEBa</link>
-<guid isPermaLink='false'>ebb28470f6d706d738e5945d895fa329175ce0cf</guid>
-<pubDate>Thu, 06 Mar 2025 03:00:00 GMT</pubDate>
-<author>小约翰可汗 的 bilibili 空间</author>
-<description><![CDATA[<br />   <img src="https://i1.hdslb.com/bfs/archive/cda1681c68a7045b70ab0282ba021eb1da88f15c.jpg" /><br />  本篇为硬核狠人之戈东诺夫。]]></description>
 </item>
 </channel>
 </rss>
