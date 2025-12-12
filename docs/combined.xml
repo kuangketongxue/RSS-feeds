@@ -4,7 +4,70 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Thu, 11 Dec 2025 03:29:28 GMT</lastBuildDate>
+<lastBuildDate>Fri, 12 Dec 2025 03:31:47 GMT</lastBuildDate>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/8c8081cc59...d358e52546</link>
+<guid isPermaLink='false'>10fea301e98f8457bdfee663ac875d67fa234f13</guid>
+<pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · December 11, 2025 03:45
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/853d829e1cf0c6a4b787bc030aee2e4f6f34c0e9de9ebb0d3357479cbc78a640/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f37663165326431633465333963343333626235616637333434316637643933643f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/ba59e59b8b4dc0cb4882aa6f91fe16361dd95b99" rel="noreferrer">ba59e59</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      dm-crypt: Use MD5 library instead of crypto_shash
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/pedrodemargomes" rel="noreferrer"><img alt="@pedrodemargomes" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/22682792?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/9a746ee0fb399b2021e801c5f724e75c7468fcf6" rel="noreferrer">9a746ee</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      dm-crypt: use folio_nr_pages() instead of shift operation
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/8c8081cc59...d358e52546" rel="noreferrer">28 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
 <item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/1de741159b...8c8081cc59</link>
@@ -1821,69 +1884,6 @@
 
                 <li class="f6 mt-2">
                   <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/51d90a15fe...3af870aedb" rel="noreferrer">1,059 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/87c9e88ac4...51d90a15fe</link>
-<guid isPermaLink='false'>8044fc1e54568aa665218f4c2f0d7b9f9d915fd4</guid>
-<pubDate>Sat, 06 Dec 2025 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · December 6, 2025 01:22
-      </span>
-
-        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/maluka-dmytro" rel="noreferrer"><img alt="@maluka-dmytro" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/116174438?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/b850841a53c56665c1f623edd429b3fc1578e9a4" rel="noreferrer">b850841</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      KVM: x86/mmu: Skip MMIO SPTE invalidation if enable_mmio_caching=0
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/maluka-dmytro" rel="noreferrer"><img alt="@maluka-dmytro" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/116174438?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/0152e049bd764942c41bc79b339ba6281c15dee9" rel="noreferrer">0152e04</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      KVM: VMX: Remove stale vmx_set_dr6() declaration
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/87c9e88ac4...51d90a15fe" rel="noreferrer">361 more commits »</a>
                 </li>
             </ul>
           </div>
