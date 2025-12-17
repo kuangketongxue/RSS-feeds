@@ -4,7 +4,86 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Tue, 16 Dec 2025 03:27:50 GMT</lastBuildDate>
+<lastBuildDate>Wed, 17 Dec 2025 03:25:49 GMT</lastBuildDate>
+<item>
+<title>My Weirdest Dice</title>
+<link>https://www.youtube.com/shorts/cdu6sOgI9Dc</link>
+<guid isPermaLink='false'>d1c5eb999137bcc174ffea67e60469fd489c0c2b</guid>
+<pubDate>Tue, 16 Dec 2025 21:57:29 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/8f0b4cce44...40fbbd64bb</link>
+<guid isPermaLink='false'>2c4310fbebecfb4312e2a7c4c14ec8af6b9c33d9</guid>
+<pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · December 16, 2025 08:05
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/5985b8c39c7d726d1a8fee6ce6e38005282bb7f3ea83b0e69b6906ede700a619/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f63656634303733353330663934363764666638653935623731333838396533333f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/517a44d18537ef8ab888f71197c80116c14cee0a" rel="noreferrer">517a44d</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      sched_ext: Fix the memleak for sch-&gt;helper objects
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/johnstultz-work" rel="noreferrer"><img alt="@johnstultz-work" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1054045?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/12b5cd99a05f7cbc2ceb88b3b9601d404ef2236a" rel="noreferrer">12b5cd9</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      sched/ext: Avoid null ptr traversal when -&gt;put_prev_task() is called …
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/8f0b4cce44...40fbbd64bb" rel="noreferrer">27 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>Jumping Frog Radius</title>
+<link>https://xkcd.com/3181/</link>
+<guid isPermaLink='false'>1c9b787a32120bbd37c3a5d5521e2431be2247cd</guid>
+<pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
+<author>xkcd.com</author>
+<description><![CDATA[<img alt="Earth's r_jf is approximately 1.5 light-days, leading to general relativity's successful prediction that all the frogs in the Solar System should be found collected on the surface of the Earth." src="https://imgs.xkcd.com/comics/jumping_frog_radius.png" title="Earth's r_jf is approximately 1.5 light-days, leading to general relativity's successful prediction that all the frogs in the Solar System should be found collected on the surface of the Earth." />]]></description>
+</item>
 <item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/0dfb36b2dc...8f0b4cce44</link>
@@ -1861,83 +1940,12 @@
 </div></div>]]></description>
 </item>
 <item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/c06c303832...50471f8b73</link>
-<guid isPermaLink='false'>d617f27b217c53e791fffb71bf3d2369b2090530</guid>
-<pubDate>Sun, 07 Dec 2025 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · December 7, 2025 00:28
-      </span>
-
-        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/hdeller" rel="noreferrer"><img alt="@hdeller" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/32447367?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/3631b9cb2a34983e0f5962e542b428a66036d689" rel="noreferrer">3631b9c</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      parisc: Drop padding fields and layers entries from inventory log
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/442d3e3f760aca0ba18f8084a9898a2c211f129e06c0280ed6d98ecf7acb18da/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f62633635393837333633646139623332393366383230626233656437356361383f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/5fb1d3ce3e74a4530042795e1e065422295f1371" rel="noreferrer">5fb1d3c</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      parisc: entry: set W bit for !compat tasks in syscall_restore_rfi()
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/c06c303832...50471f8b73" rel="noreferrer">17 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
 <title>2 Inertia Tricks</title>
 <link>https://www.youtube.com/shorts/4HbYUB1J1io</link>
 <guid isPermaLink='false'>cae9676244915f52d405217353585c11987bc6d4</guid>
 <pubDate>Fri, 05 Dec 2025 20:35:50 GMT</pubDate>
 <author>Vsauce</author>
 <description><![CDATA[]]></description>
-</item>
-<item>
-<title>Chessboard Alignment</title>
-<link>https://xkcd.com/3177/</link>
-<guid isPermaLink='false'>79b1a419a923e458e4c130cf6cb99708a37665ae</guid>
-<pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
-<author>xkcd.com</author>
-<description><![CDATA[<img alt="Luckily, the range is limited by the fact that the square boundary lines follow great circles." src="https://imgs.xkcd.com/comics/chessboard_alignment.png" title="Luckily, the range is limited by the fact that the square boundary lines follow great circles." />]]></description>
 </item>
 <item>
 <title>We Recreated The Oldest Surviving Globe</title>
@@ -2085,14 +2093,6 @@ Reddit: https://www.reddit.com/r/3blue1brown
 Facebook: https://www.facebook.com/3blue1brown
 Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
-</item>
-<item>
-<title>The Straw That Sucks Itself</title>
-<link>https://www.youtube.com/shorts/fLmdtn8w7fk</link>
-<guid isPermaLink='false'>269d88be19cf8209eb713bc469acd1649d4d9d06</guid>
-<pubDate>Tue, 04 Nov 2025 03:48:48 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[🥤 https://www.curiositybox.com 🥤]]></description>
 </item>
 <item>
 <title>The dynamics of e^(πi)</title>
