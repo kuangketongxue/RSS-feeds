@@ -4,9 +4,9 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Fri, 19 Dec 2025 03:27:57 GMT</lastBuildDate>
+<lastBuildDate>Sat, 20 Dec 2025 03:19:02 GMT</lastBuildDate>
 <item>
-<title>The DYNAMIC Ebbinghaus Illusion</title>
+<title>The Dynamic Ebbinghaus Illusion</title>
 <link>https://www.youtube.com/shorts/PNbgHdDQ1fc</link>
 <guid isPermaLink='false'>87b000bd8597b2add93e1a60aa96cb0a3ca8b424</guid>
 <pubDate>Fri, 19 Dec 2025 01:52:30 GMT</pubDate>
@@ -1987,15 +1987,6 @@
 https://linktr.ee/therestisscience]]></description>
 </item>
 <item>
-<title>The most absurd product I've made</title>
-<link>https://www.youtube.com/shorts/Y0Aqc174FMM</link>
-<guid isPermaLink='false'>4165a20d6eec0aa48420455a23ee21331e729f84</guid>
-<pubDate>Mon, 24 Nov 2025 16:30:21 GMT</pubDate>
-<author>3Blue1Brown</author>
-<description><![CDATA[Because why not make a pi creature neck pillow?
-Available at 3b1b.co/store]]></description>
-</item>
-<item>
 <title>A 2D Shadow Of A 3D Shadow Of A 4D Hypercube</title>
 <link>https://www.youtube.com/shorts/QaFTwJPKLuo</link>
 <guid isPermaLink='false'>5b4d6822c3e3d30d32094b6897cebe0403d76c39</guid>
@@ -2617,6 +2608,14 @@ Website: https://www.3blue1brown.com]]></description>
 <pubDate>Wed, 30 Apr 2025 12:32:13 GMT</pubDate>
 <author>3Blue1Brown</author>
 <description><![CDATA[Full video: https://youtu.be/RQWpF2Gb-gU]]></description>
+</item>
+<item>
+<title>How to measure nearby galaxies</title>
+<link>https://www.youtube.com/shorts/aQwEJKWATlE</link>
+<guid isPermaLink='false'>80006a45cc8f28e0e789c75e4dc0082e7470afa2</guid>
+<pubDate>Sun, 20 Apr 2025 19:36:10 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[From this video: https://youtu.be/hFMaT9oRbs4]]></description>
 </item>
 </channel>
 </rss>
