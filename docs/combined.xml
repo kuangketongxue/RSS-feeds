@@ -4,7 +4,75 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Mon, 22 Dec 2025 03:46:47 GMT</lastBuildDate>
+<lastBuildDate>Tue, 23 Dec 2025 03:32:40 GMT</lastBuildDate>
+<item>
+<title>Album Art Origins</title>
+<link>https://www.youtube.com/shorts/2qOya17le0A</link>
+<guid isPermaLink='false'>45d7f5a44934ad43221684e22e4075c7056f4738</guid>
+<pubDate>Mon, 22 Dec 2025 19:56:25 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/9448598b22...b927546677</link>
+<guid isPermaLink='false'>234dfc01dda506ae2f5a88f557e9f187f1b88492</guid>
+<pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · December 22, 2025 17:46
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/rleon" rel="noreferrer"><img alt="@rleon" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/450832?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/7f2e8e1d22f6e28edff3782535c16cfbace30902" rel="noreferrer">7f2e8e1</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      parisc: Set valid bit in high byte of 64‑bit physical address
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/b927546677c876e26eba308550207c2ddf812a43" rel="noreferrer">b927546</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      Merge tag 'dma-mapping-6.19-2025-12-22' of git://git.kernel.org/pub/s…
+                    </blockquote>
+                  </div>
+                </li>
+
+
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
 <item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/1123cfe8cf...9448598b22</link>
@@ -1860,69 +1928,6 @@
 </div></div>]]></description>
 </item>
 <item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/c9b47175e9...2137cb863b</link>
-<guid isPermaLink='false'>fc67304ac3d5394293e9d8a42da367017cf68bba</guid>
-<pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · December 10, 2025 08:03
-      </span>
-
-        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/ribalda" rel="noreferrer"><img alt="@ribalda" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/562331?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/295e3beead10e96c1feda7ed145113bb9191e296" rel="noreferrer">295e3be</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Input: cyttsp5 - use %pe format specifier
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/30187654b9d465cd97683bb9f36fc8f4917269a8a099f54e35cfb4561beb51b4/68747470733a2f2f312e67726176617461722e636f6d2f6176617461722f34653761303661643562613832343336633034643439373930613330313965363f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/5455d21d2e2d449467a0786b6c76ba2294562a33" rel="noreferrer">5455d21</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      dt-bindings: touchscreen: rename maxim,max11801.yaml to trivial-touch…
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/c9b47175e9...2137cb863b" rel="noreferrer">20 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
 <title>The 852655 Mystery</title>
 <link>https://www.youtube.com/shorts/ti8ZdImveB0</link>
 <guid isPermaLink='false'>d9ae6b0db5832a4a68be54f20609982db3d1f365</guid>
@@ -2010,14 +2015,6 @@ Island footage by WalkingKooka on wikicommons]]></description>
 <pubDate>Tue, 11 Nov 2025 21:35:35 GMT</pubDate>
 <author>Vsauce</author>
 <description><![CDATA[songs (in order) all by @jakechudnow : Moon Men, Bad Lands and Buffalo Trails, Moan]]></description>
-</item>
-<item>
-<title>An "Anisosquaric" Rectangle</title>
-<link>https://www.youtube.com/shorts/M7hX6117E6E</link>
-<guid isPermaLink='false'>302e32255db1c21b3c9bd27c2cfedd2987dda7d9</guid>
-<pubDate>Fri, 07 Nov 2025 23:36:15 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[]]></description>
 </item>
 <item>
 <title>Why Laplace transforms are so useful</title>
