@@ -4,7 +4,70 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Tue, 06 Jan 2026 03:42:40 GMT</lastBuildDate>
+<lastBuildDate>Wed, 07 Jan 2026 03:45:03 GMT</lastBuildDate>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/7f98ab9da0...f0b9d8eb98</link>
+<guid isPermaLink='false'>eeb1dc85b2f5568e2bb178a2c3b9791ddce7ef4f</guid>
+<pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · January 6, 2026 17:31
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/chucklever" rel="noreferrer"><img alt="@chucklever" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/2586432?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/c6c209ceb87f64a6ceebe61761951dcbbf4a0baa" rel="noreferrer">c6c209c</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      NFSD: Remove NFSERR_EAGAIN
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/scottmayhew" rel="noreferrer"><img alt="@scottmayhew" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/9577279?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/e901c7fce59e72d9f3c92733c379849c4034ac50" rel="noreferrer">e901c7f</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      NFSD: Fix permission check for read access to executable-only files
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/7f98ab9da0...f0b9d8eb98" rel="noreferrer">5 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
 <item>
 <title>Tensegrity</title>
 <link>https://xkcd.com/3190/</link>
@@ -1729,55 +1792,6 @@
                 <li class="f6 mt-2">
                   <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/f8f9c1f4d0...7839932417" rel="noreferrer">9 more commits »</a>
                 </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed GuitarPedal</title>
-<link>https://github.com/torvalds/GuitarPedal/compare/98696e6aa9...749d90d499</link>
-<guid isPermaLink='false'>dfc2f544f8153f8dd5628868d6139e218ada6d90</guid>
-<pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/GuitarPedal" rel="noreferrer">torvalds/GuitarPedal</a>
-      <span>
-        · December 29, 2025 06:14
-      </span>
-
-        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>1 commit to</span>
-          <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
-
-          <div class="commits pusher-is-only-committer">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/749d90d499b82036358183d5ee98958613b309e3" rel="noreferrer">749d90d</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Make a flanger-like (??) effect
-                    </blockquote>
-                  </div>
-                </li>
-
-
             </ul>
           </div>
         </div>
