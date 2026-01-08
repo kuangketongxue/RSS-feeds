@@ -4,7 +4,15 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Wed, 07 Jan 2026 03:45:03 GMT</lastBuildDate>
+<lastBuildDate>Thu, 08 Jan 2026 03:42:26 GMT</lastBuildDate>
+<item>
+<title>Superstition</title>
+<link>https://xkcd.com/3191/</link>
+<guid isPermaLink='false'>ed3513d8fbe21be39fbe9e54e24a60bcde0efb8d</guid>
+<pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+<author>xkcd.com</author>
+<description><![CDATA[<img alt="It's important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That's what my wise Uncle Ben told me right before he died; he might still be alive today if only I'd said rabbit rabbit that year!" src="https://imgs.xkcd.com/comics/superstition.png" title="It's important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That's what my wise Uncle Ben told me right before he died; he might still be alive today if only I'd said rabbit rabbit that year!" />]]></description>
+</item>
 <item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/7f98ab9da0...f0b9d8eb98</link>
@@ -1618,14 +1626,6 @@
 </div></div>]]></description>
 </item>
 <item>
-<title>High Altitude Cooking Instructions</title>
-<link>https://xkcd.com/3187/</link>
-<guid isPermaLink='false'>a2473aa427fa2419c59ba1f5aa2949eaeddf6742</guid>
-<pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
-<author>xkcd.com</author>
-<description><![CDATA[<img alt="1,300,000-1,400,000 ft: Ask a crew member to show you how to use the ISS food warmer." src="https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png" title="1,300,000-1,400,000 ft: Ask a crew member to show you how to use the ISS food warmer." />]]></description>
-</item>
-<item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/7839932417...8640b74557</link>
 <guid isPermaLink='false'>42466b0728253c54ea5d9b0f1acd67da25208d1a</guid>
@@ -1825,6 +1825,14 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title>The Official Blue Berry of North Carolina</title>
+<link>https://www.youtube.com/shorts/7MfvZuCXVMQ</link>
+<guid isPermaLink='false'>9bb82a098d0c1c87357ebc87698422f2a7ade13f</guid>
+<pubDate>Fri, 12 Dec 2025 22:15:15 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
 <title>Would You Like A TRIPLE Entendre?</title>
 <link>https://www.youtube.com/shorts/UrM6ugyzeC8</link>
 <guid isPermaLink='false'>154cd85c2a15588f1a704aa83735c9a9981d16e6</guid>
@@ -1920,14 +1928,6 @@ Island footage by WalkingKooka on wikicommons]]></description>
 <pubDate>Tue, 11 Nov 2025 21:35:35 GMT</pubDate>
 <author>Vsauce</author>
 <description><![CDATA[songs (in order) all by @jakechudnow : Moon Men, Bad Lands and Buffalo Trails, Moan]]></description>
-</item>
-<item>
-<title>An "Anisosquaric" Rectangle</title>
-<link>https://www.youtube.com/shorts/M7hX6117E6E</link>
-<guid isPermaLink='false'>302e32255db1c21b3c9bd27c2cfedd2987dda7d9</guid>
-<pubDate>Fri, 07 Nov 2025 23:36:15 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[]]></description>
 </item>
 <item>
 <title>Why Laplace transforms are so useful</title>
