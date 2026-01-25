@@ -4,7 +4,196 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Sat, 24 Jan 2026 03:29:44 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 03:57:28 GMT</lastBuildDate>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/5dbeeb268b...d91a46d680</link>
+<guid isPermaLink='false'>c29bfff5b9a062b6e4dbb3cbaa600d7288e357b9</guid>
+<pubDate>Sun, 25 Jan 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · January 25, 2026 02:58
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/docularxu" rel="noreferrer"><img alt="@docularxu" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/7981735?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/69132c2d4c11858fa43edeb19a911eab625567f9" rel="noreferrer">69132c2</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      Documentation: riscv: uabi: Clarify ISA spec version for canonical order
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/pshimizu" rel="noreferrer"><img alt="@pshimizu" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/14864260?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/eaa9bb1d39d59e7c17b06cec12622b7c586ab629" rel="noreferrer">eaa9bb1</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      riscv: clocksource: Fix stimecmp update hazard on RV32
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/5dbeeb268b...d91a46d680" rel="noreferrer">15 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/12a0094839...5dbeeb268b</link>
+<guid isPermaLink='false'>f661691b9f3a968bfeb2cf123c8c8caee5715007</guid>
+<pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · January 24, 2026 19:43
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/Gnurou" rel="noreferrer"><img alt="@Gnurou" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/148255?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/33d19f621641de1b6ec6fe1bb2ac68a7d2c61f6a" rel="noreferrer">33d19f6</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      rust: io: always inline functions using build_assert with arguments
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/Gnurou" rel="noreferrer"><img alt="@Gnurou" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/148255?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/5d9c4c272ba06055d19e05c2a02e16e58acc8943" rel="noreferrer">5d9c4c2</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      rust: irq: always inline functions using build_assert with arguments
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/12a0094839...5dbeeb268b" rel="noreferrer">7 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/62085877ae...12a0094839</link>
+<guid isPermaLink='false'>998b354d3f9d7b280091da7d8db2a46f6f8dab4c</guid>
+<pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · January 24, 2026 18:00
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/216aa119900c616797f2455c0aeb34718d51269df2fb7bd178833e17f2c618be/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f32663731656666316535656631323239323466663365303735353165653965393f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/5e8b511c39f35dcbf2e548a75d49782778c2df48" rel="noreferrer">5e8b511</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      KVM: arm64: gic: Check for vGICv3 when clearing TWI
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/6c2271e768eaad362547b1de5f3595cf48cda8cbdd9d028245f7b1a3cfc04b67/68747470733a2f2f322e67726176617461722e636f6d2f6176617461722f62323465333935356263646334376633373339353038653862386539343764383f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/8d8e882c2b4b73a3f894c3cad74718b633e3d166" rel="noreferrer">8d8e882</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      KVM: arm64: Fix EL2 S1 XN handling for hVHE setups
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/62085877ae...12a0094839" rel="noreferrer">25 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
 <item>
 <title>Double-Pronged Extension Cord</title>
 <link>https://xkcd.com/3198/</link>
@@ -985,38 +1174,6 @@
 </div></div>]]></description>
 </item>
 <item>
-<title>torvalds commented on an issue in HunspellColorize</title>
-<link>https://github.com/torvalds/HunspellColorize/issues/5#issuecomment-3770023342</link>
-<guid isPermaLink='false'>bc8bd0688b95b4a9670e49521af99cefd6af9686</guid>
-<pubDate>Mon, 19 Jan 2026 20:29:54 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="issues_comment js-feed-item-view"><div class="body">
-<!-- issue_comment -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-      <div class="d-flex flex-items-baseline mb-2">
-        <div class="color-fg-muted">
-            <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-          <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-          
-          commented on
-          <a class="Link--primary" href="https://github.com/torvalds/HunspellColorize/issues/5#issuecomment-3770023342" rel="noreferrer" title="Buffer overflow in escape sequence handling">torvalds/HunspellColorize#5</a>
-          <span>
-            · January 19, 2026 12:29
-          </span>
-        </div>
-      </div>
-    <div class="message markdown-body Box p-3 wb-break-all color-shadow-medium color-bg-overlay">
-      <div class="f6 mb-1">
-        <a class="Link--secondary" href="https://github.com/torvalds/HunspellColorize/issues/5#issuecomment-3770023342" rel="noreferrer" title="Buffer overflow in escape sequence handling"><img alt="@torvalds" class="avatar mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /> <span class="Link--primary text-bold">torvalds</span> commented Jan 19, 2026</a>
-      </div>
-        esclen cannot be larger than SMALLBUF. It is initialized to 0, then set to 1 when entering the 'Escape' state, and then updated only with if (st-&amp;gt;e…
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
 <title>Aurora Coolness</title>
 <link>https://xkcd.com/3196/</link>
 <guid isPermaLink='false'>830128f0a1502c3fce9e5929cd94e215290ada0c</guid>
@@ -1449,58 +1606,6 @@ Reddit: https://www.reddit.com/r/3blue1brown
 Facebook: https://www.facebook.com/3blue1brown
 Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
-</item>
-<item>
-<title>torvalds closed a pull request in uemacs</title>
-<link>https://github.com/torvalds/uemacs/pull/50</link>
-<guid isPermaLink='false'>d46dd69ac6e5f1ba00914d65b5a212a4d1297241</guid>
-<pubDate>Thu, 04 Sep 2025 06:10:55 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="git-pull-request-closed js-feed-item-view"><div class="body">
-<!-- pull_request -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-    <div>
-      <div class="d-flex flex-items-baseline">
-        <div class="color-fg-muted">
-          <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-          <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-          
-          closed
-          <a class="Link--primary no-underline wb-break-all" href="https://github.com/torvalds/uemacs/pull/50" rel="noreferrer">torvalds/uemacs#50</a>
-          <span>
-            · September 3, 2025 23:10
-          </span>
-        </div>
-      </div>
-    </div>
-
-    <div class="Box p-3 my-2 color-shadow-medium color-bg-overlay">
-      <svg class="octicon octicon-git-pull-request pull-request-closed d-inline-block mt-1 float-left" height="16" version="1.1" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path></svg>
-
-      <div class="ml-4">
-        <div>
-          <span class="f4 lh-condensed text-bold color-fg-default"><a class="color-fg-default text-bold" href="https://github.com/torvalds/uemacs/pull/50" rel="noreferrer">Simplify UEmacs Installation with a precompiled binary and public mirror</a></span>
-          <span class="f4 color-fg-muted ml-1">#50</span>
-            <div class="lh-condensed mb-2 mt-1">
-              <p dir="auto">I understand the installation process can be confusing, but I believe this will make it much easier.</p>
-<p dir="auto">This commit adds a precompiled uEmacs binary t…</p>
-            </div>
-        </div>
-
-          <div class="diffstat d-inline-block mt-1">
-            <span class="color-fg-success">+14</span>
-            <span class="color-fg-danger">-0</span>
-          </div>
-
-          <div class="d-inline-block f6 color-fg-muted ml-3">
-            4 comments
-          </div>
-      </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
 </item>
 <item>
 <title>Simulating and understanding phase change | Guest video by Vilas Winstein</title>
