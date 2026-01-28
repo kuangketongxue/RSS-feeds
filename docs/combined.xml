@@ -4,7 +4,67 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Tue, 27 Jan 2026 03:53:36 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Jan 2026 03:48:16 GMT</lastBuildDate>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/fcb70a56f4...1f97d9dcf5</link>
+<guid isPermaLink='false'>d9d0b05ad9e7f0585c62b9ed60286e31742cee9b</guid>
+<pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · January 27, 2026 18:49
+      </span>
+
+        <div class="Box p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/rleon" rel="noreferrer"><img alt="@rleon" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/450832?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/61ceaf236115f20f4fdd7cf60f883ada1063349a" rel="noreferrer">61ceaf2</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      vfio: Prevent from pinned DMABUF importers to attach to VFIO DMABUF
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/1f97d9dcf53649c41c33227b345a36902cbb08ad" rel="noreferrer">1f97d9d</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      Merge tag 'vfio-v6.19-rc8' of <a href="https://github.com/awilliam/linux-vfio" rel="noreferrer">https://github.com/awilliam/linux-vfio</a>
+                    </blockquote>
+                  </div>
+                </li>
+
+
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
 <item>
 <title>Early Arthropods</title>
 <link>https://xkcd.com/3199/</link>
@@ -2348,54 +2408,6 @@ Website: https://www.3blue1brown.com]]></description>
 <pubDate>Wed, 30 Apr 2025 12:32:13 GMT</pubDate>
 <author>3Blue1Brown</author>
 <description><![CDATA[Full video: https://youtu.be/RQWpF2Gb-gU]]></description>
-</item>
-<item>
-<title>torvalds closed a pull request in uemacs</title>
-<link>https://github.com/torvalds/uemacs/pull/17</link>
-<guid isPermaLink='false'>acaae885811d5d130a6bb6b0b3b260ccf9aeef79</guid>
-<pubDate>Tue, 26 Dec 2023 14:53:34 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="git-pull-request-closed js-feed-item-view"><div class="body">
-<!-- pull_request -->
-<div class="d-flex flex-items-baseline py-4">
-  <div class="d-flex flex-column width-full">
-    <div>
-      <div class="d-flex flex-items-baseline">
-        <div class="color-fg-muted">
-          <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-          <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-          
-          closed
-          <a class="Link--primary no-underline wb-break-all" href="https://github.com/torvalds/uemacs/pull/17" rel="noreferrer">torvalds/uemacs#17</a>
-          <span>
-            · December 26, 2023 06:53
-          </span>
-        </div>
-      </div>
-    </div>
-
-    <div class="Box p-3 my-2 color-shadow-medium color-bg-overlay">
-      <svg class="octicon octicon-git-pull-request pull-request-closed d-inline-block mt-1 float-left" height="16" version="1.1" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path></svg>
-
-      <div class="ml-4">
-        <div>
-          <span class="f4 lh-condensed text-bold color-fg-default"><a class="color-fg-default text-bold" href="https://github.com/torvalds/uemacs/pull/17" rel="noreferrer">Update utf8.c</a></span>
-          <span class="f4 color-fg-muted ml-1">#17</span>
-            <div class="lh-condensed mb-2 mt-1">
-              <p dir="auto">The function unicode_to_utf8 was failing to produce the correct leading byte of the UTF8 sequence because the loop was stopping one iteration too s…</p>
-            </div>
-        </div>
-
-          <div class="diffstat d-inline-block mt-1">
-            <span class="color-fg-success">+1</span>
-            <span class="color-fg-danger">-1</span>
-          </div>
-
-      </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
 </item>
 <item>
 <title>torvalds closed a pull request in uemacs</title>
