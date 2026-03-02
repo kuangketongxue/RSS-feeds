@@ -4,7 +4,245 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Sun, 01 Mar 2026 04:27:16 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Mar 2026 04:18:17 GMT</lastBuildDate>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/949d0a46ad...11439c4635</link>
+<guid isPermaLink='false'>af69f85845b55a0202da857832603802e2c29465</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · March 1, 2026 23:43
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>1 commit to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits pusher-is-only-committer">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/11439c4635edd669ae435eec308f4ab8a0804808" rel="noreferrer">11439c4</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      Linux 7.0-rc2
+                    </blockquote>
+                  </div>
+                </li>
+
+
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/e2bd1b1369...949d0a46ad</link>
+<guid isPermaLink='false'>e2381004d5cc8f7ae0715bfb52ca39a597a3829e</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · March 1, 2026 23:39
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/545be99d3abe811797db341bb5eac4e4e0332d754db0a02100aaedfe8d330b0c/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f35353131393462653864653332313462353531343962396333366538383932363f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/f66857bafd4f151c5cc6856e47be2e12c1721e43" rel="noreferrer">f66857b</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      KVM: arm64: Hide S1POE from guests when not supported by the host
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/545be99d3abe811797db341bb5eac4e4e0332d754db0a02100aaedfe8d330b0c/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f35353131393462653864653332313462353531343962396333366538383932363f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/9cb0468d0b335ccf769bd8e161cc96195e82d8b1" rel="noreferrer">9cb0468</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      KVM: arm64: Optimise away S1POE handling when not supported by host
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/e2bd1b1369...949d0a46ad" rel="noreferrer">11 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/39c6332614...e2bd1b1369</link>
+<guid isPermaLink='false'>8e33d57ef66d94f8290b293e8bdad0cd91c2c0b7</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · March 1, 2026 21:36
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/2f0c3a506bbb466088e1d7fadf8757c2df5f18d854cc24a60dff97d60a1446ed/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f62366232313364636533663061353133653636626239353935653966393630393f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/fd3634312a04f336dcbfb481060219f0cd320738" rel="noreferrer">fd36343</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      debugobject: Make it work with deferred page initialization - again
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/edumazet" rel="noreferrer"><img alt="@edumazet" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/218110755?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/b777b5e09eabeefc6ba80f4296366a4742701103" rel="noreferrer">b777b5e</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      time/jiffies: Inline jiffies_to_msecs() and jiffies_to_usecs()
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/39c6332614...e2bd1b1369" rel="noreferrer">29 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/eb71ab2bf7...39c6332614</link>
+<guid isPermaLink='false'>901fab2e1072c4c9ff5c1485aa03ac24c109ee02</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · March 1, 2026 18:32
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/minipli-oss" rel="noreferrer"><img alt="@minipli-oss" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/65352095?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/bffda93a51b40afd67c11bf558dc5aae83ca0943" rel="noreferrer">bffda93</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      scsi: lpfc: Properly set WC for DPP mapping
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/jan-kiszka" rel="noreferrer"><img alt="@jan-kiszka" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1571330?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/57297736c08233987e5d29ce6584c6ca2a831b12" rel="noreferrer">5729773</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      scsi: storvsc: Fix scheduling while atomic on PREEMPT_RT
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/eb71ab2bf7...39c6332614" rel="noreferrer">12 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
 <item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/42eb017830...eb71ab2bf7</link>
@@ -242,6 +480,60 @@
   </div>
 </div>
 </div></div>]]></description>
+</item>
+<item>
+<title>The most beautiful formula not enough people understand</title>
+<link>https://www.youtube.com/watch?v=fsLh-NYhOoU</link>
+<guid isPermaLink='false'>856c69afa643639792837287f8bc478f3dd39d93</guid>
+<pubDate>Fri, 27 Feb 2026 15:14:23 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[On the volumes of higher-dimensional spheres
+Explore the 3b1b virtual career fair: See https://3b1b.co/talent
+Become a supporter for early views of new videos: https://3b1b.co/support
+An equally valuable form of support is to simply share the videos.
+Home page: https://www.3blue1brown.com
+
+Thanks to UC Santa Cruz for letting me film there, and special thanks to 
+Pedro Morales-Almazan for arranging everything.
+
+My video on Numberphile with a fun application of this problem: https://youtu.be/6_yU9eJ0NxA
+
+Timestamps:
+0:00 - Introduction
+1:01 - Random puzzle
+6:16 - Outside the box
+14:35 - Setting up the volume grid
+21:14 - Why 4πr^2
+25:21 - Archimedes in higher dimensions
+36:17 - The general formula
+40:40 - 1/2 factorial
+44:58 - Why 5D spheres are the biggest
+50:16 - Concentration at the surface
+54:27 - A unit-free interpretation
+57:50 - 3b1b Talent
+59:13 - Explaining the intro animation
+
+------------------
+
+These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
+https://3b1b.co/faq#manim
+
+Music by Vincent Rubinetti.
+https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
+https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
+
+Mailing list: https://3blue1brown.substack.com
+Twitter: https://twitter.com/3blue1brown
+Bluesky: https://bsky.app/profile/3blue1brown.com
+Instagram: https://www.instagram.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Patreon: https://patreon.com/3blue1brown
+Website: https://www.3blue1brown.com]]></description>
 </item>
 <item>
 <title>torvalds commented on an issue in AudioNoise</title>
@@ -1412,195 +1704,6 @@
 </div></div>]]></description>
 </item>
 <item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/3544d5ce36...8934827db5</link>
-<guid isPermaLink='false'>232dc4eed081d21119fd937a8a1095e23e92bfda</guid>
-<pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · February 21, 2026 19:53
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/acmel" rel="noreferrer"><img alt="@acmel" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1051254?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/d311783bc68b011c77a4ef81321de2c94d7deffc" rel="noreferrer">d311783</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      perf list: Remove unused 'sep' variable
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/acmel" rel="noreferrer"><img alt="@acmel" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1051254?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/f6f41aef53761517391b6192fe5b4bc30b2d717a" rel="noreferrer">f6f41ae</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      perf diff: Constify strchr() return variables
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/3544d5ce36...8934827db5" rel="noreferrer">261 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/d79526b895...3544d5ce36</link>
-<guid isPermaLink='false'>b4a00730a938362bd008869291aee9cf9dbcc1e1</guid>
-<pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · February 21, 2026 18:30
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/devnexen" rel="noreferrer"><img alt="@devnexen" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/4922778?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/11fece49e956ef97318177f5af15a84317594244" rel="noreferrer">11fece4</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      tools/sched_ext: scx_flatcg: zero-initialize stats counter array
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/devnexen" rel="noreferrer"><img alt="@devnexen" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/4922778?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/988369d236e46e6bc68d2616fbc008aa6b06a454" rel="noreferrer">988369d</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      tools/sched_ext: scx_central: fix sched_setaffinity() call with the s…
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/d79526b895...3544d5ce36" rel="noreferrer">35 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/a95f71ad3e...d79526b895</link>
-<guid isPermaLink='false'>ed827e102bdfc21c529caf3947f8524d1a068020</guid>
-<pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · February 21, 2026 01:17
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/SlarkXiao" rel="noreferrer"><img alt="@SlarkXiao" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/107377871?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/0f9b0076ff05492aac2fb38129506892b81748cf" rel="noreferrer">0f9b007</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      ecryptfs: keystore: Fix typo 'the the' in comment
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/714ea3993fcd9deb000b6c94423ed864bdc7c788606de3337f1ed04a2de073b4/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f34316537326236326562323532343164346165633633356631306634323735323f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/9383d8205c1591f49d66cb53b3a5b0f15e9ff703" rel="noreferrer">9383d82</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      ecryptfs: comment typo fix
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/a95f71ad3e...d79526b895" rel="noreferrer">290 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
 <title>Eliminating the Impossible</title>
 <link>https://xkcd.com/3210/</link>
 <guid isPermaLink='false'>346cb028c58bc5438bf323239f69addf7fd5e1f8</guid>
@@ -1609,67 +1712,83 @@
 <description><![CDATA[<img alt="'If you've eliminated a few possibilities and you can't think of any others, your weird theory is proven right' isn't quite as rhetorically compelling." src="https://imgs.xkcd.com/comics/eliminating_the_impossible.png" title="'If you've eliminated a few possibilities and you can't think of any others, your weird theory is proven right' isn't quite as rhetorically compelling." />]]></description>
 </item>
 <item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/8bf22c33e7...a95f71ad3e</link>
-<guid isPermaLink='false'>3f3af8d0b5290003f1ca370f0686bf9042fe81d8</guid>
-<pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · February 20, 2026 20:50
-      </span>
+<title>The lattice bacteria puzzle</title>
+<link>https://www.youtube.com/shorts/d0ai33oqqDE</link>
+<guid isPermaLink='false'>0f7b887d4c20f8f9984d02ca00d935631214f233</guid>
+<pubDate>Wed, 18 Feb 2026 06:02:59 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Part of a series of monthly puzzles, done in collaboration with MoMath.
+https://momath.org/mindbenders]]></description>
+</item>
+<item>
+<title>Solution to the ladybug clock puzzle</title>
+<link>https://www.youtube.com/shorts/7gG91SZwBoE</link>
+<guid isPermaLink='false'>291fc12871269624ef81e690abcc752e41a8ff29</guid>
+<pubDate>Mon, 16 Feb 2026 14:08:37 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Solution to last month's probability puzzle.]]></description>
+</item>
+<item>
+<title>The Hairy Ball Theorem</title>
+<link>https://www.youtube.com/watch?v=BHdbsHFs2P0</link>
+<guid isPermaLink='false'>cf4e2b03d653319d673d836eaef2a8622fa0a9f3</guid>
+<pubDate>Sat, 31 Jan 2026 14:57:42 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Unexpected applications and a beautiful proof.
+Looking for a new career? Check out https://3b1b.co/talent
+Supporters get early access to new videos: https://3b1b.co/support
+An equally valuable form of support is to simply share the videos.
+Home page: https://www.3blue1brown.com
 
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+Credits:
+Senia Sheydvasser: Co-writing and sphere deformation animations, made in Blender
+Paul Dancstep: Those lovely fluffy sphere animations, made in Cinema4D
+Vince Rubinetti: Music
 
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/rickyringler" rel="noreferrer"><img alt="@rickyringler" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/135162902?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/0d4b3ca115b5436d7e68453527566db3e87ab7f0" rel="noreferrer">0d4b3ca</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      xtensa: align: validate access in fast_load_store
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/t-8ch" rel="noreferrer"><img alt="@t-8ch" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/717901?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/012ea376a5948b025f260aa45d2a6ec5d96674ea" rel="noreferrer">012ea37</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      ARM: 9467/1: mm: Don't use %pK through printk
-                    </blockquote>
-                  </div>
-                </li>
+Sphere Eversion clip by Carsten Steger
+https://commons.wikimedia.org/wiki/File:Thurston_Sphere_Eversion.webm
 
+Timestamps:
+0:00 - To comb a hairy ball
+1:24 - Applications
+8:46 - The puzzle of one null point
+12:12 - The proof outline
+16:41 - Defining orientation
+21:44 - Why inside-out is impossible
+25:59 - 3b1b Talent
+27:44 - Final food for thought
 
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/8bf22c33e7...a95f71ad3e" rel="noreferrer">56 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
+------------------
+
+These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
+https://3b1b.co/faq#manim
+
+Music by Vincent Rubinetti.
+https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
+https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
+
+Mailing list: https://3blue1brown.substack.com
+Twitter: https://twitter.com/3blue1brown
+Bluesky: https://bsky.app/profile/3blue1brown.com
+Instagram: https://www.instagram.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Patreon: https://patreon.com/3blue1brown
+Website: https://www.3blue1brown.com]]></description>
+</item>
+<item>
+<title>The ladybug clock puzzle</title>
+<link>https://www.youtube.com/shorts/t3jZ2xGOvYg</link>
+<guid isPermaLink='false'>a457d10e6e18726a965f685380c7118862f9fc36</guid>
+<pubDate>Fri, 16 Jan 2026 14:16:12 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[This is the first in a set of monthly puzzles, curated by Peter Winkler. This one was originally suggested by Richard Stanley.
+
+You can sign up to hear his description of the answer at http://momath.org/mindbenders]]></description>
 </item>
 <item>
 <title>Album Art Origins</title>
@@ -1799,6 +1918,381 @@ Island footage by WalkingKooka on wikicommons]]></description>
 <pubDate>Tue, 11 Nov 2025 21:35:35 GMT</pubDate>
 <author>Vsauce</author>
 <description><![CDATA[songs (in order) all by @jakechudnow : Moon Men, Bad Lands and Buffalo Trails, Moan]]></description>
+</item>
+<item>
+<title>Why Laplace transforms are so useful</title>
+<link>https://www.youtube.com/watch?v=FE-hM1kRK4Y</link>
+<guid isPermaLink='false'>ea3be36139d4afabb82820aa6f7f9d1ddc59bafc</guid>
+<pubDate>Wed, 05 Nov 2025 13:09:45 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Studying the forced harmonic oscillator by taking a Laplace transform and studying its poles.
+Instead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support
+An equally valuable form of support is to simply share the videos.
+Home page: https://www.3blue1brown.com
+
+Chapter on the Laplace Transform:
+https://youtu.be/j0wJBEZdwLs
+
+Chapter on the S-plane and Simple Harmonic Motion:
+https://youtu.be/-j8PzkZ70Lg
+
+Timestamps:
+0:00 - Opening puzzle
+1:06 - Key properties of a Laplace Transform
+3:29 - Qualitative analysis with Laplace Transforms
+4:29 - The Laplace Transforms of a Derivative
+6:06 - The forced oscillator
+11:59 - Intuition from the transformed solution
+15:15 - Inverting to find a final answer
+17:40 - Explaining the derivative property
+
+------------------
+
+These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
+https://3b1b.co/faq#manim
+
+Music by Vincent Rubinetti.
+https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
+https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
+
+Mailing list: https://3blue1brown.substack.com
+Twitter: https://twitter.com/3blue1brown
+Bluesky: https://bsky.app/profile/3blue1brown.com
+Instagram: https://www.instagram.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Patreon: https://patreon.com/3blue1brown
+Website: https://www.3blue1brown.com]]></description>
+</item>
+<item>
+<title>The dynamics of e^(πi)</title>
+<link>https://www.youtube.com/shorts/bnjKwiUg-kw</link>
+<guid isPermaLink='false'>37200f6325bc1c45079bcf4422405611b5a5f6ed</guid>
+<pubDate>Sun, 12 Oct 2025 12:40:46 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[A fuller version of this explanation, also including the reason we care about complex exponents in the first place: https://youtu.be/-j8PzkZ70Lg]]></description>
+</item>
+<item>
+<title>But what is a Laplace Transform?</title>
+<link>https://www.youtube.com/watch?v=j0wJBEZdwLs</link>
+<guid isPermaLink='false'>f3ba3dada2a1fe9be8df6435535bca76f7276375</guid>
+<pubDate>Sun, 12 Oct 2025 11:19:53 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Visualizing the most important tool for differential equations.
+Previous chapter: https://youtu.be/-j8PzkZ70Lg
+Instead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support
+An equally valuable form of support is to simply share the videos.
+Home page: https://www.3blue1brown.com
+
+Pi creature car artwork by Kurt Bruns
+
+Engine animation borrowed with permission from this (excellent) blog: https://ciechanow.ski/internal-combustion-engine/
+
+Timestamps:
+0:00 - Understanding the engine
+1:16 - Key background ideas
+5:41 - Definition and intuition
+10:43 - Complex integration
+20:43 - Analytic continuation
+23:52 - The transform of exponentials
+26:15 - A deep look at cos(t)
+32:59 - What’s coming next
+
+
+------------------
+
+These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
+https://3b1b.co/faq#manim
+
+Music by Vincent Rubinetti.
+https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
+https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
+
+Mailing list: https://3blue1brown.substack.com
+Twitter: https://twitter.com/3blue1brown
+Bluesky: https://bsky.app/profile/3blue1brown.com
+Instagram: https://www.instagram.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Patreon: https://patreon.com/3blue1brown
+Website: https://www.3blue1brown.com]]></description>
+</item>
+<item>
+<title>The Physics of Euler's Formula | Laplace Transform Prelude</title>
+<link>https://www.youtube.com/watch?v=-j8PzkZ70Lg</link>
+<guid isPermaLink='false'>09e22945d512e15775a91c00dd29ab307e38af7d</guid>
+<pubDate>Sun, 05 Oct 2025 13:53:28 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[The simple harmonic oscillator and the fundamental role of complex exponents for ODEs.
+Next chapter on the Laplace Transform video: https://youtu.be/j0wJBEZdwLs
+Instead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support
+An equally valuable form of support is to simply share the videos.
+Home page: https://www.3blue1brown.com
+
+Timestamps:
+0:00 - Intro
+1:51 - Euler's formula explained dynamically
+9:27 - The harmonic oscillator
+21:08 - General linear equations
+22:47 - Motivating the Laplace Transform
+
+------------------
+
+These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
+https://3b1b.co/faq#manim
+
+Music by Vincent Rubinetti.
+https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
+https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
+
+Mailing list: https://3blue1brown.substack.com
+Twitter: https://twitter.com/3blue1brown
+Bluesky: https://bsky.app/profile/3blue1brown.com
+Instagram: https://www.instagram.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Patreon: https://patreon.com/3blue1brown
+Website: https://www.3blue1brown.com]]></description>
+</item>
+<item>
+<title>What was Euclid really doing? | Guest video by Ben Syversen</title>
+<link>https://www.youtube.com/watch?v=M-MgQC6z3VU</link>
+<guid isPermaLink='false'>fb6150bc0db69c51094f5d64d7810e55a5262287</guid>
+<pubDate>Thu, 18 Sep 2025 14:13:05 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[What role were ruler and compass constructions really serving?
+Check out Ben's channel: @bensyversen 
+Interview with the author of this video: https://youtu.be/VohYM99j8e0
+Supporters get early views of new videos: https://3b1b.co/support
+
+Written, produced, edited, and animated by Ben Syversen
+Additional editing: Jack Saxon
+3d Blender model: Jan-Hendrik Müller
+Additional Blender help: Thibaut Modrzyk (@Deepia)
+Illustrations: Alex Zepherin/DonDada Studio
+Camera: Giacomo Belletti
+Drums: Jeremy Gustin
+Additional music from Epidemic Sound
+
+Special thanks to Viktor Blåsjö: https://intellectualmathematics.com/opinionated-history-of-mathematics/
+
+Lean footage is borrowed from Alex Kontorovich’s lecture series on formal Euclidean geometry: https://www.youtube.com/playlist?list=PLs6rMe3K87LEkc2nd2VZVyLfgJH0Rgage
+
+References/Recommended reading:
+
+Euclid’s Elements:
+Visual edition of Book 1: https://intellectualmathematics.com/dl/Elements.pdf
+Euclid’s Elements in full: https://farside.ph.utexas.edu/books/Euclid/Elements.pdf
+The Thirteen Books of The Elements, translated with introduction and commentary by Sir Thomas L. Heath
+
+Commentary and academic papers:
+A Commentary on the First Book of Euclid’s Elements, Proclus, translated by Glenn R. Morrow
+Operationalism: An Interpretation of the Philosophy of Ancient Greek Geometry, Viktor Blåsjö: https://link.springer.com/article/10.1007/s10699-021-09791-4
+The Euclidean Diagram, Kenneth Manders
+A New Look at Euclid’s Second Proposition, Godfried Toussaint https://www-cgrl.cs.mcgill.ca/~godfried/teaching/dm-reading-assignments/Euclid-Second-Proposition-Math-Intell.pdf
+Logic of Ruler and Compass Constructions, M. Beeson https://www.michaelbeeson.com/research/papers/Cambridge.pdf
+Euclid’s Fourth Postulate, Vincenzo De Risi https://www.cambridge.org/core/journals/science-in-context/article/abs/euclids-fourth-postulate-its-authenticity-and-significance-for-the-foundations-of-greek-mathematics/DD7EB8AFEDD350A0A8B0BE714D74D2EE
+
+Some related books:
+
+Euclid’s Window: The Story of Geometry from Parallel Lines to Hyperspace, Leonard Mlodinow
+The Geometry of Rene Descartes, Rene Descartes
+
+Timestamps:
+
+0:00 - About guest videos
+0:54 - Why ruler and compass?
+2:38 - Diagrams as part of the proof
+8:08  - Geometry as philosophy
+15:21 - Mistakes in diagrammatic reasoning
+19:07 - The parallel postulate
+28:34 - Letting go of the ruler and compass
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
+
+Mailing list: https://3blue1brown.substack.com
+Twitter: https://twitter.com/3blue1brown
+Bluesky: https://bsky.app/profile/3blue1brown.com
+Instagram: https://www.instagram.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Patreon: https://patreon.com/3blue1brown
+Website: https://www.3blue1brown.com]]></description>
+</item>
+<item>
+<title>Incomplete open cubes</title>
+<link>https://www.youtube.com/shorts/1lZpowy21Gc</link>
+<guid isPermaLink='false'>85b3ece90e3ea0e4b09a36701b96584823b5f1dc</guid>
+<pubDate>Sun, 07 Sep 2025 12:25:58 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Full video: https://youtu.be/_BrFKp-U8GI]]></description>
+</item>
+<item>
+<title>Exploration &amp; Epiphany | Guest video by Paul Dancstep</title>
+<link>https://www.youtube.com/watch?v=_BrFKp-U8GI</link>
+<guid isPermaLink='false'>0a9a59b35bbfaff36152268e0f9bf50d1884f63b</guid>
+<pubDate>Sun, 07 Sep 2025 12:25:03 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Sol LeWitt's "Incomplete Open Cubes" and rediscovering Burnside's lemma in group theory
+An interview with the author of this video: https://youtu.be/JEeM2ABUMoo
+Instead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support
+An equally valuable form of support is to share the videos.
+Home page: https://www.3blue1brown.com
+
+Thanks to the Wadsworth Atheneum for granting permission to use LeWitt's notebooks.
+
+Talks by Paul you can find online:
+
+What is Category Theory:
+https://youtu.be/eXBwU9ieLL0
+
+How to Predict Eclipses:
+https://www.exploratorium.edu/eclipse/video/how-predict-eclipses
+
+Theo Jansen's Strandbeests
+https://youtu.be/NxGTuQdp3IQ
+
+Timestamps
+0:00 - Incomplete open cubes
+3:21 - Sol LeWitt
+7:10 - Goofing around
+13:12 - Size and symmetry
+16:50 - Labelling things
+22:34 - Lookalikes
+28:02 - Probing for patterns
+33:11 - Counting using lookalikes
+35:50 - Epiphany
+45:50 - Formalizing
+49:51 - Reflection
+
+------------------
+
+Music by Vincent Rubinetti.
+https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
+https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
+
+Mailing list: https://3blue1brown.substack.com
+Twitter: https://twitter.com/3blue1brown
+Bluesky: https://bsky.app/profile/3blue1brown.com
+Instagram: https://www.instagram.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Patreon: https://patreon.com/3blue1brown
+Website: https://www.3blue1brown.com]]></description>
+</item>
+<item>
+<title>Simulating and understanding phase change | Guest video by Vilas Winstein</title>
+<link>https://www.youtube.com/watch?v=itRV2jEtV8Q</link>
+<guid isPermaLink='false'>ef2bd7d44963cadbb0f9ac71b3e297751684feb4</guid>
+<pubDate>Thu, 28 Aug 2025 14:00:47 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Deriving the Boltzmann formula, defining temperature, and simulating liquid/vapor.
+@SpectralCollective has the second part: https://youtu.be/yEcysu5xZH0
+You can play with a simulation of this model here: https://vilas.us/simulations/liquidvapor/
+These lessons are funded directly by viewers: https://3b1b.co/support
+Home page: https://www.3blue1brown.com
+
+Notes from Vilas:
+1) This open problem is to prove the ergodicity of the deterministic dynamical systems that are used to model the molecule-level physics. A good example of such a dynamical system is the box with particles evolving according to Newton's laws with elastic collisions, like in the video.
+
+2) This video assumes that all probability distributions are discrete, which is the case in the simulations. But one can also set up this formalism for systems with continuous state spaces. Again, a good example is particles in a box, which are not restricted to a lattice, which is only used for visualization purposes in this video.
+
+3) Strictly speaking, these "derivatives" don't make sense since in our simulations the energy can only take on a discrete set of values. But a derivative is the right way to think about this, and is the correct notion in a limiting sense.
+
+4) The factor of -T in the definition of the chemical potential is sort of a historical leftover, but including it has the convenient side effect of allowing the same Boltzmann formula to hold, with an energy function that depends on the chemical potential as well. It should also be noted that temperature must equalize in any situation where the chemical potential equalizes, since it is impossible for systems to exchange molecules without also exchanging energy.
+
+5) This algorithm, where we only choose one pixel at a time, is called Glauber dynamics. There are multiple ways to parallelize it, but the method chosen in this video is to only update each pixel with a low probability at each call of the compute shader, to avoid (frequently) updating two neighboring pixels simultaneously. One could also alternate between updating the even or odd pixels at each step.
+
+6) By "zooming out," what is meant, technically, is a renormalization operation whereby each 3x3 grid of pixels is replaced by just one pixel, which has a molecule exactly when 5 or more of the pixels in the 3x3 grid have molecules. But that is somewhat tough to simulate as the size has to increase by 9 at each step, so this video cheats a bit by just zooming out on a large simulation.
+
+7) The "interesting behavior" referenced here is the fact that the interface between the up and down sections of the picture can be rescaled (as the size of the model goes to infinity) in a way that yields a universal random curve called Schramm-Loewner evolution. This family of random curves shows up in many seemingly-unrelated places in statistical mechanics and probability.
+
+Chapter markers:
+0:00 - What is phase change?
+6:27 - The Boltzmann law and free energy
+12:05 - A preliminary simulation
+15:30 - Defining temperature
+21:25 - Deriving the Boltzmann law
+24:30 - Sampling with MCMC
+28:30 - Chemical potential
+33:20 - Interesting properties
+
+This video made use of the following Creative Commons material:
+
+https://commons.m.wikimedia.org/wiki/File:How_to_(nearly)_instantly_freeze_a_bottle_of_sparkling_water.ogv
+
+https://commons.m.wikimedia.org/wiki/File:Blue_rotating_brain_animation.mpg
+
+https://commons.m.wikimedia.org/wiki/File:7_Tesla_MRI_of_the_ex_vivo_human_brain_at_100_micron_resolution_(100_micron_MRI_acquired_FA25_coronal).webm
+
+https://commons.m.wikimedia.org/wiki/File:Axonal_nerve_fibers_in_a_brain_-_the_neural_network_that_is_us.webm]]></description>
+</item>
+<item>
+<title>How AI connects text and images</title>
+<link>https://www.youtube.com/shorts/j5h9dBtWZXM</link>
+<guid isPermaLink='false'>735b1d68a1c534e8625efa32c1606f33fec3a553</guid>
+<pubDate>Thu, 21 Aug 2025 18:24:11 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[From this guest video by @WelchLabs on how diffusion models work: https://youtu.be/iv-5mZ_9CPY]]></description>
+</item>
+<item>
+<title>The AI that solved IMO Geometry Problems | Guest video by @Aleph0</title>
+<link>https://www.youtube.com/watch?v=4NlrfOl0l8U</link>
+<guid isPermaLink='false'>8ffe44e49ad49b2d1fa5387ca4049fc699ccb07d</guid>
+<pubDate>Sun, 17 Aug 2025 13:02:50 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[How AlphaGeometry combines logic and intuition.
+Check out Aleph0’s channel: https://youtube.com/@Aleph0
+Instead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support
+An equally valuable form of support is to share the videos.
+Home page: https://www.3blue1brown.com
+
+Special thanks to Trieu Trinh for fact-checking the script.
+
+Blog post on an open-sourced geometry solver:
+https://harmonic.fun/news#blog-post-geometry
+
+AlphaGeometry announcement:
+https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/
+
+Similar open-source model, Newclid, by Harmonic:
+https://harmonic.fun/news#blog-post-geometry
+
+Timestamps:
+0:00 - What's surprising
+1:33 - Solve without AI
+7:10 - Where AI comes in
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
+
+Mailing list: https://3blue1brown.substack.com
+Twitter: https://twitter.com/3blue1brown
+Bluesky: https://bsky.app/profile/3blue1brown.com
+Instagram: https://www.instagram.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Patreon: https://patreon.com/3blue1brown
+Website: https://www.3blue1brown.com]]></description>
 </item>
 </channel>
 </rss>
