@@ -4,7 +4,78 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Wed, 11 Mar 2026 04:15:31 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Mar 2026 04:23:34 GMT</lastBuildDate>
+<item>
+<title>Subduction Retrieval</title>
+<link>https://xkcd.com/3218/</link>
+<guid isPermaLink='false'>ed3e9b1f8d121071af9f0f01db959aae376c085c</guid>
+<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+<author>xkcd.com</author>
+<description><![CDATA[<img alt="Aww, the oceanic crust and the continental crust are getting married!" src="https://imgs.xkcd.com/comics/subduction_retrieval.png" title="Aww, the oceanic crust and the continental crust are getting married!" />]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/b29fb8829b...80234b5ab2</link>
+<guid isPermaLink='false'>3a6a21de653d4dc54e0195d62e31ceae7a7bd057</guid>
+<pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · March 11, 2026 16:34
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/robherring" rel="noreferrer"><img alt="@robherring" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/13259058?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/f9b888599418951b8229bbb28851ed4da50c58e9" rel="noreferrer">f9b8885</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      remoteproc: qcom_wcnss: Fix reserved region mapping failure
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/chleroy" rel="noreferrer"><img alt="@chleroy" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/29037904?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/b9e7e3ea605f23d342c67fc5bded99bcaa32d93b" rel="noreferrer">b9e7e3e</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      powerpc/e500: Always use 64 bits PTE
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/b29fb8829b...80234b5ab2" rel="noreferrer">27 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
 <item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/b4f0dd314b...b29fb8829b</link>
@@ -1212,14 +1283,6 @@
 </div></div>]]></description>
 </item>
 <item>
-<title>Electric Vehicles</title>
-<link>https://xkcd.com/3214/</link>
-<guid isPermaLink='false'>02ee798f22f5bb22dc795a1154981dd5741bf509</guid>
-<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-<author>xkcd.com</author>
-<description><![CDATA[<img alt="Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one." src="https://imgs.xkcd.com/comics/electric_vehicles.png" title="Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one." />]]></description>
-</item>
-<item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/11439c4635...af4e9ef3d7</link>
 <guid isPermaLink='false'>14ab65a315feb25f88995e5b37670b962dbf5ccf</guid>
@@ -1866,69 +1929,6 @@ Website: https://www.3blue1brown.com]]></description>
 
                 <li class="f6 mt-2">
                   <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/aed968f8a6...4d349ee5c7" rel="noreferrer">13 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/a75cb869a8...aed968f8a6</link>
-<guid isPermaLink='false'>8248878a9f010b78a857c353440db41304abec97</guid>
-<pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · February 27, 2026 18:57
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/53c254688558c12867bdbbc6f4eb8eab41816436f0a4d32e4fe62b693595e18d/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f30346131643735386664633336386664376535303561356161643662316137373f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/211ecfaaef186ee5230a77d054cdec7fbfc6724a" rel="noreferrer">211ecfa</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      drm/vmwgfx: Fix invalid kref_put callback in vmw_bo_dirty_release
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/en4bz" rel="noreferrer"><img alt="@en4bz" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1207749?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/922f9dec5d19df4cfbb7070275e5c131d10c80f3" rel="noreferrer">922f9de</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      drm/vmwgfx: Set a unique ID for each submitted command buffer
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/a75cb869a8...aed968f8a6" rel="noreferrer">120 more commits »</a>
                 </li>
             </ul>
           </div>
