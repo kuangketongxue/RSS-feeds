@@ -4,7 +4,259 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Thu, 09 Apr 2026 04:41:52 GMT</lastBuildDate>
+<lastBuildDate>Fri, 10 Apr 2026 04:57:04 GMT</lastBuildDate>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/b42ed3bb88...9a9c8ce300</link>
+<guid isPermaLink='false'>31830a179cc1425f1ebf0560c3e7c42a0d3b6a79</guid>
+<pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · April 9, 2026 23:52
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/jannau" rel="noreferrer"><img alt="@jannau" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/486189?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/742de64b62b690a368dbeb846499eb8ac8ceedb9" rel="noreferrer">742de64</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      kbuild: modules-cpio-pkg: Respect INSTALL_MOD_PATH
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/nathanchance" rel="noreferrer"><img alt="@nathanchance" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/11478138?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/deb4605671cfae3b2803cfbbf4739e7245248398" rel="noreferrer">deb4605</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      modpost: Declare extra_warn with unused attribute
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/b42ed3bb88...9a9c8ce300" rel="noreferrer">1 more commit »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/a55f7f5f29...b42ed3bb88</link>
+<guid isPermaLink='false'>0236f55d0df4545f6c6f6b8fc3a8a7ef0411069c</guid>
+<pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · April 9, 2026 20:57
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/NTMan" rel="noreferrer"><img alt="@NTMan" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/200750?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/3d48c9fd78dd0b1809669ec49c4d0997b8127512" rel="noreferrer">3d48c9f</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      dma-debug: suppress cacheline overlap warning when arch has no DMA al…
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/jhovold" rel="noreferrer"><img alt="@jhovold" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/601896?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/dff34ef879c5e73298443956a8b391311ba78d57" rel="noreferrer">dff34ef</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      mmc: vub300: fix NULL-deref on disconnect
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/a55f7f5f29...b42ed3bb88" rel="noreferrer">28 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/8b02520ec5...a55f7f5f29</link>
+<guid isPermaLink='false'>c12ea5d5611e996397ae4eb43f5e8d848ff20eee</guid>
+<pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · April 9, 2026 15:50
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/6c5af77a37f6603b7a9a47842d88a5dd77721512edf20a4f92590546a4b35260/68747470733a2f2f312e67726176617461722e636f6d2f6176617461722f30373161333932633163353162316432626661343330393063376364646538363f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/71a98248c63c535eaa4d4c22f099b68d902006d0" rel="noreferrer">71a9824</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      xfrm: clear trailing padding in build_polexpire()
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/d94fe90369e11212f1aa3bd0e168bc2a357a8c08acf50a31d4c346477a2eb938/68747470733a2f2f312e67726176617461722e636f6d2f6176617461722f32616530373035326335653963346237366561353231366165306666393534303f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/7081d46d32312f1a31f0e0e99c6835a394037599" rel="noreferrer">7081d46</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      xfrm: account XFRMA_IF_ID in aevent size calculation
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/8b02520ec5...a55f7f5f29" rel="noreferrer">113 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/7f87a5ea75...8b02520ec5</link>
+<guid isPermaLink='false'>0939958201b7cabf987cddbc290f203d10965652</guid>
+<pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · April 9, 2026 15:38
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/spandruvada" rel="noreferrer"><img alt="@spandruvada" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/3802550?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/e1415b9418eb22b4a7a1ef4b4aec9dd0a49e3fa7" rel="noreferrer">e1415b9</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      platform/x86: ISST: Reset core count to 0
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/spandruvada" rel="noreferrer"><img alt="@spandruvada" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/3802550?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/4ab604b3f3aa8dcccc7505f5d310016682a99d5f" rel="noreferrer">4ab604b</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      platform/x86/intel-uncore-freq: Handle autonomous UFS status bit
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/7f87a5ea75...8b02520ec5" rel="noreferrer">9 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
 <item>
 <title>Overton</title>
 <link>https://xkcd.com/3230/</link>
@@ -1656,264 +1908,12 @@ Full video: https://youtu.be/ldxFjLJ3rVY]]></description>
 </div></div>]]></description>
 </item>
 <item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/453a4a5f97...d813f42193</link>
-<guid isPermaLink='false'>aa98ce8e6f3598328055ac035d141dd56f53deb1</guid>
-<pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · March 26, 2026 19:48
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/l0kod" rel="noreferrer"><img alt="@l0kod" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1286585?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/405ca72dc589dd746e5ee5378bb9d9ee7f844010" rel="noreferrer">405ca72</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      landlock: Fix formatting
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/l0kod" rel="noreferrer"><img alt="@l0kod" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1286585?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/929553bbb4cdda9be22175e1adb4d5814b770855" rel="noreferrer">929553b</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      landlock: Fully release unused TSYNC work entries
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/453a4a5f97...d813f42193" rel="noreferrer">17 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/0138af2472...453a4a5f97</link>
-<guid isPermaLink='false'>1a97335c972470d969f93bfc1a980cb1607b3489</guid>
-<pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · March 26, 2026 17:30
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/qsn" rel="noreferrer"><img alt="@qsn" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/4687470?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/aa8a3f3c67235422a0c3608a8772f69ca3b7b63f" rel="noreferrer">aa8a3f3</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      xfrm: add missing extack for XFRMA_SA_PCPU in add_acquire and allocspi
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/qsn" rel="noreferrer"><img alt="@qsn" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/4687470?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/b57defcf8f109da5ba9cf59b2a736606faf3d846" rel="noreferrer">b57defc</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      xfrm: fix the condition on x-&gt;pcpu_num in xfrm_sa_len
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/0138af2472...453a4a5f97" rel="noreferrer">124 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/d2a43e7f89...0138af2472</link>
-<guid isPermaLink='false'>84375c723e8a3e194c5dd3fb5c1e8a8ee200d4b9</guid>
-<pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · March 26, 2026 01:51
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/690e5b3c6e51ac5bd5eeeb214024e79677024b3d20acf26918e3562b031be8c3/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f31656664326562333135333761353065656230653036373266666330386137373f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/eade54040384f54b7fb330e4b0975c5734850b3c" rel="noreferrer">eade540</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      erofs: set fileio bio failed in short read case
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/b4c47fdadc54cd7879e801a34da2ba64f6165b4a3e4ab4c317a9ff2b949a6d1c/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f34373337346138636438306166346239326437653935376435333335396362623f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/c23df30915f83e7257c8625b690a1cece94142a0" rel="noreferrer">c23df30</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      erofs: add GFP_NOIO in the bio completion if needed
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/d2a43e7f89...0138af2472" rel="noreferrer">8 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
 <title>The subset sum puzzle</title>
 <link>https://www.youtube.com/shorts/4h5BEALuh44</link>
 <guid isPermaLink='false'>42879aa306dd5b05026f282b8027c71107f85068</guid>
 <pubDate>Wed, 25 Mar 2026 20:59:04 GMT</pubDate>
 <author>3Blue1Brown</author>
 <description><![CDATA[Part of a series of monthly puzzlers. Stay subscribed to see the solution]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/bbeb83d318...d2a43e7f89</link>
-<guid isPermaLink='false'>0214449582c195318220b1fa3ac3cfb9a7ff5f50</guid>
-<pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · March 25, 2026 21:48
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/kees" rel="noreferrer"><img alt="@kees" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1110841?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/1c7bbaeed110b0fd9e65e173fb4d612f64a20d93" rel="noreferrer">1c7bbae</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      coccinelle: kmalloc_obj: Remove default GFP_KERNEL arg
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/nathanchance" rel="noreferrer"><img alt="@nathanchance" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/11478138?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/7a618ca9b9c4769fc5adf7344bb1dd98f823da22" rel="noreferrer">7a618ca</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      init/Kconfig: Require a release version of clang-22 for CC_HAS_COUNTE…
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/bbeb83d318...d2a43e7f89" rel="noreferrer">16 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
 </item>
 <item>
 <title>How (and why) to take a logarithm of an image</title>
