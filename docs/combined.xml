@@ -4,16 +4,518 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Mon, 13 Apr 2026 05:01:28 GMT</lastBuildDate>
+<lastBuildDate>Tue, 14 Apr 2026 04:53:42 GMT</lastBuildDate>
 <item>
-<title>躺着办公这么爽？AI时代好东西分享1.0</title>
-<link>https://www.bilibili.com/video/BV12eDkBoEjM</link>
-<guid isPermaLink='false'>2aa93b3978e03c539334c8151d43e39608495418</guid>
-<pubDate>Sun, 12 Apr 2026 09:00:00 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/0492aae16bbee5efa3bfc75bb18b18566f73729f.jpg" /><br />AI 时代办公，必备的4件套！
-视野全开、松弛办公、用嘴输入、算力自由~
-感谢铁铁们的三连+关注~]]></description>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/fbfb6bd927...d60bc14015</link>
+<guid isPermaLink='false'>d23bd9a79c4fa485ff4633e039375ac4cae4f819</guid>
+<pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · April 14, 2026 03:34
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/ffainelli" rel="noreferrer"><img alt="@ffainelli" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1110044?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/5711ae6de0646dcf5bf90cc9d4d7cacd34896472" rel="noreferrer">5711ae6</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      gpio: brcmstb: Utilize irqd_to_hwirq(d) instead of d-&gt;hwirq
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/0f1b55078efc0a1670983ec792b0a81b99de3170752059e4013d433b3a2b0304/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f32353039373366646632356461303735363936303838633961376431303738323f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/66ff5094240e6e5cea743f5e656e28734de31f1e" rel="noreferrer">66ff509</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      gpio: brcmstb: implement .irq_mask_ack()
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/fbfb6bd927...d60bc14015" rel="noreferrer">91 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/d568788baa...fbfb6bd927</link>
+<guid isPermaLink='false'>02b600d45efe464db49b60b3de54fb00a2d4e5a2</guid>
+<pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · April 14, 2026 03:08
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/Mani-Sadhasivam" rel="noreferrer"><img alt="@Mani-Sadhasivam" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/9375848?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/e560083c0467f86b72aecac377b27bd1e7d16c49" rel="noreferrer">e560083</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      OPP: debugfs: Use performance level if available to distinguish betwe…
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/vireshk" rel="noreferrer"><img alt="@vireshk" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/12929622?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/3d2398f44a2d48fb1c575a6e0bc6b38f3e689e22" rel="noreferrer">3d2398f</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      OPP: Move break out of scoped_guard in dev_pm_opp_xlate_required_opp()
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/d568788baa...fbfb6bd927" rel="noreferrer">273 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/d142ab35ee...d568788baa</link>
+<guid isPermaLink='false'>1dcf72070ed70a33b5902dcdb211d733c497d88a</guid>
+<pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · April 14, 2026 00:56
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/ryanhrob" rel="noreferrer"><img alt="@ryanhrob" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1818664?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/37beb42560165869838e7d91724f3e629db64129" rel="noreferrer">37beb42</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      randomize_kstack: Maintain kstack_offset per task
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/ryanhrob" rel="noreferrer"><img alt="@ryanhrob" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1818664?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/a96ef5848cb096226bf6aff31a90d8b136d99b71" rel="noreferrer">a96ef58</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      randomize_kstack: Unify random source across arches
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/d142ab35ee...d568788baa" rel="noreferrer">15 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/81dc1e4d32...d142ab35ee</link>
+<guid isPermaLink='false'>c0d254ebe5c7bf60f02135a5b32404b7647f8b70</guid>
+<pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · April 14, 2026 00:37
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/853d829e1cf0c6a4b787bc030aee2e4f6f34c0e9de9ebb0d3357479cbc78a640/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f37663165326431633465333963343333626235616637333434316637643933643f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/309a7e514da7d53e05b5d053594f6aabb0d382b5" rel="noreferrer">309a7e5</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      lib/crypto: aes: Add support for CBC-based MACs
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/853d829e1cf0c6a4b787bc030aee2e4f6f34c0e9de9ebb0d3357479cbc78a640/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f37663165326431633465333963343333626235616637333434316637643933643f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/7137cbf2b5c9feb6302d6da116eab2047c5f05d2" rel="noreferrer">7137cbf</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      crypto: aes - Add cmac, xcbc, and cbcmac algorithms using library
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/81dc1e4d32...d142ab35ee" rel="noreferrer">94 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/b8f82cb0d8...81dc1e4d32</link>
+<guid isPermaLink='false'>514d519a69e56c7662094fc1abd83b6a41b79c3c</guid>
+<pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · April 14, 2026 00:28
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/anmuxixixi" rel="noreferrer"><img alt="@anmuxixixi" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/56731178?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/4637b4cdd7aebfa2e38fa39f4db91fa089b809c5" rel="noreferrer">4637b4c</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      exfat: use truncate_inode_pages_final() at evict_inode()
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/twilfredo" rel="noreferrer"><img alt="@twilfredo" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/36925352?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/c6ce65cb17aa9321687d1b8a842487f839e1a548" rel="noreferrer">c6ce65c</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      xfs: add write pointer to xfs_rtgroup_geometry
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/b8f82cb0d8...81dc1e4d32" rel="noreferrer">448 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>Countdown Standard</title>
+<link>https://xkcd.com/3232/</link>
+<guid isPermaLink='false'>533d20e4018091dcbe9de323a4c6a50fe2a48dc8</guid>
+<pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+<author>xkcd.com</author>
+<description><![CDATA[<img alt="Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples." src="https://imgs.xkcd.com/comics/countdown_standard.png" title="Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples." />]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/0f00132132...b8f82cb0d8</link>
+<guid isPermaLink='false'>e6f99c08f5e3e9ea363aeb8544ef89f8bba75ed6</guid>
+<pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · April 13, 2026 22:47
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/c65f79e146bffa4a624d3c7acfe5d6c40fdacf79254d6217e1e2f60f3f7dfc45/68747470733a2f2f322e67726176617461722e636f6d2f6176617461722f35333464616532366630653931313466316639303534363766646234333463653f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/f08fe8891c3eeb63b73f9f1f6d97aa629c821579" rel="noreferrer">f08fe88</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      dcache: Limit the minimal number of bucket to two
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/7c7b03cfd6f850aa1e859dbcb45228c97035dec06b14222e8840b8e18165fb7b/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f35313535613966376234656266393334623965643037386437306562613238353f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/0d799df5b147e08828887fe7299efd7a9e0eea40" rel="noreferrer">0d799df</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      fs: mark bool_names static
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/0f00132132...b8f82cb0d8" rel="noreferrer">148 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/26ff969926...0f00132132</link>
+<guid isPermaLink='false'>9bc941d236ccb9ee9f5758cb9c1f731fd97c64f3</guid>
+<pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · April 13, 2026 17:52
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/416a57b9354f905b4653fbaba012832c96154fb5ed2f646f9b736d2421a0273a/68747470733a2f2f312e67726176617461722e636f6d2f6176617461722f62643761333565303035306564396561633930313739306436386436383932323f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/a235d3bcd28ba2d472f5b4cb6b259baeab75bafd" rel="noreferrer">a235d3b</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      writeback: prep helpers for dirty-limit and writeback accounting
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/416a57b9354f905b4653fbaba012832c96154fb5ed2f646f9b736d2421a0273a/68747470733a2f2f312e67726176617461722e636f6d2f6176617461722f62643761333565303035306564396561633930313739306436386436383932323f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/07043a6ebeb27a9f89b60484c163b20220f81325" rel="noreferrer">07043a6</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      f2fs: stop using writeback internals for dirty_exceeded checks
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/26ff969926...0f00132132" rel="noreferrer">56 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/028ef9c96e...26ff969926</link>
+<guid isPermaLink='false'>df78933b53a75daf7867bb33bd90c4c626286418</guid>
+<pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · April 13, 2026 17:00
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/tamird" rel="noreferrer"><img alt="@tamird" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1535036?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/e33d58ee0c081c4468d0ea4f03fcb93c6cb5e21a" rel="noreferrer">e33d58e</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      scripts: generate_rust_analyzer.py: extract `{build,register}_crate`
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/tamird" rel="noreferrer"><img alt="@tamird" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1535036?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/4079cf049cb265c15c3c7349d85943462ba054d5" rel="noreferrer">4079cf0</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      scripts: generate_rust_analyzer.py: drop `"is_proc_macro": false`
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/028ef9c96e...26ff969926" rel="noreferrer">106 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
 </item>
 <item>
 <title>torvalds pushed linux</title>
@@ -377,15 +879,6 @@
 </div></div>]]></description>
 </item>
 <item>
-<title>【正片】“无聊斋” × 罗永浩的十字路口！喜剧工作者在AI时代可以多“活”几年</title>
-<link>https://www.bilibili.com/video/BV1AeD4BkECi</link>
-<guid isPermaLink='false'>bb3fccb22ff6eaa842f1ea57424430604c6f7c95</guid>
-<pubDate>Fri, 10 Apr 2026 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/f77847472837ac0a52497831b29f0da7bedf1fae.jpg" /><br />本期节目是《无聊斋》和《罗永浩的十字路口》联名款的特别现场。
-这一次的聚会，阎鹤祥、石老板、刘旸教主、六兽和罗永浩坐在一起，特别严肃地聊起了人生的各种“恐惧”。从看完恐怖片后的惊魂夜尿，到在朋友电影首映式上的烂片尬吹 ；从局麻手术脱裤子后被一屋子医生集体认出的人间惨剧 ，到电梯里有人放屁时究竟该如何绞尽脑汁照顾好每一个人（包括疑犯）。聊完这些人生的血泪和苦难之后，大家一致得出结论：幸好 AI 很快就会消灭我们。]]></description>
-</item>
-<item>
 <title>Lightning</title>
 <link>https://xkcd.com/3231/</link>
 <guid isPermaLink='false'>b1f516d51157b69039ca9adad890e0a24ba3f86a</guid>
@@ -623,7 +1116,7 @@
                 </li>
                 <li class="d-flex flex-items-baseline">
                   <span>
-                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/d94fe90369e11212f1aa3bd0e168bc2a357a8c08acf50a31d4c346477a2eb938/68747470733a2f2f312e67726176617461722e636f6d2f6176617461722f32616530373035326335653963346237366561353231366165306666393534303f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                    <a class="d-inline-block" href="/Niebelungen-D" rel="noreferrer"><img alt="@Niebelungen-D" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/68509393?s=32&amp;v=4" width="16" /></a>
                   </span>
                   <code><a class="mr-1" href="/torvalds/linux/commit/7081d46d32312f1a31f0e0e99c6835a394037599" rel="noreferrer">7081d46</a></code>
                   <div class="dashboard-break-word lh-condensed">
@@ -1166,14 +1659,6 @@
 </div></div>]]></description>
 </item>
 <item>
-<title>Day Counter</title>
-<link>https://xkcd.com/3228/</link>
-<guid isPermaLink='false'>d7fc9e3f3235074a0983df57503b524b24e5aecf</guid>
-<pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
-<author>xkcd.com</author>
-<description><![CDATA[<img alt="It has been −2,147,483,648 days since our last integer overflow." src="https://imgs.xkcd.com/comics/day_counter.png" title="It has been −2,147,483,648 days since our last integer overflow." />]]></description>
-</item>
-<item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/d8a9a4b11a...631919fb12</link>
 <guid isPermaLink='false'>94b84f98397f652ab34e7d73b50f48907f96233b</guid>
@@ -1300,26 +1785,6 @@
 </div></div>]]></description>
 </item>
 <item>
-<title>小白也能拥有的“AI专家”～【建议收藏】</title>
-<link>https://www.bilibili.com/video/BV1WxXZBKE4A</link>
-<guid isPermaLink='false'>85d6a359573e29a3f2016ffe2c9dda2dd0938259</guid>
-<pubDate>Thu, 02 Apr 2026 14:46:35 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/9c4dbb324ed54b532cb36c259083dbfeae729456.jpg" /><br />感谢铁铁们的三连+关注～]]></description>
-</item>
-<item>
-<title>【正片】崔健×罗永浩！去天堂和去地狱，都要带上艺术家</title>
-<link>https://www.bilibili.com/video/BV1wu9HBNE9y</link>
-<guid isPermaLink='false'>9ba689ced83ca5ab0fc08c822fb0c193e57ec15a</guid>
-<pubDate>Thu, 02 Apr 2026 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/09beecab5d644450c47c6d7ec7412567b4c9c70e.jpg" /><br />在出道四十周年的巡演时刻，崔健并没有跟“怀旧”相关的任何念头，对回顾近半个世纪的成就和荣光也毫无兴趣，“我觉得那个日子并不重要，但是这个音乐会真是一个好音乐会，不看是你们的遗憾，大家的遗憾”。
-
-从1986年的石破天惊开始，四十年的风雨过后，他还是那个说话铿锵有力、掷地有声的崔健。到了中年之后，他反而更加积极和乐观，他认为中年危机不过是“你的脱壳时期，你进步的土壤，你最成熟的时候到来的前兆，是你最牛x的时候”。
-
-他也依然充满能量和热情，甚至比年轻时更忙于吸收学习各种新鲜的东西，不限于音乐。他拒绝复制自己]]></description>
-</item>
-<item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/9147566d80...5619b098e2</link>
 <guid isPermaLink='false'>e23295c58800c570d5ef8649bfdd391e0cbbe359</guid>
@@ -1381,17 +1846,6 @@
   </div>
 </div>
 </div></div>]]></description>
-</item>
-<item>
-<title>51万行源码泄露！Claude Code 里面到底藏了什么？</title>
-<link>https://www.bilibili.com/video/BV1Mq9JBMEps</link>
-<guid isPermaLink='false'>88b263b91ae29c5d24caa293dc63520672879f04</guid>
-<pubDate>Wed, 01 Apr 2026 19:38:32 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/8eaeed8f0999e14d5f2ce0ef396f9ae7d85c937b.jpg" /><br />Claude Code 51万行源码全泄露了！
-几十万行代码里的“宝藏”我都给你们挖出来了！
-这波史诗级“开源”，开发者们都疯了！
-感谢铁铁们的三连+关注～]]></description>
 </item>
 <item>
 <title>torvalds pushed linux</title>
@@ -1457,501 +1911,6 @@
 </div></div>]]></description>
 </item>
 <item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/d0c3bcd5b8...dbf00d8d23</link>
-<guid isPermaLink='false'>21fcf94f6148f7205129e7ba4996dedaf090a5be</guid>
-<pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · March 31, 2026 18:30
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/jankara" rel="noreferrer"><img alt="@jankara" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/5585575?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/fffca572f9ca51607f180a37d0c898404c8f9112" rel="noreferrer">fffca57</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      mpage: Provide variant of mpage_writepages() with own optional folio …
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/jankara" rel="noreferrer"><img alt="@jankara" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/5585575?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/102e57d56f81fa5c5ed78f576101d1bf1b3e6fe2" rel="noreferrer">102e57d</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      udf: Fix race between file type conversion and writeback
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/d0c3bcd5b8...dbf00d8d23" rel="noreferrer">1 more commit »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds created a branch</title>
-<link>https://github.com/torvalds/linux/compare/0000000000...809b997a5c</link>
-<guid isPermaLink='false'>e6d92bbdc25f1b2d1f21e94725b753b425f0e6c3</guid>
-<pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="git-branch js-feed-item-view"><div class="body">
-<!-- create -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-        <div class="d-flex flex-items-baseline">
-          <div class="color-fg-muted">
-                <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-              <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-              
-              created a
-              branch
-              in
-              <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-
-            <span>
-              · March 30, 2026 23:06
-            </span>
-          </div>
-        </div>
-
-    <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-      <div>
-        <div class="f4 lh-condensed text-bold color-fg-default">
-          <div class="d-inline-block">
-            <div class="d-flex">
-              <div class="mr-2">
-                <a class="d-flex" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-small circle" height="20" size="20" src="https://avatars.githubusercontent.com/u/1024025?s=40&amp;v=4" width="20" /></a>
-              </div>
-                  <div class="d-inline-block">
-                    <a class="css-truncate css-truncate-target branch-name v-align-middle" href="https://github.com/torvalds/linux/tree/refs/heads/nocache-cleanup" rel="noreferrer" title="refs/heads/nocache-cleanup">refs/heads/nocache-cleanup</a> in <a class="Link--primary text-bold no-underline wb-break-all d-inline-block" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-                  </div>
-            </div>
-          </div>
-        </div>
-
-
-          <p class="f6 color-fg-muted mt-2 mb-0">
-            <span>Updated Mar 30</span>
-          </p>
-      </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/7aaa8047ea...d0c3bcd5b8</link>
-<guid isPermaLink='false'>fb7dd0986a135d294235f149211c86fd6bde2635</guid>
-<pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · March 30, 2026 21:01
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/853d829e1cf0c6a4b787bc030aee2e4f6f34c0e9de9ebb0d3357479cbc78a640/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f37663165326431633465333963343333626235616637333434316637643933643f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/e5046823f8fa3677341b541a25af2fcb99a5b1e0" rel="noreferrer">e504682</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      lib/crypto: chacha: Zeroize permuted_state before it leaves scope
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/lenticularis39" rel="noreferrer"><img alt="@lenticularis39" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1266171?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/2e8b1a1d12ae3338efeb1c3de3eb4e9324b87a28" rel="noreferrer">2e8b1a1</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      rtla: Fix build without libbpf header
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/7aaa8047ea...d0c3bcd5b8" rel="noreferrer">2 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>我的Qclaw和大厂撞名，我决定……</title>
-<link>https://www.bilibili.com/video/BV1kdXQBnEmR</link>
-<guid isPermaLink='false'>3f293c4db3a65dcf0d27d07022b1194f581a9258</guid>
-<pubDate>Sun, 29 Mar 2026 11:08:38 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/e6b360cd989b5f14986c8ee5819d6341d3a28717.jpg" /><br />我的Qclaw今天正式开源啦！
-和大家聊聊为什么要做Qclaw，我们是怎么极限开发的，以及撞名是怎么回事……
-非常感谢内测群里大家的反馈～
-也欢迎大家在GitHub和我们的官网共建、下载和使用
-
-感谢铁铁们一键三连哦～
-如视频中使用的部分网络素材涉及版权问题，请私信联系我们，我们会第一时间核实并处理！
-
-📦 GitHub 项目链接：https://github.com/qiuzhi2046/Qclaw
-📌 Qclaw 官网：qclawai.com]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/d1384f70b2...7aaa8047ea</link>
-<guid isPermaLink='false'>5dc4de8936ed772093185e8050958f1c904d19ff</guid>
-<pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · March 29, 2026 22:42
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>1 commit to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits pusher-is-only-committer">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/7aaa8047eafd0bd628065b15757d9b48c5f9c07d" rel="noreferrer">7aaa804</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Linux 7.0-rc6
-                    </blockquote>
-                  </div>
-                </li>
-
-
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/fc9eae25ec...d1384f70b2</link>
-<guid isPermaLink='false'>88114d03220a0edd821df22feabadf50b8456de2</guid>
-<pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · March 29, 2026 22:39
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/deepanshu406" rel="noreferrer"><img alt="@deepanshu406" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/5838807?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/67e467a11f62ff64ad219dc6aa5459e132c79d14" rel="noreferrer">67e467a</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      netfs: Fix kernel BUG in netfs_limit_iter() for ITER_KVEC iterators
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/deepanshu406" rel="noreferrer"><img alt="@deepanshu406" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/5838807?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/e9075e420a1eb3b52c60f3b95893a55e77419ce8" rel="noreferrer">e9075e4</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      netfs: Fix NULL pointer dereference in netfs_unbuffered_write() on retry
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/fc9eae25ec...d1384f70b2" rel="noreferrer">9 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/ac354b5cb0...fc9eae25ec</link>
-<guid isPermaLink='false'>2a3b5317a15c9c1027cf2415cd9629087b0874ba</guid>
-<pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · March 29, 2026 20:26
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/1991Joyzou" rel="noreferrer"><img alt="@1991Joyzou" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/94963275?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/2e7b5cf72e51c9cf9c8b75190189c757df31ddd9" rel="noreferrer">2e7b5cf</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      dmaengine: fsl-edma: fix channel parameter config for fixed channel r…
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/Shi-Shenghui" rel="noreferrer"><img alt="@Shi-Shenghui" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/257745803?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/77b19d053ac2cce9e873007ad4b09f2323c93576" rel="noreferrer">77b19d0</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      dmaengine: dw-edma: fix MSI data programming for multi-IRQ case
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/ac354b5cb0...fc9eae25ec" rel="noreferrer">32 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/f242ac4a09...ac354b5cb0</link>
-<guid isPermaLink='false'>f166881cbb5a94176cf0267bb722e0bd7e583a1b</guid>
-<pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · March 29, 2026 19:27
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/1649bdb5608bc9e2225640b63e05b27ae0da00589693cc48e38aa80b81964b5b/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f66646337313966643263646532373234613332653861323235376566306165383f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/cd7e1fef5a1ca1c4fcd232211962ac2395601636" rel="noreferrer">cd7e1fe</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      xen/privcmd: unregister xenstore notifier on module exit
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/b0672a092441ffce0d19e97eba55828b528e49f57d6300cc56bd78b8a0dfe267/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f32353730646338653236323839623635383662613664376161353634373735323f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/0f54755343f56ac108cfd55173bc1b5c5376384d" rel="noreferrer">0f54755</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      KVM: s390: vsie: Fix dat_split_ste()
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/f242ac4a09...ac354b5cb0" rel="noreferrer">14 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/a3d97d1d3f...f242ac4a09</link>
-<guid isPermaLink='false'>4e70133b5a14f599078120f31b36e091d7b779f2</guid>
-<pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · March 29, 2026 17:29
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/nikunjad" rel="noreferrer"><img alt="@nikunjad" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/5309324?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/05243d490bb7852a8acca7b5b5658019c7797a52" rel="noreferrer">05243d4</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      x86/cpu: Enable FSGSBASE early in cpu_init_exception_handling()
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/bp3tk0v" rel="noreferrer"><img alt="@bp3tk0v" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/73170307?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/411df123c017169922cc767affce76282b8e6c85" rel="noreferrer">411df12</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      x86/cpu: Remove X86_CR4_FRED from the CR4 pinned bits mask
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/a3d97d1d3f...f242ac4a09" rel="noreferrer">12 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
 <title>Escher's most mind-bending piece</title>
 <link>https://www.youtube.com/shorts/Y7ImxZ_YhJk</link>
 <guid isPermaLink='false'>060f6f1203a46bfb7b84b2a33cccd075d5d12338</guid>
@@ -1959,18 +1918,6 @@
 <author>3Blue1Brown</author>
 <description><![CDATA[On "The Print Gallery", by M.C. Escher
 Full video: https://youtu.be/ldxFjLJ3rVY]]></description>
-</item>
-<item>
-<title>【正片】脱口秀演员杨笠×罗永浩！不想成为“靶心”，也无意成为“灯塔”</title>
-<link>https://www.bilibili.com/video/BV1CFQUBME2v</link>
-<guid isPermaLink='false'>a21b55857dba8d8030e0bef194d6846c278cc4ef</guid>
-<pubDate>Thu, 26 Mar 2026 02:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/93ccb8da8d69f94ed5ca2a86d0f25d719addb1b8.jpg" /><br />当整个互联网都为她的那个段子争吵、撕裂时，杨笠感受到的是一种极致的荒诞。她人生最黑暗的时刻和最高光的时刻同时来临，让她不知道该如何面对和言说，只能错愕地吞下生活给她的苦果......和糖果。
-
-在这场长达近四个小时，由“中国互联网最招黑体质”的两个人完成的对谈中，杨笠回顾了成长的种种往事，也包括那场席卷全网的舆论风暴。当这场风暴变得越诡谲，越来越复杂的时候，作为一名职业喜剧演员，她决定化繁为简，“只服务喜剧标准”，微笑着继续“冒犯”这个她无法回避的生活。
-
-从河北农村的猪圈旁，到火遍全国的综艺舞台，再到四]]></description>
 </item>
 <item>
 <title>The subset sum puzzle</title>
@@ -2065,22 +2012,6 @@ Website: https://www.3blue1brown.com]]></description>
 <description><![CDATA[song: "Philadelphia" by @jakechudnow]]></description>
 </item>
 <item>
-<title>诺奖神作：一部写给AI时代的人性寓言《克拉拉与太阳》</title>
-<link>https://www.bilibili.com/video/BV1Rew3z1EUq</link>
-<guid isPermaLink='false'>8d94cdb453dd8d0a22edef84749a8685a129464a</guid>
-<pubDate>Sun, 15 Mar 2026 14:28:51 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/2b03ea43688f4b1786ad16ded87fe818b3f7b90e.jpg" /><br />只要数据足够多，任何人都是可以被延续和替代的吗？
-你认为，爱是AI能‘学会’的技能吗？
-还是说，爱是人类无法被复制和替代的专属？
-欢迎来到我的新系列——“秋芝故事大王”！
-感谢朋友们的三连+关注~
-
-视频改编自诺贝尔文学奖得主石黑一雄的小说《克拉拉与太阳》
-故事讲的是，在近未来的AI时代，陪伴机器人克拉拉用细腻而残酷的视角，记录了她的一生。她虔诚地信仰太阳，甚至愿意牺牲自己，只为换取人类少女乔西的康复。在人类充满算计与恐惧的社会，一个AI竟然展现出了最纯粹的神性……
-如果你有其他想看的科幻故事欢迎在评论区]]></description>
-</item>
-<item>
 <title>I Found A Wild Ambigram!</title>
 <link>https://www.youtube.com/shorts/-UgtKlbzers</link>
 <guid isPermaLink='false'>09ac3fc0c2ef09aee75c7105660f58c14ff39a33</guid>
@@ -2089,55 +2020,12 @@ Website: https://www.3blue1brown.com]]></description>
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title>爆肝10亿token，我给OpenClaw做了个龙虾管家！【一键安装龙虾】</title>
-<link>https://www.bilibili.com/video/BV1mYPSzmEkV</link>
-<guid isPermaLink='false'>2eabc27fe3bb014a9782b54348d19de867c3bf70</guid>
-<pubDate>Tue, 10 Mar 2026 10:00:35 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/319c309e72c47cd9c0ad1b8401e77d4bc538c68f.jpg" /><br />更方便小白们安装、也更稳定一点的 QClaw Lite 版本就快和大家见面了～
-网址、OpenClaw 使用场景，还有我整理的好用 skill，都已经给大家准备好了～
-后台发送 “Q” 自取哦～
-
-QClaw 不是什么对标大厂的产品，只是一次我们在vibe coding上的一次探索，初心就是希望更多人能方便的用上龙虾。
-开发时间也很短，真的是龙虾本身帮了我大忙，粗略来说，百分之60-70的实现都是AI完成的。
-同时也很感谢各位的开源框架和项目。我自己真的就只需要做产品设计、功能取舍和整体方向上的判断，真正]]></description>
-</item>
-<item>
 <title>An Illusion You Can Hug</title>
 <link>https://www.youtube.com/shorts/_Nr4mvdkEVw</link>
 <guid isPermaLink='false'>80b422d683aba997824f4b6cc8c71a1b6cb54ef5</guid>
 <pubDate>Mon, 09 Mar 2026 23:03:52 GMT</pubDate>
 <author>Vsauce</author>
 <description><![CDATA[https://www.curiositybox.com]]></description>
-</item>
-<item>
-<title>【正片】戏剧导演孟京辉×罗永浩！从“爱惹事的反叛者”，到戏剧乌托邦的建构者</title>
-<link>https://www.bilibili.com/video/BV1ixPkzgEng</link>
-<guid isPermaLink='false'>cd4eb4cbf31dc38e70f94aa1cb2073712ebb114d</guid>
-<pubDate>Thu, 05 Mar 2026 06:05:32 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/1b893df0300445a172a82229012a0d9eae091266.jpg" /><br />当孟京辉把《等待戈多》搬到学校操场的煤堆上演出时，你就知道，他的人生剧本注定不会遵循经典叙事。
-从中央戏剧学院那个“爱惹事的学生”，到中国先锋戏剧一面无法绕开的旗帜，孟京辉的前半生与他的戏剧一样，充斥着“不老实”的荷尔蒙与孩童般的探索欲。在这次长谈中，他聊起在排练场大喊“我错了”的快感，谈起押上全部身家赌一部戏时的豪迈，也毫不避讳因“闯祸太多”而被母校“婉拒”的往事...他的个人进化史，几乎等同于一部中国当代戏剧的突围史——那是一位创作者为了对抗沉闷的旧世界，而发动的漫长“远征”。
-《罗永浩的十字路口》第]]></description>
-</item>
-<item>
-<title>又变强了！Nano Banana 2究极强大玩法～【免费渠道合集】</title>
-<link>https://www.bilibili.com/video/BV13yP5zWEMT</link>
-<guid isPermaLink='false'>a6a95957616e67f40da81301be8ef208c7164817</guid>
-<pubDate>Mon, 02 Mar 2026 05:29:21 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/db6dc5a7c13ac864f6261fb49c3bc25ad2b0c950.jpg" /><br />Nano Banan2发布了！
-速度、能力提升，价格下降~也有人说不如Pro？
-实测几十组提示词，带你一探究竟～
-感谢朋友们的三连+关注～下期OpenClaw～]]></description>
-</item>
-<item>
-<title>【正片】“不开玩笑” × 罗永浩的十字路口！折腾未必会赢，但不折腾一定会后悔</title>
-<link>https://www.bilibili.com/video/BV1kFA8z1E5s</link>
-<guid isPermaLink='false'>7b27a16d3fbcd524ca4919f021c38a7869c34e30</guid>
-<pubDate>Sat, 28 Feb 2026 04:00:43 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/f26e15bdb084cba312b5d3f6549cfd8d91216bcb.jpg" /><br />本期节目是《罗永浩的十字路口》和《不开玩笑》联名款现场。在这个《罗永浩的十字路口》第二十期（乱斗篇）中，罗永浩和史炎、宋方金、孙书恒、刘仁铖这几位朋友，打着讨论“折腾”这个严肃话题的幌子，进行了数小时的互相伤害；同时在互黑互损互殴的刀光剑影中，顺便聊到了创业与折腾，失败与再战，天赋与缺陷，音乐与舞蹈，手机与卤味，神经病与精神病等等。并在最后人模狗样地得出深刻的结论：折腾未必会赢，但不折腾一定会后悔。]]></description>
 </item>
 <item>
 <title>The most beautiful formula not enough people understand</title>
@@ -2194,16 +2082,6 @@ Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
 </item>
 <item>
-<title>人人免费出大片！豆包Seedance 2.0实测对比+解析！</title>
-<link>https://www.bilibili.com/video/BV1MiZvBZENQ</link>
-<guid isPermaLink='false'>9a197ea9932bcb0bde4d996c455b5780e8699533</guid>
-<pubDate>Thu, 19 Feb 2026 15:51:03 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/3152e590a7548ced7464da940ffe65053fff0515.jpg" /><br />豆包Seedance2.0为什么强？小白怎么用？
-实测+对比一次搞清楚~
-感谢朋友们的三连+关注]]></description>
-</item>
-<item>
 <title>The lattice bacteria puzzle</title>
 <link>https://www.youtube.com/shorts/d0ai33oqqDE</link>
 <guid isPermaLink='false'>0f7b887d4c20f8f9984d02ca00d935631214f233</guid>
@@ -2219,180 +2097,6 @@ https://momath.org/mindbenders]]></description>
 <pubDate>Mon, 16 Feb 2026 14:08:37 GMT</pubDate>
 <author>3Blue1Brown</author>
 <description><![CDATA[Solution to last month's probability puzzle.]]></description>
-</item>
-<item>
-<title>教父母学会用豆包，建议转发给全家人～</title>
-<link>https://www.bilibili.com/video/BV1EnZNB4E4V</link>
-<guid isPermaLink='false'>2b869539ad3904046835f6ef30a34e9cfe34f6c0</guid>
-<pubDate>Mon, 16 Feb 2026 06:42:03 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/f16a917885483e7728d8ef1b84b2b9f262d5e65f.jpg" /><br />把AI带回家，把爱留给长辈～
-祝朋友们新年快乐 ！
-感谢朋友们的三连+关注～]]></description>
-</item>
-<item>
-<title>【正片】音乐人张玮玮×罗永浩！我们都是那个“混乱又伟大”的 90 年代的幸存者</title>
-<link>https://www.bilibili.com/video/BV1MXFdzsEn2</link>
-<guid isPermaLink='false'>061d78854d4083e0b09cbb1b85feca9391861ef5</guid>
-<pubDate>Wed, 11 Feb 2026 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/983d381b91f6012b56a1184a95e3202f2878bda8.jpg" /><br />如果你曾以为《米店》就是张玮玮的全部，那你可能误读了他，也误读了那个被他称为“伟大的混乱”的 90 年代。从甘肃白银的矿坑烟尘，到广州大石镇的廉价饼干，从北京地下通道的嘶吼，到云南大理的舒适陷阱，张玮玮的人生轨迹，是一部中国独立音乐人的流浪史，也是一部为了对抗平庸与麻木而不断自我放逐的奥德赛。
-
-《罗永浩的十字路口》第十九期，罗永浩与张玮玮——这两个同样从 90 年代“野蛮生长”出来的老友，进行了一场长达近六小时的，密度极高，情感浓度也非常深厚的对谈。他们聊到了那些早已消失的地标：河酒吧的烟雾、无名高地的]]></description>
-</item>
-<item>
-<title>外骨骼真实案例，极壳助力香港火灾救援</title>
-<link>https://www.bilibili.com/video/BV1gJFrzDEKy</link>
-<guid isPermaLink='false'>a866bacb3f7d6fd682b58dd35fbed71ed65b8434</guid>
-<pubDate>Sat, 07 Feb 2026 14:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/9a2ea1aff657bd7f77698bc7e115cf137f41e4be.jpg" /><br />]]></description>
-</item>
-<item>
-<title>拓竹创造基金，对发展创客文化有很大帮助</title>
-<link>https://www.bilibili.com/video/BV1aLFrzWEky</link>
-<guid isPermaLink='false'>d1f307b891158af138f6347ad91173d74ebbde71</guid>
-<pubDate>Sat, 07 Feb 2026 12:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/94d0b93b35fac2a810ad11d75d8af6b6d2b6032d.jpg" /><br />]]></description>
-</item>
-<item>
-<title>“清闲人机工学椅是我心中最好的椅子”</title>
-<link>https://www.bilibili.com/video/BV1aLFrzWEf3</link>
-<guid isPermaLink='false'>fa5e6e8b16383849792d2e5a9a94eacc311ae5f1</guid>
-<pubDate>Sat, 07 Feb 2026 10:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/24f475407dc81323f3a7a1edfd8216ed1c2d3241.jpg" /><br />]]></description>
-</item>
-<item>
-<title>罗永浩科普外骨骼，中国企业全面领先</title>
-<link>https://www.bilibili.com/video/BV1GjFrzXEa7</link>
-<guid isPermaLink='false'>d4db0de7b049cacce70ce9320b3c914f8c2f1851</guid>
-<pubDate>Sat, 07 Feb 2026 08:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/f636afc7b4f976ccf775820a56a9e5567d998fa6.jpg" /><br />]]></description>
-</item>
-<item>
-<title>“拓竹重新定义了消费级3D打印”</title>
-<link>https://www.bilibili.com/video/BV1EwFrzAE6g</link>
-<guid isPermaLink='false'>058690d5d67628b35ccd7dbcf53aced2983bb1b1</guid>
-<pubDate>Sat, 07 Feb 2026 06:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/2450a8e1d85dbffd53f3637f7feaa98dbf38690f.jpg" /><br />]]></description>
-</item>
-<item>
-<title>B站首届AI春晚！</title>
-<link>https://www.bilibili.com/video/BV1duFrztESM</link>
-<guid isPermaLink='false'>db23c25b43fdd82965a90a5504750049eb9517d9</guid>
-<pubDate>Sat, 07 Feb 2026 04:00:00 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/2bb8f1b2d2d497c3be1c87c87bcfe539777efd32.jpg" /><br />春节将至，大活来也🎉
-朋友们！2026 B站首届AI春晚 全网独家开播~&nbsp;&nbsp;
-秋芝我作为总导演和主持人，携手30多名百万/千万爆款作品的up主和头部AI企业，上百名幕后人员，在B站，独家给大家办了一场AI春晚！
-AI含量百分百！非常精彩，爆梗如雷，脑洞大开！
-提前祝大家过年喜洋洋！🥳]]></description>
-</item>
-<item>
-<title>“想对自己员工好一点，就买清闲人机工学椅”</title>
-<link>https://www.bilibili.com/video/BV1HoF6ziEi9</link>
-<guid isPermaLink='false'>cfef0628c507933abfaeec43d89f4d0ff198e11e</guid>
-<pubDate>Sat, 07 Feb 2026 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/d48a08432415f42cbd5d58924ee5a7452d540389.jpg" /><br />]]></description>
-</item>
-<item>
-<title>年度最佳外骨骼产品，跟普通人有什么关系？</title>
-<link>https://www.bilibili.com/video/BV1nfF6zNEoH</link>
-<guid isPermaLink='false'>f7d0177383b6579154b191806cc2d8fc6080633d</guid>
-<pubDate>Sat, 07 Feb 2026 02:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/9d478552ea7b3627b1a33abbacbb90dc37cd4869.jpg" /><br />]]></description>
-</item>
-<item>
-<title>给孩子买拓竹 3D 打印机，比买一个 Pad 要强得多</title>
-<link>https://www.bilibili.com/video/BV1rfF6zNEex</link>
-<guid isPermaLink='false'>65292643eeb86b1829596f882a71d76e06c441e1</guid>
-<pubDate>Fri, 06 Feb 2026 14:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/75b00cbec819802c7adf2f1dcf2b190a26194657.jpg" /><br />]]></description>
-</item>
-<item>
-<title>清闲人机工学椅，用电动推杆提供了很好的腰部支撑舒适性</title>
-<link>https://www.bilibili.com/video/BV1qKFrz8ESt</link>
-<guid isPermaLink='false'>199f6da196c0ee0c8e90b43a23d7a64a712e9ee4</guid>
-<pubDate>Fri, 06 Feb 2026 13:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/0e93c40ec7452ec4a03fb242dd4e0cd1ac7d8449.jpg" /><br />]]></description>
-</item>
-<item>
-<title>“大疆的这款无人机，功能真的十分强大”</title>
-<link>https://www.bilibili.com/video/BV1jTFrzfE2n</link>
-<guid isPermaLink='false'>cfc3aaed0c550e12f6b5130b3ee167c0321ae92f</guid>
-<pubDate>Fri, 06 Feb 2026 12:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/e46c21cf816a4abe98cad42e19cab3303c782b4b.jpg" /><br />]]></description>
-</item>
-<item>
-<title>五旬老汉亲自上场，展示外骨骼硬核实力</title>
-<link>https://www.bilibili.com/video/BV1EAFrzaEfK</link>
-<guid isPermaLink='false'>660b8ebd539c81a3c8bc99ecff77a9812f4a87fb</guid>
-<pubDate>Fri, 06 Feb 2026 11:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/8b4b6c888ef9332653299b6086fc47534e44ea65.jpg" /><br />]]></description>
-</item>
-<item>
-<title>经常旅游出国的朋友们，千万别着急划走，中国移动全球通服务了解一下。</title>
-<link>https://www.bilibili.com/video/BV19RFrzdEHa</link>
-<guid isPermaLink='false'>7fde5cf8c0eb232b52720968117fc2b5fac180ba</guid>
-<pubDate>Fri, 06 Feb 2026 10:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/77034963f84144fbdbd0147d845bc1f32b72c84a.jpg" /><br />]]></description>
-</item>
-<item>
-<title>拓竹的 MakerWorld 是设计师送给全人类的礼物</title>
-<link>https://www.bilibili.com/video/BV1brF6z2ESn</link>
-<guid isPermaLink='false'>dc5da2305b5782bff6c09250cf403a7267d298cd</guid>
-<pubDate>Fri, 06 Feb 2026 09:29:36 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/4b35879d575d05fade4fb56b87daa97d83666d79.jpg" /><br />]]></description>
-</item>
-<item>
-<title>“聊八小时播客其实很辛苦，幸亏有清闲动态人机工学椅”</title>
-<link>https://www.bilibili.com/video/BV11aFrzkE5y</link>
-<guid isPermaLink='false'>edabdef3ca0024c23f65f09016163d221e604cdd</guid>
-<pubDate>Fri, 06 Feb 2026 07:07:45 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/14784b4d7526f18bdf7404ecf4cfaa39b85f3942.jpg" /><br />]]></description>
-</item>
-<item>
-<title>「十字路口」之年度科技创新分享大会（2025）</title>
-<link>https://www.bilibili.com/video/BV18LFzz1Ekh</link>
-<guid isPermaLink='false'>302cb5fcdb56dc015c1e727a7c2a5a2f7b485bcc</guid>
-<pubDate>Fri, 06 Feb 2026 06:07:07 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/b1a693c569ef8812db125e2973fb075942279754.jpg" /><br />]]></description>
-</item>
-<item>
-<title>【正片】蒋奇明&amp;双雪涛×罗永浩！如何成为飞行家</title>
-<link>https://www.bilibili.com/video/BV1tJf9BLELs</link>
-<guid isPermaLink='false'>b44dc4ddbb27a2faea3440d25eb4481f9b2502df</guid>
-<pubDate>Wed, 04 Feb 2026 04:10:03 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/8e7ca70707790ac2b8be658cfa6f82f166ebee96.jpg" /><br />最初，大家都是呱呱落地，但有些人落地，就是为了离开地面，飞向天空。
-演员蒋奇明，从话剧舞台转向影视镜头不过短短数年，就已经塑造出多个令人难忘的角色——完美诠释了“沉默震耳欲聋”的傅卫军，总在边缘挣扎的王安全，胸怀壮志但一生身不由己的李明奇......他和他所扮演的角色一样，都被生活的重力紧紧束缚，但从没放弃过“仰望星空”。
-作家&amp;编剧双雪涛，多年来笔耕不辍，用文字完成了一次次冷静而又惊艳的探索。在他笔下，在那片老东北废弃工业区锈色的天空下，总有些人不甘心任由命运摆弄，执意寻找属于自己的升力。
-或许正因为曾]]></description>
-</item>
-<item>
-<title>手把手彻底学会 Agent Skills！【小白教程】</title>
-<link>https://www.bilibili.com/video/BV1G3FNznEiS</link>
-<guid isPermaLink='false'>bacf47fa9d602331e34bdde751db40d1abea28a9</guid>
-<pubDate>Mon, 02 Feb 2026 12:10:27 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/197a1c1200837737f55a827836c7c3ac00ab4415.jpg" /><br />一次搞懂Agent Skills原理～
-还有秋芝技能生成器～
-手把手带你做出自己的Skill！
-感谢朋友们的三连+关注～]]></description>
 </item>
 <item>
 <title>The Hairy Ball Theorem</title>
@@ -2447,14 +2151,6 @@ Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
 </item>
 <item>
-<title>爆火的AI录音卡，到底值不值？【全面测评】</title>
-<link>https://www.bilibili.com/video/BV1no6jBSEnc</link>
-<guid isPermaLink='false'>fd78ab5072429c04fa360464ebbd744cfb4481ff</guid>
-<pubDate>Wed, 28 Jan 2026 04:39:49 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/3c6f7fcae24c267e1e2e71fc785613eb5fd40226.jpg" /><br />感谢朋友们的三连+关注～]]></description>
-</item>
-<item>
 <title>The ladybug clock puzzle</title>
 <link>https://www.youtube.com/shorts/t3jZ2xGOvYg</link>
 <guid isPermaLink='false'>a457d10e6e18726a965f685380c7118862f9fc36</guid>
@@ -2463,105 +2159,6 @@ Website: https://www.3blue1brown.com]]></description>
 <description><![CDATA[This is the first in a set of monthly puzzles, curated by Peter Winkler. This one was originally suggested by Richard Stanley.
 
 You can sign up to hear his description of the answer at http://momath.org/mindbenders]]></description>
-</item>
-<item>
-<title>【正片】刘震云×罗永浩！有些玩笑含着泪也要开完</title>
-<link>https://www.bilibili.com/video/BV1dtroBREij</link>
-<guid isPermaLink='false'>ad338d2a8b52b9f0d75113dac648b6105e96a2a0</guid>
-<pubDate>Thu, 15 Jan 2026 04:05:24 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/769cf0531525b804c24a2618d6f5255e6a2c27f9.jpg" /><br />时隔四年，刘震云老师带着他的新书《咸的玩笑》和我们进行了一次长谈。这一次故事又发生在家乡河南延津，又是一群失意的不知道找谁诉说的人们，又是一些生活中无可奈何的小事，最后不动声色地卷起狂风暴雨。几十年的文学创作让他成为了一个人类观察家，别人看到的是如常的生活，他说这里边全是哲学问题；别人听到的是玩笑，他却察觉了玩笑的味道，有些玩笑是咸的，因为开玩笑的人含着眼泪。那些平凡的日子，遗落了一些珍贵的东西，刘震云将它们捡起，用文字串了起来。他带着我们读懂了那些埋藏在冰冷世界里的异彩和辛酸。
-
-《罗永浩的十字路口》第]]></description>
-</item>
-<item>
-<title>中国AI产业冰山图！全面盘点～【万字解析】</title>
-<link>https://www.bilibili.com/video/BV1gKiEBZEHq</link>
-<guid isPermaLink='false'>ea21f6f1cabb6eea0f812aa1e6864ec21bd69d08</guid>
-<pubDate>Sun, 11 Jan 2026 02:00:00 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/62d891c41bf079049c054dc20f2f54874b284930.jpg" /><br />中国AI的实力，这两年发生了翻天覆地的变化！
-谁在水面上领跑？谁又在水面下悄悄蓄力？
-这张“AI冰山图”带你一网打尽！
-梳理制作了好久，感谢朋友们的三连+关注啊😚～]]></description>
-</item>
-<item>
-<title>【正片】Lovart 创始人陈冕×罗永浩！且让我大闹一场，然后悄然离去</title>
-<link>https://www.bilibili.com/video/BV14eiQBmEbN</link>
-<guid isPermaLink='false'>ef8112eaa82db3ddaa9881e46a356953687e1142</guid>
-<pubDate>Fri, 09 Jan 2026 05:37:58 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/b1aab3f4aa89af8462b39d9bd3cacdc208dcd33d.jpg" /><br />陈冕是一个天生的创业者，永远有新想法，永远跃跃欲试，永远准备战斗。他可能也的确是当下商战经验最丰富的创业者，因为他曾用 10 年时间集齐了几乎所有互联网大厂的工作履历，并亲身参与了一系列著名的商战。对他来说，打工是创业的预备期，他不断地吸收、总结、思考，等待着机会，一个让他义无反顾冲出去证明自己的机会，他等了好久，一度他以为自己生错了时代，直到那年冬天 AI 来了，他说自己得到了救赎。
-去年，他和他的创业团队推出了设计类的 AI Agent 产品 Lovart，在海外取得了现象级的成功，业内评价和收入规模]]></description>
-</item>
-<item>
-<title>!!! 本视频为一镜到底吓死设计师版^_^ !!!</title>
-<link>https://www.bilibili.com/video/BV1gzrwBfEtE</link>
-<guid isPermaLink='false'>c6301a7db2e9e40c01b8cbca2f0d7457ddd0c2c2</guid>
-<pubDate>Fri, 09 Jan 2026 02:31:09 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/51ce0d79c84c51871cddb1e318791f2365f78955.jpg" /><br />!!! 本视频为一镜到底吓死设计师版^_^ !!!
-
-!!! Lovart !!! 
-!!! 十字路口年度最佳图形图像类 AI 应用!!!
-!!! 神秘的十字路口年度科技大会遗珠 !!!
-
-在刚刚结束的十字路口年度科技产品分享大会上，有一个压轴的软件产品，由于时间关系没有来得及演示，非常遗憾，它就是红遍海外的中国 AI 设计应用 Lovart。它也是我们在去年评选出的年度最佳图形图像类 AI 应用。
-
-你不用真的“会设计”，你只要有一点点基础，并且知道自己想要什么，拿这个软件，就能用自然语言和极简单的操作]]></description>
-</item>
-<item>
-<title>这个对《勇敢的心》的拙劣模仿，现场颇受好评。</title>
-<link>https://www.bilibili.com/video/BV1wPveBHEGk</link>
-<guid isPermaLink='false'>0cb7efa98817fcc58a3d3dc90872adf86f316682</guid>
-<pubDate>Tue, 30 Dec 2025 16:25:19 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/c750da138b990e56e60968110661563b9af1990f.jpg" /><br />]]></description>
-</item>
-<item>
-<title>年度好用AI大赏！【小白必备】</title>
-<link>https://www.bilibili.com/video/BV1ibvhBqEmp</link>
-<guid isPermaLink='false'>1470cf1d1e86343b1590381b3df4d13addb2f6ae</guid>
-<pubDate>Tue, 30 Dec 2025 04:14:35 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/4fe7237c55e1c66fc8b6c381edcfb86adee1c0ba.jpg" /><br />2025年AI多到看花眼？
-来看看各大领域最值得入手的：首选！平替！和开源替代！
-感谢朋友们的三连+关注～]]></description>
-</item>
-<item>
-<title>大模型飞跃？智能体元年？一个视频拆解2025最值得关注的AI进展！</title>
-<link>https://www.bilibili.com/video/BV13fvrBoEGo</link>
-<guid isPermaLink='false'>1d6c4009035a4706fef10fb55d92b0f06c88be80</guid>
-<pubDate>Sun, 28 Dec 2025 08:30:00 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/6b9794422abaf29b7d0d7e61653cf85e0924ddf6.jpg" /><br />大模型进化？智能体元年？大佬云集，一个视频说清2025最值得关注的AI进展，让你在AI狂飙、信息过载的时代不掉队！]]></description>
-</item>
-<item>
-<title>【正片】影石Insta360 创始人刘靖康×罗永浩！比生存更重要的是那些微小的念头</title>
-<link>https://www.bilibili.com/video/BV1yhBjBSEzn</link>
-<guid isPermaLink='false'>eec69e0919b1ac891d8719c933502300be287f6b</guid>
-<pubDate>Thu, 25 Dec 2025 04:00:00 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/fb118715db04afb992dab2cebfae81ef24b4c52e.jpg" /><br />一段传奇，一个全世界瞩目的创业项目，一场被时代铭记的伟大冒险，很可能就来自于内心里一次微小的起心动念。
-在刘靖康的成长过程里，他无数次地被这种念头撞击着，总忍不住要创造些什么。从上学时，他的锋芒就藏不住了，他频频利用高超的计算机技术和天马行空的想法，制造出轰动校园乃至整个社会的热点事件。
-终于，他开始了自己的创业之路，他的创造欲彻底爆发，他在不同的细分场景里重新发明着相机，改变着人们记录生活的方式。他和他的公司都还很年轻，但他们的发明已经打开了诸多的新市场，解决了没人解决过的问题，以一个挑战者的姿态成长为]]></description>
-</item>
-<item>
-<title>2025年，到底有多少人在用AI？</title>
-<link>https://www.bilibili.com/video/BV1sgBSBVEUA</link>
-<guid isPermaLink='false'>c62a33615f0151b340f55ea37b76472af7a3a6ca</guid>
-<pubDate>Thu, 25 Dec 2025 02:01:45 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/43ca25e023c99eb16ae0836d63136cc060a183bc.jpg" /><br />2025年，全中国竟然有5亿多人在用AI！
-AI是怎么从“玩具”变成“工具”的？
-AI 给你生活带来的最大改变是什么？
-欢迎在评论区分享你的看法～
-感谢朋友们三连+关注～
-
-视频中引用的数据和报告都在这里啦，感兴趣的朋友可以进一步深研：
-[1] 中国互联网络信息中心. 生成式人工智能应用发展报告.(2025-10-23).
-[2] 微软人工智能经济研究院. AI Diffusion Report (人工智能扩散报告).(2025).
-[3] OpenAI. How People Use ChatGPT (]]></description>
 </item>
 <item>
 <title>Album Art Origins</title>
@@ -2580,30 +2177,12 @@ AI 给你生活带来的最大改变是什么？
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title>【正片】导演大鹏×罗永浩！我这两辈子</title>
-<link>https://www.bilibili.com/video/BV1jMqgBEERW</link>
-<guid isPermaLink='false'>c4c65222d14bb8df9cff88072f5c28c73d79bc90</guid>
-<pubDate>Wed, 17 Dec 2025 06:11:02 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/3178509cb6e8e250a6969da64a7c5d957380b102.jpg" /><br />大鹏说，自己有时候感觉像活了两辈子。第一个大鹏从小镇怀着梦想闯荡北京，走得磕磕绊绊，遍体鳞伤。那时候的他永远站在角落，站在聚光灯旁边的阴影处。他努力地采访、主持、拍戏，接各种杂活儿，拼命尝试向舞台中央靠近…… 说不清究竟是哪一天，第二个大鹏发现自己站到了聚光灯下，结果很多人都要跟他重新认识一遍，因为他们大都不记得眼前这个人，不记得其实他们早就见过面。现在的他，无论是导演还是表演，无论是产量还是质量，拿出的都是扎扎实实的成绩。无论是作为导演还是演员，他离这个行业的最高荣誉也不止一次地只有半步之遥。可他还是不]]></description>
-</item>
-<item>
 <title>My Weirdest Dice</title>
 <link>https://www.youtube.com/shorts/cdu6sOgI9Dc</link>
 <guid isPermaLink='false'>d1c5eb999137bcc174ffea67e60469fd489c0c2b</guid>
 <pubDate>Tue, 16 Dec 2025 21:57:29 GMT</pubDate>
 <author>Vsauce</author>
 <description><![CDATA[]]></description>
-</item>
-<item>
-<title>一天60集？！起底“AI短剧”出海的捞金秘籍【全流程拆解】</title>
-<link>https://www.bilibili.com/video/BV14HmSBMEkw</link>
-<guid isPermaLink='false'>93888d498d6917ee4b70ad6ac338b89b9d60f7d5</guid>
-<pubDate>Sat, 13 Dec 2025 01:00:00 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/c9c08b18a5bf0f18b875a2d2ff01ab752b143452.jpg" /><br />大开眼界朋友们！霸总出海捞金背后的AI秘籍...
-一起来拆解这套“降维打击”的短剧出海组合拳吧
-感谢朋友们的三连+关注～]]></description>
 </item>
 <item>
 <title>The Official Blue Berry of North Carolina</title>
@@ -2614,33 +2193,12 @@ AI 给你生活带来的最大改变是什么？
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title>轻松学会！高手都在用的AI编程大法！</title>
-<link>https://www.bilibili.com/video/BV1ZqmmBJEmP</link>
-<guid isPermaLink='false'>9a3f4e98f4fec0fc9d9d95d452b91d99b5afd67c</guid>
-<pubDate>Fri, 12 Dec 2025 12:43:27 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/b260e7623b5940883c80b2e5aaf313a651f825c4.jpg" /><br />Vibe Coding升级版！
-教你一套嘎嘎好用的编程范式～
-高手都在用的Spec Coding！
-感谢朋友们的三连+关注～]]></description>
-</item>
-<item>
 <title>Would You Like A TRIPLE Entendre?</title>
 <link>https://www.youtube.com/shorts/UrM6ugyzeC8</link>
 <guid isPermaLink='false'>154cd85c2a15588f1a704aa83735c9a9981d16e6</guid>
 <pubDate>Wed, 10 Dec 2025 21:32:46 GMT</pubDate>
 <author>Vsauce</author>
 <description><![CDATA[]]></description>
-</item>
-<item>
-<title>【正片】MiniMax 创始人闫俊杰×罗永浩！大山并非无法翻越</title>
-<link>https://www.bilibili.com/video/BV11NmtBzE36</link>
-<guid isPermaLink='false'>31fd7072a43fed33db6835c70fa147437e7faebe</guid>
-<pubDate>Wed, 10 Dec 2025 06:31:12 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/2b4884a7a4f1550e395cc078dbb42f69183edaa6.jpg" /><br />闫俊杰似乎很擅长通关。他出生在小县城，一路读到了清华博士后，又从商汤的实习生一路做到了副总裁。但这些还不够，他的敏锐、他的决心、他的抱负一直在提醒他应该走出来，参与到世界的变革中来，于是在 AI 革命到来的前一年，他成立了 AI 大模型公司 MiniMax，这个公司的名字好像也在描述着起点和终点。他希望中国的厂商可以成为引领世界的巨头，他希望 AI 能够改变每一个普通人的生活。他看起来安静沉着，可内心对竞争充满期待，期待着跟王者一决高下，期待着他亲手将少数精英的工具变为普惠大众的生产力。
-
-《罗永浩的十字]]></description>
 </item>
 <item>
 <title>The 852655 Mystery</title>
@@ -2667,25 +2225,6 @@ AI 给你生活带来的最大改变是什么？
 <description><![CDATA[https://www.curiositybox.com/pages/closest-approach-to-uranus]]></description>
 </item>
 <item>
-<title>用嘴“P视频”！还有什么是AI不能P的？？【玩法教程】</title>
-<link>https://www.bilibili.com/video/BV1ZY2tB4ERH</link>
-<guid isPermaLink='false'>c6fba4b4b035ad5dc1c3e51944ac81235117d60c</guid>
-<pubDate>Wed, 03 Dec 2025 14:11:25 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/7055cda4a6fae55dca124126cdc2a5c81c92a798.jpg" /><br />众所周知视频是可以P的！
-角色/场景/道具完美统一！
-听得懂人话，脑洞有多大视频就有多炸～
-感谢朋友们的三连+关注呀～]]></description>
-</item>
-<item>
-<title>“罗永浩的十字路口”之年度科技创新分享大会（2025）将于今年12月30日在上海召开。</title>
-<link>https://www.bilibili.com/video/BV1ttSpBTEZo</link>
-<guid isPermaLink='false'>b6d22e0dca93fcc9baa6ba43a3d83200e2dc45ba</guid>
-<pubDate>Tue, 02 Dec 2025 05:10:18 GMT</pubDate>
-<author>罗永浩的十字路口 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/52302e39ec102c643c23ad635369c5597d33a736.jpg" /><br />“罗永浩的十字路口”之年度科技创新分享大会（2025）将于今年12月30日在上海召开。]]></description>
-</item>
-<item>
 <title>Only Using Words That Begin With "A"</title>
 <link>https://www.youtube.com/shorts/za2isHAgefY</link>
 <guid isPermaLink='false'>f36c01ea7dac17eb4443c095f09b182471bc1e12</guid>
@@ -2703,17 +2242,6 @@ AI 给你生活带来的最大改变是什么？
 https://linktr.ee/therestisscience]]></description>
 </item>
 <item>
-<title>2025年AI生图“王”！Banana Pro玩法大分享～【建议收藏】</title>
-<link>https://www.bilibili.com/video/BV1BHUwBdEpq</link>
-<guid isPermaLink='false'>21a1e9e5508d4a688e8f014feae3352474cc8545</guid>
-<pubDate>Sun, 23 Nov 2025 02:01:10 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/d833231cf166cf91a7203388be1e95ca92173230.jpg" /><br />新版Nano Banana三大史诗级进化！
-会思考、能联网、汉字不再乱码~
-干货和提示词都在这啦，快来抄作业！
-感谢铁铁们的三连+关注呀～]]></description>
-</item>
-<item>
 <title>A 2D Shadow Of A 3D Shadow Of A 4D Hypercube</title>
 <link>https://www.youtube.com/shorts/QaFTwJPKLuo</link>
 <guid isPermaLink='false'>5b4d6822c3e3d30d32094b6897cebe0403d76c39</guid>
@@ -2722,25 +2250,6 @@ https://linktr.ee/therestisscience]]></description>
 <description><![CDATA[song: "Transition 2" by Jake Chudnow
 
 #geometry #hypercube #fourthdimension #Shadow #zometool #math #2D #3D #4D #model]]></description>
-</item>
-<item>
-<title>强到离谱？Gemini 3深度实测【玩法合集】</title>
-<link>https://www.bilibili.com/video/BV1HdynBrEes</link>
-<guid isPermaLink='false'>c205df26063226531f58c33b951d9fae3b368151</guid>
-<pubDate>Thu, 20 Nov 2025 08:57:44 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/983ec6d8b0c8fc5ea1e1e792f11ddbc81540e24e.jpg" /><br />Gemini 3终于来了！
-这次真的是全方位断层式碾压！
-连夜爆肝测试，一起来看看效果如何吧～
-感谢朋友们的三连+关注呀～]]></description>
-</item>
-<item>
-<title>更适合中国宝宝的AI生活助手是？？</title>
-<link>https://www.bilibili.com/video/BV1ejyGBKENz</link>
-<guid isPermaLink='false'>237d6ebb5eaab1d58eb24e6d32452ce42fe3fdc8</guid>
-<pubDate>Tue, 18 Nov 2025 11:17:26 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/10e710f43179984ad8bce3277b5dad421d207b9b.jpg" /><br />感谢朋友们的三连+关注～]]></description>
 </item>
 <item>
 <title>Why Laplace transforms are so useful</title>
@@ -2790,35 +2299,6 @@ Reddit: https://www.reddit.com/r/3blue1brown
 Facebook: https://www.facebook.com/3blue1brown
 Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
-</item>
-<item>
-<title>OpenAI原生AI浏览器！值得拥有的N个理由～</title>
-<link>https://www.bilibili.com/video/BV12is1zQELH</link>
-<guid isPermaLink='false'>797ea6e911c2e5b64df6f1acea84a5bfd7a25fe9</guid>
-<pubDate>Mon, 27 Oct 2025 09:05:24 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/c0fe481ddc409fa4301c18291f1c040fe6656756.jpg" /><br />所有人免费可用的AI浏览器！
-一起深入ChatGPT Atlas的每个功能！
-感谢朋友们的三连+关注～]]></description>
-</item>
-<item>
-<title>假如AI消灭了全人类，只剩下你一个人…【脑洞大开】</title>
-<link>https://www.bilibili.com/video/BV1kMWXzcER2</link>
-<guid isPermaLink='false'>b5154baa79523a7633a5b94a887a94f3e4f287de</guid>
-<pubDate>Wed, 22 Oct 2025 02:00:00 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/4fdeff7d39e8ce958bd314d7786059648afbc6d5.jpg" /><br />跟AI开会，真的比跟人开会还痛苦…
-感谢铁铁们的三连+关注～]]></description>
-</item>
-<item>
-<title>Agent Infra到底是什么？【AI基建】</title>
-<link>https://www.bilibili.com/video/BV1Rz4iz1Exz</link>
-<guid isPermaLink='false'>72240f682f87dcbb72ffe355a08d29c05a006e86</guid>
-<pubDate>Wed, 15 Oct 2025 09:40:35 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/9fdcd57430c5841ed97d4871764ece2021b8a637.jpg" /><br />是时候重新认识Agent了！
-一个框架看透Agent的“财富密码”-Agent Infra！
-感谢铁铁们的三连+关注呀～]]></description>
 </item>
 <item>
 <title>The dynamics of e^(πi)</title>
@@ -2919,28 +2399,6 @@ Patreon: https://patreon.com/3blue1brown
 Website: https://www.3blue1brown.com]]></description>
 </item>
 <item>
-<title>太真了！现在的AI视频已经卷成这样了？！</title>
-<link>https://www.bilibili.com/video/BV16cx4zoErH</link>
-<guid isPermaLink='false'>2350bfc1b9b81022873a318a6a532d093354871c</guid>
-<pubDate>Sat, 04 Oct 2025 14:47:36 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/16a477f039f04ca393e9863b5ba256271003cad4.jpg" /><br />太卷了！强到离谱！
-最新AI视频工具一篇全看懂！
-感谢朋友们的三连+关注～]]></description>
-</item>
-<item>
-<title>更猛了！B站开源AI语音天花板【附本地安装包】</title>
-<link>https://www.bilibili.com/video/BV1HeJQzSEHW</link>
-<guid isPermaLink='false'>886c8e6520750aae1d9c9a6eb2cec9fd8a85fb21</guid>
-<pubDate>Thu, 25 Sep 2025 07:37:24 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/679991dbfb4d276554910eacfeb99e445f56eac9.jpg" /><br />AI声音克隆卷出新高度了！
-完美复刻任何人的音色、情绪！
-后台回复“克隆”获取本地安装包～
-一键安装B站开源超强语音模型IndexTTS2～
-感谢朋友们的三连+关注～]]></description>
-</item>
-<item>
 <title>What was Euclid really doing? | Guest video by Ben Syversen</title>
 <link>https://www.youtube.com/watch?v=M-MgQC6z3VU</link>
 <guid isPermaLink='false'>fb6150bc0db69c51094f5d64d7810e55a5262287</guid>
@@ -3014,40 +2472,6 @@ Website: https://www.3blue1brown.com]]></description>
 <pubDate>Sun, 07 Sep 2025 12:25:58 GMT</pubDate>
 <author>3Blue1Brown</author>
 <description><![CDATA[Full video: https://youtu.be/_BrFKp-U8GI]]></description>
-</item>
-<item>
-<title>掌管P图的神！Nano Banana究极玩法全公开！建议收藏～</title>
-<link>https://www.bilibili.com/video/BV1CHaGzBEMc</link>
-<guid isPermaLink='false'>23a12b42fb77956f80525959524651323d4c736c</guid>
-<pubDate>Sun, 31 Aug 2025 11:04:32 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/4bfc0d9e14edc4fe62b72cc322233589e4a169e6.jpg" /><br />P图之神降临！
-让你掌握谷歌Nano Banana所有神仙玩法！
-还能做秋总的“微商宇宙”～
-感谢朋友们的三连+关注哦～]]></description>
-</item>
-<item>
-<title>随意P视频？现在的AI太离谱了！【Runway Aleph】</title>
-<link>https://www.bilibili.com/video/BV1xseJzqEBv</link>
-<guid isPermaLink='false'>474c9dbff153cd1b6649b7160945023a8dd13495</guid>
-<pubDate>Sun, 24 Aug 2025 09:25:45 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/bdca7b49638d6a9fc7c06cd1b15c19dac628d24e.jpg" /><br />视频可以轻松P了！
-实测Runway新出的Aleph模式～
-一句简单的提示词就可以编辑视频了！
-一起来看看效果咋样～
-感谢铁铁们三连+关注呀～]]></description>
-</item>
-<item>
-<title>用神器Claude Code！打造贴身AI秘书团【小白教程】</title>
-<link>https://www.bilibili.com/video/BV1zqeMzfEiQ</link>
-<guid isPermaLink='false'>ad9e328f34c7adf2fc6c85d1ea1aecd500171ae6</guid>
-<pubDate>Wed, 20 Aug 2025 07:06:32 GMT</pubDate>
-<author>秋芝2046 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/ca945e114643ef360486e86c7ec051f862445128.jpg" /><br />神器Claude Code超绝用法！
-给你的生活配个AI秘书团！
-全程保姆级教学，小白也能轻松上手！
-感谢朋友们三连+关注～]]></description>
 </item>
 </channel>
 </rss>
