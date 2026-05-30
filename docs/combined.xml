@@ -4,7 +4,267 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Fri, 29 May 2026 06:19:51 GMT</lastBuildDate>
+<lastBuildDate>Sat, 30 May 2026 05:55:33 GMT</lastBuildDate>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/f3be0c984e...f5e5d3509b</link>
+<guid isPermaLink='false'>97226282e399a8952199291e7c638197be48997b</guid>
+<pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · May 30, 2026 01:08
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/varada-qcom" rel="noreferrer"><img alt="@varada-qcom" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/257479429?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/60474437af5fe12abd20607766c809e0ad4e7245" rel="noreferrer">6047443</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      spi: dt-bindings: spi-qpic-snand: Add ipq5210 compatible
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/e53fbfea7d1101253049214deb22385c78b608429a9d526a87d9bc927a66704e/68747470733a2f2f312e67726176617461722e636f6d2f6176617461722f63636232326631396562653464346664383863626332363161666133653363383f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/79378db6a86c7014cce40b65252e6c18f5b8bcc2" rel="noreferrer">79378db</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      spi: spi-mem: avoid mutating op template in spi_mem_supports_op()
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/f3be0c984e...f5e5d3509b" rel="noreferrer">3 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>Ancestral Genomes</title>
+<link>https://xkcd.com/3252/</link>
+<guid isPermaLink='false'>5943779ab6696ea1c698dbaa8feb56190a776598</guid>
+<pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+<author>xkcd.com</author>
+<description><![CDATA[<img alt="SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business." src="https://imgs.xkcd.com/comics/ancestral_genomes.png" title="SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business." />]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/9215e74f22...f3be0c984e</link>
+<guid isPermaLink='false'>201b879b2fbc9efb309eaf89ddfec7340e6e9d87</guid>
+<pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · May 29, 2026 23:39
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/maoyixie" rel="noreferrer"><img alt="@maoyixie" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/89717134?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/7e2a4f7ca0952820731ef7bdadfc9a9e9d3571b4" rel="noreferrer">7e2a4f7</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      xfrm: route MIGRATE notifications to caller's netns
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/herbertx" rel="noreferrer"><img alt="@herbertx" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1070153?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/7dbac7680eb629b3b4dc7e98c34f943b8814c0c8" rel="noreferrer">7dbac76</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      xfrm: ipcomp: Free destination pages on acomp errors
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/9215e74f22...f3be0c984e" rel="noreferrer">67 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed GuitarPedal</title>
+<link>https://github.com/torvalds/GuitarPedal/compare/c3828495b2...b3e2ec26f8</link>
+<guid isPermaLink='false'>5548c226cef16473a5253d59bf1dfbb1f4e1e2cf</guid>
+<pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/GuitarPedal" rel="noreferrer">torvalds/GuitarPedal</a>
+      <span>
+        · May 29, 2026 20:46
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/clevelandmusicco" rel="noreferrer"><img alt="@clevelandmusicco" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/162055667?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/8398215bf62d68d74da0fb8b6a2dcf2bb8274333" rel="noreferrer">8398215</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      Reverb: revert to 8 comb filters and 4 Schroeder allpass filters
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/clevelandmusicco" rel="noreferrer"><img alt="@clevelandmusicco" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/162055667?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/cdc4aa47bf9e402aaed0dcf7747b821cf9d0d840" rel="noreferrer">cdc4aa4</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      Enable hardware FTZ on both cores; drop `reverb_flush()`
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/GuitarPedal/compare/c3828495b2...b3e2ec26f8" rel="noreferrer">4 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/8fde5d1d47...9215e74f22</link>
+<guid isPermaLink='false'>4441ca49790519070b5254c9d392cfedbb5ae196</guid>
+<pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · May 29, 2026 20:12
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/jgunthorpe" rel="noreferrer"><img alt="@jgunthorpe" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/665037?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/9785df3fd67083ac10f6bde83a316286044a66f1" rel="noreferrer">9785df3</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      iommu/vt-d: Simplify calculate_psi_aligned_address()
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/testacegi" rel="noreferrer"><img alt="@testacegi" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/109414068?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/2e78b21864dd6e21b76160753ea632b5e758fdbd" rel="noreferrer">2e78b21</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      HID: u2fzero: free allocated URB on probe errors
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/8fde5d1d47...9215e74f22" rel="noreferrer">38 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
 <item>
 <title>torvalds pushed GuitarPedal</title>
 <link>https://github.com/torvalds/GuitarPedal/compare/077444b2f2...c3828495b2</link>
@@ -53,14 +313,6 @@
   </div>
 </div>
 </div></div>]]></description>
-</item>
-<item>
-<title>我们可能是最后一代，会用电脑的人了</title>
-<link>https://www.bilibili.com/video/BV1grVp6DEbX</link>
-<guid isPermaLink='false'>e08ac4363b4a3ea33146037e179a85fb5fbba24c</guid>
-<pubDate>Thu, 28 May 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/62d356cb810cb0f8ffb8207f0680cf7a781714a0.jpg" /><br />3 岁小孩都能上手智能手机和平板，但是会用电脑的人好像越来越少了]]></description>
 </item>
 <item>
 <title>torvalds pushed GuitarPedal</title>
@@ -729,17 +981,6 @@
   </div>
 </div>
 </div></div>]]></description>
-</item>
-<item>
-<title>【科技补全103】AI提交的BUG太多，Linux快忙不过来了；为什么超过两分钟，微信消息就不让撤回了？腾讯放弃在线音频独家版权；</title>
-<link>https://www.bilibili.com/video/BV1dAGi6FEDK</link>
-<guid isPermaLink='false'>788f8777d0dbc64adde40fdb33437d49ab4b9c55</guid>
-<pubDate>Sat, 23 May 2026 09:45:15 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/31a6ab5df8f533d41beb263e447b807ce2d02e1b.jpg" /><br />腾讯放弃在线音频内容独家版权 ➡️跳转03:36
-为什么微信消息撤回只允许两分钟 ➡️跳转04:00
-GitHub内部约3800个仓库被窃取 ➡️跳转06:42
-Linus吐槽AI安全报告太多 ➡️跳转07:08]]></description>
 </item>
 <item>
 <title>torvalds pushed GuitarPedal</title>
@@ -1423,48 +1664,13 @@ Linus吐槽AI安全报告太多 ➡️跳转07:08]]></description>
 </div></div>]]></description>
 </item>
 <item>
-<title>torvalds closed an issue in GuitarPedal</title>
-<link>https://github.com/torvalds/GuitarPedal/issues/10</link>
-<guid isPermaLink='false'>58e7ef250d5f6a760c4ce3b9fa25da0417f441ff</guid>
-<pubDate>Thu, 21 May 2026 22:07:14 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="issues_closed js-feed-item-view"><div class="body">
-<!-- issues -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="d-flex flex-items-baseline mb-2">
-      <div class="color-fg-muted">
-          <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-          <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-          
-          closed
-          an issue in
-          <a class="Link--primary no-underline wb-break-all" href="/torvalds/GuitarPedal" rel="noreferrer">torvalds/GuitarPedal</a>
-        <span>
-          · May 21, 2026 15:07
-        </span>
-      </div>
-    </div>
-
-    <div class="Box tmp-p-3 wb-break-all color-shadow-medium color-bg-overlay">
-      <svg class="octicon octicon-issue-closed closed d-inline-block mt-1 float-left" height="16" version="1.1" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><path d="M11.28 6.78a.75.75 0 0 0-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 0 0-1.06 1.06l2 2a.75.75 0 0 0 1.06 0l3.5-3.5Z"></path><path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0Zm-1.5 0a6.5 6.5 0 1 0-13 0 6.5 6.5 0 0 0 13 0Z"></path></svg>
-      <div class="tmp-ml-4">
-        <span class="f4 lh-condensed text-bold color-fg-default">
-          <a class="color-fg-default" href="/torvalds/GuitarPedal/issues/10" rel="noreferrer" title="Sonion 😭">Sonion 😭</a>
-        </span>
-        <span class="f4 color-fg-muted ml-1">#10</span>
-          <div class="dashboard-break-word lh-condensed mb-2 mt-1">
-            THE linus is doing fucking sidequests now LMAO
-          </div>
-
-          <div class="f6 color-fg-muted mt-1">
-            8 comments
-          </div>
-      </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
+<title>Tie random ends: How many loops?</title>
+<link>https://www.youtube.com/shorts/ZHXt0-_gSj4</link>
+<guid isPermaLink='false'>a40d015d308c48620f1f639749d291f7a07e284e</guid>
+<pubDate>Thu, 21 May 2026 21:49:47 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Recent puzzle solutions on Patreon:
+https://members.3blue1brown.com/posts/158885046?pr=true]]></description>
 </item>
 <item>
 <title>torvalds pushed linux</title>
@@ -1530,681 +1736,498 @@ Linus吐槽AI安全报告太多 ➡️跳转07:08]]></description>
 </div></div>]]></description>
 </item>
 <item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/758c807bb9...68993ced0f</link>
-<guid isPermaLink='false'>34ade0daf61aedc9d66dda83248ded6180ac507a</guid>
-<pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · May 21, 2026 21:51
-      </span>
+<title>EGG DICE</title>
+<link>https://www.youtube.com/shorts/pd3r93I5DNw</link>
+<guid isPermaLink='false'>dc6b6a5c8feae5ed8d59b1d1e9b78a44f7bc2766</guid>
+<pubDate>Fri, 17 Apr 2026 17:55:59 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[https://www.curiositybox.com]]></description>
+</item>
+<item>
+<title>Covering 10 points, a surprisingly tricky puzzle.</title>
+<link>https://www.youtube.com/shorts/QLu_ZsRc_G0</link>
+<guid isPermaLink='false'>fa8759f0b57c36210fc1db95c5cb45688565e5b9</guid>
+<pubDate>Thu, 16 Apr 2026 16:08:21 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Made as part of a monthly series of puzzles for the 2026 Year of Math.]]></description>
+</item>
+<item>
+<title>Escher's most mind-bending piece</title>
+<link>https://www.youtube.com/shorts/Y7ImxZ_YhJk</link>
+<guid isPermaLink='false'>060f6f1203a46bfb7b84b2a33cccd075d5d12338</guid>
+<pubDate>Fri, 27 Mar 2026 20:56:02 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[On "The Print Gallery", by M.C. Escher
+Full video: https://youtu.be/ldxFjLJ3rVY]]></description>
+</item>
+<item>
+<title>The subset sum puzzle</title>
+<link>https://www.youtube.com/shorts/4h5BEALuh44</link>
+<guid isPermaLink='false'>42879aa306dd5b05026f282b8027c71107f85068</guid>
+<pubDate>Wed, 25 Mar 2026 20:59:04 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Part of a series of monthly puzzlers. Stay subscribed to see the solution]]></description>
+</item>
+<item>
+<title>How (and why) to take a logarithm of an image</title>
+<link>https://www.youtube.com/watch?v=ldxFjLJ3rVY</link>
+<guid isPermaLink='false'>dcdd7966482cbe993618a7128a6c075612cbfe68</guid>
+<pubDate>Sun, 22 Mar 2026 12:59:00 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Escher's Print Gallery, and the tour of complex analysis it invites.
+Explore our virtual career fair: https://3b1b.co/talent
+Join channel supporters to see videos early: https://3b1b.co/support
+An equally valuable form of support is to share the videos.
+Home page: https://www.3blue1brown.com
 
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+Original paper by de Smit and Lenstra:
+https://pub.math.leidenuniv.nl/~smitbde/papers/2003-de_smit-lenstra-escher.pdf
 
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/LeftenantZero" rel="noreferrer"><img alt="@LeftenantZero" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/632716?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/7666dbb1bacc4ba522b96740cba7283d243d16e1" rel="noreferrer">7666dbb</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      wifi: cfg80211: advance loop vars in cfg80211_merge_profile()
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/rakukuip-source" rel="noreferrer"><img alt="@rakukuip-source" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/246940459?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/94f3b133168d1c49895e7cc6afbcf1cc0b354602" rel="noreferrer">94f3b13</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      batman-adv: fix tp_meter counter underflow during shutdown
-                    </blockquote>
-                  </div>
-                </li>
+The book I was showing is "Magic of MC Escher" by J. L. Locher
+https://amzn.to/4d7zXTT
+
+If you want to play with this concept interactively, Jürgen Richter-Gebert put together a nice page:
+https://mathvisuals.org/PrintGallery/
+
+This piece was co-written by Paul Dancstep, who handled many of the animations in the art section, including the delightful mesh warp scene.
+
+Aaron Gostein helped with the manim animations in the section introducing complex functions.
+
+Artwork provided by Talia Gershon, Mitchell Zemil, and Anna Fedczuk.
+https://sites.google.com/view/taliagershon
+https://mitchellzemil.com/
+https://anna-fedczuk.framer.website/about
+
+Music by Vincent Rubinetti
+
+Timestamps:
+
+0:00 - The print gallery
+13:04 - Conformal maps from complex analysis
+21:41 - The complex exponential
+25:56 - The complex logarithm
+32:32 - 3b1b Talent
+33:14 - Constructing the key function
+40:16 - The deeper math behind Escher
+
+------------------
+
+These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
+https://3b1b.co/faq#manim
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
+
+Mailing list: https://3blue1brown.substack.com
+Twitter: https://twitter.com/3blue1brown
+Bluesky: https://bsky.app/profile/3blue1brown.com
+Instagram: https://www.instagram.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Patreon: https://patreon.com/3blue1brown
+Website: https://www.3blue1brown.com]]></description>
+</item>
+<item>
+<title>Bacteria Grid Puzzle Solution</title>
+<link>https://www.youtube.com/shorts/Qoes9bTJtn0</link>
+<guid isPermaLink='false'>b09113ffbabecfad187e06698e8fe6fd50fdc1e9</guid>
+<pubDate>Sat, 21 Mar 2026 11:42:53 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Part of a monthly series of puzzlers, in collaboration with MoMath and Peter Winkler]]></description>
+</item>
+<item>
+<title>How Many People Lived Before History?</title>
+<link>https://www.youtube.com/shorts/vPwGmFUAr88</link>
+<guid isPermaLink='false'>09a8eaf2ffc41ca0d35837a0eef1e8bcb0061a04</guid>
+<pubDate>Fri, 20 Mar 2026 19:38:05 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>When You Sleep In Socks And Imagine An Icositetrachoron</title>
+<link>https://www.youtube.com/shorts/hqSL5V9yXBM</link>
+<guid isPermaLink='false'>c931cde8cb5f40797fb008dd021bb39ddf7fdfe2</guid>
+<pubDate>Sun, 15 Mar 2026 21:16:32 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[song: "Philadelphia" by @jakechudnow]]></description>
+</item>
+<item>
+<title>I Found A Wild Ambigram!</title>
+<link>https://www.youtube.com/shorts/-UgtKlbzers</link>
+<guid isPermaLink='false'>09ac3fc0c2ef09aee75c7105660f58c14ff39a33</guid>
+<pubDate>Fri, 13 Mar 2026 22:59:19 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>An Illusion You Can Hug</title>
+<link>https://www.youtube.com/shorts/_Nr4mvdkEVw</link>
+<guid isPermaLink='false'>80b422d683aba997824f4b6cc8c71a1b6cb54ef5</guid>
+<pubDate>Mon, 09 Mar 2026 23:03:52 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[https://www.curiositybox.com]]></description>
+</item>
+<item>
+<title>The most beautiful formula not enough people understand</title>
+<link>https://www.youtube.com/watch?v=fsLh-NYhOoU</link>
+<guid isPermaLink='false'>856c69afa643639792837287f8bc478f3dd39d93</guid>
+<pubDate>Fri, 27 Feb 2026 15:14:23 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[On the volumes of higher-dimensional spheres
+Explore the 3b1b virtual career fair: See https://3b1b.co/talent
+Become a supporter for early views of new videos: https://3b1b.co/support
+An equally valuable form of support is to simply share the videos.
+Home page: https://www.3blue1brown.com
+
+Thanks to UC Santa Cruz for letting me film there, and special thanks to 
+Pedro Morales-Almazan for arranging everything.
+
+My video on Numberphile with a fun application of this problem: https://youtu.be/6_yU9eJ0NxA
+
+Timestamps:
+0:00 - Introduction
+1:01 - Random puzzle
+6:16 - Outside the box
+14:35 - Setting up the volume grid
+21:14 - Why 4πr^2
+25:21 - Archimedes in higher dimensions
+36:17 - The general formula
+40:40 - 1/2 factorial
+44:58 - Why 5D spheres are the biggest
+50:16 - Concentration at the surface
+54:27 - A unit-free interpretation
+57:50 - 3b1b Talent
+59:13 - Explaining the intro animation
+
+------------------
+
+These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
+https://3b1b.co/faq#manim
+
+Music by Vincent Rubinetti.
+https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
+https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
+
+Mailing list: https://3blue1brown.substack.com
+Twitter: https://twitter.com/3blue1brown
+Bluesky: https://bsky.app/profile/3blue1brown.com
+Instagram: https://www.instagram.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Patreon: https://patreon.com/3blue1brown
+Website: https://www.3blue1brown.com]]></description>
+</item>
+<item>
+<title>The lattice bacteria puzzle</title>
+<link>https://www.youtube.com/shorts/d0ai33oqqDE</link>
+<guid isPermaLink='false'>0f7b887d4c20f8f9984d02ca00d935631214f233</guid>
+<pubDate>Wed, 18 Feb 2026 06:02:59 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Part of a series of monthly puzzles, done in collaboration with MoMath.
+https://momath.org/mindbenders]]></description>
+</item>
+<item>
+<title>Solution to the ladybug clock puzzle</title>
+<link>https://www.youtube.com/shorts/7gG91SZwBoE</link>
+<guid isPermaLink='false'>291fc12871269624ef81e690abcc752e41a8ff29</guid>
+<pubDate>Mon, 16 Feb 2026 14:08:37 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Solution to last month's probability puzzle.]]></description>
+</item>
+<item>
+<title>The Hairy Ball Theorem</title>
+<link>https://www.youtube.com/watch?v=BHdbsHFs2P0</link>
+<guid isPermaLink='false'>cf4e2b03d653319d673d836eaef2a8622fa0a9f3</guid>
+<pubDate>Sat, 31 Jan 2026 14:57:42 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Unexpected applications and a beautiful proof.
+Looking for a new career? Check out https://3b1b.co/talent
+Supporters get early access to new videos: https://3b1b.co/support
+An equally valuable form of support is to simply share the videos.
+Home page: https://www.3blue1brown.com
+
+Credits:
+Senia Sheydvasser: Co-writing and sphere deformation animations, made in Blender
+Paul Dancstep: Those lovely fluffy sphere animations, made in Cinema4D
+Vince Rubinetti: Music
+
+Sphere Eversion clip by Carsten Steger
+https://commons.wikimedia.org/wiki/File:Thurston_Sphere_Eversion.webm
+
+Timestamps:
+0:00 - To comb a hairy ball
+1:24 - Applications
+8:46 - The puzzle of one null point
+12:12 - The proof outline
+16:41 - Defining orientation
+21:44 - Why inside-out is impossible
+25:59 - 3b1b Talent
+27:44 - Final food for thought
+
+------------------
+
+These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
+https://3b1b.co/faq#manim
+
+Music by Vincent Rubinetti.
+https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
+https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
+
+Mailing list: https://3blue1brown.substack.com
+Twitter: https://twitter.com/3blue1brown
+Bluesky: https://bsky.app/profile/3blue1brown.com
+Instagram: https://www.instagram.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Patreon: https://patreon.com/3blue1brown
+Website: https://www.3blue1brown.com]]></description>
+</item>
+<item>
+<title>The ladybug clock puzzle</title>
+<link>https://www.youtube.com/shorts/t3jZ2xGOvYg</link>
+<guid isPermaLink='false'>a457d10e6e18726a965f685380c7118862f9fc36</guid>
+<pubDate>Fri, 16 Jan 2026 14:16:12 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[This is the first in a set of monthly puzzles, curated by Peter Winkler. This one was originally suggested by Richard Stanley.
+
+You can sign up to hear his description of the answer at http://momath.org/mindbenders]]></description>
+</item>
+<item>
+<title>Album Art Origins</title>
+<link>https://www.youtube.com/shorts/2qOya17le0A</link>
+<guid isPermaLink='false'>45d7f5a44934ad43221684e22e4075c7056f4738</guid>
+<pubDate>Mon, 22 Dec 2025 19:56:25 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>The Dynamic Ebbinghaus Illusion</title>
+<link>https://www.youtube.com/shorts/PNbgHdDQ1fc</link>
+<guid isPermaLink='false'>87b000bd8597b2add93e1a60aa96cb0a3ca8b424</guid>
+<pubDate>Fri, 19 Dec 2025 01:52:30 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>My Weirdest Dice</title>
+<link>https://www.youtube.com/shorts/cdu6sOgI9Dc</link>
+<guid isPermaLink='false'>d1c5eb999137bcc174ffea67e60469fd489c0c2b</guid>
+<pubDate>Tue, 16 Dec 2025 21:57:29 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>The Official Blue Berry of North Carolina</title>
+<link>https://www.youtube.com/shorts/7MfvZuCXVMQ</link>
+<guid isPermaLink='false'>9bb82a098d0c1c87357ebc87698422f2a7ade13f</guid>
+<pubDate>Fri, 12 Dec 2025 22:15:15 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>Would You Like A TRIPLE Entendre?</title>
+<link>https://www.youtube.com/shorts/UrM6ugyzeC8</link>
+<guid isPermaLink='false'>154cd85c2a15588f1a704aa83735c9a9981d16e6</guid>
+<pubDate>Wed, 10 Dec 2025 21:32:46 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>The 852655 Mystery</title>
+<link>https://www.youtube.com/shorts/ti8ZdImveB0</link>
+<guid isPermaLink='false'>d9ae6b0db5832a4a68be54f20609982db3d1f365</guid>
+<pubDate>Tue, 09 Dec 2025 00:09:28 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[https://inqfactory.com/poison]]></description>
+</item>
+<item>
+<title>2 Inertia Tricks</title>
+<link>https://www.youtube.com/shorts/4HbYUB1J1io</link>
+<guid isPermaLink='false'>cae9676244915f52d405217353585c11987bc6d4</guid>
+<pubDate>Fri, 05 Dec 2025 20:35:50 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>We Recreated The Oldest Surviving Globe</title>
+<link>https://www.youtube.com/shorts/Avr5K6tX1x4</link>
+<guid isPermaLink='false'>021af9fb9e0ba318507ca688fc87474dfa946756</guid>
+<pubDate>Thu, 04 Dec 2025 03:11:54 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[https://www.curiositybox.com/pages/closest-approach-to-uranus]]></description>
+</item>
+<item>
+<title>Only Using Words That Begin With "A"</title>
+<link>https://www.youtube.com/shorts/za2isHAgefY</link>
+<guid isPermaLink='false'>f36c01ea7dac17eb4443c095f09b182471bc1e12</guid>
+<pubDate>Mon, 01 Dec 2025 20:11:44 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>The Kennedy Coincidences</title>
+<link>https://www.youtube.com/shorts/Oa3k7RLZCUE</link>
+<guid isPermaLink='false'>7a176e4c31bc4b52470db608591f28467a5dd367</guid>
+<pubDate>Tue, 25 Nov 2025 20:41:05 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[🎙️@TheRestIsScience 🎙️
+https://linktr.ee/therestisscience]]></description>
+</item>
+<item>
+<title>Why Laplace transforms are so useful</title>
+<link>https://www.youtube.com/watch?v=FE-hM1kRK4Y</link>
+<guid isPermaLink='false'>ea3be36139d4afabb82820aa6f7f9d1ddc59bafc</guid>
+<pubDate>Wed, 05 Nov 2025 13:09:45 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Studying the forced harmonic oscillator by taking a Laplace transform and studying its poles.
+Instead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support
+An equally valuable form of support is to simply share the videos.
+Home page: https://www.3blue1brown.com
+
+Chapter on the Laplace Transform:
+https://youtu.be/j0wJBEZdwLs
+
+Chapter on the S-plane and Simple Harmonic Motion:
+https://youtu.be/-j8PzkZ70Lg
+
+Timestamps:
+0:00 - Opening puzzle
+1:06 - Key properties of a Laplace Transform
+3:29 - Qualitative analysis with Laplace Transforms
+4:29 - The Laplace Transforms of a Derivative
+6:06 - The forced oscillator
+11:59 - Intuition from the transformed solution
+15:15 - Inverting to find a final answer
+17:40 - Explaining the derivative property
+
+------------------
+
+These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
+https://3b1b.co/faq#manim
+
+Music by Vincent Rubinetti.
+https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
+https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
+
+Mailing list: https://3blue1brown.substack.com
+Twitter: https://twitter.com/3blue1brown
+Bluesky: https://bsky.app/profile/3blue1brown.com
+Instagram: https://www.instagram.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Patreon: https://patreon.com/3blue1brown
+Website: https://www.3blue1brown.com]]></description>
+</item>
+<item>
+<title>The dynamics of e^(πi)</title>
+<link>https://www.youtube.com/shorts/bnjKwiUg-kw</link>
+<guid isPermaLink='false'>37200f6325bc1c45079bcf4422405611b5a5f6ed</guid>
+<pubDate>Sun, 12 Oct 2025 12:40:46 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[A fuller version of this explanation, also including the reason we care about complex exponents in the first place: https://youtu.be/-j8PzkZ70Lg]]></description>
+</item>
+<item>
+<title>But what is a Laplace Transform?</title>
+<link>https://www.youtube.com/watch?v=j0wJBEZdwLs</link>
+<guid isPermaLink='false'>f3ba3dada2a1fe9be8df6435535bca76f7276375</guid>
+<pubDate>Sun, 12 Oct 2025 11:19:53 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Visualizing the most important tool for differential equations.
+Previous chapter: https://youtu.be/-j8PzkZ70Lg
+Instead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support
+An equally valuable form of support is to simply share the videos.
+Home page: https://www.3blue1brown.com
+
+Pi creature car artwork by Kurt Bruns
+
+Engine animation borrowed with permission from this (excellent) blog: https://ciechanow.ski/internal-combustion-engine/
+
+Timestamps:
+0:00 - Understanding the engine
+1:16 - Key background ideas
+5:41 - Definition and intuition
+10:43 - Complex integration
+20:43 - Analytic continuation
+23:52 - The transform of exponentials
+26:15 - A deep look at cos(t)
+32:59 - What’s coming next
 
 
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/758c807bb9...68993ced0f" rel="noreferrer">216 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/8bc67e4db6...758c807bb9</link>
-<guid isPermaLink='false'>84980d1885fcb9bc863bfc1ea304e3e90a7b7a46</guid>
-<pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · May 21, 2026 16:23
-      </span>
+------------------
 
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
+https://3b1b.co/faq#manim
 
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/geertu" rel="noreferrer"><img alt="@geertu" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/4139050?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/86637727c11a105499e9faa38f3422dfcf4d211d" rel="noreferrer">8663772</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      arm64: dts: renesas: r8a78000: Fix SCIF brg_int clocks
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/e52df1a044453430ce200a69d0a37306c9d985c6e19974d0fa1a7dcdc1d13be1/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f64373134383561333338313039616638333030663464316339303863346162313f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/d289b5f56ab7fe939dc5bfc87c856b46fe5def38" rel="noreferrer">d289b5f</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      arm64: dts: renesas: draak/ebisu-panel: Fix missing cells and reg in DTO
-                    </blockquote>
-                  </div>
-                </li>
+Music by Vincent Rubinetti.
+https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
+https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
 
+------------------
 
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/8bc67e4db6...758c807bb9" rel="noreferrer">36 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>182.8 Meters</title>
-<link>https://xkcd.com/3248/</link>
-<guid isPermaLink='false'>7e9b1403c55620fcb3b11186daa1d2db6ac27870</guid>
-<pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-<author>xkcd.com</author>
-<description><![CDATA[<img alt="They rounded down to 182.8 instead of rounding up to 182.9 because 182.9 might make the statement incorrect." src="https://imgs.xkcd.com/comics/182_8_meters.png" title="They rounded down to 182.8 instead of rounding up to 182.9 because 182.9 might make the statement incorrect." />]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/df685633c3...8bc67e4db6</link>
-<guid isPermaLink='false'>6e06fb4e7c8a49cafd61653c72e76b2a537a4259</guid>
-<pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · May 20, 2026 18:22
-      </span>
+3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
 
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+Mailing list: https://3blue1brown.substack.com
+Twitter: https://twitter.com/3blue1brown
+Bluesky: https://bsky.app/profile/3blue1brown.com
+Instagram: https://www.instagram.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Patreon: https://patreon.com/3blue1brown
+Website: https://www.3blue1brown.com]]></description>
+</item>
+<item>
+<title>The Physics of Euler's Formula | Laplace Transform Prelude</title>
+<link>https://www.youtube.com/watch?v=-j8PzkZ70Lg</link>
+<guid isPermaLink='false'>09e22945d512e15775a91c00dd29ab307e38af7d</guid>
+<pubDate>Sun, 05 Oct 2025 13:53:28 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[The simple harmonic oscillator and the fundamental role of complex exponents for ODEs.
+Next chapter on the Laplace Transform video: https://youtu.be/j0wJBEZdwLs
+Instead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support
+An equally valuable form of support is to simply share the videos.
+Home page: https://www.3blue1brown.com
 
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/hsiangkao" rel="noreferrer"><img alt="@hsiangkao" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/36559268?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/649932fc3815eda2f24eb4de4b3a5e94886ee0b9" rel="noreferrer">649932f</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      erofs: fix managed cache race for unaligned extents
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/083c87f61ba25d3c2f6c98e0516c68b0dd48d1467c85f0ea933cbeb273bd3374/68747470733a2f2f312e67726176617461722e636f6d2f6176617461722f32633332313164633433313330353235663837353261643065666439393137653f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/79b09c54c6563df9846ca3094bcfd72082c3e1d7" rel="noreferrer">79b09c5</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      erofs: fix metabuf leak in inode xattr initialization
-                    </blockquote>
-                  </div>
-                </li>
+Timestamps:
+0:00 - Intro
+1:51 - Euler's formula explained dynamically
+9:27 - The harmonic oscillator
+21:08 - General linear equations
+22:47 - Motivating the Laplace Transform
 
+------------------
 
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/df685633c3...8bc67e4db6" rel="noreferrer">1 more commit »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>世界上最难的验证码！没有人类能通过测试</title>
-<link>https://www.bilibili.com/video/BV1Rr5v6wE1F</link>
-<guid isPermaLink='false'>a7bb795a7af8108cc7baf5b86dda4a8a0b7fa518</guid>
-<pubDate>Fri, 15 May 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/379f190028cd25949b5b625487a52019c0cb74b7.jpg" /><br />\(▔▽▔)/]]></description>
-</item>
-<item>
-<title>他创造了一个国家，却又被这个国家所驱逐【历史调研室98】</title>
-<link>https://www.bilibili.com/video/BV1DR5x6aEqM</link>
-<guid isPermaLink='false'>8b2fc6bb94fe383dcf612b96348ed5a81f1ff494</guid>
-<pubDate>Mon, 11 May 2026 10:21:14 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/01371bff467922f7efcdc00a1b19c2ebe669e8bf.jpg" /><br />]]></description>
-</item>
-<item>
-<title>名震南美，统一意大利，传奇英雄加里波第【历史调研室97】</title>
-<link>https://www.bilibili.com/video/BV1Ji9aB4E5Q</link>
-<guid isPermaLink='false'>bd0cf3383186dff8d92b3ba0a1b9d7e2446ea88e</guid>
-<pubDate>Thu, 30 Apr 2026 10:31:55 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/673ee69539ed34e348f09c714247c25760b0437a.jpg" /><br />求关注、求三连～
-参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>一坐车就恶心想吐？破解方法来了！</title>
-<link>https://www.bilibili.com/video/BV1rM9hBdEe2</link>
-<guid isPermaLink='false'>21a290f86de92c47d4832c82cf2d95ae8309ccff</guid>
-<pubDate>Thu, 30 Apr 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/26785ccc1ad01a128062a936679abd6faaeab621.jpg" /><br />晕车的原因很复杂，视频中的办法并不一定适用所有人，作为一个坐车必晕的人，个人感觉是有一些效果的，配合“用了就不难受”的心理暗示效果会更好，大家可以自行尝试。]]></description>
-</item>
-<item>
-<title>花心、出轨、同时爱上一对母女,你不了解的爱因斯坦【历史调研室96】</title>
-<link>https://www.bilibili.com/video/BV1ntDCBDE3E</link>
-<guid isPermaLink='false'>adf0899f171323da7d4633691f7b33f1b6c88265</guid>
-<pubDate>Sat, 11 Apr 2026 09:47:45 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/91e112f2ec4cf296d77fa61ccaff79f6270b45bf.jpg" /><br />]]></description>
-</item>
-<item>
-<title>挑战用五分钟说服你换掉默认浏览器！</title>
-<link>https://www.bilibili.com/video/BV1AUDWBvEF3</link>
-<guid isPermaLink='false'>99f99ad9e289e7495ecc0a6dac7b1524df751574</guid>
-<pubDate>Thu, 09 Apr 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/73780dea84b5fcb1469677258786be4b2733c454.jpg" /><br />@Tabbit浏览器]]></description>
-</item>
-<item>
-<title>Excel电竞大赛？以后再也不敢说精通办公软件了....还好有AI帮我</title>
-<link>https://www.bilibili.com/video/BV1RwDeB2ERL</link>
-<guid isPermaLink='false'>e60a83615ff6cd4994079612382c72084ac9ff28</guid>
-<pubDate>Tue, 07 Apr 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/010ee53130b02b58509e0323881bb2c3fa3b79ea.jpg" /><br />～]]></description>
-</item>
-<item>
-<title>全世界最具争议的科学家，他杀人无数，也救人无数【历史调研室95】</title>
-<link>https://www.bilibili.com/video/BV1vRXrB3EGv</link>
-<guid isPermaLink='false'>3b4a6ef099f493107ed0a1f0b2fae68851520b14</guid>
-<pubDate>Tue, 31 Mar 2026 10:20:20 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/3e316a856131198668b7a0f022ca6caf13322cc5.jpg" /><br />求关注求三连～
-参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>把B站账号交给AI，结果它花完了我十万个硬币？</title>
-<link>https://www.bilibili.com/video/BV1DxwvzuEBj</link>
-<guid isPermaLink='false'>49ace080b925a116fa25cf13d17c7bf2872ec9e2</guid>
-<pubDate>Wed, 18 Mar 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/29462a76bb717981617f4dbf29ee114952fdd463.jpg" /><br />～]]></description>
-</item>
-<item>
-<title>花了200亿,养个白眼狼出来！越南与中国为何反目成仇？【历史调研室94】</title>
-<link>https://www.bilibili.com/video/BV1gxwczGEnT</link>
-<guid isPermaLink='false'>10e41feedbaa6cb63d145f4fd72686176f0c8930</guid>
-<pubDate>Wed, 11 Mar 2026 11:34:26 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/3dcb67aa59694773713a2a8dba6890d326efdede.jpg" /><br />]]></description>
-</item>
-<item>
-<title>越南立国之战！殖民地反杀宗主国，法兰西败走之地【历史调研室93】</title>
-<link>https://www.bilibili.com/video/BV1dFAYzGEjx</link>
-<guid isPermaLink='false'>09ddad6dfcf507a1a654b45624094e5d22058c92</guid>
-<pubDate>Sat, 28 Feb 2026 10:43:11 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/bb1136e1b48f373902f8e1bf3b13cddac0c14e3a.jpg" /><br />求关注求三连~
-参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>AI笑话的保质期可以有多短？</title>
-<link>https://www.bilibili.com/video/BV1UDZXB3Euv</link>
-<guid isPermaLink='false'>dc662f71e2ea7d977edb89f7bc2e3cdcd61091e7</guid>
-<pubDate>Wed, 18 Feb 2026 11:47:09 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/26272d8ae099a2c142f4176f99e2e125ba92d4e8.jpg" /><br />源神启动！]]></description>
-</item>
-<item>
-<title>轻薄本变5080，手机、Mac玩3A，那我还买高配电脑干什么？</title>
-<link>https://www.bilibili.com/video/BV1iWcvz1EfM</link>
-<guid isPermaLink='false'>715b2f75ebcc416a2ba7c00727998b984362cb56</guid>
-<pubDate>Fri, 13 Feb 2026 10:00:59 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/2c8ee1cb95f7647d7edaf0d662993b9e4c37665f.jpg" /><br />有时候限制我玩游戏的不是电脑配置，而是我真的懒得下载下来玩几天再删除，所以想玩的时候我就会用云游戏玩一会儿]]></description>
-</item>
-<item>
-<title>击败美国、统一越南。在挑衅中国前,他的确算个人物【历史调研室92】</title>
-<link>https://www.bilibili.com/video/BV1B2c4zfEfw</link>
-<guid isPermaLink='false'>ad5bb7fb4d539d29a7a3e369d22eab619199eb6f</guid>
-<pubDate>Wed, 11 Feb 2026 11:00:11 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/8f1727ee0c25e9f9f8bce67668bdea51a7b19de4.jpg" /><br />]]></description>
-</item>
-<item>
-<title>真能用Mac打游戏！跨生态这件事以后会越来越简单</title>
-<link>https://www.bilibili.com/video/BV1e16sBFE8L</link>
-<guid isPermaLink='false'>9f4edc36a6ebc0a9ab4a8e97fbe13aff1c41e5dc</guid>
-<pubDate>Sun, 01 Feb 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/6a5e0d4caa731640c2ac69944101d816b1c9e0ef.jpg" /><br />𝔁𝓾𝓪𝓷𝓵𝓲]]></description>
-</item>
-<item>
-<title>他，凭什么被称为越南国父?【历史调研室91】</title>
-<link>https://www.bilibili.com/video/BV1NJ61BBEbj</link>
-<guid isPermaLink='false'>acb4f196bec1bbea2c4ece36a8cca7bd57a44e80</guid>
-<pubDate>Sat, 31 Jan 2026 11:27:04 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/a29e892cdd5a9efc98d5a1510427ce3524ee55f2.jpg" /><br />求关注求三连～
-参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>把五千的电脑用出一万的感觉，成熟的电脑会自己工作！</title>
-<link>https://www.bilibili.com/video/BV1yu6jBQEFn</link>
-<guid isPermaLink='false'>bb5c077816ea5a1cdf8c316c61bde3deeac1b551</guid>
-<pubDate>Wed, 28 Jan 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/85d6950b99446af7cc33c7a90adb6fe5125c1fe9.jpg" /><br />成熟的电脑会自己工作！]]></description>
-</item>
-<item>
-<title>我竟然喜欢上了流氓广告？</title>
-<link>https://www.bilibili.com/video/BV1gZzaB3EST</link>
-<guid isPermaLink='false'>545a1b037f00f02dd42f21286089b9c51a033c8c</guid>
-<pubDate>Tue, 27 Jan 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/3636a8526f1acfdbf5f32eb251af3ee7d82606f6.jpg" /><br />是兄弟就来砍我(ﾒ｀ﾛ´)/🔪]]></description>
-</item>
-<item>
-<title>苏联输了，俄罗斯也输了，但叶利钦赢了。窃国大盗的一生【历史调研室90】</title>
-<link>https://www.bilibili.com/video/BV1gh6ZBUEt9</link>
-<guid isPermaLink='false'>2ea2c867c672e999ea2ecba12c5cd86874f90d3f</guid>
-<pubDate>Sun, 11 Jan 2026 11:20:44 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/7e3bad0278063df71575139c46beb8f2e4b35e7d.jpg" /><br />]]></description>
-</item>
-<item>
-<title>假如诸葛亮北伐带的是100万大学生...</title>
-<link>https://www.bilibili.com/video/BV15RiLBtE2o</link>
-<guid isPermaLink='false'>c36014ac39410c69242f0302625324ad6d04ec62</guid>
-<pubDate>Sun, 04 Jan 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/5dc0d146df38e869eec616dae5073e551df16a9c.jpg" /><br />遇事不决，千问一下~]]></description>
-</item>
-<item>
-<title>苏联最后的革命者：萨布林【历史调研室89】</title>
-<link>https://www.bilibili.com/video/BV1viiTBBERL</link>
-<guid isPermaLink='false'>f8c5b0951ff97b88bb176e2dbd68a11df59060ff</guid>
-<pubDate>Wed, 31 Dec 2025 10:41:24 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/ea316a8cd3f3ea86722c343d6254d46fe242d744.jpg" /><br />求关注求三连～
-参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>各种伪人AI海报真的看吐了！怎么用AI做出来高质量的海报、电商图、试穿带货视频？</title>
-<link>https://www.bilibili.com/video/BV1NQmEB7EKj</link>
-<guid isPermaLink='false'>d6d2460cf2459b4878a259d4d22eaca92a6c80c1</guid>
-<pubDate>Fri, 12 Dec 2025 10:35:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/cfe02837e7dca10b5032eda622140cab75a137fe.jpg" /><br />真的有点牛，效果非常稳定]]></description>
-</item>
-<item>
-<title>打赢冷战，推动苏联解体，单极世界的缔造者：里根【历史调研室88】</title>
-<link>https://www.bilibili.com/video/BV1uymuBcE6D</link>
-<guid isPermaLink='false'>b73d6a3ba3aff27e20b958bcc8e3252b332487e8</guid>
-<pubDate>Thu, 11 Dec 2025 10:44:53 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/113e8731a4aa61e5c71ceea5c1d0c24d14282e89.jpg" /><br />]]></description>
-</item>
-<item>
-<title>无限制出图、本地电脑能跑，这就是目前的开源AI生图天花板！</title>
-<link>https://www.bilibili.com/video/BV1GjmMBhEcz</link>
-<guid isPermaLink='false'>8b3b0c3c205c1b15baa626c7bfa7063df7c88ca7</guid>
-<pubDate>Thu, 11 Dec 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/534e8f67e4771147352e2668ed51397d0c48881e.jpg" /><br />封面上的不是我！是 Z-image 生成的一个虚拟人物~]]></description>
-</item>
-<item>
-<title>是罪人，还是功臣？撒切尔究竟有几分功，几分过？【历史调研室87】</title>
-<link>https://www.bilibili.com/video/BV1NZSvBNExC</link>
-<guid isPermaLink='false'>274309822edb626cd39834b750ff842d93e3ee72</guid>
-<pubDate>Sun, 30 Nov 2025 10:48:08 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/13ea5a064676104975c00a67bd1f89a186605047.jpg" /><br />求关注、求三连~
-参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>看完暗网中的数据泄露清单，我发现保护数据安全太难了...</title>
-<link>https://www.bilibili.com/video/BV1NpUYB4ERg</link>
-<guid isPermaLink='false'>b51baee2c4ec56f4cc7e2d47d1c6631d59bbf4ff</guid>
-<pubDate>Wed, 26 Nov 2025 11:01:09 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/6a78a52d526d5e6e25bb88e321dcf8ec8a65e2a6.jpg" /><br />~]]></description>
-</item>
-<item>
-<title>我好像回到了十几年前偷偷上网的日子...</title>
-<link>https://www.bilibili.com/video/BV1PQyuB1EwU</link>
-<guid isPermaLink='false'>9295650cc09c82257405ee7dc915a2f61f876fa6</guid>
-<pubDate>Thu, 20 Nov 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/02012aab03b989bdda2866d1529e71834cd8e085.jpg" /><br />你终于醒啦，现在是2009年]]></description>
-</item>
-<item>
-<title>天哪，这就是传说中的cmd命令行吗？</title>
-<link>https://www.bilibili.com/video/BV1pjy3B7EG2</link>
-<guid isPermaLink='false'>8867a612755b447df0e4969dd8c4a05af6b382ef</guid>
-<pubDate>Tue, 18 Nov 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/ac7e6264b6baaeacdabcf6b9a36f3d7cbee61ae3.jpg" /><br />用了iFlow，我也是命令行高手啦！]]></description>
-</item>
-<item>
-<title>ARM和x86的大战，已经蔓延到了各个领域...</title>
-<link>https://www.bilibili.com/video/BV17tCjBnE1N</link>
-<guid isPermaLink='false'>9ac64b6f8d2961088cd9e3e7de328b58bc4946a1</guid>
-<pubDate>Wed, 12 Nov 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/f59898b5eac4da3b96c806ed930aa206ffdb57a1.jpg" /><br />性价比超过、性能表现亮眼的亚马逊云 Graviton 处理器服务器，现在新注册的用户，可以获取到亚马逊云提供的精美礼品一份，和服务抵扣金，赶快去试试吧：https://aws.amazon.com/cn/ec2/graviton/?trk=eca6e8a1-f714-43e3-a265-e9aecb4619a7&amp;sc_channel=psm
+These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
+https://3b1b.co/faq#manim
 
-*前述特定亚马逊云科技生成式人工智能相关的服务目前在亚马逊云科技海外区域可用。亚马逊云科技中国区域相关云服务由西云数据和光环新网运营，具体信息以中国区域官网为准。]]></description>
-</item>
-<item>
-<title>最会讲段子的美国总统，从一贫如洗到入主白宫【历史调研室86】</title>
-<link>https://www.bilibili.com/video/BV1AokkBeE2b</link>
-<guid isPermaLink='false'>cb0015dcf98259c9515a2be55a2c6f0a6ec0b139</guid>
-<pubDate>Tue, 11 Nov 2025 09:49:04 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/be2ffb7882ce56b439666801253c6f824fd0fdbd.jpg" /><br />]]></description>
-</item>
-<item>
-<title>一个被憎恨的女人，最初为何能成为英国首相？【历史调研室85】</title>
-<link>https://www.bilibili.com/video/BV1xV1MB1Exb</link>
-<guid isPermaLink='false'>d65d0c4db57a1bcdac19bf6f1e29a6f7fd30892d</guid>
-<pubDate>Fri, 31 Oct 2025 10:59:41 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/37c1c1a5dc5519e26a178e01028ac4341b92f8e6.jpg" /><br />参考资料、视频素材、BGM在视频结尾
-求关注求三连～]]></description>
-</item>
-<item>
-<title>工作为什么永远在开会开会开会……怎么能让开会从从容容游刃有余？</title>
-<link>https://www.bilibili.com/video/BV1KcsmzsEPU</link>
-<guid isPermaLink='false'>bfa51a55402a28bd4c8e2228bb74fd7cc2ac0140</guid>
-<pubDate>Mon, 27 Oct 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/92573a106beffae853e7a024f5d5140954debc97.jpg" /><br />我爱开会我爱开会我爱开会我爱开会我爱开会我爱开会我爱开会我爱开会]]></description>
-</item>
-<item>
-<title>二十年壮志，终陷雪与火。拿破仑的英雄末路【历史调研室84】</title>
-<link>https://www.bilibili.com/video/BV1RL4czLEXz</link>
-<guid isPermaLink='false'>24b29f484c6809fc3ce3eb63e405e7ba20e39c6b</guid>
-<pubDate>Sat, 11 Oct 2025 10:24:47 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/6b4f1ca1c0a071251fdbb3eaa96c85e8fc2fe9d1.jpg" /><br />]]></description>
-</item>
-<item>
-<title>我把互联网破梗上传给AI，结果它当场教我模仿吴京和跳只因舞</title>
-<link>https://www.bilibili.com/video/BV1xT4nzpEXh</link>
-<guid isPermaLink='false'>095b5d260a784f7abd19ac7b33ca3b3bfba2d14a</guid>
-<pubDate>Fri, 10 Oct 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/a32e00cc79544651d29a9d45e489d1da24205125.jpg" /><br />upup，你的封面怎么这么抽象？]]></description>
-</item>
-<item>
-<title>我一直以为，高端人体工学椅就是智商税，直到...</title>
-<link>https://www.bilibili.com/video/BV177xkzwEca</link>
-<guid isPermaLink='false'>921d501e565ce88749efbd6cba74e0094bf964e4</guid>
-<pubDate>Thu, 09 Oct 2025 10:20:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/acce009ce70a6e564cceec538b82d73089b46361.jpg" /><br />有的东西，贵确实有贵的道理...]]></description>
-</item>
-<item>
-<title>“他背叛了所有人，但唯独没有背叛法兰西”【历史调研室83】</title>
-<link>https://www.bilibili.com/video/BV17En1z8EyB</link>
-<guid isPermaLink='false'>ed011400dbaee3704880d37432058e6c2fd8678d</guid>
-<pubDate>Tue, 30 Sep 2025 10:53:58 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/a392838b81378443f671057bc481c16f595052dd.jpg" /><br />求关注、求三连～
-参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>看了这些软件，才知道现在的大学生有多幸福...</title>
-<link>https://www.bilibili.com/video/BV1XQnGzZEPM</link>
-<guid isPermaLink='false'>f31c32242d5a2e08639bbc2ae9264d98ba3a086c</guid>
-<pubDate>Fri, 26 Sep 2025 12:41:06 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/ce72f46d133d8e86b6e6ca6662828b42fd69ee89.jpg" /><br />AI 只能起到辅助的作用，论文还是要自己来写，不能直接用 AI 生成的结果！！！]]></description>
-</item>
-<item>
-<title>我复刻了童年最恐怖的迷宫游戏， 还设计了一个好玩的摸鱼工具</title>
-<link>https://www.bilibili.com/video/BV1QhnFz9EsC</link>
-<guid isPermaLink='false'>a11d5c367b319a6fa7c723db2ad2ef7fb7f6a7e8</guid>
-<pubDate>Mon, 22 Sep 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/da3bdc5bced12302f43f5a27d82bec745a8070ef.jpg" /><br />最近用豆包电脑版的AI编程做了很多小网页，最大的感觉就是太方便了！门槛低，效率高]]></description>
-</item>
-<item>
-<title>国产模型霸榜Hugging Face，但却有严重算力问题，中国AI产业将走向何方？</title>
-<link>https://www.bilibili.com/video/BV1pVptzoEkz</link>
-<guid isPermaLink='false'>706dd406408c3cb290b640e85e46558233517494</guid>
-<pubDate>Wed, 17 Sep 2025 12:42:33 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/8826f2af81ae3d1c757b4535eb4cb77ec87054e0.jpg" /><br />-]]></description>
-</item>
-<item>
-<title>17天！拿破仑攻占柏林，粉碎普鲁士神话【历史调研室82】</title>
-<link>https://www.bilibili.com/video/BV1XiHYzpEMN</link>
-<guid isPermaLink='false'>f28f79ece4587046312adb22d78d078d0668a466</guid>
-<pubDate>Thu, 11 Sep 2025 10:43:51 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/ef5f6ea5a7987bcf59cde77b1a0d5c4077ad0a57.jpg" /><br />]]></description>
-</item>
-<item>
-<title>当黑心甲方是什么感觉？体验了一下发现有点上瘾</title>
-<link>https://www.bilibili.com/video/BV1cSHSzUEyd</link>
-<guid isPermaLink='false'>12f5795d410e46b5d6d137125b9714abe2c4e4b6</guid>
-<pubDate>Thu, 11 Sep 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/7f3e6294c7212995f1e9379498a4bf11903849c3.jpg" /><br />-]]></description>
-</item>
-<item>
-<title>我精心设计了一个流氓软件，结果看到的人都想打死我</title>
-<link>https://www.bilibili.com/video/BV1Gza9zMEW9</link>
-<guid isPermaLink='false'>9d190a0e8811860d1f760be3eded47d2cf00e44d</guid>
-<pubDate>Mon, 08 Sep 2025 10:43:16 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/8cabd5a471f5b7d724366f765793909b8380b5f5.jpg" /><br />UXbot官网：https://www.uxbot.cn/]]></description>
-</item>
-<item>
-<title>国王被砍头，冤不冤？路易十六与法国大革命【历史调研室81】</title>
-<link>https://www.bilibili.com/video/BV1WHaGzzEuN</link>
-<guid isPermaLink='false'>d827e7b304ba292c8e8fc14fc9b2c7aebb1ccc4a</guid>
-<pubDate>Sun, 31 Aug 2025 11:05:08 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/44e8d0e5ce5b5ab27d39f2de79442be4ee389a06.jpg" /><br />求关注求三连~
-参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>拿破仑的封神之战！三皇聚首，然后：一打二【历史调研室80】</title>
-<link>https://www.bilibili.com/video/BV1g2b5zJEes</link>
-<guid isPermaLink='false'>471132112200d8d433c3fc44c194dc6078c26c9b</guid>
-<pubDate>Mon, 11 Aug 2025 11:30:51 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/0f8c5ab1e9857e26e0a06f4fa555141cd1914d91.jpg" /><br />]]></description>
-</item>
-<item>
-<title>课本里的化学之父，为什么被送上断头台？【历史调研室79】</title>
-<link>https://www.bilibili.com/video/BV1CN82zhERE</link>
-<guid isPermaLink='false'>bdd29930e645fc4fa58a3c3c08f04eb65b2ecaba</guid>
-<pubDate>Thu, 31 Jul 2025 11:24:51 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/f6928b191fc70c654763e226a35e0d6428893630.jpg" /><br />求关注求三连～
-参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>当AI能时刻盯着我的电脑屏幕、读取我的软件数据...</title>
-<link>https://www.bilibili.com/video/BV1asbSznEav</link>
-<guid isPermaLink='false'>a536ca30748003d92461b6fd277e4a20a871dabe</guid>
-<pubDate>Fri, 25 Jul 2025 10:05:39 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/b3475c4f8cce3b33d78aa3532799cce2488db379.jpg" /><br />豆包电脑版能看见东西了！随时可以查看你的屏幕，还能一边共享屏幕一边语音通话，写作、视频分析功能也更进一步]]></description>
-</item>
-<item>
-<title>我花三小时开发了一个AI，但却因为它得罪了全站up？</title>
-<link>https://www.bilibili.com/video/BV1gyGuztEKf</link>
-<guid isPermaLink='false'>89898bfdabe0e6e5a7f33e3d3b6810fac4bbeb26</guid>
-<pubDate>Thu, 10 Jul 2025 10:33:32 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/c11700175cda7e744dc0862198f106c3b09b5e4b.jpg" /><br />MCPPPPPPPPPPPPPPPPPPPPPPPPPPPPP]]></description>
-</item>
-<item>
-<title>凭什么称帝？拿破仑对法国的贡献有多大【历史调研室78】</title>
-<link>https://www.bilibili.com/video/BV1AvGJz5E9k</link>
-<guid isPermaLink='false'>61cd072f443e2302c0863d4cb935cbee0e7e6265</guid>
-<pubDate>Tue, 08 Jul 2025 09:39:43 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/834f9ab0a91b6123b7d62bf4ee7a5bc9b6c4d90d.jpg" /><br />]]></description>
-</item>
-<item>
-<title>当手机软件拥有电脑性能。。。。。。</title>
-<link>https://www.bilibili.com/video/BV1WA3bzPEMS</link>
-<guid isPermaLink='false'>05767ec1e2610e3f282c8c578899f3c649a60ad0</guid>
-<pubDate>Wed, 02 Jul 2025 11:01:49 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/1316a377029c78d77e5ea80db14ace2d6bb26277.jpg" /><br />安卓16上线了桌面模式，Windows有了手机模式，可以说是互相奔赴了]]></description>
-</item>
-<item>
-<title>最可悲的皇帝，从雄心万丈到耻辱被俘【历史调研室77】</title>
-<link>https://www.bilibili.com/video/BV1AngkzKEvX</link>
-<guid isPermaLink='false'>5c1ecfeb2f6ca962d2772afb19a00481ea87205e</guid>
-<pubDate>Mon, 30 Jun 2025 09:46:54 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/c7406ae594cf7b9a257932a500b8e74ee7f100ba.jpg" /><br />求关注、求三连～
-参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>孤军远征的史诗！拿破仑千里突进，剑指敌国首都【历史调研室76】</title>
-<link>https://www.bilibili.com/video/BV1LuTXzkExw</link>
-<guid isPermaLink='false'>a2e22709806e0e5ca5f23fff5208475430085dc3</guid>
-<pubDate>Sun, 08 Jun 2025 10:47:51 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/6c553ca4150af58ec5545600923bd515cc829304.jpg" /><br />]]></description>
-</item>
-<item>
-<title>政变总统，民选皇帝，法国工业革命的推动者：拿破仑三世【历史调研室75】</title>
-<link>https://www.bilibili.com/video/BV1a57NzFEn4</link>
-<guid isPermaLink='false'>73b933dd84ff3d75eaebe5e94c08dacd07181d97</guid>
-<pubDate>Sat, 31 May 2025 09:10:09 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/f69e5d8c051f3a68737f1379bb9172770d994f59.jpg" /><br />求关注求三连~
-参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>16岁少尉,26岁方面军总司令,青年拿破仑有多逆天？【历史调研室74】</title>
-<link>https://www.bilibili.com/video/BV1YD5TzaEHN</link>
-<guid isPermaLink='false'>56651f265616b9830d0de837b63cb95f0d23330a</guid>
-<pubDate>Thu, 08 May 2025 10:53:24 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/9ee17d1e79af50ebf7a6f557d22f930b3e914420.jpg" /><br />]]></description>
-</item>
-<item>
-<title>从囚徒到总统！拿破仑死后,他的侄子如何问鼎法国？【历史调研室73】</title>
-<link>https://www.bilibili.com/video/BV1nAG9zPEGk</link>
-<guid isPermaLink='false'>0b33e4fc9c1fa0e7b2371473c4dbb90943672467</guid>
-<pubDate>Wed, 30 Apr 2025 10:05:39 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/6e2746d0940fc6503da66aa381601e1dce23abd8.jpg" /><br />求关注求三连~
-参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>打完天下后，如何守天下？俾斯麦的二十年外交棋局【历史调研室72】</title>
-<link>https://www.bilibili.com/video/BV15HdHYeExE</link>
-<guid isPermaLink='false'>8dc32971bc3921f447b65ac6bc067baa88f85183</guid>
-<pubDate>Tue, 08 Apr 2025 08:58:30 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/13927e137fb2026fb2a066060b791a821f53d515.jpg" /><br />]]></description>
-</item>
-<item>
-<title>震撼世界的72天：巴黎公社为何爆发？又为何失败？【历史调研室71】</title>
-<link>https://www.bilibili.com/video/BV1BtZJYBE4G</link>
-<guid isPermaLink='false'>bf93684d75cecad6d30b5b4c7a2a48068fa0e1a5</guid>
-<pubDate>Mon, 31 Mar 2025 11:04:18 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/4a760f3323a516690bc1a37a6d8b6e85bfc781b0.jpg" /><br />参考资料、视频素材、BGM在视频结尾]]></description>
-</item>
-<item>
-<title>击败法兰西雄狮，在凡尔赛宫加冕。俾斯麦的战争艺术【历史调研室70】</title>
-<link>https://www.bilibili.com/video/BV13ARWYhEGA</link>
-<guid isPermaLink='false'>7f5b20e64cda5ea1b55da8241e56afefa165539b</guid>
-<pubDate>Sat, 08 Mar 2025 09:51:59 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/3cad75aa609d55eef039fb3ef4987ce392cebacd.jpg" /><br />]]></description>
-</item>
-<item>
-<title>亲手葬送德意志帝国的末代皇帝，一战元凶之一：威廉二世【历史调研室69】</title>
-<link>https://www.bilibili.com/video/BV1Yg9GYAExg</link>
-<guid isPermaLink='false'>f1a6a341af8d2c23d1a12b0f63070a7ab9d5a39e</guid>
-<pubDate>Fri, 28 Feb 2025 09:34:28 GMT</pubDate>
-<author>历史调研室 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/922111cc6701b7a6bc45c631c3fd7f92ca3da95a.jpg" /><br />求关注求三连~
-参考资料、视频素材、BGM在视频结尾]]></description>
+Music by Vincent Rubinetti.
+https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
+https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
+
+Mailing list: https://3blue1brown.substack.com
+Twitter: https://twitter.com/3blue1brown
+Bluesky: https://bsky.app/profile/3blue1brown.com
+Instagram: https://www.instagram.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Patreon: https://patreon.com/3blue1brown
+Website: https://www.3blue1brown.com]]></description>
 </item>
 </channel>
 </rss>
