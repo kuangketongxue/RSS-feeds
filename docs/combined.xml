@@ -4,7 +4,746 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Mon, 01 Jun 2026 07:04:11 GMT</lastBuildDate>
+<lastBuildDate>Tue, 02 Jun 2026 06:50:12 GMT</lastBuildDate>
+<item>
+<title>torvalds commented on an issue in GuitarPedal</title>
+<link>https://github.com/torvalds/GuitarPedal/issues/11#issuecomment-4598426884</link>
+<guid isPermaLink='false'>391034cafdfed9de104ed7c6933f81a651adab35</guid>
+<pubDate>Tue, 02 Jun 2026 03:21:53 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="issues_comment js-feed-item-view"><div class="body">
+<!-- issue_comment -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+      <div class="d-flex flex-items-baseline mb-2">
+        <div class="color-fg-muted">
+            <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+          <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+          
+          commented on
+          <a class="Link--primary" href="https://github.com/torvalds/GuitarPedal/issues/11#issuecomment-4598426884" rel="noreferrer" title="Move foot switches further apart?">torvalds/GuitarPedal#11</a>
+          <span>
+            · June 1, 2026 20:21
+          </span>
+        </div>
+      </div>
+    <div class="message markdown-body Box tmp-p-3 wb-break-all color-shadow-medium color-bg-overlay">
+      <div class="f6 mb-1">
+        <a class="Link--secondary" href="https://github.com/torvalds/GuitarPedal/issues/11#issuecomment-4598426884" rel="noreferrer" title="Move foot switches further apart?"><img alt="@torvalds" class="avatar mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /> <span class="Link--primary text-bold">torvalds</span> commented Jun 2, 2026</a>
+      </div>
+        The "make audio box separate" makes this mostly a non-issue. Yes, I may put two stomp switches on the UI box - and will keep them further apart if …
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds commented on an issue in GuitarPedal</title>
+<link>https://github.com/torvalds/GuitarPedal/issues/12#issuecomment-4598380663</link>
+<guid isPermaLink='false'>5e70761e542a08a1df364e239feb17017143c244</guid>
+<pubDate>Tue, 02 Jun 2026 03:11:45 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="issues_comment js-feed-item-view"><div class="body">
+<!-- issue_comment -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+      <div class="d-flex flex-items-baseline mb-2">
+        <div class="color-fg-muted">
+            <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+          <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+          
+          commented on
+          <a class="Link--primary" href="https://github.com/torvalds/GuitarPedal/issues/12#issuecomment-4598380663" rel="noreferrer" title="Move screen down and turn it around 180°?">torvalds/GuitarPedal#12</a>
+          <span>
+            · June 1, 2026 20:11
+          </span>
+        </div>
+      </div>
+    <div class="message markdown-body Box tmp-p-3 wb-break-all color-shadow-medium color-bg-overlay">
+      <div class="f6 mb-1">
+        <a class="Link--secondary" href="https://github.com/torvalds/GuitarPedal/issues/12#issuecomment-4598380663" rel="noreferrer" title="Move screen down and turn it around 180°?"><img alt="@torvalds" class="avatar mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /> <span class="Link--primary text-bold">torvalds</span> commented Jun 2, 2026</a>
+      </div>
+        I think I have mostly decided to solve the issue in a different way: decouple the screen and the audio / power jacks *entirely*. Not by turning the…
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed linux</title>
+<link>https://github.com/torvalds/linux/compare/e43ffb69e0...6f3ed7fec7</link>
+<guid isPermaLink='false'>df21a47bca38347fd4d750b19a4c30acc79e87c3</guid>
+<pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
+      <span>
+        · June 2, 2026 02:57
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
+
+          <div class="commits ">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/andy-shev" rel="noreferrer"><img alt="@andy-shev" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/78496?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/d25e5cbac4e2287c843fc8b45c50dd8e57e3a696" rel="noreferrer">d25e5cb</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      auxdisplay: max6959: use regmap_assign_bits() in max6959_enable()
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/root3315" rel="noreferrer"><img alt="@root3315" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/96490533?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/linux/commit/a7511dcd9dd4bc55d123f9b800c8a4ed2662e5c6" rel="noreferrer">a7511dc</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      auxdisplay: line-display: fix OOB read on zero-length message_store()
+                    </blockquote>
+                  </div>
+                </li>
+
+
+                <li class="f6 mt-2">
+                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/e43ffb69e0...6f3ed7fec7" rel="noreferrer">4 more commits »</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed GuitarPedal</title>
+<link>https://github.com/torvalds/GuitarPedal/compare/d08bd100aa...83605189f8</link>
+<guid isPermaLink='false'>9cda79e7239e7d08a487ebcd3d67a5e805c55b89</guid>
+<pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/GuitarPedal" rel="noreferrer">torvalds/GuitarPedal</a>
+      <span>
+        · June 2, 2026 02:08
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>1 commit to</span>
+          <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+
+          <div class="commits pusher-is-only-committer">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/83605189f87f648afcd6463a034207026b5b8525" rel="noreferrer">8360518</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      'make prep': Fix initial submodule setup
+                    </blockquote>
+                  </div>
+                </li>
+
+
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds closed a pull request in GuitarPedal</title>
+<link>https://github.com/torvalds/GuitarPedal/pull/13</link>
+<guid isPermaLink='false'>d31cca945ecfbbf5122190199e9066cdf3e54975</guid>
+<pubDate>Mon, 01 Jun 2026 22:11:46 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="git-pull-request-closed js-feed-item-view"><div class="body">
+<!-- pull_request -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div>
+      <div class="d-flex flex-items-baseline">
+        <div class="color-fg-muted">
+          <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+          <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+          
+          closed
+          <a class="Link--primary no-underline wb-break-all" href="https://github.com/torvalds/GuitarPedal/pull/13" rel="noreferrer">torvalds/GuitarPedal#13</a>
+          <span>
+            · June 1, 2026 15:11
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <div class="Box tmp-p-3 my-2 color-shadow-medium color-bg-overlay">
+      <svg class="octicon octicon-git-pull-request pull-request-closed d-inline-block mt-1 float-left" height="16" version="1.1" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path></svg>
+
+      <div class="tmp-ml-4">
+        <div>
+          <span class="f4 lh-condensed text-bold color-fg-default"><a class="color-fg-default text-bold" href="https://github.com/torvalds/GuitarPedal/pull/13" rel="noreferrer">sh110x: invert display scan direction for rotated hardware layout</a></span>
+          <span class="f4 color-fg-muted ml-1">#13</span>
+            <div class="lh-condensed mb-2 mt-1">
+              <p dir="auto">This changes the screen scanning direction definitions to 1, preparing the firmware for the flipped screen layout mentioned in Issue <a class="issue-link js-issue-link" href="https://github.com/torvalds/GuitarPedal/issues/12" rel="noreferrer">#12</a>.</p>
+<p dir="auto">Note: Thi…</p>
+            </div>
+        </div>
+
+          <div class="diffstat d-inline-block mt-1">
+            <span class="color-fg-success">+2</span>
+            <span class="color-fg-danger">-2</span>
+          </div>
+
+          <div class="d-inline-block f6 color-fg-muted tmp-ml-3">
+            2 comments
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds closed a pull request in GuitarPedal</title>
+<link>https://github.com/torvalds/GuitarPedal/pull/15</link>
+<guid isPermaLink='false'>2e6ab9b542d60e2cc702a161a01aaeac7a291312</guid>
+<pubDate>Mon, 01 Jun 2026 22:11:46 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="git-pull-request-closed js-feed-item-view"><div class="body">
+<!-- pull_request -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div>
+      <div class="d-flex flex-items-baseline">
+        <div class="color-fg-muted">
+          <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+          <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+          
+          closed
+          <a class="Link--primary no-underline wb-break-all" href="https://github.com/torvalds/GuitarPedal/pull/15" rel="noreferrer">torvalds/GuitarPedal#15</a>
+          <span>
+            · June 1, 2026 15:11
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <div class="Box tmp-p-3 my-2 color-shadow-medium color-bg-overlay">
+      <svg class="octicon octicon-git-pull-request pull-request-closed d-inline-block mt-1 float-left" height="16" version="1.1" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path></svg>
+
+      <div class="tmp-ml-4">
+        <div>
+          <span class="f4 lh-condensed text-bold color-fg-default"><a class="color-fg-default text-bold" href="https://github.com/torvalds/GuitarPedal/pull/15" rel="noreferrer">prep: fix Makefile to get all submodules</a></span>
+          <span class="f4 color-fg-muted ml-1">#15</span>
+            <div class="lh-condensed mb-2 mt-1">
+              <p dir="auto">There doesn't appear to be a git submodule init --recursive, so we'll need to manually check out the submodules for pico-sdk as well.</p>
+            </div>
+        </div>
+
+          <div class="diffstat d-inline-block mt-1">
+            <span class="color-fg-success">+2</span>
+            <span class="color-fg-danger">-0</span>
+          </div>
+
+          <div class="d-inline-block f6 color-fg-muted tmp-ml-3">
+            1 comment
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>Sunbeam</title>
+<link>https://xkcd.com/3253/</link>
+<guid isPermaLink='false'>0c92d6ca6da5b6ae02e7ad287addddf1de449999</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+<author>xkcd.com</author>
+<description><![CDATA[<img alt="While weather control is typically thought of as a superpower, the unconscious ability of astronomers and astrophotographers to summon clouds is more properly classified as a curse." src="https://imgs.xkcd.com/comics/sunbeam.png" title="While weather control is typically thought of as a superpower, the unconscious ability of astronomers and astrophotographers to summon clouds is more properly classified as a curse." />]]></description>
+</item>
+<item>
+<title>torvalds pushed GuitarPedal</title>
+<link>https://github.com/torvalds/GuitarPedal/compare/8d5d2767ca...d08bd100aa</link>
+<guid isPermaLink='false'>09c94e1e64e050018afd7f14eb7f073de9b6bdb5</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/GuitarPedal" rel="noreferrer">torvalds/GuitarPedal</a>
+      <span>
+        · June 1, 2026 22:25
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>1 commit to</span>
+          <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+
+          <div class="commits pusher-is-only-committer">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/d08bd100aa5561fd37231cd9981b7d605db57f01" rel="noreferrer">d08bd10</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      WebMIDI: attempt to fix up MIDI access permission issues
+                    </blockquote>
+                  </div>
+                </li>
+
+
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed GuitarPedal</title>
+<link>https://github.com/torvalds/GuitarPedal/compare/5684f0b0a3...8d5d2767ca</link>
+<guid isPermaLink='false'>2cb6b376706f95bcc1c09a35c68dd89d29b71838</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/GuitarPedal" rel="noreferrer">torvalds/GuitarPedal</a>
+      <span>
+        · June 1, 2026 22:11
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>1 commit to</span>
+          <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+
+          <div class="commits pusher-is-only-committer">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/8d5d2767caa6c2b2137339c33654e62ef6b50299" rel="noreferrer">8d5d276</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      WebMIDI: better problem reporting
+                    </blockquote>
+                  </div>
+                </li>
+
+
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed GuitarPedal</title>
+<link>https://github.com/torvalds/GuitarPedal/compare/f4c9a3cedf...5684f0b0a3</link>
+<guid isPermaLink='false'>2efde2d4a3b31ff55b64282362a593a1faf89fb6</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/GuitarPedal" rel="noreferrer">torvalds/GuitarPedal</a>
+      <span>
+        · June 1, 2026 22:04
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>2 commits to</span>
+          <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+
+          <div class="commits pusher-is-only-committer">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/b8fdc164e6f46bc9ccb1d5278bb6b2019f4f27ef" rel="noreferrer">b8fdc16</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      GitHub actions: hopefully fix deployment issue
+                    </blockquote>
+                  </div>
+                </li>
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/5684f0b0a3335e683468b3d6542ead1c41cc9d92" rel="noreferrer">5684f0b</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      WebMIDI: better problem reporting
+                    </blockquote>
+                  </div>
+                </li>
+
+
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed GuitarPedal</title>
+<link>https://github.com/torvalds/GuitarPedal/compare/8453cc2fd5...f4c9a3cedf</link>
+<guid isPermaLink='false'>1c1ef37035ea950182fa069ddb8560e450099f1e</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/GuitarPedal" rel="noreferrer">torvalds/GuitarPedal</a>
+      <span>
+        · June 1, 2026 21:42
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>1 commit to</span>
+          <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+
+          <div class="commits pusher-is-only-committer">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/f4c9a3cedf06c0f839d12157fc8d8a59aa1fb197" rel="noreferrer">f4c9a3c</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      Generate a human-readable MIDI command map
+                    </blockquote>
+                  </div>
+                </li>
+
+
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed GuitarPedal</title>
+<link>https://github.com/torvalds/GuitarPedal/compare/bf5353709a...8453cc2fd5</link>
+<guid isPermaLink='false'>9fd87b273c13c66ee9edc80b412d79eab2dc3fb5</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/GuitarPedal" rel="noreferrer">torvalds/GuitarPedal</a>
+      <span>
+        · June 1, 2026 20:29
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>1 commit to</span>
+          <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+
+          <div class="commits pusher-is-only-committer">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/8453cc2fd5c5fb08effe43f796d9ee6f61823c0f" rel="noreferrer">8453cc2</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      WebMIDI: add "reset to programming mode" command
+                    </blockquote>
+                  </div>
+                </li>
+
+
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed GuitarPedal</title>
+<link>https://github.com/torvalds/GuitarPedal/compare/c982777411...bf5353709a</link>
+<guid isPermaLink='false'>857a02ea5522d1662edf781786caac4d0ef35fa4</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/GuitarPedal" rel="noreferrer">torvalds/GuitarPedal</a>
+      <span>
+        · June 1, 2026 19:55
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>1 commit to</span>
+          <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+
+          <div class="commits pusher-is-only-committer">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/bf5353709a7881ca2ff7d071c12a5a4406df891e" rel="noreferrer">bf53537</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      WebMIDI: let's not be quite so optimistic
+                    </blockquote>
+                  </div>
+                </li>
+
+
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed GuitarPedal</title>
+<link>https://github.com/torvalds/GuitarPedal/compare/3c17a66b4d...c982777411</link>
+<guid isPermaLink='false'>8c32b72c81676c1a1bcc803734bfb76ed71a6b36</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/GuitarPedal" rel="noreferrer">torvalds/GuitarPedal</a>
+      <span>
+        · June 1, 2026 19:45
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>1 commit to</span>
+          <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+
+          <div class="commits pusher-is-only-committer">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/c982777411fee83a103dc07dfc120b70ffdb4339" rel="noreferrer">c982777</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      WebMIDI: more tweaking for smaller phone screens
+                    </blockquote>
+                  </div>
+                </li>
+
+
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed GuitarPedal</title>
+<link>https://github.com/torvalds/GuitarPedal/compare/c88f369fd3...3c17a66b4d</link>
+<guid isPermaLink='false'>34ae0f07ca8139a87dd2a2d7d5b01ec8e6765617</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/GuitarPedal" rel="noreferrer">torvalds/GuitarPedal</a>
+      <span>
+        · June 1, 2026 19:06
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>1 commit to</span>
+          <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+
+          <div class="commits pusher-is-only-committer">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/3c17a66b4d511b87867565259b15ac7b1f040f89" rel="noreferrer">3c17a66</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      WebMIDI: add a bigger slider control for "currently active pot"
+                    </blockquote>
+                  </div>
+                </li>
+
+
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
+<item>
+<title>torvalds pushed GuitarPedal</title>
+<link>https://github.com/torvalds/GuitarPedal/compare/a3ebdaa10d...c88f369fd3</link>
+<guid isPermaLink='false'>10400e2ae4a4cba71918b0a5442cea95119d5532</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+<author>GitHub Public Timeline Feed</author>
+<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
+<!-- push -->
+<div class="d-flex flex-items-baseline tmp-py-4">
+  <div class="d-flex flex-column width-full">
+    <div class="color-fg-muted">
+      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
+      
+      pushed to
+        <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+        in
+      <a class="Link--primary no-underline wb-break-all" href="/torvalds/GuitarPedal" rel="noreferrer">torvalds/GuitarPedal</a>
+      <span>
+        · June 1, 2026 15:37
+      </span>
+
+        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
+          <span>1 commit to</span>
+          <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
+
+          <div class="commits pusher-is-only-committer">
+            <ul class="list-style-none">
+                <li class="d-flex flex-items-baseline">
+                  <span>
+                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
+                  </span>
+                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/c88f369fd321b5c6cc2e6f8662fa83267a1ce60f" rel="noreferrer">c88f369</a></code>
+                  <div class="dashboard-break-word lh-condensed">
+                    <blockquote>
+                      Fix up lots more default pot settings
+                    </blockquote>
+                  </div>
+                </li>
+
+
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div></div>]]></description>
+</item>
 <item>
 <title>torvalds pushed GuitarPedal</title>
 <link>https://github.com/torvalds/GuitarPedal/compare/c4b615cad7...a3ebdaa10d</link>
@@ -525,16 +1264,6 @@
 </div></div>]]></description>
 </item>
 <item>
-<title>【科技补全104】开源阅读删库；火绒曝光金山毒霸捆绑安装；华为发表韬定律；Claude Opus 4.8 发布；APKPure分发带后门安装包；</title>
-<link>https://www.bilibili.com/video/BV1gzV36pEaA</link>
-<guid isPermaLink='false'>976bcab8773be08d678a00bd252248b3f51b0fd8</guid>
-<pubDate>Sat, 30 May 2026 10:19:49 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/0f99ad40513f04e9dc8b42c4efc7ded448be94a3.jpg" /><br />- 华为发表韬（τ）定律 ➡️跳转03:47
-- 开源阅读删库 ➡️跳转06:40
-- 火绒曝光金山毒霸捆绑安装 ➡️跳转06:54]]></description>
-</item>
-<item>
 <title>torvalds pushed linux</title>
 <link>https://github.com/torvalds/linux/compare/670b77dfeb...9d87d0fc8c</link>
 <guid isPermaLink='false'>6034ecffcaf00718ed04351efde55437171f4038</guid>
@@ -795,378 +1524,6 @@
 <description><![CDATA[<img alt="SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business." src="https://imgs.xkcd.com/comics/ancestral_genomes.png" title="SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business." />]]></description>
 </item>
 <item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/9215e74f22...f3be0c984e</link>
-<guid isPermaLink='false'>201b879b2fbc9efb309eaf89ddfec7340e6e9d87</guid>
-<pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · May 29, 2026 23:39
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/maoyixie" rel="noreferrer"><img alt="@maoyixie" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/89717134?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/7e2a4f7ca0952820731ef7bdadfc9a9e9d3571b4" rel="noreferrer">7e2a4f7</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      xfrm: route MIGRATE notifications to caller's netns
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/herbertx" rel="noreferrer"><img alt="@herbertx" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1070153?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/7dbac7680eb629b3b4dc7e98c34f943b8814c0c8" rel="noreferrer">7dbac76</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      xfrm: ipcomp: Free destination pages on acomp errors
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/9215e74f22...f3be0c984e" rel="noreferrer">67 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed GuitarPedal</title>
-<link>https://github.com/torvalds/GuitarPedal/compare/c3828495b2...b3e2ec26f8</link>
-<guid isPermaLink='false'>5548c226cef16473a5253d59bf1dfbb1f4e1e2cf</guid>
-<pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/GuitarPedal" rel="noreferrer">torvalds/GuitarPedal</a>
-      <span>
-        · May 29, 2026 20:46
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/clevelandmusicco" rel="noreferrer"><img alt="@clevelandmusicco" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/162055667?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/8398215bf62d68d74da0fb8b6a2dcf2bb8274333" rel="noreferrer">8398215</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Reverb: revert to 8 comb filters and 4 Schroeder allpass filters
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/clevelandmusicco" rel="noreferrer"><img alt="@clevelandmusicco" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/162055667?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/cdc4aa47bf9e402aaed0dcf7747b821cf9d0d840" rel="noreferrer">cdc4aa4</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Enable hardware FTZ on both cores; drop `reverb_flush()`
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/GuitarPedal/compare/c3828495b2...b3e2ec26f8" rel="noreferrer">4 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/8fde5d1d47...9215e74f22</link>
-<guid isPermaLink='false'>4441ca49790519070b5254c9d392cfedbb5ae196</guid>
-<pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · May 29, 2026 20:12
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/jgunthorpe" rel="noreferrer"><img alt="@jgunthorpe" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/665037?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/9785df3fd67083ac10f6bde83a316286044a66f1" rel="noreferrer">9785df3</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      iommu/vt-d: Simplify calculate_psi_aligned_address()
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/testacegi" rel="noreferrer"><img alt="@testacegi" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/109414068?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/2e78b21864dd6e21b76160753ea632b5e758fdbd" rel="noreferrer">2e78b21</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      HID: u2fzero: free allocated URB on probe errors
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/8fde5d1d47...9215e74f22" rel="noreferrer">38 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed GuitarPedal</title>
-<link>https://github.com/torvalds/GuitarPedal/compare/077444b2f2...c3828495b2</link>
-<guid isPermaLink='false'>11208eca81400492ebd4479bbdb51ccbd931536e</guid>
-<pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/GuitarPedal" rel="noreferrer">torvalds/GuitarPedal</a>
-      <span>
-        · May 29, 2026 04:43
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>1 commit to</span>
-          <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
-
-          <div class="commits pusher-is-only-committer">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/c3828495b2070fcc634978fa63505616f7d8d118" rel="noreferrer">c382849</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Use 'copy_to_ram' in order to avoid running out of flash
-                    </blockquote>
-                  </div>
-                </li>
-
-
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>我们可能是最后一代，会用电脑的人了</title>
-<link>https://www.bilibili.com/video/BV1grVp6DEbX</link>
-<guid isPermaLink='false'>e08ac4363b4a3ea33146037e179a85fb5fbba24c</guid>
-<pubDate>Thu, 28 May 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/62d356cb810cb0f8ffb8207f0680cf7a781714a0.jpg" /><br />3 岁小孩都能上手智能手机和平板，但是会用电脑的人好像越来越少了]]></description>
-</item>
-<item>
-<title>torvalds pushed GuitarPedal</title>
-<link>https://github.com/torvalds/GuitarPedal/compare/403b2027ed...077444b2f2</link>
-<guid isPermaLink='false'>87bfb1dbcfe78b77ed8ef14a78e1193ad1a0fdf5</guid>
-<pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/GuitarPedal" rel="noreferrer">torvalds/GuitarPedal</a>
-      <span>
-        · May 28, 2026 23:20
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/clevelandmusicco" rel="noreferrer"><img alt="@clevelandmusicco" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/162055667?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/cd67ccf78234b0ce222b019afd892821051ead57" rel="noreferrer">cd67ccf</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Tape Echo: remove cruft and tweak performance
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/clevelandmusicco" rel="noreferrer"><img alt="@clevelandmusicco" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/162055667?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/80e09d302651ac6fb891e5033c1a2a0e44a5ab72" rel="noreferrer">80e09d3</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Add preamp and vibrato effects
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/GuitarPedal/compare/403b2027ed...077444b2f2" rel="noreferrer">8 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/eb3f4b7426...8fde5d1d47</link>
-<guid isPermaLink='false'>0e52826e7b8318865739621abacc327270c387f5</guid>
-<pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · May 28, 2026 20:49
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/lag-linaro" rel="noreferrer"><img alt="@lag-linaro" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/613036?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/f4268b466190dae95a7585f69b4f1f8ad097632c" rel="noreferrer">f4268b4</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      nfc: llcp: Fix use-after-free in llcp_sock_release()
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/lag-linaro" rel="noreferrer"><img alt="@lag-linaro" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/613036?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/b493ea2765cc17cb8aa7e7544a4b6dcb05b6ed77" rel="noreferrer">b493ea2</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      nfc: llcp: Fix use-after-free race in nfc_llcp_recv_cc()
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/eb3f4b7426...8fde5d1d47" rel="noreferrer">121 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
 <title>Time Machine Conversation</title>
 <link>https://xkcd.com/3251/</link>
 <guid isPermaLink='false'>de8d4e5f983b26041e1dbd387596af59f61f8c0e</guid>
@@ -1175,1340 +1532,12 @@
 <description><![CDATA[<img alt="It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians." src="https://imgs.xkcd.com/comics/time_machine_conversation.png" title="It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians." />]]></description>
 </item>
 <item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/d60ec36cab...eb3f4b7426</link>
-<guid isPermaLink='false'>2312011a8cc70d497f750481b1113ccf26791e11</guid>
-<pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · May 26, 2026 23:41
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/Flowdalic" rel="noreferrer"><img alt="@Flowdalic" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/432385?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/fb6988b83b4cafe8db63999c1ddff1b7c66d2ff5" rel="noreferrer">fb6988b</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      kunit: fix use-after-free in debugfs when using kunit.filter
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/chucklever" rel="noreferrer"><img alt="@chucklever" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/2586432?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/ea25e3c7915b24e0ef93ee85190f3fada037dfb1" rel="noreferrer">ea25e3c</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      sunrpc: prevent out-of-bounds read in __cache_seq_start()
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/d60ec36cab...eb3f4b7426" rel="noreferrer">4 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/e8c2f9fdad...d60ec36cab</link>
-<guid isPermaLink='false'>5f4e0088aefcd39d4a7925bb0341382f8dc419ab</guid>
-<pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · May 26, 2026 15:53
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/iangehc" rel="noreferrer"><img alt="@iangehc" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/13013813?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/83ec6eeb74a592e6568cb0723bac99fb8b3810b4" rel="noreferrer">83ec6ee</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      MAINTAINERS: .mailmap: update after GEHC spin-off
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/4fc78fde6be16328abf9af2871fc69cdb3f2092ff00fe2cf0f9ed7940b2bb12a/68747470733a2f2f312e67726176617461722e636f6d2f6176617461722f31316231656331336435666436643761363765363266636137343736353634343f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/83f9efcce93f8574be2279090ee2aec58b86cda7" rel="noreferrer">83f9efc</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Revert "mm/hugetlbfs: update hugetlbfs to use mmap_prepare"
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/e8c2f9fdad...d60ec36cab" rel="noreferrer">12 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
 <title>Flag Design</title>
 <link>https://xkcd.com/3250/</link>
 <guid isPermaLink='false'>e60533a554d70bf0bbc918ab7a03f08930a1512c</guid>
 <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
 <author>xkcd.com</author>
 <description><![CDATA[<img alt="Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that's drawn so weirdly that no one can tell what animal it's supposed to be." src="https://imgs.xkcd.com/comics/flag_design.png" title="Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that's drawn so weirdly that no one can tell what animal it's supposed to be." />]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/e7ae89a0c9...e8c2f9fdad</link>
-<guid isPermaLink='false'>c0ec8cb9f5282c600ba781f0614aec9bedc9a036</guid>
-<pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · May 25, 2026 20:02
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/bjohnsto" rel="noreferrer"><img alt="@bjohnsto" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/52761129?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/fb7415f2ab0e3c818254cbf5fb0afda71bef4333" rel="noreferrer">fb7415f</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      dm vdo: use GFP_NOIO for blkdev_issue_zeroout on format path
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <img alt="" class="mr-1 avatar-user" height="16" src="https://camo.githubusercontent.com/a99392d2ee083d197241e59cfd12c059ceeb5a3dc67832ea9a4a898fce64e743/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f38646162646363636138376464353361353562633435343766363831383063663f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430" width="16" />
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/f42d01aadcedd7bbf4f9a466cabe25c1781dedad" rel="noreferrer">f42d01a</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      tools/bootconfig: Fix buf leaks in apply_xbc
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/e7ae89a0c9...e8c2f9fdad" rel="noreferrer">4 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed GuitarPedal</title>
-<link>https://github.com/torvalds/GuitarPedal/compare/a22d072c46...403b2027ed</link>
-<guid isPermaLink='false'>4b35ffe7d58b8e7364bf512c698e8c6291082baf</guid>
-<pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/GuitarPedal" rel="noreferrer">torvalds/GuitarPedal</a>
-      <span>
-        · May 24, 2026 23:39
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>1 commit to</span>
-          <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
-
-          <div class="commits pusher-is-only-committer">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/403b2027edea2d0a2dc622c0831e744e2f122eab" rel="noreferrer">403b202</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Allow USB audio input as well as output
-                    </blockquote>
-                  </div>
-                </li>
-
-
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/6a97c4d526...e7ae89a0c9</link>
-<guid isPermaLink='false'>95f0ab3430def8de7bbe931e93ff07a9a7c65af7</guid>
-<pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · May 24, 2026 20:50
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>1 commit to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits pusher-is-only-committer">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/e7ae89a0c97ce2b68b0983cd01eda67cf373517d" rel="noreferrer">e7ae89a</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Linux 7.1-rc5
-                    </blockquote>
-                  </div>
-                </li>
-
-
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/4cbfe4502e...6a97c4d526</link>
-<guid isPermaLink='false'>31d5eb1a97b815b2c56575c05243ff08e3678802</guid>
-<pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · May 24, 2026 20:11
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/ADSWT518" rel="noreferrer"><img alt="@ADSWT518" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/58338486?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/4314a44564eb1565349fed7a4192344c5f46fc85" rel="noreferrer">4314a44</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      bpf: Fix out-of-bounds read in bpf_patch_call_args()
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/ADSWT518" rel="noreferrer"><img alt="@ADSWT518" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/58338486?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/58a8f3e2501dc14b8e00e883d6aaf0600a239da7" rel="noreferrer">58a8f3e</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      bpf: Fix s16 truncation for large bpf-to-bpf call offsets
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/4cbfe4502e...6a97c4d526" rel="noreferrer">60 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed GuitarPedal</title>
-<link>https://github.com/torvalds/GuitarPedal/compare/7fe3606316...a22d072c46</link>
-<guid isPermaLink='false'>19840c9ac6b45f54f4e5eb6e66e90c7db933b0f6</guid>
-<pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/GuitarPedal" rel="noreferrer">torvalds/GuitarPedal</a>
-      <span>
-        · May 24, 2026 19:55
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
-
-          <div class="commits pusher-is-only-committer">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/3558f50dc269dbf57e9f771157b8d231fd9ffa82" rel="noreferrer">3558f50</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Tape Echo: use the updated tanhf() Padé approximant
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/a22d072c4640dca60bcb7a105a9565500baacdbe" rel="noreferrer">a22d072</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Get rid of limit_value()
-                    </blockquote>
-                  </div>
-                </li>
-
-
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed linux</title>
-<link>https://github.com/torvalds/linux/compare/eed108edc1...4cbfe4502e</link>
-<guid isPermaLink='false'>b98b6603b61e783148807eacc22000d2e9adaa7e</guid>
-<pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/linux" rel="noreferrer">torvalds/linux</a>
-      <span>
-        · May 24, 2026 00:07
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/linux/tree/master" rel="noreferrer">master</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/robbieko-ai" rel="noreferrer"><img alt="@robbieko-ai" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/257720487?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/080ecbd05432970a8df1f70586b925a18b5ea6f4" rel="noreferrer">080ecbd</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      btrfs: mark file extent range dirty after converting prealloc extents
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/boryas" rel="noreferrer"><img alt="@boryas" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/104977?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/linux/commit/975e63c7a8074d83e195577b7f76dadc9a3d14b7" rel="noreferrer">975e63c</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      btrfs: always drop root-&gt;inodes lock before cond_resched()
-                    </blockquote>
-                  </div>
-                </li>
-
-
-                <li class="f6 mt-2">
-                  <a class="Link--secondary" href="https://github.com/torvalds/linux/compare/eed108edc1...4cbfe4502e" rel="noreferrer">12 more commits »</a>
-                </li>
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds closed a pull request in GuitarPedal</title>
-<link>https://github.com/torvalds/GuitarPedal/pull/14</link>
-<guid isPermaLink='false'>2e8dff96bbb9f90ac98c2906efe81c8467071ba9</guid>
-<pubDate>Sat, 23 May 2026 16:35:19 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="git-pull-request-closed js-feed-item-view"><div class="body">
-<!-- pull_request -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div>
-      <div class="d-flex flex-items-baseline">
-        <div class="color-fg-muted">
-          <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-          <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-          
-          closed
-          <a class="Link--primary no-underline wb-break-all" href="https://github.com/torvalds/GuitarPedal/pull/14" rel="noreferrer">torvalds/GuitarPedal#14</a>
-          <span>
-            · May 23, 2026 09:35
-          </span>
-        </div>
-      </div>
-    </div>
-
-    <div class="Box tmp-p-3 my-2 color-shadow-medium color-bg-overlay">
-      <svg class="octicon octicon-git-pull-request pull-request-closed d-inline-block mt-1 float-left" height="16" version="1.1" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path></svg>
-
-      <div class="tmp-ml-4">
-        <div>
-          <span class="f4 lh-condensed text-bold color-fg-default"><a class="color-fg-default text-bold" href="https://github.com/torvalds/GuitarPedal/pull/14" rel="noreferrer">Refactor echo effect and simplify controls</a></span>
-          <span class="f4 color-fg-muted ml-1">#14</span>
-            <div class="lh-condensed mb-2 mt-1">
-              <p dir="auto">The result is a more accurate tape echo model and a cleaner, more usable UI.</p>
-<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code class="notranslate">- change effect name to Tape Echo
-- add `echo_tanhf(float x)`: saturat…</code></pre></div>
-            </div>
-        </div>
-
-          <div class="diffstat d-inline-block mt-1">
-            <span class="color-fg-success">+272</span>
-            <span class="color-fg-danger">-171</span>
-          </div>
-
-          <div class="d-inline-block f6 color-fg-muted tmp-ml-3">
-            1 comment
-          </div>
-      </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>torvalds pushed GuitarPedal</title>
-<link>https://github.com/torvalds/GuitarPedal/compare/505198a832...7fe3606316</link>
-<guid isPermaLink='false'>37ef9dbc669b0be5178461ae39ebee4ce5a96bf5</guid>
-<pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
-<author>GitHub Public Timeline Feed</author>
-<description><![CDATA[<div class="repo-push js-feed-item-view"><div class="body">
-<!-- push -->
-<div class="d-flex flex-items-baseline tmp-py-4">
-  <div class="d-flex flex-column width-full">
-    <div class="color-fg-muted">
-      <span class="mr-2"><a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="avatar avatar-user" height="32" src="https://avatars.githubusercontent.com/u/1024025?s=64&amp;v=4" width="32" /></a></span>
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds" rel="noreferrer">torvalds</a>
-      
-      pushed to
-        <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
-        in
-      <a class="Link--primary no-underline wb-break-all" href="/torvalds/GuitarPedal" rel="noreferrer">torvalds/GuitarPedal</a>
-      <span>
-        · May 23, 2026 16:37
-      </span>
-
-        <div class="Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay">
-          <span>2 commits to</span>
-          <a class="branch-name" href="/torvalds/GuitarPedal/tree/main" rel="noreferrer">main</a>
-
-          <div class="commits ">
-            <ul class="list-style-none">
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/clevelandmusicco" rel="noreferrer"><img alt="@clevelandmusicco" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/162055667?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/82313115779be3670f768a0e5ea87589c8ac8b39" rel="noreferrer">8231311</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Refactor echo effect for more accurate tape machine modelling and sim…
-                    </blockquote>
-                  </div>
-                </li>
-                <li class="d-flex flex-items-baseline">
-                  <span>
-                    <a class="d-inline-block" href="/torvalds" rel="noreferrer"><img alt="@torvalds" class="mr-1 avatar-user" height="16" src="https://avatars.githubusercontent.com/u/1024025?s=32&amp;v=4" width="16" /></a>
-                  </span>
-                  <code><a class="mr-1" href="/torvalds/GuitarPedal/commit/7fe36063167168eab5ac8502c4d3e53492133f71" rel="noreferrer">7fe3606</a></code>
-                  <div class="dashboard-break-word lh-condensed">
-                    <blockquote>
-                      Merge <a href="https://github.com/clevelandmusicco/GuitarPedal" rel="noreferrer">https://github.com/clevelandmusicco/GuitarPedal</a>
-                    </blockquote>
-                  </div>
-                </li>
-
-
-            </ul>
-          </div>
-        </div>
-    </div>
-  </div>
-</div>
-</div></div>]]></description>
-</item>
-<item>
-<title>Neutrino Project</title>
-<link>https://xkcd.com/3249/</link>
-<guid isPermaLink='false'>3a84cd04f13ecd8d18095abc190a1046345805b5</guid>
-<pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
-<author>xkcd.com</author>
-<description><![CDATA[<img alt="We definitely put the pool in a mine for shielding. It was absolutely not to hide it from the funding people." src="https://imgs.xkcd.com/comics/neutrino_project.png" title="We definitely put the pool in a mine for shielding. It was absolutely not to hide it from the funding people." />]]></description>
-</item>
-<item>
-<title>Tie random ends: How many loops?</title>
-<link>https://www.youtube.com/shorts/ZHXt0-_gSj4</link>
-<guid isPermaLink='false'>a40d015d308c48620f1f639749d291f7a07e284e</guid>
-<pubDate>Thu, 21 May 2026 21:49:47 GMT</pubDate>
-<author>3Blue1Brown</author>
-<description><![CDATA[Recent puzzle solutions on Patreon:
-https://members.3blue1brown.com/posts/158885046?pr=true]]></description>
-</item>
-<item>
-<title>世界上最难的验证码！没有人类能通过测试</title>
-<link>https://www.bilibili.com/video/BV1Rr5v6wE1F</link>
-<guid isPermaLink='false'>a7bb795a7af8108cc7baf5b86dda4a8a0b7fa518</guid>
-<pubDate>Fri, 15 May 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/379f190028cd25949b5b625487a52019c0cb74b7.jpg" /><br />\(▔▽▔)/]]></description>
-</item>
-<item>
-<title>你的密码自打开浏览器的时候就开始裸奔！</title>
-<link>https://www.bilibili.com/video/BV1aq5K6GEBg</link>
-<guid isPermaLink='false'>131ed4bbfbfdf73ce8db6886c97bf760a3c23d5d</guid>
-<pubDate>Tue, 12 May 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/82d0bcc257f8cae7a9c44b5f30d2145e8d392cac.jpg" /><br />最终版上线！
-为什么只有Edge使用明文密码？
-为什么到Edge这里密码管理机制被魔改了？
-Edge到底是如何明文存储密码的？
-微软官方又是什么态度呢？
-普通用户应该怎么应对？]]></description>
-</item>
-<item>
-<title>一坐车就恶心想吐？破解方法来了！</title>
-<link>https://www.bilibili.com/video/BV1rM9hBdEe2</link>
-<guid isPermaLink='false'>21a290f86de92c47d4832c82cf2d95ae8309ccff</guid>
-<pubDate>Thu, 30 Apr 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/26785ccc1ad01a128062a936679abd6faaeab621.jpg" /><br />晕车的原因很复杂，视频中的办法并不一定适用所有人，作为一个坐车必晕的人，个人感觉是有一些效果的，配合“用了就不难受”的心理暗示效果会更好，大家可以自行尝试。]]></description>
-</item>
-<item>
-<title>EGG DICE</title>
-<link>https://www.youtube.com/shorts/pd3r93I5DNw</link>
-<guid isPermaLink='false'>dc6b6a5c8feae5ed8d59b1d1e9b78a44f7bc2766</guid>
-<pubDate>Fri, 17 Apr 2026 17:55:59 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[https://www.curiositybox.com]]></description>
-</item>
-<item>
-<title>当我给别人发了一个42亿像素的微信表情之后...</title>
-<link>https://www.bilibili.com/video/BV1zPdqB6EHa</link>
-<guid isPermaLink='false'>849fab7d08af337d35c0ec39dc2781d3a0c1af6c</guid>
-<pubDate>Fri, 17 Apr 2026 09:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/11ab717e0bf005f2be01e123628c2a85093f31b3.jpg" /><br />现在流传一种奇葩的微信bug，当你不想让对方翻找和你的聊天记录的时候，通过发送这种带bug的信息，让对方一旦打开彼此之间的聊天界面，微信就立马闪退或者卡死，这背后是什么奇葩原因？如何自救？]]></description>
-</item>
-<item>
-<title>Covering 10 points, a surprisingly tricky puzzle.</title>
-<link>https://www.youtube.com/shorts/QLu_ZsRc_G0</link>
-<guid isPermaLink='false'>fa8759f0b57c36210fc1db95c5cb45688565e5b9</guid>
-<pubDate>Thu, 16 Apr 2026 16:08:21 GMT</pubDate>
-<author>3Blue1Brown</author>
-<description><![CDATA[Made as part of a monthly series of puzzles for the 2026 Year of Math.]]></description>
-</item>
-<item>
-<title>挑战用五分钟说服你换掉默认浏览器！</title>
-<link>https://www.bilibili.com/video/BV1AUDWBvEF3</link>
-<guid isPermaLink='false'>99f99ad9e289e7495ecc0a6dac7b1524df751574</guid>
-<pubDate>Thu, 09 Apr 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/73780dea84b5fcb1469677258786be4b2733c454.jpg" /><br />@Tabbit浏览器]]></description>
-</item>
-<item>
-<title>Excel电竞大赛？以后再也不敢说精通办公软件了....还好有AI帮我</title>
-<link>https://www.bilibili.com/video/BV1RwDeB2ERL</link>
-<guid isPermaLink='false'>e60a83615ff6cd4994079612382c72084ac9ff28</guid>
-<pubDate>Tue, 07 Apr 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/010ee53130b02b58509e0323881bb2c3fa3b79ea.jpg" /><br />～]]></description>
-</item>
-<item>
-<title>Escher's most mind-bending piece</title>
-<link>https://www.youtube.com/shorts/Y7ImxZ_YhJk</link>
-<guid isPermaLink='false'>060f6f1203a46bfb7b84b2a33cccd075d5d12338</guid>
-<pubDate>Fri, 27 Mar 2026 20:56:02 GMT</pubDate>
-<author>3Blue1Brown</author>
-<description><![CDATA[On "The Print Gallery", by M.C. Escher
-Full video: https://youtu.be/ldxFjLJ3rVY]]></description>
-</item>
-<item>
-<title>The subset sum puzzle</title>
-<link>https://www.youtube.com/shorts/4h5BEALuh44</link>
-<guid isPermaLink='false'>42879aa306dd5b05026f282b8027c71107f85068</guid>
-<pubDate>Wed, 25 Mar 2026 20:59:04 GMT</pubDate>
-<author>3Blue1Brown</author>
-<description><![CDATA[Part of a series of monthly puzzlers. Stay subscribed to see the solution]]></description>
-</item>
-<item>
-<title>How (and why) to take a logarithm of an image</title>
-<link>https://www.youtube.com/watch?v=ldxFjLJ3rVY</link>
-<guid isPermaLink='false'>dcdd7966482cbe993618a7128a6c075612cbfe68</guid>
-<pubDate>Sun, 22 Mar 2026 12:59:00 GMT</pubDate>
-<author>3Blue1Brown</author>
-<description><![CDATA[Escher's Print Gallery, and the tour of complex analysis it invites.
-Explore our virtual career fair: https://3b1b.co/talent
-Join channel supporters to see videos early: https://3b1b.co/support
-An equally valuable form of support is to share the videos.
-Home page: https://www.3blue1brown.com
-
-Original paper by de Smit and Lenstra:
-https://pub.math.leidenuniv.nl/~smitbde/papers/2003-de_smit-lenstra-escher.pdf
-
-The book I was showing is "Magic of MC Escher" by J. L. Locher
-https://amzn.to/4d7zXTT
-
-If you want to play with this concept interactively, Jürgen Richter-Gebert put together a nice page:
-https://mathvisuals.org/PrintGallery/
-
-This piece was co-written by Paul Dancstep, who handled many of the animations in the art section, including the delightful mesh warp scene.
-
-Aaron Gostein helped with the manim animations in the section introducing complex functions.
-
-Artwork provided by Talia Gershon, Mitchell Zemil, and Anna Fedczuk.
-https://sites.google.com/view/taliagershon
-https://mitchellzemil.com/
-https://anna-fedczuk.framer.website/about
-
-Music by Vincent Rubinetti
-
-Timestamps:
-
-0:00 - The print gallery
-13:04 - Conformal maps from complex analysis
-21:41 - The complex exponential
-25:56 - The complex logarithm
-32:32 - 3b1b Talent
-33:14 - Constructing the key function
-40:16 - The deeper math behind Escher
-
-------------------
-
-These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
-https://3b1b.co/faq#manim
-
-------------------
-
-3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
-
-Mailing list: https://3blue1brown.substack.com
-Twitter: https://twitter.com/3blue1brown
-Bluesky: https://bsky.app/profile/3blue1brown.com
-Instagram: https://www.instagram.com/3blue1brown
-Reddit: https://www.reddit.com/r/3blue1brown
-Facebook: https://www.facebook.com/3blue1brown
-Patreon: https://patreon.com/3blue1brown
-Website: https://www.3blue1brown.com]]></description>
-</item>
-<item>
-<title>Bacteria Grid Puzzle Solution</title>
-<link>https://www.youtube.com/shorts/Qoes9bTJtn0</link>
-<guid isPermaLink='false'>b09113ffbabecfad187e06698e8fe6fd50fdc1e9</guid>
-<pubDate>Sat, 21 Mar 2026 11:42:53 GMT</pubDate>
-<author>3Blue1Brown</author>
-<description><![CDATA[Part of a monthly series of puzzlers, in collaboration with MoMath and Peter Winkler]]></description>
-</item>
-<item>
-<title>How Many People Lived Before History?</title>
-<link>https://www.youtube.com/shorts/vPwGmFUAr88</link>
-<guid isPermaLink='false'>09a8eaf2ffc41ca0d35837a0eef1e8bcb0061a04</guid>
-<pubDate>Fri, 20 Mar 2026 19:38:05 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title>把B站账号交给AI，结果它花完了我十万个硬币？</title>
-<link>https://www.bilibili.com/video/BV1DxwvzuEBj</link>
-<guid isPermaLink='false'>49ace080b925a116fa25cf13d17c7bf2872ec9e2</guid>
-<pubDate>Wed, 18 Mar 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/29462a76bb717981617f4dbf29ee114952fdd463.jpg" /><br />～]]></description>
-</item>
-<item>
-<title>When You Sleep In Socks And Imagine An Icositetrachoron</title>
-<link>https://www.youtube.com/shorts/hqSL5V9yXBM</link>
-<guid isPermaLink='false'>c931cde8cb5f40797fb008dd021bb39ddf7fdfe2</guid>
-<pubDate>Sun, 15 Mar 2026 21:16:32 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[song: "Philadelphia" by @jakechudnow]]></description>
-</item>
-<item>
-<title>I Found A Wild Ambigram!</title>
-<link>https://www.youtube.com/shorts/-UgtKlbzers</link>
-<guid isPermaLink='false'>09ac3fc0c2ef09aee75c7105660f58c14ff39a33</guid>
-<pubDate>Fri, 13 Mar 2026 22:59:19 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title>An Illusion You Can Hug</title>
-<link>https://www.youtube.com/shorts/_Nr4mvdkEVw</link>
-<guid isPermaLink='false'>80b422d683aba997824f4b6cc8c71a1b6cb54ef5</guid>
-<pubDate>Mon, 09 Mar 2026 23:03:52 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[https://www.curiositybox.com]]></description>
-</item>
-<item>
-<title>The most beautiful formula not enough people understand</title>
-<link>https://www.youtube.com/watch?v=fsLh-NYhOoU</link>
-<guid isPermaLink='false'>856c69afa643639792837287f8bc478f3dd39d93</guid>
-<pubDate>Fri, 27 Feb 2026 15:14:23 GMT</pubDate>
-<author>3Blue1Brown</author>
-<description><![CDATA[On the volumes of higher-dimensional spheres
-Explore the 3b1b virtual career fair: See https://3b1b.co/talent
-Become a supporter for early views of new videos: https://3b1b.co/support
-An equally valuable form of support is to simply share the videos.
-Home page: https://www.3blue1brown.com
-
-Thanks to UC Santa Cruz for letting me film there, and special thanks to 
-Pedro Morales-Almazan for arranging everything.
-
-My video on Numberphile with a fun application of this problem: https://youtu.be/6_yU9eJ0NxA
-
-Timestamps:
-0:00 - Introduction
-1:01 - Random puzzle
-6:16 - Outside the box
-14:35 - Setting up the volume grid
-21:14 - Why 4πr^2
-25:21 - Archimedes in higher dimensions
-36:17 - The general formula
-40:40 - 1/2 factorial
-44:58 - Why 5D spheres are the biggest
-50:16 - Concentration at the surface
-54:27 - A unit-free interpretation
-57:50 - 3b1b Talent
-59:13 - Explaining the intro animation
-
-------------------
-
-These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
-https://3b1b.co/faq#manim
-
-Music by Vincent Rubinetti.
-https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
-https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
-
-------------------
-
-3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
-
-Mailing list: https://3blue1brown.substack.com
-Twitter: https://twitter.com/3blue1brown
-Bluesky: https://bsky.app/profile/3blue1brown.com
-Instagram: https://www.instagram.com/3blue1brown
-Reddit: https://www.reddit.com/r/3blue1brown
-Facebook: https://www.facebook.com/3blue1brown
-Patreon: https://patreon.com/3blue1brown
-Website: https://www.3blue1brown.com]]></description>
-</item>
-<item>
-<title>AI笑话的保质期可以有多短？</title>
-<link>https://www.bilibili.com/video/BV1UDZXB3Euv</link>
-<guid isPermaLink='false'>dc662f71e2ea7d977edb89f7bc2e3cdcd61091e7</guid>
-<pubDate>Wed, 18 Feb 2026 11:47:09 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/26272d8ae099a2c142f4176f99e2e125ba92d4e8.jpg" /><br />源神启动！]]></description>
-</item>
-<item>
-<title>The lattice bacteria puzzle</title>
-<link>https://www.youtube.com/shorts/d0ai33oqqDE</link>
-<guid isPermaLink='false'>0f7b887d4c20f8f9984d02ca00d935631214f233</guid>
-<pubDate>Wed, 18 Feb 2026 06:02:59 GMT</pubDate>
-<author>3Blue1Brown</author>
-<description><![CDATA[Part of a series of monthly puzzles, done in collaboration with MoMath.
-https://momath.org/mindbenders]]></description>
-</item>
-<item>
-<title>Solution to the ladybug clock puzzle</title>
-<link>https://www.youtube.com/shorts/7gG91SZwBoE</link>
-<guid isPermaLink='false'>291fc12871269624ef81e690abcc752e41a8ff29</guid>
-<pubDate>Mon, 16 Feb 2026 14:08:37 GMT</pubDate>
-<author>3Blue1Brown</author>
-<description><![CDATA[Solution to last month's probability puzzle.]]></description>
-</item>
-<item>
-<title>轻薄本变5080，手机、Mac玩3A，那我还买高配电脑干什么？</title>
-<link>https://www.bilibili.com/video/BV1iWcvz1EfM</link>
-<guid isPermaLink='false'>715b2f75ebcc416a2ba7c00727998b984362cb56</guid>
-<pubDate>Fri, 13 Feb 2026 10:00:59 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/2c8ee1cb95f7647d7edaf0d662993b9e4c37665f.jpg" /><br />有时候限制我玩游戏的不是电脑配置，而是我真的懒得下载下来玩几天再删除，所以想玩的时候我就会用云游戏玩一会儿]]></description>
-</item>
-<item>
-<title>真能用Mac打游戏！跨生态这件事以后会越来越简单</title>
-<link>https://www.bilibili.com/video/BV1e16sBFE8L</link>
-<guid isPermaLink='false'>9f4edc36a6ebc0a9ab4a8e97fbe13aff1c41e5dc</guid>
-<pubDate>Sun, 01 Feb 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/6a5e0d4caa731640c2ac69944101d816b1c9e0ef.jpg" /><br />𝔁𝓾𝓪𝓷𝓵𝓲]]></description>
-</item>
-<item>
-<title>The Hairy Ball Theorem</title>
-<link>https://www.youtube.com/watch?v=BHdbsHFs2P0</link>
-<guid isPermaLink='false'>cf4e2b03d653319d673d836eaef2a8622fa0a9f3</guid>
-<pubDate>Sat, 31 Jan 2026 14:57:42 GMT</pubDate>
-<author>3Blue1Brown</author>
-<description><![CDATA[Unexpected applications and a beautiful proof.
-Looking for a new career? Check out https://3b1b.co/talent
-Supporters get early access to new videos: https://3b1b.co/support
-An equally valuable form of support is to simply share the videos.
-Home page: https://www.3blue1brown.com
-
-Credits:
-Senia Sheydvasser: Co-writing and sphere deformation animations, made in Blender
-Paul Dancstep: Those lovely fluffy sphere animations, made in Cinema4D
-Vince Rubinetti: Music
-
-Sphere Eversion clip by Carsten Steger
-https://commons.wikimedia.org/wiki/File:Thurston_Sphere_Eversion.webm
-
-Timestamps:
-0:00 - To comb a hairy ball
-1:24 - Applications
-8:46 - The puzzle of one null point
-12:12 - The proof outline
-16:41 - Defining orientation
-21:44 - Why inside-out is impossible
-25:59 - 3b1b Talent
-27:44 - Final food for thought
-
-------------------
-
-These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
-https://3b1b.co/faq#manim
-
-Music by Vincent Rubinetti.
-https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
-https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
-
-------------------
-
-3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
-
-Mailing list: https://3blue1brown.substack.com
-Twitter: https://twitter.com/3blue1brown
-Bluesky: https://bsky.app/profile/3blue1brown.com
-Instagram: https://www.instagram.com/3blue1brown
-Reddit: https://www.reddit.com/r/3blue1brown
-Facebook: https://www.facebook.com/3blue1brown
-Patreon: https://patreon.com/3blue1brown
-Website: https://www.3blue1brown.com]]></description>
-</item>
-<item>
-<title>把五千的电脑用出一万的感觉，成熟的电脑会自己工作！</title>
-<link>https://www.bilibili.com/video/BV1yu6jBQEFn</link>
-<guid isPermaLink='false'>bb5c077816ea5a1cdf8c316c61bde3deeac1b551</guid>
-<pubDate>Wed, 28 Jan 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/85d6950b99446af7cc33c7a90adb6fe5125c1fe9.jpg" /><br />成熟的电脑会自己工作！]]></description>
-</item>
-<item>
-<title>我竟然喜欢上了流氓广告？</title>
-<link>https://www.bilibili.com/video/BV1gZzaB3EST</link>
-<guid isPermaLink='false'>545a1b037f00f02dd42f21286089b9c51a033c8c</guid>
-<pubDate>Tue, 27 Jan 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/3636a8526f1acfdbf5f32eb251af3ee7d82606f6.jpg" /><br />是兄弟就来砍我(ﾒ｀ﾛ´)/🔪]]></description>
-</item>
-<item>
-<title>The ladybug clock puzzle</title>
-<link>https://www.youtube.com/shorts/t3jZ2xGOvYg</link>
-<guid isPermaLink='false'>a457d10e6e18726a965f685380c7118862f9fc36</guid>
-<pubDate>Fri, 16 Jan 2026 14:16:12 GMT</pubDate>
-<author>3Blue1Brown</author>
-<description><![CDATA[This is the first in a set of monthly puzzles, curated by Peter Winkler. This one was originally suggested by Richard Stanley.
-
-You can sign up to hear his description of the answer at http://momath.org/mindbenders]]></description>
-</item>
-<item>
-<title>假如诸葛亮北伐带的是100万大学生...</title>
-<link>https://www.bilibili.com/video/BV15RiLBtE2o</link>
-<guid isPermaLink='false'>c36014ac39410c69242f0302625324ad6d04ec62</guid>
-<pubDate>Sun, 04 Jan 2026 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/5dc0d146df38e869eec616dae5073e551df16a9c.jpg" /><br />遇事不决，千问一下~]]></description>
-</item>
-<item>
-<title>Album Art Origins</title>
-<link>https://www.youtube.com/shorts/2qOya17le0A</link>
-<guid isPermaLink='false'>45d7f5a44934ad43221684e22e4075c7056f4738</guid>
-<pubDate>Mon, 22 Dec 2025 19:56:25 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title>The Dynamic Ebbinghaus Illusion</title>
-<link>https://www.youtube.com/shorts/PNbgHdDQ1fc</link>
-<guid isPermaLink='false'>87b000bd8597b2add93e1a60aa96cb0a3ca8b424</guid>
-<pubDate>Fri, 19 Dec 2025 01:52:30 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title>My Weirdest Dice</title>
-<link>https://www.youtube.com/shorts/cdu6sOgI9Dc</link>
-<guid isPermaLink='false'>d1c5eb999137bcc174ffea67e60469fd489c0c2b</guid>
-<pubDate>Tue, 16 Dec 2025 21:57:29 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title>The Official Blue Berry of North Carolina</title>
-<link>https://www.youtube.com/shorts/7MfvZuCXVMQ</link>
-<guid isPermaLink='false'>9bb82a098d0c1c87357ebc87698422f2a7ade13f</guid>
-<pubDate>Fri, 12 Dec 2025 22:15:15 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title>各种伪人AI海报真的看吐了！怎么用AI做出来高质量的海报、电商图、试穿带货视频？</title>
-<link>https://www.bilibili.com/video/BV1NQmEB7EKj</link>
-<guid isPermaLink='false'>d6d2460cf2459b4878a259d4d22eaca92a6c80c1</guid>
-<pubDate>Fri, 12 Dec 2025 10:35:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/cfe02837e7dca10b5032eda622140cab75a137fe.jpg" /><br />真的有点牛，效果非常稳定]]></description>
-</item>
-<item>
-<title>无限制出图、本地电脑能跑，这就是目前的开源AI生图天花板！</title>
-<link>https://www.bilibili.com/video/BV1GjmMBhEcz</link>
-<guid isPermaLink='false'>8b3b0c3c205c1b15baa626c7bfa7063df7c88ca7</guid>
-<pubDate>Thu, 11 Dec 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/534e8f67e4771147352e2668ed51397d0c48881e.jpg" /><br />封面上的不是我！是 Z-image 生成的一个虚拟人物~]]></description>
-</item>
-<item>
-<title>Would You Like A TRIPLE Entendre?</title>
-<link>https://www.youtube.com/shorts/UrM6ugyzeC8</link>
-<guid isPermaLink='false'>154cd85c2a15588f1a704aa83735c9a9981d16e6</guid>
-<pubDate>Wed, 10 Dec 2025 21:32:46 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title>The 852655 Mystery</title>
-<link>https://www.youtube.com/shorts/ti8ZdImveB0</link>
-<guid isPermaLink='false'>d9ae6b0db5832a4a68be54f20609982db3d1f365</guid>
-<pubDate>Tue, 09 Dec 2025 00:09:28 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[https://inqfactory.com/poison]]></description>
-</item>
-<item>
-<title>2 Inertia Tricks</title>
-<link>https://www.youtube.com/shorts/4HbYUB1J1io</link>
-<guid isPermaLink='false'>cae9676244915f52d405217353585c11987bc6d4</guid>
-<pubDate>Fri, 05 Dec 2025 20:35:50 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title>We Recreated The Oldest Surviving Globe</title>
-<link>https://www.youtube.com/shorts/Avr5K6tX1x4</link>
-<guid isPermaLink='false'>021af9fb9e0ba318507ca688fc87474dfa946756</guid>
-<pubDate>Thu, 04 Dec 2025 03:11:54 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[https://www.curiositybox.com/pages/closest-approach-to-uranus]]></description>
-</item>
-<item>
-<title>Only Using Words That Begin With "A"</title>
-<link>https://www.youtube.com/shorts/za2isHAgefY</link>
-<guid isPermaLink='false'>f36c01ea7dac17eb4443c095f09b182471bc1e12</guid>
-<pubDate>Mon, 01 Dec 2025 20:11:44 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title>看完暗网中的数据泄露清单，我发现保护数据安全太难了...</title>
-<link>https://www.bilibili.com/video/BV1NpUYB4ERg</link>
-<guid isPermaLink='false'>b51baee2c4ec56f4cc7e2d47d1c6631d59bbf4ff</guid>
-<pubDate>Wed, 26 Nov 2025 11:01:09 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/6a78a52d526d5e6e25bb88e321dcf8ec8a65e2a6.jpg" /><br />~]]></description>
-</item>
-<item>
-<title>The Kennedy Coincidences</title>
-<link>https://www.youtube.com/shorts/Oa3k7RLZCUE</link>
-<guid isPermaLink='false'>7a176e4c31bc4b52470db608591f28467a5dd367</guid>
-<pubDate>Tue, 25 Nov 2025 20:41:05 GMT</pubDate>
-<author>Vsauce</author>
-<description><![CDATA[🎙️@TheRestIsScience 🎙️
-https://linktr.ee/therestisscience]]></description>
-</item>
-<item>
-<title>我好像回到了十几年前偷偷上网的日子...</title>
-<link>https://www.bilibili.com/video/BV1PQyuB1EwU</link>
-<guid isPermaLink='false'>9295650cc09c82257405ee7dc915a2f61f876fa6</guid>
-<pubDate>Thu, 20 Nov 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/02012aab03b989bdda2866d1529e71834cd8e085.jpg" /><br />你终于醒啦，现在是2009年]]></description>
-</item>
-<item>
-<title>天哪，这就是传说中的cmd命令行吗？</title>
-<link>https://www.bilibili.com/video/BV1pjy3B7EG2</link>
-<guid isPermaLink='false'>8867a612755b447df0e4969dd8c4a05af6b382ef</guid>
-<pubDate>Tue, 18 Nov 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/ac7e6264b6baaeacdabcf6b9a36f3d7cbee61ae3.jpg" /><br />用了iFlow，我也是命令行高手啦！]]></description>
-</item>
-<item>
-<title>ARM和x86的大战，已经蔓延到了各个领域...</title>
-<link>https://www.bilibili.com/video/BV17tCjBnE1N</link>
-<guid isPermaLink='false'>9ac64b6f8d2961088cd9e3e7de328b58bc4946a1</guid>
-<pubDate>Wed, 12 Nov 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/f59898b5eac4da3b96c806ed930aa206ffdb57a1.jpg" /><br />性价比超过、性能表现亮眼的亚马逊云 Graviton 处理器服务器，现在新注册的用户，可以获取到亚马逊云提供的精美礼品一份，和服务抵扣金，赶快去试试吧：https://aws.amazon.com/cn/ec2/graviton/?trk=eca6e8a1-f714-43e3-a265-e9aecb4619a7&amp;sc_channel=psm
-
-*前述特定亚马逊云科技生成式人工智能相关的服务目前在亚马逊云科技海外区域可用。亚马逊云科技中国区域相关云服务由西云数据和光环新网运营，具体信息以中国区域官网为准。]]></description>
-</item>
-<item>
-<title>Why Laplace transforms are so useful</title>
-<link>https://www.youtube.com/watch?v=FE-hM1kRK4Y</link>
-<guid isPermaLink='false'>ea3be36139d4afabb82820aa6f7f9d1ddc59bafc</guid>
-<pubDate>Wed, 05 Nov 2025 13:09:45 GMT</pubDate>
-<author>3Blue1Brown</author>
-<description><![CDATA[Studying the forced harmonic oscillator by taking a Laplace transform and studying its poles.
-Instead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support
-An equally valuable form of support is to simply share the videos.
-Home page: https://www.3blue1brown.com
-
-Chapter on the Laplace Transform:
-https://youtu.be/j0wJBEZdwLs
-
-Chapter on the S-plane and Simple Harmonic Motion:
-https://youtu.be/-j8PzkZ70Lg
-
-Timestamps:
-0:00 - Opening puzzle
-1:06 - Key properties of a Laplace Transform
-3:29 - Qualitative analysis with Laplace Transforms
-4:29 - The Laplace Transforms of a Derivative
-6:06 - The forced oscillator
-11:59 - Intuition from the transformed solution
-15:15 - Inverting to find a final answer
-17:40 - Explaining the derivative property
-
-------------------
-
-These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
-https://3b1b.co/faq#manim
-
-Music by Vincent Rubinetti.
-https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
-https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
-
-------------------
-
-3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
-
-Mailing list: https://3blue1brown.substack.com
-Twitter: https://twitter.com/3blue1brown
-Bluesky: https://bsky.app/profile/3blue1brown.com
-Instagram: https://www.instagram.com/3blue1brown
-Reddit: https://www.reddit.com/r/3blue1brown
-Facebook: https://www.facebook.com/3blue1brown
-Patreon: https://patreon.com/3blue1brown
-Website: https://www.3blue1brown.com]]></description>
-</item>
-<item>
-<title>工作为什么永远在开会开会开会……怎么能让开会从从容容游刃有余？</title>
-<link>https://www.bilibili.com/video/BV1KcsmzsEPU</link>
-<guid isPermaLink='false'>bfa51a55402a28bd4c8e2228bb74fd7cc2ac0140</guid>
-<pubDate>Mon, 27 Oct 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/92573a106beffae853e7a024f5d5140954debc97.jpg" /><br />我爱开会我爱开会我爱开会我爱开会我爱开会我爱开会我爱开会我爱开会]]></description>
-</item>
-<item>
-<title>The dynamics of e^(πi)</title>
-<link>https://www.youtube.com/shorts/bnjKwiUg-kw</link>
-<guid isPermaLink='false'>37200f6325bc1c45079bcf4422405611b5a5f6ed</guid>
-<pubDate>Sun, 12 Oct 2025 12:40:46 GMT</pubDate>
-<author>3Blue1Brown</author>
-<description><![CDATA[A fuller version of this explanation, also including the reason we care about complex exponents in the first place: https://youtu.be/-j8PzkZ70Lg]]></description>
-</item>
-<item>
-<title>But what is a Laplace Transform?</title>
-<link>https://www.youtube.com/watch?v=j0wJBEZdwLs</link>
-<guid isPermaLink='false'>f3ba3dada2a1fe9be8df6435535bca76f7276375</guid>
-<pubDate>Sun, 12 Oct 2025 11:19:53 GMT</pubDate>
-<author>3Blue1Brown</author>
-<description><![CDATA[Visualizing the most important tool for differential equations.
-Previous chapter: https://youtu.be/-j8PzkZ70Lg
-Instead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support
-An equally valuable form of support is to simply share the videos.
-Home page: https://www.3blue1brown.com
-
-Pi creature car artwork by Kurt Bruns
-
-Engine animation borrowed with permission from this (excellent) blog: https://ciechanow.ski/internal-combustion-engine/
-
-Timestamps:
-0:00 - Understanding the engine
-1:16 - Key background ideas
-5:41 - Definition and intuition
-10:43 - Complex integration
-20:43 - Analytic continuation
-23:52 - The transform of exponentials
-26:15 - A deep look at cos(t)
-32:59 - What’s coming next
-
-
-------------------
-
-These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
-https://3b1b.co/faq#manim
-
-Music by Vincent Rubinetti.
-https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
-https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
-
-------------------
-
-3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
-
-Mailing list: https://3blue1brown.substack.com
-Twitter: https://twitter.com/3blue1brown
-Bluesky: https://bsky.app/profile/3blue1brown.com
-Instagram: https://www.instagram.com/3blue1brown
-Reddit: https://www.reddit.com/r/3blue1brown
-Facebook: https://www.facebook.com/3blue1brown
-Patreon: https://patreon.com/3blue1brown
-Website: https://www.3blue1brown.com]]></description>
-</item>
-<item>
-<title>我把互联网破梗上传给AI，结果它当场教我模仿吴京和跳只因舞</title>
-<link>https://www.bilibili.com/video/BV1xT4nzpEXh</link>
-<guid isPermaLink='false'>095b5d260a784f7abd19ac7b33ca3b3bfba2d14a</guid>
-<pubDate>Fri, 10 Oct 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/a32e00cc79544651d29a9d45e489d1da24205125.jpg" /><br />upup，你的封面怎么这么抽象？]]></description>
-</item>
-<item>
-<title>我一直以为，高端人体工学椅就是智商税，直到...</title>
-<link>https://www.bilibili.com/video/BV177xkzwEca</link>
-<guid isPermaLink='false'>921d501e565ce88749efbd6cba74e0094bf964e4</guid>
-<pubDate>Thu, 09 Oct 2025 10:20:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/acce009ce70a6e564cceec538b82d73089b46361.jpg" /><br />有的东西，贵确实有贵的道理...]]></description>
-</item>
-<item>
-<title>The Physics of Euler's Formula | Laplace Transform Prelude</title>
-<link>https://www.youtube.com/watch?v=-j8PzkZ70Lg</link>
-<guid isPermaLink='false'>09e22945d512e15775a91c00dd29ab307e38af7d</guid>
-<pubDate>Sun, 05 Oct 2025 13:53:28 GMT</pubDate>
-<author>3Blue1Brown</author>
-<description><![CDATA[The simple harmonic oscillator and the fundamental role of complex exponents for ODEs.
-Next chapter on the Laplace Transform video: https://youtu.be/j0wJBEZdwLs
-Instead of sponsored ad reads, these lessons are funded directly by viewers: https://3b1b.co/support
-An equally valuable form of support is to simply share the videos.
-Home page: https://www.3blue1brown.com
-
-Timestamps:
-0:00 - Intro
-1:51 - Euler's formula explained dynamically
-9:27 - The harmonic oscillator
-21:08 - General linear equations
-22:47 - Motivating the Laplace Transform
-
-------------------
-
-These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
-https://3b1b.co/faq#manim
-
-Music by Vincent Rubinetti.
-https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
-https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
-
-------------------
-
-3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
-
-Mailing list: https://3blue1brown.substack.com
-Twitter: https://twitter.com/3blue1brown
-Bluesky: https://bsky.app/profile/3blue1brown.com
-Instagram: https://www.instagram.com/3blue1brown
-Reddit: https://www.reddit.com/r/3blue1brown
-Facebook: https://www.facebook.com/3blue1brown
-Patreon: https://patreon.com/3blue1brown
-Website: https://www.3blue1brown.com]]></description>
-</item>
-<item>
-<title>看了这些软件，才知道现在的大学生有多幸福...</title>
-<link>https://www.bilibili.com/video/BV1XQnGzZEPM</link>
-<guid isPermaLink='false'>f31c32242d5a2e08639bbc2ae9264d98ba3a086c</guid>
-<pubDate>Fri, 26 Sep 2025 12:41:06 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/ce72f46d133d8e86b6e6ca6662828b42fd69ee89.jpg" /><br />AI 只能起到辅助的作用，论文还是要自己来写，不能直接用 AI 生成的结果！！！]]></description>
-</item>
-<item>
-<title>我复刻了童年最恐怖的迷宫游戏， 还设计了一个好玩的摸鱼工具</title>
-<link>https://www.bilibili.com/video/BV1QhnFz9EsC</link>
-<guid isPermaLink='false'>a11d5c367b319a6fa7c723db2ad2ef7fb7f6a7e8</guid>
-<pubDate>Mon, 22 Sep 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/da3bdc5bced12302f43f5a27d82bec745a8070ef.jpg" /><br />最近用豆包电脑版的AI编程做了很多小网页，最大的感觉就是太方便了！门槛低，效率高]]></description>
-</item>
-<item>
-<title>国产模型霸榜Hugging Face，但却有严重算力问题，中国AI产业将走向何方？</title>
-<link>https://www.bilibili.com/video/BV1pVptzoEkz</link>
-<guid isPermaLink='false'>706dd406408c3cb290b640e85e46558233517494</guid>
-<pubDate>Wed, 17 Sep 2025 12:42:33 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/8826f2af81ae3d1c757b4535eb4cb77ec87054e0.jpg" /><br />-]]></description>
-</item>
-<item>
-<title>当黑心甲方是什么感觉？体验了一下发现有点上瘾</title>
-<link>https://www.bilibili.com/video/BV1cSHSzUEyd</link>
-<guid isPermaLink='false'>12f5795d410e46b5d6d137125b9714abe2c4e4b6</guid>
-<pubDate>Thu, 11 Sep 2025 10:00:00 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i2.hdslb.com/bfs/archive/7f3e6294c7212995f1e9379498a4bf11903849c3.jpg" /><br />-]]></description>
-</item>
-<item>
-<title>我精心设计了一个流氓软件，结果看到的人都想打死我</title>
-<link>https://www.bilibili.com/video/BV1Gza9zMEW9</link>
-<guid isPermaLink='false'>9d190a0e8811860d1f760be3eded47d2cf00e44d</guid>
-<pubDate>Mon, 08 Sep 2025 10:43:16 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i1.hdslb.com/bfs/archive/8cabd5a471f5b7d724366f765793909b8380b5f5.jpg" /><br />UXbot官网：https://www.uxbot.cn/]]></description>
-</item>
-<item>
-<title>当AI能时刻盯着我的电脑屏幕、读取我的软件数据...</title>
-<link>https://www.bilibili.com/video/BV1asbSznEav</link>
-<guid isPermaLink='false'>a536ca30748003d92461b6fd277e4a20a871dabe</guid>
-<pubDate>Fri, 25 Jul 2025 10:05:39 GMT</pubDate>
-<author>玄离199 的 bilibili 空间</author>
-<description><![CDATA[<br /><img src="https://i0.hdslb.com/bfs/archive/b3475c4f8cce3b33d78aa3532799cce2488db379.jpg" /><br />豆包电脑版能看见东西了！随时可以查看你的屏幕，还能一边共享屏幕一边语音通话，写作、视频分析功能也更进一步]]></description>
 </item>
 </channel>
 </rss>
