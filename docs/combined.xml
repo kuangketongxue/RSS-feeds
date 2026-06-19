@@ -4,7 +4,7 @@
 <title>我的聚合订阅</title>
 <link>https://kuangketongxue.github.io/RSS-feeds</link>
 <description>我的聚合订阅 - 合并订阅</description>
-<lastBuildDate>Thu, 18 Jun 2026 07:00:03 GMT</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 07:13:29 GMT</lastBuildDate>
 <item>
 <title>Messi</title>
 <link>https://xkcd.com/3260/</link>
@@ -12,6 +12,14 @@
 <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
 <author>xkcd.com</author>
 <description><![CDATA[<img alt="Commentators agree that this will probably be the last World Cup in which Messi faces serious competition." src="https://imgs.xkcd.com/comics/messi.png" title="Commentators agree that this will probably be the last World Cup in which Messi faces serious competition." />]]></description>
+</item>
+<item>
+<title>100 random chords, how many intersections?</title>
+<link>https://www.youtube.com/shorts/wGffBCfrAsE</link>
+<guid isPermaLink='false'>b6838ee5f409eedabfe269a68b04cae80b9d1a86</guid>
+<pubDate>Tue, 16 Jun 2026 18:04:05 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Part of a series of monthly puzzles done in collaboration with MoMath.]]></description>
 </item>
 <item>
 <title>Tethys</title>
@@ -22,6 +30,14 @@
 <description><![CDATA[<img alt="In order to carry the necessary crafting supplies, they built the ships at 12:1 scale." src="https://imgs.xkcd.com/comics/tethys.png" title="In order to carry the necessary crafting supplies, they built the ships at 12:1 scale." />]]></description>
 </item>
 <item>
+<title>Measuring the entropy of English</title>
+<link>https://www.youtube.com/shorts/-7etvZSBxlk</link>
+<guid isPermaLink='false'>7881ad2c96652b5d1e2f9198fd92a7f82c53ffbb</guid>
+<pubDate>Fri, 12 Jun 2026 13:22:02 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Full video: https://youtu.be/l6DKRf-fAAM]]></description>
+</item>
+<item>
 <title>Plate Flip</title>
 <link>https://xkcd.com/3258/</link>
 <guid isPermaLink='false'>642c2ea6fdb2914223d83406ab592dbdeb4df807</guid>
@@ -30,12 +46,437 @@
 <description><![CDATA[<img alt="It's great for exfoliating your skin, bones, houses, cities, landscape, etc." src="https://imgs.xkcd.com/comics/plate_flip.png" title="It's great for exfoliating your skin, bones, houses, cities, landscape, etc." />]]></description>
 </item>
 <item>
+<title>What's the perfect encoding? How do you know?</title>
+<link>https://www.youtube.com/shorts/7L_eTem1SQ4</link>
+<guid isPermaLink='false'>545d5ef2086684c45a5708c9cfd2f87ee7178c42</guid>
+<pubDate>Wed, 10 Jun 2026 13:26:34 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Full video: https://youtu.be/l6DKRf-fAAM]]></description>
+</item>
+<item>
 <title>Beam Pipe</title>
 <link>https://xkcd.com/3257/</link>
 <guid isPermaLink='false'>6fecbc783cc667b58c942191ec3d041d6adfdb2b</guid>
 <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
 <author>xkcd.com</author>
 <description><![CDATA[<img alt="'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom" src="https://imgs.xkcd.com/comics/beam_pipe.png" title="'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom" />]]></description>
+</item>
+<item>
+<title>Reinventing Entropy | Compression is Intelligence Part 1</title>
+<link>https://www.youtube.com/watch?v=l6DKRf-fAAM</link>
+<guid isPermaLink='false'>f3e5f4535f47162025df956bd6513bb506453d1a</guid>
+<pubDate>Sun, 07 Jun 2026 11:49:51 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[How to study the compressibility of language.
+Check out our virtual career fair: https://3b1b.co/talent
+See new projects before they go live: https://3b1b.co/support
+
+Animation credit:
+Manim scenes by Aaron Gostein and Grant Sanderson
+Shannon’s story, as well as those for various pi creatures, by Mitchell Zemil.
+Lunar robot and prediction/compression coin by Paul Dancstep
+NanoGPT animations by Clayton Rabideau
+
+The way of visualizing entropy shown here is something I first came across in this excellent post by Chris Olah:
+https://colah.github.io/posts/2015-09-Visual-Information/
+
+Shannon’s “A Mathematical Theory of Communication”
+https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf
+
+Shannon’s “Prediction and Entropy of Printed English”
+https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf
+
+Scientific American article that mentions the story with Von Neumann suggesting the name Entropy:
+https://www.esalq.usp.br/lepse/imgs/conteudo_thumb/Energy-and-Information.pdf
+
+
+Timestamps:
+
+0:00 - On “Compression is intelligence.”
+3:28 - The warmup example
+10:46 - What perfect compression looks like
+14:47 - Defining information
+17:40 - Information of language
+24:29 - Defining Entropy
+31:14 - 3b1b Talent
+
+------------------
+
+These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
+https://3b1b.co/faq#manim
+
+Music by Vincent Rubinetti.
+https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
+https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
+
+Mailing list: https://3blue1brown.substack.com
+Twitter: https://twitter.com/3blue1brown
+Bluesky: https://bsky.app/profile/3blue1brown.com
+Instagram: https://www.instagram.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Patreon: https://patreon.com/3blue1brown
+Website: https://www.3blue1brown.com]]></description>
+</item>
+<item>
+<title>Tie random ends: How many loops?</title>
+<link>https://www.youtube.com/shorts/ZHXt0-_gSj4</link>
+<guid isPermaLink='false'>a40d015d308c48620f1f639749d291f7a07e284e</guid>
+<pubDate>Thu, 21 May 2026 21:49:47 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Recent puzzle solutions on Patreon:
+https://members.3blue1brown.com/posts/158885046?pr=true]]></description>
+</item>
+<item>
+<title>EGG DICE</title>
+<link>https://www.youtube.com/shorts/pd3r93I5DNw</link>
+<guid isPermaLink='false'>dc6b6a5c8feae5ed8d59b1d1e9b78a44f7bc2766</guid>
+<pubDate>Fri, 17 Apr 2026 17:55:59 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[https://www.curiositybox.com]]></description>
+</item>
+<item>
+<title>Covering 10 points, a surprisingly tricky puzzle.</title>
+<link>https://www.youtube.com/shorts/QLu_ZsRc_G0</link>
+<guid isPermaLink='false'>fa8759f0b57c36210fc1db95c5cb45688565e5b9</guid>
+<pubDate>Thu, 16 Apr 2026 16:08:21 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Made as part of a monthly series of puzzles for the 2026 Year of Math.]]></description>
+</item>
+<item>
+<title>Escher's most mind-bending piece</title>
+<link>https://www.youtube.com/shorts/Y7ImxZ_YhJk</link>
+<guid isPermaLink='false'>060f6f1203a46bfb7b84b2a33cccd075d5d12338</guid>
+<pubDate>Fri, 27 Mar 2026 20:56:02 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[On "The Print Gallery", by M.C. Escher
+Full video: https://youtu.be/ldxFjLJ3rVY]]></description>
+</item>
+<item>
+<title>The subset sum puzzle</title>
+<link>https://www.youtube.com/shorts/4h5BEALuh44</link>
+<guid isPermaLink='false'>42879aa306dd5b05026f282b8027c71107f85068</guid>
+<pubDate>Wed, 25 Mar 2026 20:59:04 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Part of a series of monthly puzzlers. Stay subscribed to see the solution]]></description>
+</item>
+<item>
+<title>How (and why) to take a logarithm of an image</title>
+<link>https://www.youtube.com/watch?v=ldxFjLJ3rVY</link>
+<guid isPermaLink='false'>dcdd7966482cbe993618a7128a6c075612cbfe68</guid>
+<pubDate>Sun, 22 Mar 2026 12:59:00 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Escher's Print Gallery, and the tour of complex analysis it invites.
+Explore our virtual career fair: https://3b1b.co/talent
+Join channel supporters to see videos early: https://3b1b.co/support
+An equally valuable form of support is to share the videos.
+Home page: https://www.3blue1brown.com
+
+Original paper by de Smit and Lenstra:
+https://pub.math.leidenuniv.nl/~smitbde/papers/2003-de_smit-lenstra-escher.pdf
+
+The book I was showing is "Magic of MC Escher" by J. L. Locher
+https://amzn.to/4d7zXTT
+
+If you want to play with this concept interactively, Jürgen Richter-Gebert put together a nice page:
+https://mathvisuals.org/PrintGallery/
+
+This piece was co-written by Paul Dancstep, who handled many of the animations in the art section, including the delightful mesh warp scene.
+
+Aaron Gostein helped with the manim animations in the section introducing complex functions.
+
+Artwork provided by Talia Gershon, Mitchell Zemil, and Anna Fedczuk.
+https://sites.google.com/view/taliagershon
+https://mitchellzemil.com/
+https://anna-fedczuk.framer.website/about
+
+Music by Vincent Rubinetti
+
+Timestamps:
+
+0:00 - The print gallery
+13:04 - Conformal maps from complex analysis
+21:41 - The complex exponential
+25:56 - The complex logarithm
+32:32 - 3b1b Talent
+33:14 - Constructing the key function
+40:16 - The deeper math behind Escher
+
+------------------
+
+These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
+https://3b1b.co/faq#manim
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
+
+Mailing list: https://3blue1brown.substack.com
+Twitter: https://twitter.com/3blue1brown
+Bluesky: https://bsky.app/profile/3blue1brown.com
+Instagram: https://www.instagram.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Patreon: https://patreon.com/3blue1brown
+Website: https://www.3blue1brown.com]]></description>
+</item>
+<item>
+<title>Bacteria Grid Puzzle Solution</title>
+<link>https://www.youtube.com/shorts/Qoes9bTJtn0</link>
+<guid isPermaLink='false'>b09113ffbabecfad187e06698e8fe6fd50fdc1e9</guid>
+<pubDate>Sat, 21 Mar 2026 11:42:53 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Part of a monthly series of puzzlers, in collaboration with MoMath and Peter Winkler]]></description>
+</item>
+<item>
+<title>How Many People Lived Before History?</title>
+<link>https://www.youtube.com/shorts/vPwGmFUAr88</link>
+<guid isPermaLink='false'>09a8eaf2ffc41ca0d35837a0eef1e8bcb0061a04</guid>
+<pubDate>Fri, 20 Mar 2026 19:38:05 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>When You Sleep In Socks And Imagine An Icositetrachoron</title>
+<link>https://www.youtube.com/shorts/hqSL5V9yXBM</link>
+<guid isPermaLink='false'>c931cde8cb5f40797fb008dd021bb39ddf7fdfe2</guid>
+<pubDate>Sun, 15 Mar 2026 21:16:32 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[song: "Philadelphia" by @jakechudnow]]></description>
+</item>
+<item>
+<title>I Found A Wild Ambigram!</title>
+<link>https://www.youtube.com/shorts/-UgtKlbzers</link>
+<guid isPermaLink='false'>09ac3fc0c2ef09aee75c7105660f58c14ff39a33</guid>
+<pubDate>Fri, 13 Mar 2026 22:59:19 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>An Illusion You Can Hug</title>
+<link>https://www.youtube.com/shorts/_Nr4mvdkEVw</link>
+<guid isPermaLink='false'>80b422d683aba997824f4b6cc8c71a1b6cb54ef5</guid>
+<pubDate>Mon, 09 Mar 2026 23:03:52 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[https://www.curiositybox.com]]></description>
+</item>
+<item>
+<title>The most beautiful formula not enough people understand</title>
+<link>https://www.youtube.com/watch?v=fsLh-NYhOoU</link>
+<guid isPermaLink='false'>856c69afa643639792837287f8bc478f3dd39d93</guid>
+<pubDate>Fri, 27 Feb 2026 15:14:23 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[On the volumes of higher-dimensional spheres
+Explore the 3b1b virtual career fair: See https://3b1b.co/talent
+Become a supporter for early views of new videos: https://3b1b.co/support
+An equally valuable form of support is to simply share the videos.
+Home page: https://www.3blue1brown.com
+
+Thanks to UC Santa Cruz for letting me film there, and special thanks to 
+Pedro Morales-Almazan for arranging everything.
+
+My video on Numberphile with a fun application of this problem: https://youtu.be/6_yU9eJ0NxA
+
+Timestamps:
+0:00 - Introduction
+1:01 - Random puzzle
+6:16 - Outside the box
+14:35 - Setting up the volume grid
+21:14 - Why 4πr^2
+25:21 - Archimedes in higher dimensions
+36:17 - The general formula
+40:40 - 1/2 factorial
+44:58 - Why 5D spheres are the biggest
+50:16 - Concentration at the surface
+54:27 - A unit-free interpretation
+57:50 - 3b1b Talent
+59:13 - Explaining the intro animation
+
+------------------
+
+These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
+https://3b1b.co/faq#manim
+
+Music by Vincent Rubinetti.
+https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
+https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
+
+Mailing list: https://3blue1brown.substack.com
+Twitter: https://twitter.com/3blue1brown
+Bluesky: https://bsky.app/profile/3blue1brown.com
+Instagram: https://www.instagram.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Patreon: https://patreon.com/3blue1brown
+Website: https://www.3blue1brown.com]]></description>
+</item>
+<item>
+<title>The lattice bacteria puzzle</title>
+<link>https://www.youtube.com/shorts/d0ai33oqqDE</link>
+<guid isPermaLink='false'>0f7b887d4c20f8f9984d02ca00d935631214f233</guid>
+<pubDate>Wed, 18 Feb 2026 06:02:59 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Part of a series of monthly puzzles, done in collaboration with MoMath.
+https://momath.org/mindbenders]]></description>
+</item>
+<item>
+<title>Solution to the ladybug clock puzzle</title>
+<link>https://www.youtube.com/shorts/7gG91SZwBoE</link>
+<guid isPermaLink='false'>291fc12871269624ef81e690abcc752e41a8ff29</guid>
+<pubDate>Mon, 16 Feb 2026 14:08:37 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Solution to last month's probability puzzle.]]></description>
+</item>
+<item>
+<title>The Hairy Ball Theorem</title>
+<link>https://www.youtube.com/watch?v=BHdbsHFs2P0</link>
+<guid isPermaLink='false'>cf4e2b03d653319d673d836eaef2a8622fa0a9f3</guid>
+<pubDate>Sat, 31 Jan 2026 14:57:42 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[Unexpected applications and a beautiful proof.
+Looking for a new career? Check out https://3b1b.co/talent
+Supporters get early access to new videos: https://3b1b.co/support
+An equally valuable form of support is to simply share the videos.
+Home page: https://www.3blue1brown.com
+
+Credits:
+Senia Sheydvasser: Co-writing and sphere deformation animations, made in Blender
+Paul Dancstep: Those lovely fluffy sphere animations, made in Cinema4D
+Vince Rubinetti: Music
+
+Sphere Eversion clip by Carsten Steger
+https://commons.wikimedia.org/wiki/File:Thurston_Sphere_Eversion.webm
+
+Timestamps:
+0:00 - To comb a hairy ball
+1:24 - Applications
+8:46 - The puzzle of one null point
+12:12 - The proof outline
+16:41 - Defining orientation
+21:44 - Why inside-out is impossible
+25:59 - 3b1b Talent
+27:44 - Final food for thought
+
+------------------
+
+These animations are largely made using a custom Python library, manim.  See the FAQ comments here:
+https://3b1b.co/faq#manim
+
+Music by Vincent Rubinetti.
+https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown
+https://open.spotify.com/album/1dVyjwS8FBqXhRunaG5W5u
+
+------------------
+
+3blue1brown is a channel about animating math, in all senses of the word animate. If you're reading the bottom of a video description, I'm guessing you're more interested than the average viewer in lessons here. It would mean a lot to me if you chose to stay up to date on new ones, either by subscribing here on YouTube or otherwise following on whichever platform below you check most regularly.
+
+Mailing list: https://3blue1brown.substack.com
+Twitter: https://twitter.com/3blue1brown
+Bluesky: https://bsky.app/profile/3blue1brown.com
+Instagram: https://www.instagram.com/3blue1brown
+Reddit: https://www.reddit.com/r/3blue1brown
+Facebook: https://www.facebook.com/3blue1brown
+Patreon: https://patreon.com/3blue1brown
+Website: https://www.3blue1brown.com]]></description>
+</item>
+<item>
+<title>The ladybug clock puzzle</title>
+<link>https://www.youtube.com/shorts/t3jZ2xGOvYg</link>
+<guid isPermaLink='false'>a457d10e6e18726a965f685380c7118862f9fc36</guid>
+<pubDate>Fri, 16 Jan 2026 14:16:12 GMT</pubDate>
+<author>3Blue1Brown</author>
+<description><![CDATA[This is the first in a set of monthly puzzles, curated by Peter Winkler. This one was originally suggested by Richard Stanley.
+
+You can sign up to hear his description of the answer at http://momath.org/mindbenders]]></description>
+</item>
+<item>
+<title>Album Art Origins</title>
+<link>https://www.youtube.com/shorts/2qOya17le0A</link>
+<guid isPermaLink='false'>45d7f5a44934ad43221684e22e4075c7056f4738</guid>
+<pubDate>Mon, 22 Dec 2025 19:56:25 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>The Dynamic Ebbinghaus Illusion</title>
+<link>https://www.youtube.com/shorts/PNbgHdDQ1fc</link>
+<guid isPermaLink='false'>87b000bd8597b2add93e1a60aa96cb0a3ca8b424</guid>
+<pubDate>Fri, 19 Dec 2025 01:52:30 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>My Weirdest Dice</title>
+<link>https://www.youtube.com/shorts/cdu6sOgI9Dc</link>
+<guid isPermaLink='false'>d1c5eb999137bcc174ffea67e60469fd489c0c2b</guid>
+<pubDate>Tue, 16 Dec 2025 21:57:29 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>The Official Blue Berry of North Carolina</title>
+<link>https://www.youtube.com/shorts/7MfvZuCXVMQ</link>
+<guid isPermaLink='false'>9bb82a098d0c1c87357ebc87698422f2a7ade13f</guid>
+<pubDate>Fri, 12 Dec 2025 22:15:15 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>Would You Like A TRIPLE Entendre?</title>
+<link>https://www.youtube.com/shorts/UrM6ugyzeC8</link>
+<guid isPermaLink='false'>154cd85c2a15588f1a704aa83735c9a9981d16e6</guid>
+<pubDate>Wed, 10 Dec 2025 21:32:46 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>The 852655 Mystery</title>
+<link>https://www.youtube.com/shorts/ti8ZdImveB0</link>
+<guid isPermaLink='false'>d9ae6b0db5832a4a68be54f20609982db3d1f365</guid>
+<pubDate>Tue, 09 Dec 2025 00:09:28 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[https://inqfactory.com/poison]]></description>
+</item>
+<item>
+<title>2 Inertia Tricks</title>
+<link>https://www.youtube.com/shorts/4HbYUB1J1io</link>
+<guid isPermaLink='false'>cae9676244915f52d405217353585c11987bc6d4</guid>
+<pubDate>Fri, 05 Dec 2025 20:35:50 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>We Recreated The Oldest Surviving Globe</title>
+<link>https://www.youtube.com/shorts/Avr5K6tX1x4</link>
+<guid isPermaLink='false'>021af9fb9e0ba318507ca688fc87474dfa946756</guid>
+<pubDate>Thu, 04 Dec 2025 03:11:54 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[https://www.curiositybox.com/pages/closest-approach-to-uranus]]></description>
+</item>
+<item>
+<title>Only Using Words That Begin With "A"</title>
+<link>https://www.youtube.com/shorts/za2isHAgefY</link>
+<guid isPermaLink='false'>f36c01ea7dac17eb4443c095f09b182471bc1e12</guid>
+<pubDate>Mon, 01 Dec 2025 20:11:44 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title>The Kennedy Coincidences</title>
+<link>https://www.youtube.com/shorts/Oa3k7RLZCUE</link>
+<guid isPermaLink='false'>7a176e4c31bc4b52470db608591f28467a5dd367</guid>
+<pubDate>Tue, 25 Nov 2025 20:41:05 GMT</pubDate>
+<author>Vsauce</author>
+<description><![CDATA[🎙️@TheRestIsScience 🎙️
+https://linktr.ee/therestisscience]]></description>
 </item>
 </channel>
 </rss>
